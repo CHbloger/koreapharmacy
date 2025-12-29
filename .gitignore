@@ -1,0 +1,10 @@
+# Python 캐시 무시
+__pycache__/
+*.pyc
+
+# [중요] API 키가 있는 파일은 절대 올리지 않음
+collect_data.py
+
+# [수정] 다른 json은 무시하더라도, 데이터 파일은 허용(!)
+*.json
+!pharmacy_data.json
