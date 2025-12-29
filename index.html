@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Find Pharmacy in Korea - English Service</title>
+    <meta name="description" content="Find English-speaking pharmacies and emergency medical services in Seoul and across Korea. Real-time operating hours and location guide for foreigners.">
+    <meta name="keywords" content="Pharmacy in Seoul, English speaking pharmacy, Emergency Korea, Drugstore Korea, Medicine Korea, 24 hour pharmacy Seoul">
+    <meta name="author" content="Pharmacy Finder">
+
+    <meta property="og:title" content="Find Pharmacy in Korea - English Service">
+    <meta property="og:description" content="Locate the nearest English-speaking pharmacies in Korea. Check real-time open status and get directions.">
+    <meta property="og:image" content="https://cdn-icons-png.flaticon.com/512/169/169869.png">
+    <meta property="og:url" content="https://your-github-username.github.io/repo-name">
+    <meta property="og:type" content="website">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4327767312074157"
+     crossorigin="anonymous"></script>
+
+    <script type="application/ld+json">
+    {
+    "@context": "http://schema.org",
+    "@type": "WebApplication",
+    "name": "Korea Pharmacy Finder",
+    "url": "https://사용자명.github.io/레포지토리명",
+    "description": "Find English-speaking pharmacies in Korea. Real-time operating hours and location guide.",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "Web",
+    "browserRequirements": "Requires JavaScript",
+    "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+    }
+    }
+    </script>
+</head>
+<body>
+
+    <nav class="navbar navbar-dark bg-medical fixed-top shadow-sm">
+        <div class="container-fluid d-flex justify-content-between align-items-center">
+            <a class="navbar-brand d-flex align-items-center" href="#">
+                <div class="brand-icon me-2">
+                    <i class="fa-solid fa-staff-snake"></i>
+                </div>
+                <span class="d-none d-sm-inline">Korea Pharmacy Finder</span>
+                <span class="d-inline d-sm-none">Pharmacy Finder</span>
+            </a>
+            <div class="header-ad-placeholder d-none d-md-block">
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-4327767312074157"
+                    data-ad-slot="6896284015"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container">
+
+        <div class="sidebar shadow-sm">
+            <div class="sidebar-header p-3 border-bottom">
+                <h5 class="mb-3 fw-bold text-dark">Find a Pharmacy</h5>
+                
+                <div class="input-group mb-2">
+                    <span class="input-group-text bg-white border-end-0 text-muted">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </span>
+                    <input type="text" id="search-input" class="form-control border-start-0 ps-0" placeholder="Search name or area...">
+                </div>
+
+                <select id="filter-region" class="form-select form-select-sm mb-2" aria-label="Region Filter">
+                    <option value="">All Regions</option>
+                    <option value="서울">Seoul (서울)</option>
+                    <option value="경기">Gyeonggi (경기)</option>
+                    <option value="인천">Incheon (인천)</option>
+                    <option value="부산">Busan (부산)</option>
+                    <option value="대구">Daegu (대구)</option>
+                    <option value="광주">Gwangju (광주)</option>
+                    <option value="대전">Daejeon (대전)</option>
+                    <option value="울산">Ulsan (울산)</option>
+                    <option value="세종">Sejong (세종)</option>
+                    <option value="강원">Gangwon (강원)</option>
+                    <option value="충북">Chungbuk (충북)</option>
+                    <option value="충남">Chungnam (충남)</option>
+                    <option value="전북">Jeonbuk (전북)</option>
+                    <option value="전남">Jeonnam (전남)</option>
+                    <option value="경북">Gyeongbuk (경북)</option>
+                    <option value="경남">Gyeongnam (경남)</option>
+                    <option value="제주">Jeju (제주)</option>
+                </select>
+
+                <div class="d-flex gap-2">
+                    <button class="btn btn-sm btn-outline-success rounded-pill flex-fill active" id="filter-all">All</button>
+                    <button class="btn btn-sm btn-outline-success rounded-pill flex-fill" id="filter-open">Open Now</button>
+                    <button class="btn btn-sm btn-outline-dark rounded-pill flex-fill" id="filter-night">
+                        <i class="fa-solid fa-moon"></i> Night
+                    </button>
+                </div>
+            </div>
+
+            <div id="pharmacy-list" class="sidebar-content p-3">
+                <div class="text-center text-muted mt-5">
+                    <div class="spinner-border text-success" role="status"></div>
+                    <p class="mt-2">Loading data...</p>
+                </div>
+            </div>
+
+            <div class="p-2 border-top text-center">
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-4327767312074157"
+                    data-ad-slot="6896284015"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>  
+
+            <div class="sidebar-footer p-2 text-center border-top bg-light text-muted small">
+                &copy; 2025 Pharmacy Finder. Data: data.go.kr
+            </div>
+        </div>
+
+        <div class="map-wrapper">
+            <div id="map">
+                <button id="btn-current-location" class="btn btn-light shadow text-primary">
+                    <i class="fa-solid fa-crosshairs"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div id="loading-overlay">
+        <div class="text-center">
+            <div class="spinner-border text-success" style="width: 3rem; height: 3rem;" role="status"></div>
+            <h5 class="mt-3 text-white fw-light">Loading Pharmacies...</h5>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+
+    <script src="app.js"></script>
+</body>
+</html>

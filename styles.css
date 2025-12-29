@@ -1,0 +1,206 @@
+:root {
+    --medical-green: #2c7a7b; /* Teal-ish Green */
+    --medical-dark-green: #234e52;
+    --medical-light: #e6fffa;
+    --text-primary: #2d3748;
+    --text-secondary: #718096;
+    --bg-sidebar: #ffffff;
+    --border-color: #e2e8f0;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: var(--text-primary);
+    overflow: hidden; /* App-like feel */
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Navbar */
+.bg-medical {
+    background-color: var(--medical-green) !important;
+}
+
+.brand-icon {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.1rem;
+    letter-spacing: -0.5px;
+}
+
+/* Main Layout */
+.main-container {
+    display: flex;
+    flex: 1;
+    margin-top: 56px; /* Navbar height */
+    height: calc(100vh - 56px);
+    overflow: hidden;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 400px;
+    background: var(--bg-sidebar);
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+    border-right: 1px solid var(--border-color);
+    transition: transform 0.3s ease;
+}
+
+.sidebar-header {
+    background: #fff;
+    z-index: 10;
+}
+
+.sidebar-content {
+    flex: 1;
+    overflow-y: auto;
+    background: #f7fafc; /* Light gray bg for list */
+    padding: 10px;
+}
+
+/* Pharmacy List Card */
+.pharmacy-card {
+    background: white;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.pharmacy-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-color: var(--medical-green);
+}
+
+.pharmacy-name {
+    font-weight: 600;
+    color: var(--text-primary);
+    font-size: 1rem;
+    margin-bottom: 4px;
+}
+
+.pharmacy-address {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+}
+
+.status-badge {
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-weight: 600;
+    display: inline-block;
+}
+
+.status-open {
+    background-color: #c6f6d5;
+    color: #22543d;
+}
+
+.status-closed {
+    background-color: #fed7d7;
+    color: #822727;
+}
+
+/* Map Area */
+.map-wrapper {
+    flex: 1;
+    position: relative;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+/* Floating Button */
+#btn-current-location {
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+    z-index: 999;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    transition: transform 0.2s;
+}
+
+#btn-current-location:hover {
+    transform: scale(1.1);
+}
+
+/* Loading Overlay */
+#loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(44, 122, 123, 0.95);
+    z-index: 2000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .sidebar {
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        height: 40%; /* Bottom sheet style */
+        border-top: 1px solid var(--border-color);
+        border-right: none;
+    }
+
+    .map-wrapper {
+        height: 60%;
+    }
+
+    .main-container {
+        flex-direction: column;
+    }
+}
+
+/* Scrollbar styling */
+.sidebar-content::-webkit-scrollbar {
+    width: 6px;
+}
+.sidebar-content::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+.sidebar-content::-webkit-scrollbar-thumb {
+    background: #cbd5e0;
+    border-radius: 3px;
+}
+.sidebar-content::-webkit-scrollbar-thumb:hover {
+    background: #a0aec0;
+}
+
+/* Ad Styles in Popup */
+.ad-popup-slot {
+    margin-top: 8px;
+    padding: 8px;
+    background: #f9f9f9;
+    border: 1px dashed #cbd5e0;
+    text-align: center;
+    border-radius: 4px;
+}
