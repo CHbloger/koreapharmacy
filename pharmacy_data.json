@@ -1,0 +1,98 @@
+[
+    {
+        "pharmacy_name_en": "Kyung Hee Dan Pharmacy",
+        "pharmacy_name_kr": " 경희당한약국 ",
+        "address_en": "19, Tongboksijang-ro 21beon-gil, Pyeongtaek-si, Gyeonggi-do (Tongbok-dong)",
+        "address_kr": "경기 평택시 통복시장로21번길 19   (통복동)",
+        "phone": "031-656-8004",
+        "coordinates": {
+            "x": 127.08432473020699,
+            "y": 36.997313695692895
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "(New) Jigok Department Store Pharmacy",
+        "pharmacy_name_kr": "(새)지곡백화점약국",
+        "address_en": "1192, Chungui-ro, Jigok-myeon, Seosan-si, Chungcheongnam-do",
+        "address_kr": "충청남도 서산시 지곡면 충의로 1192",
+        "phone": "041-662-2808",
+        "coordinates": {
+            "x": 126.438132686957,
+            "y": 36.8739362445295
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:00",
+            "Tue": "08:00 - 22:00",
+            "Wed": "08:00 - 22:00",
+            "Thu": "08:00 - 22:00",
+            "Fri": "08:00 - 22:00",
+            "Sat": "08:00 - 22:00",
+            "Sun": "08:00 - 22:00",
+            "Holiday": "08:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "1(Sun) Pharmacy",
+        "pharmacy_name_kr": "1(일)약국",
+        "address_en": "518 Bakdal-ro, Manan-gu, Anyang-si, Gyeonggi-do (Bakdal-dong)",
+        "address_kr": "경기도 안양시 만안구 박달로 518 (박달동)",
+        "phone": "031-468-3354",
+        "coordinates": {
+            "x": 126.9102104886459,
+            "y": 37.40242465877038
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy 1, 2, 3",
+        "pharmacy_name_kr": "1,2,3약국",
+        "address_en": "47-63 Yangji-ro, Onam-eup, Namyangju-si, Gyeonggi-do",
+        "address_kr": "경기도 남양주시 오남읍 양지로 47-63",
+        "phone": "031-529-8099",
+        "coordinates": {
+            "x": 127.20334826251477,
+            "y": 37.68266991096422
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "1004 Pharmacy",
+        "pharmacy_name_kr": "1004약국",
+        "address_en": "#105, Akamedi, 19 Dongsero, Deogyang-gu, Goyang-si, Gyeonggi-do (Dongsan-dong)",
+        "address_kr": "경기도 고양시 덕양구 동세로 19, 아카메디 105호 (동산동)",
+        "phone": "02-381-5052",
+        "coordinates": {
+            "x": 126.886335948466,
+            "y": 37.6445427586745
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    }
+]
