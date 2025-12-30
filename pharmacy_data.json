@@ -77245,5 +77245,1943 @@
             "Fri": "09:00 - 20:00",
             "Sat": "09:00 - 14:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Daegok Medi Pharmacy",
+        "pharmacy_name_kr": "대곡메디약국",
+        "address_en": "Room 105, Daegok Medical Building, 6 Galbat-ro, Dalseo-gu, Daegu (Daegok-dong)",
+        "address_kr": "대구광역시 달서구 갈밭로 6, 대곡메디컬빌딩 105호 (대곡동)",
+        "phone": "053-642-0400",
+        "coordinates": {
+            "x": 128.5326926621,
+            "y": 35.8007916146
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegok Pharmacy",
+        "pharmacy_name_kr": "대곡약국",
+        "address_en": "1072-2, Jinui-ro, Daegok-myeon, Jinju-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 진주시 대곡면 진의로 1072-2",
+        "phone": "055-744-8511",
+        "coordinates": {
+            "x": 128.16931328145682,
+            "y": 35.26249626788573
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegok Tunton Pharmacy",
+        "pharmacy_name_kr": "대곡튼튼약국",
+        "address_en": "20 Dowon-ro, Dalseo-gu, Daegu",
+        "address_kr": "대구광역시 달서구 도원로 20",
+        "phone": "053-634-7568",
+        "coordinates": {
+            "x": 128.53554963281533,
+            "y": 35.80795427198871
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 20:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegot Onnuri Pharmacy",
+        "pharmacy_name_kr": "대곶온누리약국",
+        "address_en": "21 Yulsaengjungang-ro, Daegot-myeon, Gimpo-si, Gyeonggi-do (Daegot-myeon)",
+        "address_kr": "경기도 김포시 대곶면 율생중앙로 21 (대곶면)",
+        "phone": "031-984-7891",
+        "coordinates": {
+            "x": 126.5830138396881,
+            "y": 37.64996949255426
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegot Central Pharmacy",
+        "pharmacy_name_kr": "대곶중앙약국",
+        "address_en": "#103, 1st floor, 35 Yulsaeng-ro, Daegot-myeon, Gimpo-si, Gyeonggi-do",
+        "address_kr": "경기도 김포시 대곶면 율생로 35, 1층 103호",
+        "phone": "070-8802-5757",
+        "coordinates": {
+            "x": 126.587711604876,
+            "y": 37.6512351189184
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwallyeong Pharmacy",
+        "pharmacy_name_kr": "대관령약국",
+        "address_en": "105 Daegwallyeong-ro, Daegwallyeong-myeon, Pyeongchang-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 평창군 대관령면 대관령로 105",
+        "phone": "033-335-5005",
+        "coordinates": {
+            "x": 128.70812119403104,
+            "y": 37.67244042663948
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 19:00",
+            "Holiday": "08:30 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwangdang Pharmacy",
+        "pharmacy_name_kr": "대광당한약국",
+        "address_en": "127 Haman-daero, Haman-myeon, Haman-gun, Gyeongsangnam-do",
+        "address_kr": "경상남도 함안군 함안면 함안대로 127",
+        "phone": "055-582-2323",
+        "coordinates": {
+            "x": 128.4220689051,
+            "y": 35.2434992291
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:00",
+            "Tue": "09:30 - 18:00",
+            "Wed": "09:30 - 18:00",
+            "Thu": "09:30 - 18:00",
+            "Fri": "09:30 - 18:00",
+            "Sat": "09:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "6 Sangdo-ro 45-gil, Dongjak-gu, Seoul (Sangdo 1-dong)",
+        "address_kr": "서울특별시 동작구 상도로45길 6 (상도1동)",
+        "phone": "02-825-2600",
+        "coordinates": {
+            "x": 126.950825625379,
+            "y": 37.5002768844634
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "1st floor, 52 Chungui-ro, Uijeongbu-si, Gyeonggi-do",
+        "address_kr": "경기도 의정부시 충의로 52 1층",
+        "phone": "031-877-7461",
+        "coordinates": {
+            "x": "127.08782282712651",
+            "y": 37.73663770493423
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:20",
+            "Tue": "09:00 - 19:20",
+            "Wed": "09:00 - 19:20",
+            "Thu": "09:00 - 19:20",
+            "Fri": "09:00 - 19:20",
+            "Sat": "09:00 - 15:30",
+            "Holiday": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "178 Osu-ro, Osu-myeon, Imsil-gun, Jeollabuk-do",
+        "address_kr": "전북특별자치도 임실군 오수면 오수로 178",
+        "phone": "063-642-5030",
+        "coordinates": {
+            "x": 127.32663666107953,
+            "y": 35.53994601651132
+        },
+        "operating_hours": {
+            "Mon": "06:30 - 18:30",
+            "Tue": "06:30 - 18:30",
+            "Wed": "06:30 - 13:00",
+            "Thu": "06:30 - 18:30",
+            "Fri": "06:30 - 18:30",
+            "Sat": "06:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "1st floor, Cheonan General Terminal, Shinsegae Department Store, 43 Mannan-ro, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Sinbu-dong)",
+        "address_kr": "충남 천안시 동남구 만남로 43 신세계백화점 천안종합터미널 1층  (신부동)",
+        "phone": "041-522-1134",
+        "coordinates": {
+            "x": 127.15604941442409,
+            "y": 36.81943548828885
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 19:00",
+            "Sun": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "#101, 32 Yeonam Yulgeum-ro, Eumbong-myeon, Asan-si, Chungcheongnam-do",
+        "address_kr": "충청남도 아산시 음봉면 연암율금로 32, 101호",
+        "phone": "041-534-8858",
+        "coordinates": {
+            "x": 127.030333151814,
+            "y": 36.8650130278916
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "111-1 Ayang-ro, Dong-gu, Daegu (Sinam-dong)",
+        "address_kr": "대구광역시 동구 아양로 111-1 (신암동)",
+        "phone": "053-941-9065",
+        "coordinates": {
+            "x": 128.6257044704,
+            "y": 35.8844824921
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 19:00",
+            "Holiday": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "1138 Yeonsin-ro, Sinseo-myeon, Yeoncheon-gun, Gyeonggi-do",
+        "address_kr": "경기도 연천군 신서면 연신로 1138",
+        "phone": "031-834-3990",
+        "coordinates": {
+            "x": 127.10782684323854,
+            "y": 38.185441734134024
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegwang Pharmacy",
+        "pharmacy_name_kr": "대광약국",
+        "address_en": "Room 104, 1st floor, Dowon Building, 16 Joam-ro, Dalseo-gu, Daegu (Wolseong-dong)",
+        "address_kr": "대구광역시 달서구 조암로 16, 도원빌딩 1층 104호 (월성동)",
+        "phone": "053-632-8198",
+        "coordinates": {
+            "x": 128.527856304059,
+            "y": 35.8258462261277
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daekyo Health Pharmacy",
+        "pharmacy_name_kr": "대교건강약국",
+        "address_en": "48 Jungang-ro, Sacheon-si, Gyeongsangnam-do (Seongu-dong)",
+        "address_kr": "경상남도 사천시 중앙로 48 (선구동)",
+        "phone": "055-832-1068",
+        "coordinates": {
+            "x": 128.075309055215,
+            "y": 34.9304715015003
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daekyo Pharmacy",
+        "pharmacy_name_kr": "대교약국",
+        "address_en": "1st floor, 10 Dohwa-gil, Mapo-gu, Seoul (Dohwa-dong)",
+        "address_kr": "서울특별시 마포구 도화길 10, 1층 (도화동)",
+        "phone": "02-714-5849",
+        "coordinates": {
+            "x": 126.947408013992,
+            "y": 37.5398073678554
+        },
+        "operating_hours": {
+            "Mon": "07:00 - 22:00",
+            "Tue": "07:00 - 22:00",
+            "Wed": "07:00 - 22:00",
+            "Thu": "07:00 - 22:00",
+            "Fri": "07:00 - 22:00",
+            "Sat": "07:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daekyo Pharmacy",
+        "pharmacy_name_kr": "대교약국",
+        "address_en": "383 Yeouidaebang-ro, Yeongdeungpo-gu, Seoul (Yeouido-dong)",
+        "address_kr": "서울특별시 영등포구 여의대방로 383 (여의도동)",
+        "phone": "02-780-4259",
+        "coordinates": {
+            "x": 126.931504190261,
+            "y": 37.5193436883433
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:40",
+            "Tue": "09:00 - 18:40",
+            "Wed": "09:00 - 19:40",
+            "Thu": "09:00 - 18:40",
+            "Fri": "09:00 - 18:40",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daekyo Pharmacy",
+        "pharmacy_name_kr": "대교약국",
+        "address_en": "4, Hwajeon-ro 96beonga-gil, Namhae-eup, Namhae-gun, Gyeongsangnam-do",
+        "address_kr": "경상남도 남해군 남해읍 화전로96번가길 4",
+        "phone": "055-864-5359",
+        "coordinates": {
+            "x": 127.89502424825194,
+            "y": 34.840030983861745
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:30",
+            "Tue": "08:00 - 19:30",
+            "Wed": "08:00 - 19:30",
+            "Thu": "08:00 - 19:30",
+            "Fri": "08:00 - 19:30",
+            "Sat": "08:00 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "153 Gongsang-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do (Daedo-dong)",
+        "address_kr": "경상북도 포항시 남구 상공로 153 (대도동)",
+        "phone": "054-273-3154",
+        "coordinates": {
+            "x": 129.36289688816765,
+            "y": 36.0208493601556
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "108-43, Jungang-gil, Yeongdeok-eup, Yeongdeok-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 영덕군 영덕읍 중앙길 108-43 ",
+        "phone": "054-733-3388",
+        "coordinates": {
+            "x": 129.3679747653825,
+            "y": 36.41174035528596
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "56 Doriwon 1-gil, Bongyang-myeon, Uiseong-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 의성군 봉양면 도리원1길 56",
+        "phone": "054-832-2159",
+        "coordinates": {
+            "x": 128.5800719863119,
+            "y": 36.298957129087775
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "121 Jinbo-ro, Jinbo-myeon, Cheongsong-gun, Gyeongsangbuk-do,",
+        "address_kr": "경상북도 청송군 진보면 진보로 121,",
+        "phone": "054-874-2568",
+        "coordinates": {
+            "x": 129.0449931387,
+            "y": 36.528778329
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:30 - 17:00",
+            "Holiday": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "1st floor, 2179 Dalgubeol-daero, Jung-gu, Daegu (Samdeok-dong 2-ga)",
+        "address_kr": "대구광역시 중구 달구벌대로 2179, 1층 (삼덕동2가)",
+        "phone": "053-253-7026",
+        "coordinates": {
+            "x": 128.6018545626,
+            "y": 35.8636982728
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "88 Jungang-gil, Gunwi-eup, Gunwi-gun, Daegu Metropolitan City",
+        "address_kr": "대구광역시 군위군 군위읍 중앙길 88 ",
+        "phone": "054-383-3669",
+        "coordinates": {
+            "x": 128.56694456367342,
+            "y": 36.23616343551479
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:30",
+            "Tue": "08:00 - 19:30",
+            "Wed": "08:00 - 19:30",
+            "Thu": "08:00 - 19:30",
+            "Fri": "08:00 - 19:30",
+            "Sat": "08:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "692-1, Geumchang-ro, Daechang-myeon, Yeongcheon-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 영천시 대창면 금창로 692-1",
+        "phone": "054-335-4035",
+        "coordinates": {
+            "x": 128.8971902635676,
+            "y": 35.87481740252112
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "1691 Janggi-ro, Ocheon-eup, Nam-gu, Pohang-si, Gyeongsangbuk-do (Ocheon-eup)",
+        "address_kr": "경상북도 포항시 남구 오천읍 장기로 1691 (오천읍)",
+        "phone": "054-291-7661",
+        "coordinates": {
+            "x": 129.41650465453654,
+            "y": 35.965715319786455
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Pharmacy",
+        "pharmacy_name_kr": "대구약국",
+        "address_en": "72 Yakmok-ro, Yakmok-myeon, Chilgok-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 칠곡군 약목면 약목로 72",
+        "phone": "054-974-4073",
+        "coordinates": {
+            "x": 128.36627806470315,
+            "y": 36.03290624346873
+        },
+        "operating_hours": {
+            "Mon": "22:00 - 25:00",
+            "Tue": "22:00 - 25:00",
+            "Wed": "22:00 - 25:00",
+            "Thu": "22:00 - 25:00",
+            "Fri": "22:00 - 25:00",
+            "Sat": "22:00 - 25:00",
+            "Sun": "22:00 - 25:00",
+            "Holiday": "22:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu Urian Pharmacy",
+        "pharmacy_name_kr": "대구우리안약국",
+        "address_en": "648 Gukchaebosang-ro, Jung-gu, Daegu (Dongin-dong 2-ga, Hosu Building Basement)",
+        "address_kr": "대구광역시 중구 국채보상로 648 (동인동2가,호수빌딩 지하)",
+        "phone": "053-212-6030",
+        "coordinates": {
+            "x": 128.6011890205842,
+            "y": 35.86935550844101
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegu General Pharmacy",
+        "pharmacy_name_kr": "대구종합약국",
+        "address_en": "215 Suseong-ro, Suseong-gu, Daegu (Middle East)",
+        "address_kr": "대구광역시 수성구 수성로 215 (중동)",
+        "phone": "053-766-8220",
+        "coordinates": {
+            "x": 128.61240622223073,
+            "y": 35.844803947201534
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegujin Pharmacy",
+        "pharmacy_name_kr": "대구진약국",
+        "address_en": "161 Taepyeong-ro, Buk-gu, Daegu, Lotte Department Store Daegu Station Basement 2 (Chilseong-dong 2-ga)",
+        "address_kr": "대구광역시 북구 태평로 161, 롯데백화점 대구역 지하2층 (칠성동2가)",
+        "phone": "053-215-8811",
+        "coordinates": {
+            "x": 128.5957458970963,
+            "y": 35.87592802728242
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daegeumam Pharmacy",
+        "pharmacy_name_kr": "대금암약국",
+        "address_en": "#105, 164 Songsan-ro, Songsan-myeon, Dangjin-si, Chungcheongnam-do (target apartment)",
+        "address_kr": "충청남도 당진시 송산면 송산로 164, 105호 (대상아파트)",
+        "phone": "041-352-7589",
+        "coordinates": {
+            "x": 126.660334960625,
+            "y": 36.9219438796105
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:20",
+            "Tue": "08:30 - 20:20",
+            "Wed": "08:30 - 20:20",
+            "Thu": "08:30 - 20:20",
+            "Fri": "08:30 - 20:20",
+            "Sat": "08:30 - 19:00",
+            "Holiday": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daenam Pharmacy",
+        "pharmacy_name_kr": "대남약국",
+        "address_en": "26 Sangdo-ro 22-gil, Dongjak-gu, Seoul (Sangdo-dong)",
+        "address_kr": "서울특별시 동작구 상도로22길 26 (상도동)",
+        "phone": "02-822-3502",
+        "coordinates": {
+            "x": 126.936937384405,
+            "y": 37.5021526682067
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daenam Pharmacy",
+        "pharmacy_name_kr": "대남약국",
+        "address_en": "183-1 Jasan-ro, Gimcheon-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 김천시 자산로 183-1",
+        "phone": "054-433-6066",
+        "coordinates": {
+            "x": 128.11776856203932,
+            "y": 36.12667868394723
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 20:00",
+            "Tue": "08:40 - 20:00",
+            "Wed": "08:40 - 20:00",
+            "Thu": "08:40 - 20:00",
+            "Fri": "08:40 - 20:00",
+            "Sat": "08:40 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daenam Pharmacy",
+        "pharmacy_name_kr": "대남약국",
+        "address_en": "1st floor, 394 Suyeong-ro, Suyeong-gu, Busan (Namcheon-dong, Namcheon-dong Medical Center)",
+        "address_kr": "부산광역시 수영구 수영로 394, 1층 (남천동, 남천동 메디칼센타)",
+        "phone": "051-900-9611",
+        "coordinates": {
+            "x": 129.1075725057,
+            "y": 35.1414069074
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 15:30",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daenam Pharmacy",
+        "pharmacy_name_kr": "대남약국",
+        "address_en": "297 Jungang-daero, Jung-gu, Daegu",
+        "address_kr": "대구광역시 중구 중앙대로 297",
+        "phone": "053-269-3600",
+        "coordinates": {
+            "x": 128.59158104250008,
+            "y": 35.859885303249065
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedeok Pharmacy",
+        "pharmacy_name_kr": "대덕약국",
+        "address_en": "1676 Dongseo-daero, Dong-gu, Daejeon (Seongnam-dong)",
+        "address_kr": "대전광역시 동구 동서대로 1676 (성남동)",
+        "phone": "042-638-3533",
+        "coordinates": {
+            "x": 127.43607388606313,
+            "y": 36.348549739058065
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedeok Farm Pharmacy",
+        "pharmacy_name_kr": "대덕팜약국",
+        "address_en": "360 Gukchaebosang-ro, Seo-gu, Daegu",
+        "address_kr": "대구광역시 서구 국채보상로 360",
+        "phone": "053-352-9280",
+        "coordinates": {
+            "x": 128.57026418928206,
+            "y": 35.87199216194023
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedeok Pyeongan Pharmacy",
+        "pharmacy_name_kr": "대덕평안약국",
+        "address_en": "217 Arirang-ro, Daedeok-gu, Daejeon",
+        "address_kr": "대전광역시 대덕구 아리랑로 217",
+        "phone": "042-672-6831",
+        "coordinates": {
+            "x": 127.42753838012669,
+            "y": 36.37453158719848
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedeok Plaza Pharmacy",
+        "pharmacy_name_kr": "대덕프라자약국",
+        "address_en": "Room 410, 6, Seongnam-daero 926beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do (Yatap-dong, Yatap Daedeok Plaza)",
+        "address_kr": "경기도 성남시 분당구 성남대로926번길 6, 410호 (야탑동, 야탑 대덕프라자)",
+        "phone": "031-702-4766",
+        "coordinates": {
+            "x": 127.12984926144071,
+            "y": 37.41217634724626
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedo Pharmacy",
+        "pharmacy_name_kr": "대도약국",
+        "address_en": "28, Geumgangwon-ro, Dongrae-gu, Busan, (Oncheon-dong)",
+        "address_kr": "부산광역시 동래구 금강공원로 28, (온천동)",
+        "phone": "051-556-7890",
+        "coordinates": {
+            "x": "129.081419444444435",
+            "y": "35.219219444444441"
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedo Pharmacy",
+        "pharmacy_name_kr": "대도약국",
+        "address_en": "1st floor, 24 Sangyeok-ro, Buk-gu, Daegu (Sangyeok-dong)",
+        "address_kr": "대구광역시 북구 산격로 24, 1층 (산격동)",
+        "phone": "053-954-7303",
+        "coordinates": {
+            "x": 128.60541482428906,
+            "y": 35.892654106685434
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedo Pharmacy",
+        "pharmacy_name_kr": "대도약국",
+        "address_en": "102 Seongji-ro, Bucheon-si, Gyeonggi-do (Gogang-dong)",
+        "address_kr": "경기도 부천시 성지로 102 (고강동)",
+        "phone": "032-671-8123",
+        "coordinates": {
+            "x": 126.8114249696072,
+            "y": 37.52819992822534
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 21:30",
+            "Sun": "12:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedo Pharmacy",
+        "pharmacy_name_kr": "대도약국",
+        "address_en": "25 Geombae-ro, Guri-si, Gyeonggi-do (Sutaek-dong)",
+        "address_kr": "경기도 구리시 검배로 25 (수택동)",
+        "phone": "031-563-3454",
+        "coordinates": {
+            "x": 127.142881735444,
+            "y": 37.5988997037232
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedo Pharmacy",
+        "pharmacy_name_kr": "대도약국",
+        "address_en": "183 Toegye-ro, Jung-gu, Seoul, (Pildong 1-ga)",
+        "address_kr": "서울특별시 중구 퇴계로 183, (필동1가)",
+        "phone": "02-2266-9862",
+        "coordinates": {
+            "x": 126.992316737166,
+            "y": 37.5613157495978
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "27-1 Daemyeong-ro, Nam-gu, Daegu",
+        "address_kr": "대구광역시 남구 대명로 27-1",
+        "phone": "053-622-2610",
+        "coordinates": {
+            "x": 128.56047250354862,
+            "y": 35.838532199563836
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "4, Seonhak-ro 68beon-gil, Yeonsu-gu, Incheon",
+        "address_kr": "인천광역시 연수구 선학로68번길 4",
+        "phone": "032-812-0056",
+        "coordinates": {
+            "x": 126.70126060408367,
+            "y": 37.42355624165659
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "8, Chungnyeol-daero 348beon-gil, Dongrae-gu, Busan",
+        "address_kr": "부산광역시 동래구 충렬대로348번길 8",
+        "phone": "051-528-5500",
+        "coordinates": {
+            "x": 129.09589130260323,
+            "y": 35.197420364050615
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:00",
+            "Tue": "08:30 - 17:00",
+            "Wed": "08:30 - 17:00",
+            "Thu": "08:30 - 17:00",
+            "Fri": "08:30 - 17:00",
+            "Sat": "08:50 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "175 Garak-ro, Songpa-gu, Seoul, 1st floor (Songpa-dong)",
+        "address_kr": "서울특별시 송파구 가락로 175, 1층 (송파동)",
+        "phone": "02-418-6551",
+        "coordinates": {
+            "x": 127.114316638025,
+            "y": 37.5044598646586
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "157 Jungang-ro, Geochang-eup, Geochang-gun, Gyeongsangnam-do (SK Telecom Nara)",
+        "address_kr": "경상남도 거창군 거창읍 중앙로 157 (SK텔레콤나라)",
+        "phone": "0559439070",
+        "coordinates": {
+            "x": 127.91621043927924,
+            "y": 35.687485173613524
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 12:40"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "1st floor, 185 Gwanak-ro, Gwanak-gu, Seoul (Bongcheon-dong)",
+        "address_kr": "서울특별시 관악구 관악로 185, 1층 (봉천동)",
+        "phone": "02-877-0453",
+        "coordinates": {
+            "x": 126.952656233845,
+            "y": 37.4817919334432
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "1st floor, 1 Gwakji 5-gil, Aewol-eup, Jeju-si, Jeju-do",
+        "address_kr": "제주특별자치도 제주시 애월읍 곽지5길 1, 1층",
+        "phone": "064-799-8808",
+        "coordinates": {
+            "x": 126.3669771670559,
+            "y": 33.471480380621294
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 19:00",
+            "Holiday": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "209-1, Jungang-ro, Dong-gu, Daejeon, (Jungdong)",
+        "address_kr": "대전광역시 동구 중앙로 209-1, (중동)",
+        "phone": "042-256-0787",
+        "coordinates": {
+            "x": 127.43212848002696,
+            "y": 36.33127951896478
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "25, Baekseo-ro 125beon-gil, Dong-gu, Gwangju",
+        "address_kr": "광주광역시 동구 백서로125번길 25",
+        "phone": "062-223-7675",
+        "coordinates": {
+            "x": 126.91790654175949,
+            "y": 35.14393039153062
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 26:00",
+            "Tue": "10:00 - 26:00",
+            "Wed": "10:00 - 26:00",
+            "Thu": "10:00 - 26:00",
+            "Fri": "10:00 - 26:00",
+            "Sat": "10:00 - 26:00",
+            "Sun": "10:00 - 26:00",
+            "Holiday": "10:00 - 26:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "35 Bolmudang-gil, Bukpyeong-myeon, Haenam-gun, Jeollanam-do,",
+        "address_kr": "전라남도 해남군 북평면 볼무당길 35,",
+        "phone": "061-533-1012",
+        "coordinates": {
+            "x": "126.629874999999998",
+            "y": "34.407930555555552"
+        },
+        "operating_hours": {
+            "Mon": "07:30 - 17:00",
+            "Tue": "07:30 - 12:00",
+            "Wed": "07:30 - 12:00",
+            "Thu": "07:30 - 12:00",
+            "Fri": "07:30 - 12:00",
+            "Sat": "07:30 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "216, Modeok-ro, Jinju-si, Gyeongsangnam-do, (Sangdae-dong)",
+        "address_kr": "경상남도 진주시 모덕로 216, (상대동)",
+        "phone": "055-752-1666",
+        "coordinates": {
+            "x": 128.11752380149795,
+            "y": 35.18848585362153
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 21:00",
+            "Holiday": "08:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Pharmacy",
+        "pharmacy_name_kr": "대동약국",
+        "address_en": "18 Nojeokbong-gil, Mokpo-si, Jeollanam-do (Juk-dong)",
+        "address_kr": "전라남도 목포시 노적봉길 18 (죽동)",
+        "phone": "061-244-4745",
+        "coordinates": {
+            "x": 126.38364363334648,
+            "y": 34.79002646821018
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 20:00",
+            "Sun": "12:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Onnuri Pharmacy",
+        "pharmacy_name_kr": "대동온누리약국",
+        "address_en": "25, Sehwa-ro 169beon-gil, Gwonseon-gu, Suwon-si, Gyeonggi-do, (Seodun-dong)",
+        "address_kr": "경기도 수원시 권선구 세화로169번길 25, (서둔동)",
+        "phone": "031-294-2551",
+        "coordinates": {
+            "x": "126.99171590133073",
+            "y": 37.26668383838121
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Woori Pharmacy",
+        "pharmacy_name_kr": "대동우리약국",
+        "address_en": "15-5, Dongnam-ro 49beon-gil, Daedong-myeon, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 대동면 동남로49번길 15-5",
+        "phone": "055-335-6641",
+        "coordinates": {
+            "x": 128.99355568925478,
+            "y": 35.23732091385473
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "대동한마음약국",
+        "address_en": "#111, 18, Hambak-ro 101beon-gil, Gimhae-si, Gyeongsangnam-do (Oedong, Hanseong Building)",
+        "address_kr": "경상남도 김해시 함박로101번길 18, 111호(외동,한성빌딩)",
+        "phone": "055-324-1681",
+        "coordinates": {
+            "x": 128.86563693675987,
+            "y": 35.233728676400446
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daedong Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "대동한마음약국",
+        "address_en": "101 Sanghwabuk-ro, Dalseo-gu, Daegu",
+        "address_kr": "대구광역시 달서구 상화북로 101",
+        "phone": "070-8806-8663",
+        "coordinates": {
+            "x": 128.53742411761814,
+            "y": 35.81153855414303
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daeryongsan Pharmacy",
+        "pharmacy_name_kr": "대룡산약국",
+        "address_en": "58 Chuncheonsunhwan-ro, Dongnae-myeon, Chuncheon-si, Gangwon-do",
+        "address_kr": "강원특별자치도 춘천시 동내면 춘천순환로 58",
+        "phone": "033-261-9639",
+        "coordinates": {
+            "x": 127.7503492998592,
+            "y": 37.85509249095628
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Sun": "09:00 - 19:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim University Pharmacy",
+        "pharmacy_name_kr": "대림대학약국",
+        "address_en": "3, Siheung-daero 187-gil, Yeongdeungpo-gu, Seoul (Daerim-dong)",
+        "address_kr": "서울특별시 영등포구 시흥대로187길 3, (대림동)",
+        "phone": "02-845-5990",
+        "coordinates": {
+            "x": 126.908527687274,
+            "y": 37.492404569899
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Miso Pharmacy",
+        "pharmacy_name_kr": "대림미소약국",
+        "address_en": "#107,108, 1st floor, 135 Dorim-ro, Yeongdeungpo-gu, Seoul (Daerim-dong)",
+        "address_kr": "서울특별시 영등포구 도림로 135, 1층 107,108호 (대림동)",
+        "phone": "02-842-8878",
+        "coordinates": {
+            "x": 126.896859600774,
+            "y": 37.4932319948827
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelimsa Pharmacy",
+        "pharmacy_name_kr": "대림사약국",
+        "address_en": "40 Haeundae-ro 161beon-gil, Haeundae-gu, Busan (Jaesong-dong)",
+        "address_kr": "부산광역시 해운대구 해운대로161번길 40 (재송동)",
+        "phone": "051-784-0181",
+        "coordinates": {
+            "x": 129.1253606455447,
+            "y": 35.18542637048416
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "1st floor, 142 Guyeong-ro, Beomseo-eup, Ulju-gun, Ulsan Metropolitan City",
+        "address_kr": "울산광역시 울주군 범서읍 구영로 142, 1층",
+        "phone": "052-242-7575",
+        "coordinates": {
+            "x": 129.24303874696108,
+            "y": 35.57006415340448
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "22 Nakseong-daero, Gwanak-gu, Seoul (Bongcheon-dong)",
+        "address_kr": "서울특별시 관악구 낙성대로 22 (봉천동)",
+        "phone": "02-889-3188",
+        "coordinates": {
+            "x": 126.958785739699,
+            "y": 37.4765240472309
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 00:30",
+            "Tue": "08:30 - 00:30",
+            "Wed": "08:30 - 00:30",
+            "Thu": "08:30 - 00:30",
+            "Fri": "08:30 - 00:30",
+            "Sat": "08:30 - 00:30",
+            "Sun": "08:30 - 00:30",
+            "Holiday": "08:30 - 00:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "Rooms 101 and 110, 65, Eunpyeong Tunnel-ro, Eunpyeong-gu, Seoul (Susaek-dong, Daelim Hansup Town Apartment)",
+        "address_kr": "서울특별시 은평구 은평터널로 65, 101호,110호 (수색동, 대림한숲타운아파트)",
+        "phone": "02-374-2046",
+        "coordinates": {
+            "x": 126.90028716704676,
+            "y": 37.586259011116034
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:30",
+            "Tue": "08:30 - 21:30",
+            "Wed": "08:30 - 21:30",
+            "Thu": "08:30 - 21:30",
+            "Fri": "08:30 - 21:30",
+            "Sat": "08:30 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "97 Anyang-ro, Manan-gu, Anyang-si, Gyeonggi-do (Anyang-dong)",
+        "address_kr": "경기도 안양시 만안구 안양로 97 (안양동)",
+        "phone": "031-449-8005",
+        "coordinates": {
+            "x": 126.93365135568973,
+            "y": 37.38367003855782
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:30",
+            "Tue": "08:30 - 21:30",
+            "Wed": "08:30 - 21:30",
+            "Thu": "08:30 - 21:30",
+            "Fri": "08:30 - 21:30",
+            "Sat": "08:30 - 20:30",
+            "Holiday": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "#117, 119-1, Gwangjeong-ro, Gunpo-si, Gyeonggi-do (Sanbon-dong, Solgeo (Daelim) Apartment Complex Building 1)",
+        "address_kr": "경기도 군포시 광정로 119-1, 117호 (산본동, 솔거(대림)아파트상가 제1동)",
+        "phone": "031-391-9590",
+        "coordinates": {
+            "x": 126.92624210996593,
+            "y": 37.363199562527875
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "43-1 Choryang-ro, Dong-gu, Busan, (Choryang-dong)",
+        "address_kr": "부산광역시 동구 초량로 43-1, (초량동)",
+        "phone": "051-468-1528",
+        "coordinates": {
+            "x": "129.037619444444431",
+            "y": "35.120122222222221"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 21:00",
+            "Sun": "10:00 - 21:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "105 Saimdang-ro, Seocho-gu, Seoul, (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 사임당로 105, (서초동)",
+        "phone": "02-525-3273",
+        "coordinates": {
+            "x": 127.021239172023,
+            "y": 37.4905455065109
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "268 Geumgok-daero, Buk-gu, Busan",
+        "address_kr": "부산광역시 북구 금곡대로 268",
+        "phone": "051-363-3413",
+        "coordinates": {
+            "x": 129.01391616321095,
+            "y": 35.232377277913315
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "528-21 Namwon-ro, Wonju-si, Gangwon-do",
+        "address_kr": "강원특별자치도 원주시 남원로 528-21",
+        "phone": "033-763-7065",
+        "coordinates": {
+            "x": 127.9488545579924,
+            "y": 37.32995680615628
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "69-1, Heunghae-ro, Heunghae-eup, Buk-gu, Pohang-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 포항시 북구 흥해읍 흥해로 69-1",
+        "phone": "054-261-1966",
+        "coordinates": {
+            "x": 129.347655161951,
+            "y": 36.1108576407293
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "1st floor, 2, Sandaero 2beon-gil, Mokpo-si, Jeollanam-do (Sanjeong-dong)",
+        "address_kr": "전라남도 목포시 산대로2번길 2, 1층 (산정동)",
+        "phone": "061-273-3002",
+        "coordinates": {
+            "x": 126.39218003048856,
+            "y": 34.802389699488366
+        },
+        "operating_hours": {
+            "Mon": "07:30 - 12:00",
+            "Tue": "07:30 - 12:00",
+            "Wed": "07:30 - 12:00",
+            "Thu": "07:30 - 12:00",
+            "Fri": "07:30 - 12:00",
+            "Sat": "07:30 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "139 Andeokwon-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province",
+        "address_kr": "전북특별자치도 전주시 덕진구 안덕원로 139",
+        "phone": "063-251-5163",
+        "coordinates": {
+            "x": 127.14372436277134,
+            "y": 35.8320934646743
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "148 Hapwoo-ro, Hapdeok-eup, Dangjin-si, Chungcheongnam-do",
+        "address_kr": "충청남도 당진시 합덕읍 합우로 148",
+        "phone": "041-362-2271",
+        "coordinates": {
+            "x": 126.77404631101057,
+            "y": 36.80840214040453
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Pharmacy",
+        "pharmacy_name_kr": "대림약국",
+        "address_en": "16 Sindorim-ro, Guro-gu, Seoul",
+        "address_kr": "서울특별시 구로구 신도림로 16",
+        "phone": "02-2679-3553",
+        "coordinates": {
+            "x": 126.88274744884684,
+            "y": 37.50622520894088
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Onnuri Pharmacy",
+        "pharmacy_name_kr": "대림온누리약국",
+        "address_en": "71 Wolbae-ro, Dalseo-gu, Daegu",
+        "address_kr": "대구광역시 달서구 월배로 71",
+        "phone": "053-634-1077",
+        "coordinates": {
+            "x": 128.52219178721202,
+            "y": 35.81407524338046
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Onnuri Pharmacy",
+        "pharmacy_name_kr": "대림온누리약국",
+        "address_en": "662 Siheung-daero, Dongjak-gu, Seoul (Sindaebang-dong)",
+        "address_kr": "서울특별시 동작구 시흥대로 662 (신대방동)",
+        "phone": "02-6104-1234",
+        "coordinates": {
+            "x": 126.908193793311,
+            "y": 37.4906281555689
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Woori Pharmacy",
+        "pharmacy_name_kr": "대림우리약국",
+        "address_en": "92 Dorim-ro, Guro-gu, Seoul (Guro-dong)",
+        "address_kr": "서울특별시 구로구 도림로 92 (구로동)",
+        "phone": "02-855-7538",
+        "coordinates": {
+            "x": 126.89357695928,
+            "y": 37.4904852469087
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "10:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Biggest Pharmacy",
+        "pharmacy_name_kr": "대림제일큰약국",
+        "address_en": "1st floor, 2 Digital-ro 37ga-gil, Yeongdeungpo-gu, Seoul (Daerim-dong)",
+        "address_kr": "서울특별시 영등포구 디지털로37가길 2, 1층 (대림동)",
+        "phone": "02-6489-2080",
+        "coordinates": {
+            "x": 126.898212817938,
+            "y": 37.4900682011431
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Tower Pharmacy",
+        "pharmacy_name_kr": "대림타워약국",
+        "address_en": "3rd floor, 16 Gamasan-ro 48-gil, Yeongdeungpo-gu, Seoul (Daerim-dong, Shinpung Plaza)",
+        "address_kr": "서울특별시 영등포구 가마산로48길 16, 3층 (대림동,신풍프라자)",
+        "phone": "02-841-1085",
+        "coordinates": {
+            "x": 126.901219019552,
+            "y": 37.5014868646611
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daelim Farm Pharmacy",
+        "pharmacy_name_kr": "대림팜약국",
+        "address_en": "72 Jaeban-ro, Haeundae-gu, Busan, 1st floor (Jaesong-dong)",
+        "address_kr": "부산광역시 해운대구 재반로 72, 1층 일부호 (재송동)",
+        "phone": "051-784-0181",
+        "coordinates": {
+            "x": 129.126147914032,
+            "y": 35.1852004367809
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hemp Opti Drug Pharmacy",
+        "pharmacy_name_kr": "대마옵티마약국",
+        "address_en": "21-2, Jeil-ro, Michuhol-gu, Incheon Metropolitan City",
+        "address_kr": "인천광역시 미추홀구 제일로 21-2",
+        "phone": "032-868-9419",
+        "coordinates": {
+            "x": 126.67290257628929,
+            "y": 37.45910290959398
+        },
+        "operating_hours": {
+            "Mon": "13:00 - 17:00",
+            "Tue": "13:00 - 17:00",
+            "Wed": "13:00 - 17:00",
+            "Thu": "13:00 - 17:00",
+            "Fri": "13:00 - 17:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyungdang Pharmacy",
+        "pharmacy_name_kr": "대명당약국",
+        "address_en": "146 Sochon-ro, Gwangsan-gu, Gwangju, (Sochon-dong)",
+        "address_kr": "광주광역시 광산구 소촌로 146, (소촌동)",
+        "phone": "062-941-7975",
+        "coordinates": {
+            "x": "126.79229628693613",
+            "y": 35.15751708682986
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyungdang Pharmacy",
+        "pharmacy_name_kr": "대명당약국",
+        "address_en": "56, Cheonho-daero 13-gil, Dongdaemun-gu, Seoul (Yongdu-dong)",
+        "address_kr": "서울특별시 동대문구 천호대로13길 56 (용두동)",
+        "phone": "02-928-7467",
+        "coordinates": {
+            "x": 127.030047481961,
+            "y": 37.5764715164334
+        },
+        "operating_hours": {
+            "Mon": "07:00 - 19:00",
+            "Tue": "07:00 - 19:00",
+            "Wed": "07:00 - 19:00",
+            "Thu": "07:00 - 19:00",
+            "Fri": "07:00 - 19:00",
+            "Sat": "07:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Dongsan Pharmacy",
+        "pharmacy_name_kr": "대명동산약국",
+        "address_en": "70 Myeongdeok-ro, Nam-gu, Daegu",
+        "address_kr": "대구광역시 남구 명덕로 70",
+        "phone": "053-654-8275",
+        "coordinates": {
+            "x": 128.57829247384282,
+            "y": 35.85808876982959
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "10:00 - 20:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Dream Pharmacy",
+        "pharmacy_name_kr": "대명드림약국",
+        "address_en": "1st floor, 86 Daemyeong-ro, Nam-gu, Daegu (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 대명로 86, 1층 (대명동)",
+        "phone": "053-626-7119",
+        "coordinates": {
+            "x": 128.566971858234,
+            "y": 35.839053018416
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyungmoon Pharmacy",
+        "pharmacy_name_kr": "대명문약국",
+        "address_en": "238-36, Hakgam-daero, Sasang-gu, Busan, (Gamjeon-dong)",
+        "address_kr": "부산광역시 사상구 학감대로 238-36, (감전동)",
+        "phone": "051-316-5570",
+        "coordinates": {
+            "x": 128.9920927404,
+            "y": 35.1516411511
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:50 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "#109, 233 Hyoseo-ro, Gyeyang-gu, Incheon (Jakjeon-dong)",
+        "address_kr": "인천광역시 계양구 효서로 233, 109호 (작전동)",
+        "phone": "032-543-0224",
+        "coordinates": {
+            "x": 126.72205191859112,
+            "y": 37.528079934657285
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:30",
+            "Tue": "08:30 - 22:30",
+            "Wed": "08:30 - 22:30",
+            "Thu": "08:30 - 22:30",
+            "Fri": "08:30 - 22:30",
+            "Sat": "08:30 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "104 Gongsan-ro, Gongsan-myeon, Naju-si, Jeollanam-do",
+        "address_kr": "전라남도 나주시 공산면 공산로 104",
+        "phone": "061-336-7300",
+        "coordinates": {
+            "x": "126.61022634712284",
+            "y": 34.94155804739697
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:00",
+            "Tue": "08:00 - 17:00",
+            "Wed": "08:00 - 17:00",
+            "Thu": "08:00 - 17:00",
+            "Fri": "08:00 - 17:00",
+            "Sat": "08:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "559 Gyeongdong-ro, Andong-si, Gyeongsangbuk-do (Dangbuk-dong)",
+        "address_kr": "경상북도 안동시 경동로 559 (당북동)",
+        "phone": "054-853-8949",
+        "coordinates": {
+            "x": 128.71906993954542,
+            "y": 36.563875490457185
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "69, Haenggu-ro, Wonju-si, Gangwon-do",
+        "address_kr": "강원특별자치도 원주시 행구로 69",
+        "phone": "033-748-7813",
+        "coordinates": {
+            "x": 127.96485318542224,
+            "y": 37.341929728964686
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "249 Inbuk-ro, Iksan-si, Jeollabuk-do, (Namjung-dong)",
+        "address_kr": "전북특별자치도 익산시 인북로 249, (남중동)",
+        "phone": "063-857-8558",
+        "coordinates": {
+            "x": 126.95777307241835,
+            "y": 35.95081336260657
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "231 Garak-ro, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 가락로 231",
+        "phone": "055-333-1142",
+        "coordinates": {
+            "x": 128.87470988979905,
+            "y": 35.24594919838312
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "#111, 71 Cheongna Lime-ro, Seo-gu, Incheon (Yeonhui-dong, Jinyoung Medipia)",
+        "address_kr": "인천광역시 서구 청라라임로 71, 111호 (연희동, 진영메디피아)",
+        "phone": "032-569-5213",
+        "coordinates": {
+            "x": 126.65290249344922,
+            "y": 37.53394678047575
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "#107, 1st floor, 66 Daemyeong-ro, Nam-gu, Daegu (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 대명로 66, 1층 107호 (대명동)",
+        "phone": "053-622-2301",
+        "coordinates": {
+            "x": 128.564830393254,
+            "y": 35.8389364736678
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daemyung Pharmacy",
+        "pharmacy_name_kr": "대명약국",
+        "address_en": "12 Soenae-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do (Geumcheon-dong, Hyosung Hospital)",
+        "address_kr": "충청북도 청주시 상당구 쇠내로 12 (금천동, 효성병원)",
+        "phone": "043-254-9592",
+        "coordinates": {
+            "x": 127.49508251810404,
+            "y": 36.62456027881431
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:30"
+        }
     }
 ]
