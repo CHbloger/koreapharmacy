@@ -106293,5 +106293,1923 @@
             "Fri": "08:30 - 19:00",
             "Sat": "08:30 - 16:30"
         }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, 117 Simin-ro, Uijeongbu-si, Gyeonggi-do (Uijeongbu-dong)",
+        "address_kr": "경기도 의정부시 시민로 117, 1층 (의정부동)",
+        "phone": "031-847-2474",
+        "coordinates": {
+            "x": 127.04838945272876,
+            "y": 37.738718302784356
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#115, 105,106, Maegok-ro, Buk-gu, Ulsan (Maegok-dong)",
+        "address_kr": "울산광역시 북구 매곡로 115, 105,106호 (매곡동)",
+        "phone": "052-282-3393",
+        "coordinates": {
+            "x": 129.35553081331193,
+            "y": 35.64262307844761
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "3, Bijeon 5-ro, Pyeongtaek-si, Gyeonggi-do (Bijeon-dong)",
+        "address_kr": "경기도 평택시 비전5로 3 (비전동) ",
+        "phone": "031-654-2164",
+        "coordinates": {
+            "x": 127.11166612446297,
+            "y": 36.9999244462839
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 16:00",
+            "Tue": "09:00 - 16:00",
+            "Wed": "09:00 - 16:00",
+            "Thu": "09:00 - 16:00",
+            "Fri": "09:00 - 16:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "Room 118, 1st floor, Cholim Plaza, 17 Baekhyeon-ro 101beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do (Sunae-dong)",
+        "address_kr": "경기도 성남시 분당구 백현로101번길 17, 초림프라자 1층 118호 (수내동)",
+        "phone": "031-8039-7902",
+        "coordinates": {
+            "x": 127.112509877324,
+            "y": 37.377480157331
+        },
+        "operating_hours": {
+            "Mon": "09:20 - 20:30",
+            "Tue": "09:20 - 20:30",
+            "Wed": "09:20 - 20:30",
+            "Thu": "09:20 - 20:30",
+            "Fri": "09:20 - 20:30",
+            "Sat": "09:20 - 15:00",
+            "Sun": "09:20 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "26, Susaek-ro, Seodaemun-gu, Seoul (Namgajwa-dong)",
+        "address_kr": "서울특별시 서대문구 수색로 26 (남가좌동)",
+        "phone": "02-302-7111",
+        "coordinates": {
+            "x": 126.915709199918,
+            "y": 37.5691834101108
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "2nd floor, 136 Deokneung-ro, Gangbuk-gu, Seoul (Beon-dong, Samyang Building)",
+        "address_kr": "서울특별시 강북구 덕릉로 136, 2층 (번동, 삼양빌딩)",
+        "phone": "02-853-1854",
+        "coordinates": {
+            "x": 127.028773421267,
+            "y": 37.6348503052091
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:00",
+            "Tue": "09:00 - 17:00",
+            "Wed": "09:00 - 17:00",
+            "Thu": "09:00 - 17:00",
+            "Fri": "09:00 - 17:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#303, 38, Gymnasium-ro, Bupyeong-gu, Incheon (Samsan-dong, Sewon Building)",
+        "address_kr": "인천광역시 부평구 체육관로 38, 303호 (삼산동, 세원빌딩)",
+        "phone": "032-511-0355",
+        "coordinates": {
+            "x": 126.73580759370577,
+            "y": 37.50819811620909
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "14, Munhwawon-ro, Yuseong-gu, Daejeon (Jangdae-dong)",
+        "address_kr": "대전광역시 유성구 문화원로 14, (장대동)",
+        "phone": "042-822-9831",
+        "coordinates": {
+            "x": 127.3377220969043,
+            "y": 36.361351233779054
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, Dongmun Building, 256 Mokdongseo-ro, Yangcheon-gu, Seoul (Mok-dong)",
+        "address_kr": "서울특별시 양천구 목동서로 256, 동문빌딩 1층 (목동)",
+        "phone": "02-2654-9503",
+        "coordinates": {
+            "x": 126.869278798476,
+            "y": 37.5245984741617
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, 79 Cecil-ro, Haeundae-gu, Busan (Left building)",
+        "address_kr": "부산광역시 해운대구 세실로 79, 1층 (좌동)",
+        "phone": "051-702-1007",
+        "coordinates": {
+            "x": 129.176440231179,
+            "y": 35.1716471915662
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, 1893 Geojejungang-ro, Geoje-si, Gyeongsangnam-do (Gohyeon-dong)",
+        "address_kr": "경상남도 거제시 거제중앙로 1893, 1층 (고현동)",
+        "phone": "055-633-8810",
+        "coordinates": {
+            "x": 128.623430869427,
+            "y": 34.8871421603221
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "63, Ujeong-ro, Jeju-si, Jeju-do (Oedoil-dong)",
+        "address_kr": "제주특별자치도 제주시 우정로 63 (외도일동)",
+        "phone": "064-742-0938",
+        "coordinates": {
+            "x": 126.431098481,
+            "y": 33.4876902548
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "Room 102, 1st floor, 25 Seonhwa-ro 6-gil, Iksan-si, Jeollabuk-do (Mohyeon-dong 1-ga)",
+        "address_kr": "전북특별자치도 익산시 선화로6길 25, 1층 102호 (모현동1가)",
+        "phone": "063-858-2300",
+        "coordinates": {
+            "x": 126.934990854063,
+            "y": 35.9484103202125
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "228 Daeheung-ro, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Daeheung-dong, Samyoung Building)",
+        "address_kr": "충청남도 천안시 동남구 대흥로 228 (대흥동, 삼영빌딩)",
+        "phone": "041-523-5228",
+        "coordinates": {
+            "x": 127.14810852531214,
+            "y": 36.80838001515264
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "593 Gongdan-daero, Gunsan-si, Jeollabuk-do (Soryong-dong)",
+        "address_kr": "전북특별자치도 군산시 공단대로 593 (소룡동)",
+        "phone": "063-471-9086",
+        "coordinates": {
+            "x": 126.7191634407387,
+            "y": 35.970245558484926
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "117 Yongducheon-ro, Jecheon-si, Chungcheongbuk-do (Jungang-ro 1-ga)",
+        "address_kr": "충청북도 제천시 용두천로 117 (중앙로1가)",
+        "phone": "043-653-8993",
+        "coordinates": {
+            "x": 128.2131133987416,
+            "y": 37.13799797529837
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 19:00",
+            "Sun": "10:00 - 19:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "53, Hosangwon 6-ro, Seosan-si, Chungcheongnam-do (Yecheon-dong)",
+        "address_kr": "충청남도 서산시 호수공원6로 53 (예천동) ",
+        "phone": "041-663-7582",
+        "coordinates": {
+            "x": 126.4495155915273,
+            "y": 36.77336000532208
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "43 Dodongcheon-ro, Jinju-si, Gyeongsangnam-do (Sangdae-dong)",
+        "address_kr": "경상남도 진주시 도동천로 43 (상대동)",
+        "phone": "055-756-7575",
+        "coordinates": {
+            "x": 128.10555660728664,
+            "y": 35.17848546166536
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#105, 16, Gimhae-daero 361beon-gil, Jinyeong-eup, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 진영읍 김해대로361번길 16, 105호",
+        "phone": "055-344-0033",
+        "coordinates": {
+            "x": 128.72989197945293,
+            "y": 35.30823988239369
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "385 Hwangsan-ro, Mulgeum-eup, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 물금읍 황산로 385",
+        "phone": "055-384-7834",
+        "coordinates": {
+            "x": 128.98676749966384,
+            "y": 35.31078658095551
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "10:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "53 Bongseon 2-ro, Nam-gu, Gwangju (Bongseon-dong)",
+        "address_kr": "광주광역시 남구 봉선2로 53 (봉선동)",
+        "phone": "062-655-9966",
+        "coordinates": {
+            "x": "126.91241499179325",
+            "y": 35.12600494701906
+        },
+        "operating_hours": {
+            "Mon": "07:00 - 17:00",
+            "Tue": "07:00 - 17:00",
+            "Wed": "07:00 - 17:00",
+            "Thu": "07:00 - 17:00",
+            "Fri": "07:00 - 17:00",
+            "Sat": "07:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "Daeseung Building, 43 Jangan-ro, Gyeryong-si, Chungcheongnam-do (Geumam-dong)",
+        "address_kr": "충청남도 계룡시 장안로 43, 대승빌딩 (금암동)",
+        "phone": "042-840-5006",
+        "coordinates": {
+            "x": 127.25146117066902,
+            "y": 36.273553724422264
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:30",
+            "Tue": "09:30 - 19:30",
+            "Wed": "09:30 - 19:30",
+            "Thu": "09:30 - 19:30",
+            "Fri": "09:30 - 19:30",
+            "Sat": "09:30 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "Dream Tower (Dream Pharmacy) 1st floor, 140 Bamjeol-ro, Dangjin-si, Chungcheongnam-do (Sucheong-dong)",
+        "address_kr": "충청남도 당진시 밤절로 140, 드림타워(드림약국) 1층 (수청동)",
+        "phone": "041-352-1009",
+        "coordinates": {
+            "x": 126.64549098792088,
+            "y": 36.901497693655855
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 17:00",
+            "Sun": "08:30 - 17:00",
+            "Holiday": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "2, Market-gil 25beon-gil, Asan-si, Chungcheongnam-do (Oncheon-dong, Sujeong Building (1st floor))",
+        "address_kr": "충청남도 아산시 시장길25번길 2 (온천동, 수정빌딩(1층))",
+        "phone": "041-425-0060",
+        "coordinates": {
+            "x": 127.00393889182675,
+            "y": 36.78325541667683
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 13:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "59 Hoam-ro, Wansan-gu, Jeonju-si, Jeonbuk Special Self-Governing Province",
+        "address_kr": "전북특별자치도 전주시 완산구 호암로 59 ",
+        "phone": "063-224-5151",
+        "coordinates": {
+            "x": 127.101088644,
+            "y": 35.8094710382
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "79 Jangyang-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do (Jangseong-dong)",
+        "address_kr": "경상북도 포항시 북구 장량로 79 (장성동)",
+        "phone": "054-231-0947",
+        "coordinates": {
+            "x": 129.38909930293843,
+            "y": 36.08245854566274
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#103, J Tower, 89-2, Dong-gucheong-ro, Dong-gu, Daejeon (Gao-dong)",
+        "address_kr": "대전광역시 동구 동구청로 89-2, 제이타워 103호 (가오동)",
+        "phone": "042-710-2311",
+        "coordinates": {
+            "x": 127.456979499438,
+            "y": 36.3062750570675
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "243 3·15-daero, Masanhappo-gu, Changwon-si, Gyeongsangnam-do (Jungang-dong 3-ga)",
+        "address_kr": "경상남도 창원시 마산합포구 3·15대로 243 (중앙동3가)",
+        "phone": "055-246-5999",
+        "coordinates": {
+            "x": 128.56707930564934,
+            "y": 35.20000695579258
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "465 Dokbae-ro, Michuhol-gu, Incheon (Sungui-dong)",
+        "address_kr": "인천광역시 미추홀구 독배로 465 (숭의동)",
+        "phone": "032-881-2750",
+        "coordinates": {
+            "x": 126.64688210114079,
+            "y": 37.46026299240684
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "10:00 - 13:00",
+            "Holiday": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "70 Moran 1-gil, Wonju-si, Gangwon-do (Usan-dong)",
+        "address_kr": "강원특별자치도 원주시 모란1길 70 (우산동)",
+        "phone": "033-732-7582",
+        "coordinates": {
+            "x": 127.93323743650045,
+            "y": 37.361759378925456
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, 2075 Gyeonggang-ro, Gangneung-si, Gangwon-do (Imdang-dong)",
+        "address_kr": "강원특별자치도 강릉시 경강로 2075, 1층 (임당동)",
+        "phone": "033-647-7571",
+        "coordinates": {
+            "x": 128.8942626721,
+            "y": 37.7538574937
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "25 Mangma-ro, Yeosu-si, Jeollanam-do (Hak-dong)",
+        "address_kr": "전라남도 여수시 망마로 25 (학동)",
+        "phone": "061-641-6333",
+        "coordinates": {
+            "x": 127.7231663531,
+            "y": 34.7310913013
+        },
+        "operating_hours": {
+            "Mon": "07:00 - 20:00",
+            "Tue": "07:00 - 20:00",
+            "Wed": "07:00 - 20:00",
+            "Thu": "07:00 - 20:00",
+            "Fri": "07:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "31, Daeyong-gil, Dashi-myeon, Naju-si, Jeollanam-do",
+        "address_kr": "전라남도 나주시 다시면 대용길 31",
+        "phone": "061-335-7566",
+        "coordinates": {
+            "x": 126.63844774049875,
+            "y": 35.01772633772419
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:30",
+            "Tue": "08:00 - 17:30",
+            "Wed": "08:00 - 17:30",
+            "Thu": "08:00 - 17:30",
+            "Fri": "08:00 - 17:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "623 Yeongsan-ro, Mokpo-si, Jeollanam-do (Seokhyeon-dong)",
+        "address_kr": "전라남도 목포시 영산로 623 (석현동)",
+        "phone": "061-284-4777",
+        "coordinates": {
+            "x": 126.4219085133563,
+            "y": 34.82169482892055
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "74 Chukhang-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do (Songdo-dong)",
+        "address_kr": "경상북도 포항시 남구 축항로 74 (송도동)",
+        "phone": "054-282-2334",
+        "coordinates": {
+            "x": 129.37646540882838,
+            "y": 36.02955174303346
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "5th floor, 104 Broadcasting-gil, Chuncheon-si, Gangwon-do (Onui-dong)",
+        "address_kr": "강원특별자치도 춘천시 방송길 104, 5층 (온의동)",
+        "phone": "033-253-7588",
+        "coordinates": {
+            "x": 127.720861608772,
+            "y": 37.86751738589749
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 13:00",
+            "Tue": "08:30 - 13:00",
+            "Wed": "08:30 - 13:00",
+            "Thu": "08:30 - 13:00",
+            "Fri": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "93 Hayang-ro, Hayang-eup, Gyeongsan-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경산시 하양읍 하양로 93",
+        "phone": "053-201-7979",
+        "coordinates": {
+            "x": 128.817825570948,
+            "y": 35.91297817095185
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "34 Daehak-ro, Yeongju-si, Gyeongsangbuk-do (Hyucheon-dong)",
+        "address_kr": "경상북도 영주시 대학로 34 (휴천동)",
+        "phone": "054-632-7402",
+        "coordinates": {
+            "x": 128.62077624976607,
+            "y": 36.809608823607526
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "162 Ayang-ro, Dong-gu, Daegu, 1st floor (Sinam-dong)",
+        "address_kr": "대구광역시 동구 아양로 162, 1층 (신암동)",
+        "phone": "053-942-2746",
+        "coordinates": {
+            "x": 128.630853821771,
+            "y": 35.8853247990128
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "9 Bosu-daero, Seo-gu, Busan (Chungmu-dong 1-ga)",
+        "address_kr": "부산광역시 서구 보수대로 9 (충무동1가)",
+        "phone": "051-254-3353",
+        "coordinates": {
+            "x": 129.02490554604003,
+            "y": 35.0976430263213
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "22 Manduk-daero, Buk-gu, Busan (Deokcheon-dong, Dream Medical Building)",
+        "address_kr": "부산광역시 북구 만덕대로 22 (덕천동, 드림 메디칼 빌딩)",
+        "phone": "051-904-0010",
+        "coordinates": {
+            "x": 129.00755880700044,
+            "y": 35.21034026331914
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "87-16, Myeongdeok Market-gil, Nam-gu, Daegu, (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 명덕시장길 87-16, (대명동)",
+        "phone": "053-625-4004",
+        "coordinates": {
+            "x": 128.588249989495,
+            "y": 35.845999279795556
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "498 Seunghak-ro, Seo-gu, Incheon",
+        "address_kr": "인천광역시 서구 승학로 498 ",
+        "phone": "070-7619-2828",
+        "coordinates": {
+            "x": 126.6749605016,
+            "y": 37.5651803675
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 14:30",
+            "Tue": "09:00 - 14:30",
+            "Wed": "09:00 - 14:30",
+            "Thu": "09:00 - 14:30",
+            "Fri": "09:00 - 14:30",
+            "Sat": "09:00 - 15:30",
+            "Sun": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#496, 101, 102, Hannuri-daero, Sejong Special Self-Governing City (Eojin-dong, Sejong Richville S)",
+        "address_kr": "세종특별자치시 한누리대로 496, 101, 102호 (어진동, 세종리슈빌S)",
+        "phone": "044-866-2242",
+        "coordinates": {
+            "x": 127.26208966087495,
+            "y": 36.5079711076527
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#2, 1st floor, Haenglim Pharmaceutical, 8 Seochojungang-ro 22-gil, Seocho-gu, Seoul (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 서초중앙로22길 8, 행림약품 1층 2호 (서초동)",
+        "phone": "02-522-5776",
+        "coordinates": {
+            "x": 127.01439203136,
+            "y": 37.4930329589862
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "09:30 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "105 Seodong-ro, Geumjeong-gu, Busan, 1st floor (Seodong)",
+        "address_kr": "부산광역시 금정구 서동로 105, 1층 (서동)",
+        "phone": "051-522-5352",
+        "coordinates": {
+            "x": 126.96284059829655,
+            "y": 35.934432275226996
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#207-1, 288 Gaya-daero, Sasang-gu, Busan (Jurye-dong, Changjo Century Apartment)",
+        "address_kr": "부산광역시 사상구 가야대로 288, 207-1호 (주례동, 창조센츄리아파트)",
+        "phone": "051-322-7871",
+        "coordinates": {
+            "x": 129.00410376669916,
+            "y": 35.149997078738316
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "2395 Dalgubeol-daero, Suseong-gu, Daegu",
+        "address_kr": "대구광역시 수성구 달구벌대로 2395",
+        "phone": "053-754-7589",
+        "coordinates": {
+            "x": 128.62455913907607,
+            "y": 35.85959563871729
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "Room 101, KH Building, 450 Nakdong-daero, Saha-gu, Busan (Dangni-dong)",
+        "address_kr": "부산광역시 사하구 낙동대로 450, KH빌딩 101호 (당리동)",
+        "phone": "051-207-4567",
+        "coordinates": {
+            "x": 128.969537942182,
+            "y": 35.1053888544047
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#108, 4, Jingeon Onam-ro 512beon-gil, Onam-eup, Namyangju-si, Gyeonggi-do",
+        "address_kr": "경기도 남양주시 오남읍 진건오남로512번길  4, 108호",
+        "phone": "031-574-8116",
+        "coordinates": {
+            "x": 127.2094141225,
+            "y": 37.679214972
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 14:00",
+            "Tue": "09:00 - 14:00",
+            "Wed": "09:00 - 14:00",
+            "Thu": "09:00 - 14:00",
+            "Fri": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, 64 Anyeon-ro, Dongrae-gu, Busan (Anrak-dong)",
+        "address_kr": "부산광역시 동래구 안연로 64, 1층 (안락동)",
+        "phone": "051-528-3546",
+        "coordinates": {
+            "x": 129.0991638101043,
+            "y": 35.19311331149943
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "1st floor, 1677 Dongil-ro, Nowon-gu, Seoul (Sanggye-dong, Jeseong Building)",
+        "address_kr": "서울특별시 노원구 동일로 1677, 1층 (상계동, 제성빌딩)",
+        "phone": "02-937-0400",
+        "coordinates": {
+            "x": 127.054968378566,
+            "y": 37.6781841932825
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#405, Building C, 90 Dongam-ro, Buk-gu, Daegu (Dongcheon-dong)",
+        "address_kr": "대구광역시 북구 동암로 90 (동천동) C동 405호",
+        "phone": "053-322-3027",
+        "coordinates": {
+            "x": 128.56032810852406,
+            "y": 35.944107790276206
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:30",
+            "Tue": "09:30 - 18:30",
+            "Wed": "09:30 - 18:30",
+            "Thu": "09:30 - 18:30",
+            "Fri": "09:30 - 18:30",
+            "Sat": "09:30 - 13:00",
+            "Sun": "09:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "23, Chungryeol-daero 237beon-gil, Dongrae-gu, Busan (Suan-dong)",
+        "address_kr": "부산광역시 동래구 충렬대로237번길 23 (수안동)",
+        "phone": "051-558-7751",
+        "coordinates": {
+            "x": 129.0851754215,
+            "y": 35.2026225269
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "395 Sagajeong-ro, Jungnang-gu, Seoul (Myeonmok-dong)",
+        "address_kr": "서울특별시 중랑구 사가정로 395 (면목동)",
+        "phone": "02-432-6641",
+        "coordinates": {
+            "x": 127.088656733057,
+            "y": 37.5808634963015
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:30",
+            "Tue": "09:30 - 18:30",
+            "Wed": "09:30 - 18:30",
+            "Thu": "09:30 - 18:30",
+            "Fri": "09:30 - 18:30",
+            "Sat": "09:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "17 Jungdong 1-ro, Haeundae-gu, Busan (Jungdong)",
+        "address_kr": "부산광역시 해운대구 중동1로 17 (중동)",
+        "phone": "051-746-7182",
+        "coordinates": {
+            "x": 129.1618486911,
+            "y": 35.163548448
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#103, 1st floor, 136 Dongseong-ro, Busanjin-gu, Busan (Jeonpo-dong)",
+        "address_kr": "부산광역시 부산진구 동성로 136, 1층 103호 (전포동)",
+        "phone": "051-819-9588",
+        "coordinates": {
+            "x": 129.0644181332,
+            "y": 35.1610420495
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 19:20",
+            "Tue": "08:50 - 19:20",
+            "Wed": "08:50 - 19:20",
+            "Thu": "13:50 - 19:20",
+            "Fri": "08:50 - 19:20",
+            "Sat": "08:50 - 14:20"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "139-33, Gimpo Hangang 11-ro, Gimpo-si, Gyeonggi-do, 1st floor (Janggi-dong)",
+        "address_kr": "경기도 김포시 김포한강11로 139-33, 1층 (장기동)",
+        "phone": "031-989-1547",
+        "coordinates": {
+            "x": 126.68000443554075,
+            "y": 37.64547924140813
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "358 Gyeongsu-daero, Gwonseon-gu, Suwon-si, Gyeonggi-do (Gwonseon-dong)",
+        "address_kr": "경기도 수원시 권선구 경수대로 358 (권선동)",
+        "phone": "070-8852-8621",
+        "coordinates": {
+            "x": 127.02345178912122,
+            "y": 37.25832014547569
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#509, 219, Gilju-ro, Bucheon-si, Gyeonggi-do (Middle East)",
+        "address_kr": "경기도 부천시 길주로 219, 509호 (중동)",
+        "phone": "032-323-4288",
+        "coordinates": {
+            "x": 126.76673774483814,
+            "y": 37.50485384857877
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "08:30 - 14:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#108, 10 Gangnamdong-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Gugal-dong)",
+        "address_kr": "경기도 용인시 기흥구 강남동로 10 , 108호 (구갈동)",
+        "phone": "031-693-6424",
+        "coordinates": {
+            "x": 127.12813949908961,
+            "y": 37.27125825229772
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 21:30",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "72 Gukwon-daero, Chungju-si, Chungcheongbuk-do",
+        "address_kr": "충청북도 충주시 국원대로 72",
+        "phone": "043-910-1212",
+        "coordinates": {
+            "x": 127.92832414139652,
+            "y": 36.97765840529821
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "717 Nonhyeon-ro, Gangnam-gu, Seoul",
+        "address_kr": "서울특별시 강남구 논현로 717",
+        "phone": "02-548-3856",
+        "coordinates": {
+            "x": 127.029536928342,
+            "y": 37.5159610912838
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:30",
+            "Tue": "09:00 - 17:30",
+            "Wed": "09:00 - 17:30",
+            "Thu": "09:00 - 17:30",
+            "Fri": "09:00 - 17:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Onnuri Pharmacy",
+        "pharmacy_name_kr": "드림온누리약국",
+        "address_en": "1st floor, 2210 Dalgubeol-daero, Jung-gu, Daegu (Daebong-dong)",
+        "address_kr": "대구광역시 중구 달구벌대로 2210, 1층 (대봉동)",
+        "phone": "053-522-9393",
+        "coordinates": {
+            "x": 128.5596446735758,
+            "y": 35.87059656920619
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Onnuri Pharmacy",
+        "pharmacy_name_kr": "드림온누리약국",
+        "address_en": "68-1, Mokdongjungangbon-ro, Yangcheon-gu, Seoul (Mok-dong)",
+        "address_kr": "서울특별시 양천구 목동중앙본로 68-1 (목동)",
+        "phone": "02-2062-8872",
+        "coordinates": {
+            "x": 126.869331411769,
+            "y": 37.5419076516506
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Onnuri Pharmacy",
+        "pharmacy_name_kr": "드림온누리약국",
+        "address_en": "#122, 15 Jeongbalsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Janghang-dong, Dream World Plaza)",
+        "address_kr": "경기도 고양시 일산동구 정발산로 15, 122호 (장항동, 드림월드프라자 )",
+        "phone": "031-905-5520",
+        "coordinates": {
+            "x": 126.7709131934233,
+            "y": 37.65649259060543
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Onnuri Pharmacy",
+        "pharmacy_name_kr": "드림온누리약국",
+        "address_en": "555 Madeul-ro, Dobong-gu, Seoul (Changdong)",
+        "address_kr": "서울특별시 도봉구 마들로 555   (창동)",
+        "phone": "02-999-1514",
+        "coordinates": {
+            "x": 127.048652457888,
+            "y": 37.6603292711101
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 19:20",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 19:20",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Castle Pharmacy",
+        "pharmacy_name_kr": "드림캐슬약국",
+        "address_en": "#101, 1st floor, 126, Jung-daero, Songpa-gu, Seoul (Garak-dong)",
+        "address_kr": "서울특별시 송파구 중대로 126, 1층 101호 (가락동)",
+        "phone": "070-7576-2226",
+        "coordinates": {
+            "x": 127.122247312503,
+            "y": 37.4939995366148
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Care Pharmacy",
+        "pharmacy_name_kr": "드림케어약국",
+        "address_en": "Room 107, 1st floor, 162 Apgujeong-ro (Sinsa-dong), Gangnam-gu, Seoul",
+        "address_kr": "서울특별시 강남구 압구정로 162 (신사동) 1층 107호",
+        "phone": "050-71433-2878",
+        "coordinates": {
+            "x": 127.027465990023,
+            "y": 37.5263096990298
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:30",
+            "Tue": "09:30 - 20:00",
+            "Wed": "09:30 - 19:30",
+            "Thu": "09:30 - 20:00",
+            "Fri": "09:30 - 19:30",
+            "Sat": "09:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dreampia Pharmacy",
+        "pharmacy_name_kr": "드림피아약국",
+        "address_en": "#113,114, Gyeongnam Building, 26, Cheongsa-ro 5beon-gil, Uijeongbu-si, Gyeonggi-do (Singok-dong)",
+        "address_kr": "경기도 의정부시 청사로5번길 26, 경남빌딩 113,114호 (신곡동)",
+        "phone": "031-852-4457",
+        "coordinates": {
+            "x": 127.06955309547567,
+            "y": 37.748769738328015
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "10:00 - 13:30",
+            "Holiday": "10:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dreampia Pharmacy",
+        "pharmacy_name_kr": "드림피아약국",
+        "address_en": "#127, 1623 Bongyeong-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+        "address_kr": "경기도 수원시 영통구 봉영로 1623 127호",
+        "phone": "031-205-3885",
+        "coordinates": {
+            "x": 127.07473584312541,
+            "y": 37.255934544244866
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dreampia Pharmacy",
+        "pharmacy_name_kr": "드림피아약국",
+        "address_en": "428 Palyong-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 창원시 의창구 팔용로 428",
+        "phone": "055-299-3139",
+        "coordinates": {
+            "x": 128.61280120877382,
+            "y": 35.25458003494528
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Oriental Pharmacy",
+        "pharmacy_name_kr": "드림한약국",
+        "address_en": "9-47 Palma 1-gil, Suncheon-si, Jeollanam-do (Yeonhyang-dong)",
+        "address_kr": "전라남도 순천시 팔마1길 9-47 (연향동)",
+        "phone": "061-753-9188",
+        "coordinates": {
+            "x": 127.48347434784323,
+            "y": 34.97479314496131
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dreamho Pharmacy",
+        "pharmacy_name_kr": "드림호약국",
+        "address_en": "Room 102, 1st floor, Dream Building, 59 Yongjeonggongwon-ro 83beon-gil, Michuhol-gu, Incheon (Yonghyeon-dong)",
+        "address_kr": "인천광역시 미추홀구 용정공원로83번길 59, 드림빌딩 1층 102호 (용현동)",
+        "phone": "032-888-6123",
+        "coordinates": {
+            "x": 126.649362963469,
+            "y": 37.4475031842991
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "Room 101, 1st floor, 67 Bupyeong-daero, Bupyeong-gu, Incheon (Bupyeong-dong)",
+        "address_kr": "인천광역시 부평구 부평대로 67, 1층 101호 (부평동)",
+        "phone": "032-501-1134",
+        "coordinates": {
+            "x": 126.7220214896,
+            "y": 37.4974022027191
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "1st floor, 12 Hwigyeong-ro, Dongdaemun-gu, Seoul (Imun-dong)",
+        "address_kr": "서울특별시 동대문구 휘경로 12, 1층 (이문동)",
+        "phone": "02-6449-7004",
+        "coordinates": {
+            "x": 127.061275615407,
+            "y": 37.5958536681251
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "#160, Haitai Shopping Town, 241 Jungsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Jungsan-dong)",
+        "address_kr": "경기도 고양시 일산동구 중산로 241, 해태쇼핑타운 160호 (중산동)",
+        "phone": "031-976-0869",
+        "coordinates": {
+            "x": 126.780140675938,
+            "y": 37.6936991521008
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "#303-2, 3rd floor, Samjin Building, 113 Achasan-ro, Seongdong-gu, Seoul (Seongsu-dong 2-ga)",
+        "address_kr": "서울특별시 성동구 아차산로 113, 삼진빌딩 3층 303-2호 (성수동2가)",
+        "phone": "02-469-0749",
+        "coordinates": {
+            "x": 127.056933860698,
+            "y": 37.5446930967018
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "Room 102, 1st floor, Yuhan Building, 21 Dokbae-ro 40beon-gil, Yeonsu-gu, Incheon (Okryeon-dong)",
+        "address_kr": "인천광역시 연수구 독배로40번길 21, 유한빌딩 1층 102호 (옥련동)",
+        "phone": "032-832-6482",
+        "coordinates": {
+            "x": 126.646019974335,
+            "y": 37.4244801272022
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "#113, Jungsan Tower, 27 Pentahills 2-ro, Gyeongsan-si, Gyeongsangbuk-do (Jungsan-dong)",
+        "address_kr": "경상북도 경산시 펜타힐즈2로 27, 중산타워 113호 (중산동)",
+        "phone": "053-815-6161",
+        "coordinates": {
+            "x": 128.71796266614,
+            "y": 35.827154590898
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "1st floor, 7, Juksan-ro 40beon-gil, Mokpo-si, Jeollanam-do (Sanjeong-dong)",
+        "address_kr": "전라남도 목포시 죽산로40번길 7, 1층 (산정동)",
+        "phone": "061-279-8965",
+        "coordinates": {
+            "x": 126.46067280038623,
+            "y": 34.8099721329242
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "Room 43, 1st floor, Central 500, 2, Sinbong 2-ro, Suji-gu, Yongin-si, Gyeonggi-do (Sinbong-dong)",
+        "address_kr": "경기도 용인시 수지구 신봉2로 2, 센트럴500 1층 43호 (신봉동)",
+        "phone": "0318891116",
+        "coordinates": {
+            "x": 127.078027112795,
+            "y": 37.3231709437751
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "1st floor, 25 Gongbuk-ro, Deokjin-gu, Jeonju-si, Jeonbuk-do (Jinbuk-dong)",
+        "address_kr": "전북특별자치도 전주시 덕진구 공북로 25, 1층 (진북동)",
+        "phone": "063-278-2004",
+        "coordinates": {
+            "x": 127.13476003591,
+            "y": 35.8254790034952
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "3rd floor, 71 Songwon-ro, Jangan-gu, Suwon-si, Gyeonggi-do (Songjuk-dong)",
+        "address_kr": "경기도 수원시 장안구 송원로 71, 3층 (송죽동)",
+        "phone": "031-253-1120",
+        "coordinates": {
+            "x": 127.008794011746,
+            "y": 37.3013235429065
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dependent Pharmacy",
+        "pharmacy_name_kr": "든든약국",
+        "address_en": "#104, 1st floor, 16 Hamsong-ro, Siheung-si, Gyeonggi-do (Jeongwang-dong)",
+        "address_kr": "경기도 시흥시 함송로 16, 1층 104호 (정왕동)",
+        "phone": "031-496-9489",
+        "coordinates": {
+            "x": 126.72957335090031,
+            "y": 37.363755192533574
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Deundeun Onnuri Pharmacy",
+        "pharmacy_name_kr": "든든온누리약국",
+        "address_en": "Room 402, 4th floor, Indeokwon Gold Plaza, 533 Heungan-daero, Dongan-gu, Anyang-si, Gyeonggi-do (Gwanyang-dong)",
+        "address_kr": "경기도 안양시 동안구 흥안대로 533, 인덕원 골드프라자 4층 402호 (관양동)",
+        "phone": "031-424-1139",
+        "coordinates": {
+            "x": 126.976154529815,
+            "y": 37.4016040808594
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "A strong pharmacy",
+        "pharmacy_name_kr": "든든한약국",
+        "address_en": "#106, 5 Jeongdeun-ro, Suji-gu, Yongin-si, Gyeonggi-do (Jukjeon-dong, Jukjeon Station Solheim)",
+        "address_kr": "경기도 용인시 수지구 정든로 5, 106호 (죽전동, 죽전역 솔하임)",
+        "phone": "031-8067-7556",
+        "coordinates": {
+            "x": 127.11354049450202,
+            "y": 37.327505445687585
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:30",
+            "Tue": "08:00 - 20:30",
+            "Wed": "08:00 - 20:30",
+            "Thu": "08:00 - 20:30",
+            "Fri": "08:00 - 20:30",
+            "Sat": "08:00 - 16:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wildflower Pharmacy",
+        "pharmacy_name_kr": "들꽃약국",
+        "address_en": "1st floor, 2288 Gangbyeon-daero, Seokjeok-eup, Chilgok-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 칠곡군 석적읍 강변대로 2288, 1층",
+        "phone": "054-976-9797",
+        "coordinates": {
+            "x": 128.394261602417,
+            "y": 36.0755484364466
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wildflower Pharmacy",
+        "pharmacy_name_kr": "들꽃약국",
+        "address_en": "#201, 2nd floor, 415 Hakjeong-ro, Buk-gu, Daegu (Dongcheon-dong, Megatown)",
+        "address_kr": "대구광역시 북구 학정로 415, 2층 201호 (동천동, 메가타운)",
+        "phone": "0533259898",
+        "coordinates": {
+            "x": 128.5629875893,
+            "y": 35.9418491752
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Deulmoeful Oriental Medicine Pharmacy",
+        "pharmacy_name_kr": "들뫼풀한약국",
+        "address_en": "7-3 Domasajang 1-gil, Seo-gu, Daejeon (Doma-dong)",
+        "address_kr": "대전광역시 서구 도마시장1길 7-3 (도마동)",
+        "phone": "042-536-6080",
+        "coordinates": {
+            "x": 127.382037611953,
+            "y": 36.3152730825271
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Lighthouse Pharmacy",
+        "pharmacy_name_kr": "등대약국",
+        "address_en": "#103, 1st floor, 1254 Hoejae-ro, Nam-gu, Gwangju (Juwol-dong)",
+        "address_kr": "광주광역시 남구 회재로 1254, 1층 103호 (주월동)",
+        "phone": "062-675-1495",
+        "coordinates": {
+            "x": 126.897913421477,
+            "y": 35.1340917215609
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Didim Onnuri Pharmacy",
+        "pharmacy_name_kr": "디딤온누리약국",
+        "address_en": "1st floor, 653 Cheonho-daero, Gwangjin-gu, Seoul (Junggok-dong)",
+        "address_kr": "서울특별시 광진구 천호대로 653, 1층 (중곡동)",
+        "phone": "02-456-9972",
+        "coordinates": {
+            "x": 127.089651674655,
+            "y": 37.5528436733499
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "This Is Pharmacy",
+        "pharmacy_name_kr": "디스이즈약국",
+        "address_en": "#101, 1st floor, 1190 Gyoha-ro, Paju-si, Gyeonggi-do (Dayul-dong)",
+        "address_kr": "경기도 파주시 교하로 1190, 1층 101호 (다율동)",
+        "phone": "031-945-1330",
+        "coordinates": {
+            "x": 126.728382299748,
+            "y": 37.7440230032147
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "DS R Pharmacy",
+        "pharmacy_name_kr": "디에스알약국",
+        "address_en": "1 Samsung Electronics-ro, Hwaseong-si, Gyeonggi-do, Parts Research Building, Basement 1 (Banwol-dong)",
+        "address_kr": "경기도 화성시 삼성전자로 1, 부품연구동 지하1층 (반월동)",
+        "phone": "031-8096-0138",
+        "coordinates": {
+            "x": 127.0702390239,
+            "y": 37.2252801232
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:00",
+            "Tue": "08:00 - 17:00",
+            "Wed": "08:00 - 17:00",
+            "Thu": "08:00 - 17:00",
+            "Fri": "08:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "DH Medical Pharmacy",
+        "pharmacy_name_kr": "디에이치(DH)메디컬약국",
+        "address_en": "1st floor, 271 Seokjeong-ro, Michuhol-gu, Incheon (Dohwa-dong)",
+        "address_kr": "인천광역시 미추홀구 석정로 271, 1층 (도화동)",
+        "phone": "032-874-0405",
+        "coordinates": {
+            "x": 126.6656847842,
+            "y": 37.4685745224
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "DMC Exit 4 Pharmacy",
+        "pharmacy_name_kr": "디엠씨4번출구약국",
+        "address_en": "Room 003, 1st floor, Basement 175, Susaek-ro, Eunpyeong-gu, Seoul",
+        "address_kr": "서울특별시 은평구 수색로 지하 175 1층 003호",
+        "phone": "02-2039-0190",
+        "coordinates": {
+            "x": 126.901928562926,
+            "y": 37.5771614352661
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "DMC Jin Pharmacy",
+        "pharmacy_name_kr": "디엠씨진약국",
+        "address_en": "Room 133, 1st floor, 217 Susaek-ro, Eunpyeong-gu, Seoul (Susaek-dong, DMC Xi Complex 1)",
+        "address_kr": "서울특별시 은평구 수색로 217, 1층 133호 (수색동, 디엠씨 자이1단지)",
+        "phone": "02-303-6288",
+        "coordinates": {
+            "x": 126.898678379239,
+            "y": 37.5796932759305
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:30",
+            "Tue": "09:30 - 20:00",
+            "Wed": "09:30 - 20:00",
+            "Thu": "09:30 - 20:30",
+            "Fri": "09:30 - 20:30",
+            "Sat": "09:00 - 18:30",
+            "Sun": "09:00 - 18:30",
+            "Holiday": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "DMC Hyewon Pharmacy",
+        "pharmacy_name_kr": "디엠씨혜원약국",
+        "address_en": "4, Geumo 16-gil, Dong-myeon, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 동면 금오16길 4",
+        "phone": "055-382-0118",
+        "coordinates": {
+            "x": 129.0257786123,
+            "y": 35.3177174614
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dioville Pharmacy",
+        "pharmacy_name_kr": "디오빌약국",
+        "address_en": "222 Dangsan-ro, Yeongdeungpo-gu, Seoul",
+        "address_kr": "서울특별시 영등포구 당산로 222",
+        "phone": "02-2633-5545",
+        "coordinates": {
+            "x": 126.902291122854,
+            "y": 37.5332447828491
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Ocean Water Pharmacy",
+        "pharmacy_name_kr": "디오션수약국",
+        "address_en": "5, Gungpo 3-ro, Gunsan-si, Jeollabuk-do (Jochon-dong)",
+        "address_kr": "전북특별자치도 군산시 궁포3로 5 (조촌동)",
+        "phone": "0634458275",
+        "coordinates": {
+            "x": 126.74107956081,
+            "y": 35.9760610393247
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
     }
 ]
