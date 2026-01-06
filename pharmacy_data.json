@@ -230129,5 +230129,1934 @@
             "Fri": "09:00 - 19:30",
             "Sat": "09:00 - 16:30"
         }
+    },
+    {
+        "pharmacy_name_en": "Seine Pharmacy",
+        "pharmacy_name_kr": "센느약국",
+        "address_en": "Room 104, 1st floor, 466 Sumokwon-ro, Osan-si, Gyeonggi-do (Geumam-dong)",
+        "address_kr": "경기도 오산시 수목원로 466, 1층 104호 (금암동)",
+        "phone": "031-376-4569",
+        "coordinates": {
+            "x": 127.04998708172779,
+            "y": 37.17527481879924
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:30",
+            "Sun": "08:30 - 18:00",
+            "Holiday": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sense Pharmacy",
+        "pharmacy_name_kr": "센스약국",
+        "address_en": "Rooms 108 and 109, 1st floor, Triple Tower A, 205, Sinheung-ro, Wonmi-gu, Bucheon-si, Gyeonggi-do (Middle East)",
+        "address_kr": "경기도 부천시 원미구 신흥로 205, 트리플 타워 A 1층 108호 109호 (중동)",
+        "phone": "032-325-2339",
+        "coordinates": {
+            "x": 126.775994803749,
+            "y": 37.5019009826922
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Farm Pharmacy",
+        "pharmacy_name_kr": "센츄럴팜약국",
+        "address_en": "405 Hangang-daero, Jung-gu, Seoul (Bongrae-dong 2-ga)",
+        "address_kr": "서울 중구 한강대로 405   (봉래동2가)",
+        "phone": "02-393-5505",
+        "coordinates": {
+            "x": 126.971732581232,
+            "y": 37.5548375992165
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:30",
+            "Tue": "10:00 - 21:30",
+            "Wed": "10:00 - 21:30",
+            "Thu": "10:00 - 21:30",
+            "Fri": "10:00 - 21:30",
+            "Sat": "10:00 - 21:30",
+            "Sun": "10:00 - 21:30",
+            "Holiday": "10:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "#104, Center Plaza, 123 Okgil-ro, Bucheon-si, Gyeonggi-do (Okgil-dong)",
+        "address_kr": "경기도 부천시 옥길로 123, 센타프라자 104호 (옥길동)",
+        "phone": "032-662-7778",
+        "coordinates": {
+            "x": 126.8224889163,
+            "y": 37.4679950841
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "20-9, Ichung-ro 35beon-gil, Pyeongtaek-si, Gyeonggi-do, Ichung Center Plaza (Ichung-dong)",
+        "address_kr": "경기도 평택시 이충로35번길 20-9, 이충센타프라자 (이충동)",
+        "phone": "031-667-5075",
+        "coordinates": {
+            "x": 127.06649893065072,
+            "y": 37.060327375462116
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "08:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "122 Seongho-daero, Osan-si, Gyeonggi-do",
+        "address_kr": "경기도 오산시 성호대로 122",
+        "phone": "031-372-5131",
+        "coordinates": {
+            "x": 127.07482273042741,
+            "y": 37.14850189503552
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 21:30",
+            "Sun": "11:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "#112, 32, Jeonwon-ro, Gimpo-si, Gyeonggi-do (Janggi-dong, Jeonwonmaeul Shopping Mall)",
+        "address_kr": "경기도 김포시 전원로 32, 112호 (장기동, 전원마을상가동)",
+        "phone": "031-983-4986",
+        "coordinates": {
+            "x": 126.68344994424189,
+            "y": 37.64664519178001
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "122 Hwarang-ro, Suseong-gu, Daegu (Manchon-dong)",
+        "address_kr": "대구광역시 수성구 화랑로 122  (만촌동)",
+        "phone": "053-743-0626",
+        "coordinates": {
+            "x": 128.64005510546946,
+            "y": 35.87348617563663
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 17:00",
+            "Sun": "09:00 - 15:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "Rooms 106-107, 1st floor, 514 Gunja-ro, Siheung-si, Gyeonggi-do (Geomo-dong, Geomo Plaza)",
+        "address_kr": "경기도 시흥시 군자로 514 , 1층 106~107호 (거모동, 거모프라자)",
+        "phone": "031-491-0640",
+        "coordinates": {
+            "x": 126.78482618478023,
+            "y": 37.34426225760431
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "121 Sinsong-ro, Yeonsu-gu, Incheon",
+        "address_kr": "인천광역시 연수구 신송로 121",
+        "phone": "032-851-0672",
+        "coordinates": {
+            "x": 126.65195891113771,
+            "y": 37.39539939255947
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 16:00",
+            "Tue": "09:00 - 16:00",
+            "Wed": "09:00 - 16:00",
+            "Thu": "09:00 - 16:00",
+            "Fri": "09:00 - 16:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "#109, 91, Misagangbyeon-daero 54beon-gil, Hanam-si, Gyeonggi-do (Pungsan-dong)",
+        "address_kr": "경기도 하남시 미사강변대로54번길 91, 109호 (풍산동)",
+        "phone": "031-795-5307",
+        "coordinates": {
+            "x": 127.188820247767,
+            "y": 37.5568749200703
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "Room 102, 1st floor, 266 Jungang-ro, Jeju-si, Jeju-do (Ido-dong, Yeongdo Galaxy Town)",
+        "address_kr": "제주특별자치도 제주시 중앙로 266, 1층 102호 (이도이동, 영도 갤럭시타운)",
+        "phone": "064-752-3050",
+        "coordinates": {
+            "x": 126.5318006709,
+            "y": 33.4961286008
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "#103, 93, Gyesansae-ro, Gyeyang-gu, Incheon (Yongjong-dong, Millennium Plaza)",
+        "address_kr": "인천광역시 계양구 계산새로 93, 103호 (용종동,밀레니엄프라자)",
+        "phone": "032-552-1168",
+        "coordinates": {
+            "x": 126.7385170014428,
+            "y": 37.538164202571714
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 25:00",
+            "Tue": "10:00 - 25:00",
+            "Wed": "10:00 - 25:00",
+            "Thu": "10:00 - 25:00",
+            "Fri": "10:00 - 25:00",
+            "Sat": "11:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센타약국",
+        "address_en": "Room 303, Daeyu Building, 32 Samcheonbyeongma-ro 1598beon-gil, Gwonseon-gu, Suwon-si, Gyeonggi-do (Omokcheon-dong)",
+        "address_kr": "경기도 수원시 권선구 삼천병마로1598번길 32, 대유빌딩 303호 (오목천동)",
+        "phone": "031-296-0064",
+        "coordinates": {
+            "x": 126.96529029049731,
+            "y": 37.245738793058045
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Plaza Pharmacy",
+        "pharmacy_name_kr": "센타프라자약국",
+        "address_en": "#109,110, 45, Seongseongjungang-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Manseong-dong)",
+        "address_kr": "전북특별자치도 전주시 덕진구 만성중앙로 45, 109,110호 (만성동)",
+        "phone": "063-214-7585",
+        "coordinates": {
+            "x": 127.07684138528045,
+            "y": 35.843113176869316
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "14:00 - 20:00",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Pharmacy",
+        "pharmacy_name_kr": "센터약국",
+        "address_en": "1st floor, 32 Haengbok-ro, Uijeongbu-si, Gyeonggi-do (Uijeongbu-dong)",
+        "address_kr": "경기도 의정부시 행복로 32, 1층 (의정부동)",
+        "phone": "031-842-3600",
+        "coordinates": {
+            "x": 127.049969382991,
+            "y": 37.7414201010037
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 23:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 23:00",
+            "Sat": "09:00 - 23:00",
+            "Sun": "09:00 - 23:00",
+            "Holiday": "09:00 - 23:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Center Onnuri Pharmacy",
+        "pharmacy_name_kr": "센터온누리약국",
+        "address_en": "420 Neungdong-ro, Gwangjin-gu, Seoul (Junggok-dong)",
+        "address_kr": "서울특별시 광진구 능동로 420, (중곡동)",
+        "phone": "02-461-1045",
+        "coordinates": {
+            "x": 127.0847631669,
+            "y": 37.5662934892073
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Health Pharmacy",
+        "pharmacy_name_kr": "센텀건강약국",
+        "address_en": "35 Centumnam-daero, Haeundae-gu, Busan",
+        "address_kr": "부산광역시 해운대구 센텀남대로 35",
+        "phone": "051-745-2170",
+        "coordinates": {
+            "x": 129.1290321411477,
+            "y": 35.16878810898165
+        },
+        "operating_hours": {
+            "Mon": "11:00 - 20:00",
+            "Tue": "11:00 - 20:00",
+            "Wed": "11:00 - 20:00",
+            "Thu": "11:00 - 20:00",
+            "Fri": "11:00 - 20:00",
+            "Sat": "11:00 - 20:30",
+            "Sun": "11:00 - 20:30",
+            "Holiday": "11:00 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Dream Pharmacy",
+        "pharmacy_name_kr": "센텀드림약국",
+        "address_en": "Room 105, Centum Dream World, 25 Centum 2-ro, Haeundae-gu, Busan (Udon)",
+        "address_kr": "부산광역시 해운대구 센텀2로 25, 센텀드림월드 105호 (우동)",
+        "phone": "051-741-3016",
+        "coordinates": {
+            "x": 129.13295395442094,
+            "y": 35.16694452849038
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Malgeun Pharmacy",
+        "pharmacy_name_kr": "센텀맑은약국",
+        "address_en": "#103, 50 Centum Nam-daero, Haeundae-gu, Busan (Udon, Centum Imperial Tower)",
+        "address_kr": "부산광역시 해운대구 센텀남대로 50, 103호 (우동, 센텀임페리얼타워)",
+        "phone": "051-746-1229",
+        "coordinates": {
+            "x": 129.13135480833208,
+            "y": 35.16813450142113
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:10",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 20:10",
+            "Thu": "09:00 - 20:10",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum City Pharmacy",
+        "pharmacy_name_kr": "센텀시티약국",
+        "address_en": "20 Centum 2-ro, Haeundae-gu, Busan",
+        "address_kr": "부산광역시 해운대구 센텀2로 20",
+        "phone": "051-747-2450",
+        "coordinates": {
+            "x": 129.13199208750765,
+            "y": 35.16732307648028
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:35",
+            "Tue": "09:00 - 18:35",
+            "Wed": "09:00 - 18:35",
+            "Thu": "09:00 - 18:35",
+            "Fri": "09:00 - 18:35",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "Room 101, 1st floor, Centum Ciel, 312 Gamgye-ro, Buk-myeon, Uichang-gu, Changwon-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 창원시 의창구 북면 감계로 312, 센텀시엘 1층 101호",
+        "phone": "055-294-9677",
+        "coordinates": {
+            "x": 128.595076804786,
+            "y": 35.3020017295677
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "Room 101, Avo Tower, 168 Wolbae-ro, Dalseo-gu, Daegu (Sangin-dong)",
+        "address_kr": "대구광역시 달서구 월배로 168, 아보스타워 101호 (상인동)",
+        "phone": "053-641-2323",
+        "coordinates": {
+            "x": 128.53229932337348,
+            "y": 35.816707510622834
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "1st floor, 26 Mayu-ro 238beon-gil, Siheung-si, Gyeonggi-do (Jeongwang-dong)",
+        "address_kr": "경기도 시흥시 마유로238번길 26, 1층 (정왕동)",
+        "phone": "031-432-6177",
+        "coordinates": {
+            "x": 126.73067814530945,
+            "y": 37.33762795092756
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 21:00",
+            "Sun": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "#101, 15 Centum 2-ro, Haeundae-gu, Busan (Udon, Centum Brian)",
+        "address_kr": "부산광역시 해운대구 센텀2로 15, 101호 (우동, 센텀브라이언)",
+        "phone": "051-744-2028",
+        "coordinates": {
+            "x": 129.1323528754002,
+            "y": 35.167691603466736
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "228, Dawn-ro, Sasang-gu, Busan",
+        "address_kr": "부산광역시 사상구 새벽로 228",
+        "phone": "051-316-6613",
+        "coordinates": {
+            "x": 128.98452074516115,
+            "y": 35.16138565976821
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "1st floor, 14, Cheongok-ro, Juchon-myeon, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 주촌면 천곡로 14, 1층",
+        "phone": "055-904-0003",
+        "coordinates": {
+            "x": 128.83820262586144,
+            "y": 35.233960223609515
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "#116, 1st floor, Building 1, Yangdeok-dong Metrocentum, 130 Yongma-ro, Masanhoewon-gu, Changwon-si, Gyeongsangnam-do (Yangdeok-dong)",
+        "address_kr": "경상남도 창원시 마산회원구 용마로 130, 양덕동메트로센텀 제1동 제1층 116호 (양덕동)",
+        "phone": "055-294-7415",
+        "coordinates": {
+            "x": 128.5860885810207,
+            "y": 35.22358361038385
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "1st floor, 1-16, Samheung-ro 233beon-gil, Buk-gu, Pohang-si, Gyeongsangbuk-do (Jangseong-dong)",
+        "address_kr": "경상북도 포항시 북구 삼흥로233번길 1-16, 1층 (장성동)",
+        "phone": "054-251-7890",
+        "coordinates": {
+            "x": 129.379579604522,
+            "y": 36.0821728684351
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Pharmacy",
+        "pharmacy_name_kr": "센텀약국",
+        "address_en": "3 Gagok 7-gil, Miryang-si, Gyeongsangnam-do (Gagok-dong)",
+        "address_kr": "경상남도 밀양시 가곡7길 3 (가곡동)",
+        "phone": "055-356-4560",
+        "coordinates": {
+            "x": 128.767476185909,
+            "y": 35.474928886651
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "14:00 - 18:00",
+            "Holiday": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Onnuri Pharmacy",
+        "pharmacy_name_kr": "센텀온누리약국",
+        "address_en": "Room 106, 1st floor, 6-10, Gimhae-daero 365beon-gil, Jinyeong-eup, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 진영읍 김해대로365번길 6-10, 1층 106호",
+        "phone": "055-723-4564",
+        "coordinates": {
+            "x": 128.730639778594,
+            "y": 35.3069746781842
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Euro Pharmacy",
+        "pharmacy_name_kr": "센텀유로약국",
+        "address_en": "Room 414, Centum Leaders Mark, 17 APEC-ro, Haeundae-gu, Busan (Udon)",
+        "address_kr": "부산광역시 해운대구 APEC로 17, 센텀리더스마크 414호 (우동)",
+        "phone": "051-715-7771",
+        "coordinates": {
+            "x": 129.132411521392,
+            "y": 35.1659324519479
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 20:00",
+            "Tue": "10:00 - 20:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 20:00",
+            "Fri": "10:00 - 20:00",
+            "Sat": "10:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Central Pharmacy",
+        "pharmacy_name_kr": "센텀중앙약국",
+        "address_en": "1st floor, Haeundae Centum Medical Center, 369 Haeundae-daero, Haeundae-gu, Busan (U-dong)",
+        "address_kr": "부산광역시 해운대구 해운대로 369, 해운대센텀메디칼센터 1층 (우동)",
+        "phone": "051-744-7275",
+        "coordinates": {
+            "x": 129.1377315634,
+            "y": 35.1701945154
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Big Pharmacy",
+        "pharmacy_name_kr": "센텀큰약국",
+        "address_en": "15, Suyeong-ro 679beon-gil, Suyeong-gu, Busan, 1st floor (Gwangan-dong)",
+        "address_kr": "부산광역시 수영구 수영로679번길 15, 1층 (광안동)",
+        "phone": "051-984-5005",
+        "coordinates": {
+            "x": 129.113959053906,
+            "y": 35.166519043775
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00",
+            "Sun": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Park Pharmacy",
+        "pharmacy_name_kr": "센텀파크약국",
+        "address_en": "#205, Shopping Building 7, 145 Centum Jungang-ro, Haeundae-gu, Busan (Jaesong-dong, The Sharp Centum Park 1st Apartment)",
+        "address_kr": "부산광역시 해운대구 센텀중앙로 145, 상가7동 205호 (재송동, 더샵센텀파크1차아파트)",
+        "phone": "051-741-1063",
+        "coordinates": {
+            "x": 129.12359153829192,
+            "y": 35.17675857681747
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Comfortable Pharmacy",
+        "pharmacy_name_kr": "센텀편안한약국",
+        "address_en": "#103, 60 Centumbuk-daero, Haeundae-gu, Busan (Jaesong-dong, Centum IS Tower)",
+        "address_kr": "부산광역시 해운대구 센텀북대로 60, 103호 (재송동, 센텀아이에스타워)",
+        "phone": "051-784-1529",
+        "coordinates": {
+            "x": 129.125410468606,
+            "y": 35.17664375415083
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Plaza Pharmacy",
+        "pharmacy_name_kr": "센텀프라자약국",
+        "address_en": "#110,111, 142, Dongtan-daerosibeomg-gil, Hwaseong-si, Gyeonggi-do (Cheonggye-dong, Centum Plaza)",
+        "address_kr": "경기도 화성시 동탄대로시범길 142, 110,111호 (청계동, 센텀프라자)",
+        "phone": "031-378-4667",
+        "coordinates": {
+            "x": 127.1133883198,
+            "y": 37.1999199735
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Feel Pharmacy",
+        "pharmacy_name_kr": "센텀필약국",
+        "address_en": "102 Centumdong-ro, Haeundae-gu, Busan",
+        "address_kr": "부산광역시 해운대구 센텀동로 102",
+        "phone": "051-781-8989",
+        "coordinates": {
+            "x": 129.12682415339904,
+            "y": 35.17620904318296
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 16:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centum Hongeun Pharmacy",
+        "pharmacy_name_kr": "센텀홍은약국",
+        "address_en": "10 Centum 2-ro, Haeundae-gu, Busan",
+        "address_kr": "부산광역시 해운대구 센텀2로 10 ",
+        "phone": "051-746-1131",
+        "coordinates": {
+            "x": 129.13152413324286,
+            "y": 35.16783120274623
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 25:00",
+            "Tue": "09:00 - 25:00",
+            "Wed": "09:00 - 25:00",
+            "Thu": "09:00 - 25:00",
+            "Fri": "09:00 - 25:00",
+            "Sat": "09:00 - 25:00",
+            "Sun": "22:00 - 25:00",
+            "Holiday": "22:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Bom Pharmacy",
+        "pharmacy_name_kr": "센트럴봄약국",
+        "address_en": "#3, Building 2, 10, Sangmuminju-ro 32beon-gil, Seo-gu, Gwangju (Ssangchon-dong, Sangmu Central Xi)",
+        "address_kr": "광주광역시 서구 상무민주로32번길 10, 2동 3호 (쌍촌동, 상무센트럴자이)",
+        "phone": "062-375-9375",
+        "coordinates": {
+            "x": 126.860280876864,
+            "y": 35.1522319313796
+        },
+        "operating_hours": {}
+    },
+    {
+        "pharmacy_name_en": "Central City Pharmacy",
+        "pharmacy_name_kr": "센트럴시티약국",
+        "address_en": "Room 101, 1st floor, Golden Bell Tower, 181 Gilju-ro, Bucheon-si, Gyeonggi-do (Middle East)",
+        "address_kr": "경기도 부천시 길주로 181, 골든벨타워 1층 101호 (중동)",
+        "phone": "032-321-6185",
+        "coordinates": {
+            "x": 126.76263413838,
+            "y": 37.5053136620333
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 102, 1st floor, 1709 Gyebaek-ro, Jung-gu, Daejeon (Oryu-dong)",
+        "address_kr": "대전광역시 중구 계백로 1709, 1층 102호 (오류동)",
+        "phone": "042-536-8639",
+        "coordinates": {
+            "x": 127.4090378885,
+            "y": 36.3218912184
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 106, 1st floor, 131 Jochon-ro, Gunsan-si, Jeollabuk-do (Jochon-dong)",
+        "address_kr": "전북특별자치도 군산시 조촌로 131, 1층 106호 (조촌동)",
+        "phone": "063-442-6475",
+        "coordinates": {
+            "x": 126.737289632043,
+            "y": 35.9758546199894
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 101, 1st floor, Central Tower, 21 Taejeonjungang 2-gil, Gwangju-si, Gyeonggi-do (Taejeon-dong)",
+        "address_kr": "경기도 광주시 태전중앙2길 21, 센트럴타워 1층 101호 (태전동)",
+        "phone": "031-798-3112",
+        "coordinates": {
+            "x": 127.233204871768,
+            "y": 37.3823855188699
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 102, 1st floor, 13, Jebong-ro 222beon-gil, Dong-gu, Gwangju (Daein-dong)",
+        "address_kr": "광주광역시 동구 제봉로222번길 13, 1층 102호 (대인동)",
+        "phone": "062-222-6555",
+        "coordinates": {
+            "x": 126.914452885912,
+            "y": 35.1558958413993
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "6-1, Dundeok 2-gil, Yeosu-si, Jeollanam-do (Mipyeong-dong)",
+        "address_kr": "전라남도 여수시 둔덕2길 6-1(미평동)",
+        "phone": "061-652-2580",
+        "coordinates": {
+            "x": 127.702268015688,
+            "y": 34.7671085532501
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "1st floor, 304, Baengdae-ro, Mokpo-si, Jeollanam-do (same building)",
+        "address_kr": "전라남도 목포시 백년대로 304 1층 (상동)",
+        "phone": "061-981-7588",
+        "coordinates": {
+            "x": 126.42059288722945,
+            "y": 34.80357061934351
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 16:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#102, 505 Jwadongsunhwan-ro, Haeundae-gu, Busan (Middle East)",
+        "address_kr": "부산광역시 해운대구 좌동순환로 505, 102호 (중동)",
+        "phone": "051-747-0981",
+        "coordinates": {
+            "x": 129.1682257679,
+            "y": 35.1656692568
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "10:00 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 309, 3rd floor, Wow Shopping Mall, 507 Nohae-ro, Nowon-gu, Seoul (Sanggye-dong)",
+        "address_kr": "서울특별시 노원구 노해로 507, 와우쇼핑몰 3층 309호 (상계동)",
+        "phone": "02-939-2001",
+        "coordinates": {
+            "x": 127.063889081054,
+            "y": 37.6554272387774
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#102, B floor, 83 Bangbae-ro, Seocho-gu, Seoul (Bangbae-dong)",
+        "address_kr": "서울특별시 서초구 방배로 83, B층 102호 (방배동)",
+        "phone": "02-525-1731",
+        "coordinates": {
+            "x": 126.997007580557,
+            "y": 37.4818646316946
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "211 Bongeunsa-ro, Gangnam-gu, Seoul",
+        "address_kr": "서울특별시 강남구 봉은사로 211 ",
+        "phone": "02-549-1210",
+        "coordinates": {
+            "x": 127.03520187295,
+            "y": 37.5079803352646
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 21:00",
+            "Tue": "09:30 - 21:00",
+            "Wed": "09:30 - 21:00",
+            "Thu": "09:30 - 21:00",
+            "Fri": "09:30 - 21:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#321, 102 Hwarang-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Wongok-dong)",
+        "address_kr": "경기도 안산시 단원구 화랑로 102, 321호 (원곡동)",
+        "phone": "031-495-2771",
+        "coordinates": {
+            "x": 126.800390969543,
+            "y": 37.3263064411963
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#110, 73, Gimpo Hangang 9-ro, Gimpo-si, Gyeonggi-do (Gurae-dong, Gimpo Central Plaza)",
+        "address_kr": "경기도 김포시 김포한강9로 73, 110호 (구래동, 김포센트럴프라자)",
+        "phone": "031-985-6237",
+        "coordinates": {
+            "x": 126.62550882225591,
+            "y": 37.64335110175303
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#108, 11, Singiro 17beon-gil, Gwangmyeong-si, Gyeonggi-do (Iljik-dong)",
+        "address_kr": "경기도 광명시 신기로17번길 11, 108호 (일직동)",
+        "phone": "02-897-2111",
+        "coordinates": {
+            "x": 126.883488206427,
+            "y": 37.4212423871563
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#114, 1st floor, 320 Wiryegwangjang-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do (Bokjeong-dong, IS Central Tower)",
+        "address_kr": "경기도 성남시 수정구 위례광장로 320, 1층 114호 (복정동, 아이에스센트럴타워)",
+        "phone": "031-759-7588",
+        "coordinates": {
+            "x": 127.1426617449,
+            "y": 37.4722410024
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#303, Building A, SK VIEW Lake, Gwanggyo, 25 Beopjo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do (Hadong)",
+        "address_kr": "경기도 수원시 영통구 법조로 25, 광교 SK VIEW Lake A동 303호 (하동)",
+        "phone": "031-893-8568",
+        "coordinates": {
+            "x": 127.060178440172,
+            "y": 37.2874808899042
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 204, 2nd floor, 40 Dongil-ro 92-gil, Jungnang-gu, Seoul (Myeonmok-dong, Sagajeong Central I-Park)",
+        "address_kr": "서울특별시 중랑구 동일로92길 40, 2층 204호 (면목동, 사가정센트럴아이파크)",
+        "phone": "02-434-9460",
+        "coordinates": {
+            "x": 127.08048768843571,
+            "y": 37.58326211696206
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 206, 2nd floor, Godeok Central I-Park Apartment (Shopping Mall Building A), 123 Godeok-ro 80-gil, Gangdong-gu, Seoul (Sangil 1-dong)",
+        "address_kr": "서울특별시 강동구 고덕로80길 123, 고덕센트럴아이파크아파트(상가A동) 2층 206호 (상일제1동)",
+        "phone": "02-428-2123",
+        "coordinates": {
+            "x": 127.165596070167,
+            "y": 37.5509309412134
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:40",
+            "Tue": "09:00 - 18:40",
+            "Wed": "09:00 - 18:40",
+            "Thu": "09:00 - 18:40",
+            "Fri": "09:00 - 18:40",
+            "Sat": "09:00 - 13:10",
+            "Sun": "09:00 - 13:10",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "Room 106, 1st floor, Central Tower, 80 Simin-ro, Uijeongbu-si, Gyeonggi-do (Uijeongbu-dong)",
+        "address_kr": "경기도 의정부시 시민로 80, 센트럴타워 1층 106호 (의정부동)",
+        "phone": "031-870-1999",
+        "coordinates": {
+            "x": 127.0440914603,
+            "y": 37.7379775899
+        },
+        "operating_hours": {
+            "Mon": "22:00 - 25:00",
+            "Tue": "22:00 - 25:00",
+            "Wed": "22:00 - 25:00",
+            "Thu": "22:00 - 25:00",
+            "Fri": "22:00 - 25:00",
+            "Sat": "22:00 - 25:00",
+            "Sun": "22:00 - 25:00",
+            "Holiday": "22:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Pharmacy",
+        "pharmacy_name_kr": "센트럴약국",
+        "address_en": "#101, Central Pharmacy, 205 Seonhwa-ro, Iksan-si, Jeollabuk-do (Namjung-dong)",
+        "address_kr": "전북특별자치도 익산시 선화로 205, 센트럴 약국 101호 (남중동)",
+        "phone": "063-858-8414",
+        "coordinates": {
+            "x": 126.952964064753,
+            "y": 35.9462406784286
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Onnuri Pharmacy",
+        "pharmacy_name_kr": "센트럴온누리약국",
+        "address_en": "#109, #110, Geo Tower, 11 Parksangjin 12-ro, Buk-gu, Ulsan (Songjeong-dong)",
+        "address_kr": "울산광역시 북구 박상진12로 11, 지오타워 109호, 110호 (송정동)",
+        "phone": "052-282-2323",
+        "coordinates": {
+            "x": 129.365332014142,
+            "y": 35.6014788084604
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "09:00 - 19:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central One Pharmacy",
+        "pharmacy_name_kr": "센트럴원약국",
+        "address_en": "#172, Building E, 232 Central-ro, Yeonsu-gu, Incheon (Songdo-dong, The Sharp Central Park 1)",
+        "address_kr": "인천광역시 연수구 센트럴로 232, E동 172호 (송도동, 더샵센트럴파크1)",
+        "phone": "070-7537-1042",
+        "coordinates": {
+            "x": 126.636641328932,
+            "y": 37.3974223046224
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central 1st floor pharmacy",
+        "pharmacy_name_kr": "센트럴일층약국",
+        "address_en": "#114, 2, Sinbong 2-ro, Suji-gu, Yongin-si, Gyeonggi-do (Sinbong-dong, Central Shopping Mall)",
+        "address_kr": "경기도 용인시 수지구 신봉2로 2, 114호 (신봉동, 센트럴쇼핑몰)",
+        "phone": "031-266-5586",
+        "coordinates": {
+            "x": 127.07797512048147,
+            "y": 37.323279630690884
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Jongno Pharmacy",
+        "pharmacy_name_kr": "센트럴종로약국",
+        "address_en": "Room 104, Akamedi, Jungsan-dong, 67 Jungsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Jungsan-dong)",
+        "address_kr": "경기도 고양시 일산동구 중산로 67, 중산동 아카메디 104호 (중산동)",
+        "phone": "031-975-3010",
+        "coordinates": {
+            "x": 126.781952489496,
+            "y": 37.6781081530819
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Central Park Pharmacy",
+        "pharmacy_name_kr": "센트럴파크약국",
+        "address_en": "#108,109, 1st floor, 14, Convensia-daero 130beon-gil, Yeonsu-gu, Incheon (Songdo-dong)",
+        "address_kr": "인천광역시 연수구 컨벤시아대로130번길 14, 1층 108,109호 (송도동)",
+        "phone": "032-831-7507",
+        "coordinates": {
+            "x": 126.64488981298194,
+            "y": 37.392954980718024
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Centro Pharmacy",
+        "pharmacy_name_kr": "센트로약국",
+        "address_en": "#104, 219, Wolbae-ro, Dalseo-gu, Daegu (Sangin-dong, CENTRO TOWER)",
+        "address_kr": "대구광역시 달서구 월배로 219, 104호 (상인동, CENTRO TOWER)",
+        "phone": "053-636-7254",
+        "coordinates": {
+            "x": 128.5370809905,
+            "y": 35.8191048086
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celeb Pharmacy",
+        "pharmacy_name_kr": "셀럽약국",
+        "address_en": "Room 2A29, 2nd floor, Ricenz, 145 Olympic-ro, Songpa-gu, Seoul (Jamsil-dong)",
+        "address_kr": "서울특별시 송파구 올림픽로 145, 리센츠 2층 2A29호 (잠실동)",
+        "phone": "02-6349-0529",
+        "coordinates": {
+            "x": 127.087041904838,
+            "y": 37.5119804600106
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:00",
+            "Tue": "09:30 - 20:00",
+            "Wed": "10:00 - 19:30",
+            "Thu": "09:30 - 20:00",
+            "Fri": "09:30 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celine Pharmacy",
+        "pharmacy_name_kr": "셀린약국",
+        "address_en": "1st~2nd floor, Ju2-dong, 6 Bodeum 5-ro, Sejong Special Self-Governing City (Dodam-dong)",
+        "address_kr": "세종특별자치시 보듬5로 6, 주2동 1~2층 (도담동)",
+        "phone": "044-417-6005",
+        "coordinates": {
+            "x": 127.25857876270577,
+            "y": 36.51637561447089
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed 1st floor N Pharmacy",
+        "pharmacy_name_kr": "셀메드 1층엔약국",
+        "address_en": "741-1 Tongil-ro, Eunpyeong-gu, Seoul (Daejo-dong, Das Haus)",
+        "address_kr": "서울특별시 은평구 통일로 741-1 (대조동, Das Haus)",
+        "phone": "02-382-1080",
+        "coordinates": {
+            "x": 126.928503751582,
+            "y": 37.6115633488484
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 19:00",
+            "Tue": "08:40 - 19:00",
+            "Wed": "08:40 - 19:00",
+            "Thu": "08:40 - 19:00",
+            "Fri": "08:40 - 19:00",
+            "Sat": "08:40 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Good Pharmacy",
+        "pharmacy_name_kr": "셀메드 좋은약국",
+        "address_en": "1st floor, 114-8 Dasan-ro, Jung-gu, Seoul (Sindang-dong)",
+        "address_kr": "서울특별시 중구 다산로 114-8, 1층 (신당동)",
+        "phone": "02-2252-1621",
+        "coordinates": {
+            "x": 127.010691824169,
+            "y": 37.5538451665433
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Hansarang Pharmacy",
+        "pharmacy_name_kr": "셀메드 한사랑약국",
+        "address_en": "4, Poeun-daero 313beon-gil, Suji-gu, Yongin-si, Gyeonggi-do (Pungdeokcheon-dong, Suji Mirae Building #103)",
+        "address_kr": "경기도 용인시 수지구 포은대로313번길 4 (풍덕천동, 수지미래빌딩 103호)",
+        "phone": "031-896-2020",
+        "coordinates": {
+            "x": 127.08658562748845,
+            "y": 37.315035023379025
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Geoyeo Pharmacy",
+        "pharmacy_name_kr": "셀메드거여약국",
+        "address_en": "#102, 1st floor, 523 Ogeum-ro, Songpa-gu, Seoul (Geoyeo-dong)",
+        "address_kr": "서울특별시 송파구 오금로 523, 1층 102호 (거여동)",
+        "phone": "02-402-0301",
+        "coordinates": {
+            "x": 127.146927017488,
+            "y": 37.4930763611601
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Geumcheon Ewha Pharmacy",
+        "pharmacy_name_kr": "셀메드금천이화약국",
+        "address_en": "142 Doksan-ro, Geumcheon-gu, Seoul (Siheung-dong, Deoksan Building)",
+        "address_kr": "서울특별시 금천구 독산로 142 (시흥동, 덕산빌딩)",
+        "phone": "02-895-8859",
+        "coordinates": {
+            "x": 126.905093449064,
+            "y": 37.4600851754158
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Regular Pharmacy",
+        "pharmacy_name_kr": "셀메드단골약국",
+        "address_en": "#103, 758 Sosa-ro, Ojeong-gu, Bucheon-si, Gyeonggi-do (Wonjong-dong, Hanseong Building)",
+        "address_kr": "경기도 부천시 오정구 소사로 758, 103호 (원종동, 한성빌딩)",
+        "phone": "032-674-6949",
+        "coordinates": {
+            "x": 126.80521182547434,
+            "y": 37.52368243131048
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "18:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Donga Pharmacy",
+        "pharmacy_name_kr": "셀메드동아약국",
+        "address_en": "760, Sicheong-ro, Paltan-myeon, Hwaseong-si, Gyeonggi-do",
+        "address_kr": "경기도 화성시 팔탄면 시청로 760",
+        "phone": "031-359-9080",
+        "coordinates": {
+            "x": 126.87652298146836,
+            "y": 37.170011808449026
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Dream Pharmacy",
+        "pharmacy_name_kr": "셀메드드림약국",
+        "address_en": "Room 402-1, Grand Building, 3, Dolma-ro 356beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do (Sunae-dong)",
+        "address_kr": "경기도 성남시 분당구 돌마로356번길 3, 그랜드빌딩 402-1호 (수내동)",
+        "phone": "031-719-1069",
+        "coordinates": {
+            "x": 127.12333496297,
+            "y": 37.3697248747272
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Pharmacy",
+        "pharmacy_name_kr": "셀메드류약국",
+        "address_en": "1st floor, 199 Jibeom-ro, Suseong-gu, Daegu (Beommul-dong)",
+        "address_kr": "대구광역시 수성구 지범로 199, 1층 (범물동)",
+        "phone": "053-252-8899",
+        "coordinates": {
+            "x": 128.60310368567275,
+            "y": 35.86587798435545
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 20:30",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00",
+            "Holiday": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Medipil Pharmacy",
+        "pharmacy_name_kr": "셀메드메디필약국",
+        "address_en": "273 Dongbaekjungang-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Jungdong)",
+        "address_kr": "경기도 용인시 기흥구 동백중앙로 273   (중동)",
+        "phone": "031-286-8431",
+        "coordinates": {
+            "x": 127.153428293102,
+            "y": 37.2770153454241
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Faith Pharmacy",
+        "pharmacy_name_kr": "셀메드믿음약국",
+        "address_en": "45 Dolgoji-ro, Seongbuk-gu, Seoul (Seokgwan-dong)",
+        "address_kr": "서울특별시 성북구 돌곶이로 45 (석관동)",
+        "phone": "02-963-3249",
+        "coordinates": {
+            "x": 127.059573087541,
+            "y": 37.608150175461
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Serom Pharmacy",
+        "pharmacy_name_kr": "셀메드새롬약국",
+        "address_en": "70 Omok-ro, Yangcheon-gu, Seoul (Sinwol-dong)",
+        "address_kr": "서울특별시 양천구 오목로 70 (신월동)",
+        "phone": "02-2606-2806",
+        "coordinates": {
+            "x": 126.845358713435,
+            "y": 37.5226353064146
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Sunae Big Pharmacy",
+        "pharmacy_name_kr": "셀메드수내큰약국",
+        "address_en": "#110,110-1, 1st floor, Daedeok Plaza, 16 Baekhyeon-ro 101beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do (Sunae-dong)",
+        "address_kr": "경기도 성남시 분당구 백현로101번길 16, 대덕프라자 1층 110,110-1호 (수내동)",
+        "phone": "031-717-2027",
+        "coordinates": {
+            "x": 127.112729564852,
+            "y": 37.3770099737962
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Water Pharmacy",
+        "pharmacy_name_kr": "셀메드수약국",
+        "address_en": "#219, 232 Central-ro, Yeonsu-gu, Incheon (Songdo-dong, The Sharp Central Park 1)",
+        "address_kr": "인천광역시 연수구 센트럴로 232, 219호 (송도동, 더샵센트럴파크1)",
+        "phone": "050-71495-0197",
+        "coordinates": {
+            "x": 126.636641328932,
+            "y": 37.3974223046224
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Water Pharmacy",
+        "pharmacy_name_kr": "셀메드수약국",
+        "address_en": "Room 101, 1st floor, Irehill, 28 Hyoryeong-ro 25-gil, Seocho-gu, Seoul (Bangbae-dong)",
+        "address_kr": "서울특별시 서초구 효령로25길 28, 이레힐 1층 101호 (방배동)",
+        "phone": "02-525-5339",
+        "coordinates": {
+            "x": 126.993981426222,
+            "y": 37.4823924173878
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Sky Pharmacy",
+        "pharmacy_name_kr": "셀메드스카이약국",
+        "address_en": "1st floor, 53-1, Ttukseom-ro 1-gil, Seongdong-gu, Seoul (Seongsu-dong 1-ga)",
+        "address_kr": "서울특별시 성동구 뚝섬로1길 53-1, 1층 (성수동1가)",
+        "phone": "02-467-0301",
+        "coordinates": {
+            "x": 127.047470360006,
+            "y": 37.5460256232685
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "10:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Shinsegae Contract Department",
+        "pharmacy_name_kr": "셀메드신세계약국",
+        "address_en": "1567 Gyebaek-ro, Jung-gu, Daejeon, 1st floor (Yucheon-dong)",
+        "address_kr": "대전광역시 중구 계백로 1567, 1층 (유천동)",
+        "phone": "042-487-1131",
+        "coordinates": {
+            "x": 127.394159300284,
+            "y": 36.3178761676919
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Today Pharmacy",
+        "pharmacy_name_kr": "셀메드오늘약국",
+        "address_en": "#109,110, Banseok Plaza, 115 Cheongseok-ro, Paju-si, Gyeonggi-do (Dongpae-dong)",
+        "address_kr": "경기도 파주시 청석로 115, 반석프라자 109,110호 (동패동)",
+        "phone": "031-946-9466",
+        "coordinates": {
+            "x": 126.720433135049,
+            "y": 37.712691078582
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Grace Pharmacy",
+        "pharmacy_name_kr": "셀메드은혜약국",
+        "address_en": "65, Jindeung 1-gil, Bongdam-eup, Hwaseong-si, Gyeonggi-do",
+        "address_kr": "경기도 화성시 봉담읍 진등1길 65",
+        "phone": "031-227-8135",
+        "coordinates": {
+            "x": 126.94976621754512,
+            "y": 37.221350900240665
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Ewha Pharmacy",
+        "pharmacy_name_kr": "셀메드이화약국",
+        "address_en": "22 Eungam-ro 22-gil, Eunpyeong-gu, Seoul (Eungam-dong)",
+        "address_kr": "서울특별시 은평구 응암로22길 22 (응암동)",
+        "phone": "02-302-1783",
+        "coordinates": {
+            "x": 126.920450928132,
+            "y": 37.593311881814
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Natural Pharmacy",
+        "pharmacy_name_kr": "셀메드자연약국",
+        "address_en": "381, Pyeonghwa-ro, Uijeongbu-si, Gyeonggi-do, #107,108 (Howon-dong)",
+        "address_kr": "경기도 의정부시 평화로 381, 107,108호 (호원동)",
+        "phone": "031-873-9974",
+        "coordinates": {
+            "x": 127.04789566563768,
+            "y": 37.725967970207364
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Juo Pharmacy",
+        "pharmacy_name_kr": "셀메드주오약국",
+        "address_en": "#101, 98, Guseong-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Eonnam-dong, Guseong Building)",
+        "address_kr": "경기도 용인시 기흥구 구성로 98, 101호 (언남동, 구성빌딩)",
+        "phone": "031-283-1171",
+        "coordinates": {
+            "x": 127.11990341031574,
+            "y": 37.293792445886275
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Taean Pharmacy",
+        "pharmacy_name_kr": "셀메드태안약국",
+        "address_en": "33 Byeongjeomseo-ro, Hwaseong-si, Gyeonggi-do (Byeongjeom-dong)",
+        "address_kr": "경기도 화성시 병점서로 33 (병점동)",
+        "phone": "031-232-6637",
+        "coordinates": {
+            "x": 127.04003364464896,
+            "y": 37.20557629603786
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Holiday": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cell Med Pill Pharmacy",
+        "pharmacy_name_kr": "셀메드필약국",
+        "address_en": "14 Pildong-ro, Jung-gu, Seoul, 1st floor, Minseong Building (Pildong 2-ga)",
+        "address_kr": "서울특별시 중구 필동로 14, 민성빌딩 1층 (필동2가)",
+        "phone": "02-2268-7552",
+        "coordinates": {
+            "x": 126.995890968916,
+            "y": 37.5604061015074
+        },
+        "operating_hours": {
+            "Mon": "08:55 - 19:50",
+            "Tue": "08:55 - 19:50",
+            "Wed": "08:55 - 19:50",
+            "Thu": "08:55 - 19:50",
+            "Fri": "08:55 - 19:50",
+            "Sat": "10:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Happy Pharmacy",
+        "pharmacy_name_kr": "셀메드행복한약국",
+        "address_en": "#1045, Shopping Mall 1A, 345 Songpa-daero, Songpa-gu, Seoul (Garak-dong, Helio City)",
+        "address_kr": "서울특별시 송파구 송파대로 345, 상가1A동 1045호 (가락동, 헬리오시티)",
+        "phone": "02-449-1190",
+        "coordinates": {
+            "x": 127.11119251898207,
+            "y": 37.49999611269981
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Hyundai Pharmacy",
+        "pharmacy_name_kr": "셀메드현대약국",
+        "address_en": "419 Yaeun-ro, Gumi-si, Gyeongsangbuk-do (Doryang-dong)",
+        "address_kr": "경상북도 구미시 야은로 419 (도량동)",
+        "phone": "054-451-0068",
+        "coordinates": {
+            "x": 128.32942200148523,
+            "y": 36.136686724971774
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 23:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Hyeseong Pharmacy",
+        "pharmacy_name_kr": "셀메드혜성약국",
+        "address_en": "#101, Sindo Shopping Center, 17-1, Yongji-ro 113beon-gil, Seongsan-gu, Changwon-si, Gyeongsangnam-do (Jungang-dong)",
+        "address_kr": "경상남도 창원시 성산구 용지로113번길 17-1, 신도상가 101호 (중앙동)",
+        "phone": "055-283-3997",
+        "coordinates": {
+            "x": 128.677473774084,
+            "y": 35.2270517989536
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cellmed Home Care Good Morning Pharmacy",
+        "pharmacy_name_kr": "셀메드홈케어굿모닝약국",
+        "address_en": "#101~5,204, 3, Yatap-ro 69beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do (Yatap-dong, Gangnam Plaza)",
+        "address_kr": "경기도 성남시 분당구 야탑로69번길 3, 101~5,204호 (야탑동, 강남프라자)",
+        "phone": "031-707-1661",
+        "coordinates": {
+            "x": "127.126297222222220",
+            "y": "37.410061111111112"
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:30",
+            "Tue": "08:00 - 21:30",
+            "Wed": "08:00 - 21:30",
+            "Thu": "08:00 - 21:30",
+            "Fri": "08:00 - 21:30",
+            "Sat": "08:30 - 21:30",
+            "Sun": "09:30 - 21:30",
+            "Holiday": "09:30 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cell Pharmacy",
+        "pharmacy_name_kr": "셀약국",
+        "address_en": "Room 118, 1st floor, 72 Yanghwa-ro, Mapo-gu, Seoul (Seogyo-dong)",
+        "address_kr": "서울특별시 마포구 양화로 72, 1층 118호 (서교동)",
+        "phone": "02-337-7959",
+        "coordinates": {
+            "x": 126.916493990351,
+            "y": 37.5508138163956
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 25:00",
+            "Tue": "09:00 - 25:00",
+            "Wed": "09:00 - 25:00",
+            "Thu": "09:00 - 25:00",
+            "Fri": "09:00 - 25:00",
+            "Sat": "09:00 - 25:00",
+            "Sun": "17:00 - 25:00",
+            "Holiday": "21:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Self-care pharmacy",
+        "pharmacy_name_kr": "셀프케어류약국",
+        "address_en": "20, Haebancheon-ro 168beon-gil, Gimhae-si, Gyeongsangnam-do (Samgye-dong)",
+        "address_kr": "경상남도 김해시 해반천로168번길 20 (삼계동) ",
+        "phone": "055-329-1080",
+        "coordinates": {
+            "x": 128.86938966242138,
+            "y": 35.26313501608462
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "small contract country",
+        "pharmacy_name_kr": "소계약국",
+        "address_en": "2, Sogye-ro 94beon-gil, Uichang-gu, Changwon-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 창원시 의창구 소계로94번길 2",
+        "phone": "055-295-4669",
+        "coordinates": {
+            "x": 128.59891337927834,
+            "y": 35.25747507350949
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pine Tree Pharmacy",
+        "pharmacy_name_kr": "소나무약국",
+        "address_en": "220 Gaepo-ro, Gangnam-gu, Seoul",
+        "address_kr": "서울특별시 강남구 개포로 220",
+        "phone": "02-572-6409",
+        "coordinates": {
+            "x": 127.046797570716,
+            "y": 37.4785413102826
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
     }
 ]
