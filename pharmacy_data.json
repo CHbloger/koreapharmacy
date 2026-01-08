@@ -263064,5 +263064,24 @@
             "Fri": "08:40 - 22:00",
             "Sat": "08:40 - 21:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Daisy Pharmacy",
+        "pharmacy_name_kr": "데이지약국",
+        "address_en": "Room B01, B1, Anton Stay, 1 Gyeyang-daero 119beon-gil, Gyeyang-gu, Incheon (Jakjeon Building)",
+        "address_kr": "인천광역시 계양구 계양대로119번길 1, 안톤스테이 지하1층 B01호 (작전동)",
+        "phone": "032-710-4757",
+        "coordinates": {
+            "x": 126.722059607802,
+            "y": 37.5343345008456
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 20:00",
+            "Tue": "10:00 - 20:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 20:00",
+            "Fri": "10:00 - 20:00",
+            "Sat": "10:00 - 14:00"
+        }
     }
 ]
