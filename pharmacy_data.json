@@ -311384,5 +311384,1936 @@
             "Thu": "08:30 - 19:00",
             "Fri": "08:30 - 19:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Woori Health Pharmacy",
+        "pharmacy_name_kr": "우리건강약국",
+        "address_en": "1st floor, 5, Gyeonggidong-ro 687beon-gil, Idong-myeon, Cheoin-gu, Yongin-si, Gyeonggi-do",
+        "address_kr": "경기도 용인시 처인구 이동면 경기동로687번길 5, 1층",
+        "phone": "031-336-7029",
+        "coordinates": {
+            "x": 127.19693879784039,
+            "y": 37.140301263271326
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 21:00",
+            "Sun": "14:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Geumgang Pharmacy",
+        "pharmacy_name_kr": "우리금강약국",
+        "address_en": "1814-15, Gimhae-daero, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 김해대로 1814-15",
+        "phone": "055-333-0171",
+        "coordinates": {
+            "x": 128.86341724196674,
+            "y": 35.26401734806617
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our pharmacy",
+        "pharmacy_name_kr": "우리네약국",
+        "address_en": "183-1, Seochang-ro, Yangsan-si, Gyeongsangnam-do (Samho-dong)",
+        "address_kr": "경상남도 양산시 서창로 183-1  (삼호동)",
+        "phone": "055-364-5525",
+        "coordinates": {
+            "x": 129.17208137982385,
+            "y": 35.41585324000894
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our pharmacy",
+        "pharmacy_name_kr": "우리네약국",
+        "address_en": "30 Dongho-ro 10-gil, Jung-gu, Seoul",
+        "address_kr": "서울특별시 중구 동호로10길 30",
+        "phone": "02-2252-3335",
+        "coordinates": {
+            "x": 127.016359379417,
+            "y": 37.5551915990934
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our pharmacy",
+        "pharmacy_name_kr": "우리네약국",
+        "address_en": "1st floor, 110-1, Sangmupyeonghwa-ro, Seo-gu, Gwangju (Chipyeong-dong)",
+        "address_kr": "광주광역시 서구 상무평화로 110-1, 1층 (치평동)",
+        "phone": "062-381-2200",
+        "coordinates": {
+            "x": 126.85106577537827,
+            "y": 35.148383575463825
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our pharmacy",
+        "pharmacy_name_kr": "우리네약국",
+        "address_en": "294 Hanam-daero, Gwangsan-gu, Gwangju (Unnam-dong)",
+        "address_kr": "광주광역시 광산구 하남대로 294 (운남동)",
+        "phone": "062-954-7119",
+        "coordinates": {
+            "x": 126.82569382675763,
+            "y": 35.178735732583554
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our pharmacy",
+        "pharmacy_name_kr": "우리네약국",
+        "address_en": "32-1, Changmal-ro, Yesan-eup, Yesan-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 예산군 예산읍 창말로 32-1",
+        "phone": "041-335-7685",
+        "coordinates": {
+            "x": 126.84245770617451,
+            "y": 36.72855777648553
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Neon Nuri Pharmacy",
+        "pharmacy_name_kr": "우리네온누리약국",
+        "address_en": "1st floor, 310 Anyang-ro, Manan-gu, Anyang-si, Gyeonggi-do (Anyang-dong)",
+        "address_kr": "경기도 안양시 만안구 안양로 310, 1층 (안양동)",
+        "phone": "070-4232-7677",
+        "coordinates": {
+            "x": 126.92094721269395,
+            "y": 37.399723296830075
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Neon Nuri Pharmacy",
+        "pharmacy_name_kr": "우리네온누리약국",
+        "address_en": "31 Dongpyeonje-gil, Gurye-gun, Jeollanam-do (Gurye-eup)",
+        "address_kr": "전라남도 구례군 동편제길 31 (구례읍) ",
+        "phone": "061-783-4119",
+        "coordinates": {
+            "x": 127.46116538421181,
+            "y": 35.21525620746697
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 23:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Neon Nuri Pharmacy",
+        "pharmacy_name_kr": "우리네온누리약국",
+        "address_en": "116 Digital-ro 27-gil, Guro-gu, Seoul (Guro-dong)",
+        "address_kr": "서울특별시 구로구 디지털로27길 116 (구로동)",
+        "phone": "02-853-2614",
+        "coordinates": {
+            "x": 126.8879955701,
+            "y": 37.4848784332703
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:30",
+            "Tue": "08:00 - 21:30",
+            "Wed": "08:00 - 21:30",
+            "Thu": "08:00 - 21:30",
+            "Fri": "08:00 - 21:30",
+            "Sat": "09:00 - 21:30",
+            "Sun": "10:00 - 21:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Nongam Pharmacy",
+        "pharmacy_name_kr": "우리농암약국",
+        "address_en": "64 Nongam-gil, Nongam-myeon, Mungyeong-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 문경시 농암면 농암길 64",
+        "phone": "054-571-6631",
+        "coordinates": {
+            "x": 128.00325403977774,
+            "y": 36.59953132099562
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "09:00 - 16:00",
+            "Holiday": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Daon Pharmacy",
+        "pharmacy_name_kr": "우리다온약국",
+        "address_en": "1st floor, 26 Seolleung-ro, Gangnam-gu, Seoul (Gaepo-dong)",
+        "address_kr": "서울특별시 강남구 선릉로 26, 1층 (개포동)",
+        "phone": "02-577-1346",
+        "coordinates": {
+            "x": 127.061486552862,
+            "y": 37.4822879125616
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Daechi Pharmacy",
+        "pharmacy_name_kr": "우리대치약국",
+        "address_en": "Room 102, 1st floor, Winplus Shopping Center, 2936 Nambusunhwan-ro, Gangnam-gu, Seoul (Daechi-dong)",
+        "address_kr": "서울특별시 강남구 남부순환로 2936, 윈플러스상가 1층 102호 (대치동)",
+        "phone": "02-569-8009",
+        "coordinates": {
+            "x": 127.06191661451,
+            "y": 37.4933489108525
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our University Pharmacy",
+        "pharmacy_name_kr": "우리대학약국",
+        "address_en": "396 Sahwa-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do (Palyong-dong)",
+        "address_kr": "경상남도 창원시 의창구 사화로 396 (팔용동)",
+        "phone": "055-270-5270",
+        "coordinates": {
+            "x": 128.64291077342708,
+            "y": "35.237003667235974"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our University Pharmacy",
+        "pharmacy_name_kr": "우리대학약국",
+        "address_en": "185 World Cup-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do (Woncheon-dong)",
+        "address_kr": "경기도 수원시 영통구 월드컵로 185 (원천동)",
+        "phone": "031-217-8175",
+        "coordinates": {
+            "x": 127.04535694646819,
+            "y": 37.27874957510229
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Daehan Pharmacy",
+        "pharmacy_name_kr": "우리대한약국",
+        "address_en": "1st floor, 3 Dobong-ro 81-gil, Gangbuk-gu, Seoul (Suyu-dong)",
+        "address_kr": "서울특별시 강북구 도봉로81길 3, 1층 (수유동)",
+        "phone": "02-908-2225",
+        "coordinates": {
+            "x": 127.022909310761,
+            "y": 37.6351217049974
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood mom pharmacy",
+        "pharmacy_name_kr": "우리동네맘약국",
+        "address_en": "1st floor, 603 Nambusunhwan-ro, Yangcheon-gu, Seoul (Sinwol-dong)",
+        "address_kr": "서울특별시 양천구 남부순환로 603, 1층 (신월동)",
+        "phone": "02-6080-8466",
+        "coordinates": {
+            "x": 126.840692066592,
+            "y": 37.5152188104643
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "Wando-gun Forestry Association, 151 Gaepo-ro, Wando-eup, Wando-gun, Jeollanam-do",
+        "address_kr": "전라남도 완도군 완도읍 개포로 151, 완도군산림조합",
+        "phone": "061-550-1175",
+        "coordinates": {
+            "x": 126.744571263571,
+            "y": 34.3195082604554
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "#102, Jesang-ga 1-dong, 25 Dongseo-ro 63-gil, Iksan-si, Jeollabuk-do (Eoyang-dong, e-Pyeonhansesang Eoyang)",
+        "address_kr": "전북특별자치도 익산시 동서로63길 25, 제상가1동 102호 (어양동, e편한세상 어양)",
+        "phone": "063-834-4174",
+        "coordinates": {
+            "x": 126.984245628388,
+            "y": 35.953258715425
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Sun": "12:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "1st floor, Agricultural Cooperative, 7 Maegok-ro, Buk-gu, Ulsan (Sincheon-dong)",
+        "address_kr": "울산광역시 북구 매곡로 7, 농소농업협동조합 1층 (신천동)",
+        "phone": "052-287-1939",
+        "coordinates": {
+            "x": 129.38657697051343,
+            "y": 35.5399570623483
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 20:00",
+            "Tue": "10:00 - 20:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 20:00",
+            "Fri": "10:00 - 20:00",
+            "Sat": "10:00 - 20:00",
+            "Sun": "10:00 - 19:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "1st floor, 533 Ttukseom-ro, Gwangjin-gu, Seoul (Jayang-dong)",
+        "address_kr": "서울특별시 광진구 뚝섬로 533, 1층 (자양동)",
+        "phone": "070-7808-1191",
+        "coordinates": {
+            "x": 127.069529253887,
+            "y": 37.5351794522591
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "Room 101, 1st floor, Geumcheon Building, 120 Yangdeok-ro, Masanhoewon-gu, Changwon-si, Gyeongsangnam-do (Yangdeok-dong)",
+        "address_kr": "경상남도 창원시 마산회원구 양덕로 120, 금천빌딩 지상1층 101호 (양덕동)",
+        "phone": "055-299-0911",
+        "coordinates": {
+            "x": 128.585406820607,
+            "y": 35.2297509402309
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "355 Jungang-ro, Jeju-si, Jeju-do (Ido-dong)",
+        "address_kr": "제주특별자치도 제주시 중앙로 355 (이도이동)",
+        "phone": "064-755-1978",
+        "coordinates": {
+            "x": 126.5385299433202,
+            "y": 33.490170867670244
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "#110, 109, Ipchun-ro, Wonju-si, Gangwon-do (Bangok-dong)",
+        "address_kr": "강원특별자치도 원주시 입춘로 110, 109호 (반곡동)",
+        "phone": "033-733-1668",
+        "coordinates": {
+            "x": 127.98167283999092,
+            "y": 37.32341377414921
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "My neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네약국",
+        "address_en": "#106-107, 1st floor, 20-33, Chungui-ro, Jinju-si, Gyeongsangnam-do (Chungmu-dong)",
+        "address_kr": "경상남도 진주시 충의로 20-33, 1층 106-107호 (충무공동)",
+        "phone": "0557545204",
+        "coordinates": {
+            "x": 128.1485617462,
+            "y": 35.1762154508
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00",
+            "Sat": "10:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our Neighborhood Neon Nuri Pharmacy",
+        "pharmacy_name_kr": "우리동네온누리약국",
+        "address_en": "713 Yangcheon-ro, Gangseo-gu, Seoul (Yeomchang-dong)",
+        "address_kr": "서울특별시 강서구 양천로 713 (염창동)",
+        "phone": "02-3662-0069",
+        "coordinates": {
+            "x": 126.875250908344,
+            "y": 37.5498405882542
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our Neighborhood Neon Nuri Pharmacy",
+        "pharmacy_name_kr": "우리동네온누리약국",
+        "address_en": "#102, 85, Saam-ro 215beon-gil, Gwangsan-gu, Gwangju Metropolitan City (Usan-dong)",
+        "address_kr": "광주광역시 광산구 사암로215번길 85, 102호 (우산동)",
+        "phone": "062-531-6123",
+        "coordinates": {
+            "x": 126.80354724034721,
+            "y": 35.1638606988178
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our neighborhood pharmacy",
+        "pharmacy_name_kr": "우리동네우리약국",
+        "address_en": "1st floor, 4, Sujeong-ro 74beon-gil, Sujeong-gu, Seongnam-si, Gyeonggi-do (Sujin-dong)",
+        "address_kr": "경기도 성남시 수정구 수정로74번길 4, 1층 (수진동)",
+        "phone": "031-721-0233",
+        "coordinates": {
+            "x": 127.12877054598798,
+            "y": 37.43955739614971
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:30",
+            "Tue": "08:00 - 19:30",
+            "Wed": "08:00 - 19:30",
+            "Thu": "08:00 - 19:30",
+            "Fri": "08:00 - 19:30",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our Neighborhood Ehwa Pharmacy",
+        "pharmacy_name_kr": "우리동네이화약국",
+        "address_en": "Rooms 104 and 105, Building A, 121 Sinhyeon-ro, Gwangju-si, Gyeonggi-do (Sinhyeon-dong)",
+        "address_kr": "경기도 광주시 신현로 121, A동 104,105호 (신현동)",
+        "phone": "031-726-3500",
+        "coordinates": {
+            "x": 127.15994760669057,
+            "y": 37.35897170554964
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our Neighborhood Hyundai Pharmacy",
+        "pharmacy_name_kr": "우리동네현대약국",
+        "address_en": "#205, Sangga-dong, 45 Segyo 6-ro, Pyeongtaek-si, Gyeonggi-do (Segyo-dong, Hillstate Pyeongtaek 2nd)",
+        "address_kr": "경기도 평택시 세교6로 45, 상가동 205호 (세교동, 힐스테이트 평택2차)",
+        "phone": "031-8094-0110",
+        "coordinates": {
+            "x": 127.08801842865564,
+            "y": 37.01041129777244
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 20:00",
+            "Tue": "10:00 - 20:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 20:00",
+            "Fri": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our Neighborhood Hyoja Pharmacy",
+        "pharmacy_name_kr": "우리동네효자약국",
+        "address_en": "#112, 254, Cheongbuknam-ro, Cheongbuk-eup, Pyeongtaek-si, Gyeonggi-do",
+        "address_kr": "경기도 평택시 청북읍 청북남로 254, 112호",
+        "phone": "031-684-5787",
+        "coordinates": {
+            "x": 126.915939935324,
+            "y": 37.0196678967991
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Our Neighborhood Hyoja Pharmacy",
+        "pharmacy_name_kr": "우리동네효자약국",
+        "address_en": "#102, 1493 Oncheon-daero, Asan-si, Chungcheongnam-do (Oncheon-dong)",
+        "address_kr": "충청남도 아산시 온천대로 1493, 102호 (온천동)",
+        "phone": "041-545-3090",
+        "coordinates": {
+            "x": 127.003803145848,
+            "y": 36.7816261141985
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Duri Pharmacy",
+        "pharmacy_name_kr": "우리두리약국",
+        "address_en": "Room 104, Fantasy Tower, 2257 Hannuri-daero, Sejong Special Self-Governing City (Daepyeong-dong)",
+        "address_kr": "세종특별자치시 한누리대로 2257, 판타지타워 104호 (대평동)",
+        "phone": "044-864-1422",
+        "coordinates": {
+            "x": 127.277998405269,
+            "y": 36.4726136159886
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Woori Durion Nuri Pharmacy",
+        "pharmacy_name_kr": "우리두리온누리약국",
+        "address_en": "Rooms 101 and 102, 1st floor, Woori Plaza, 17 Udu 1-gil, Chuncheon-si, Gangwon-do (Udu-dong)",
+        "address_kr": "강원특별자치도 춘천시 우두1길 17, 우리  프라자 1층 101,102호 (우두동)",
+        "phone": "033-252-5222",
+        "coordinates": {
+            "x": 127.73855741748798,
+            "y": 37.91136380230048
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00",
+            "Sun": "10:00 - 18:00",
+            "Holiday": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Wooridul Pharmacy, 18 Banhoeseo 6-gil, Sangbuk-myeon, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 상북면 반회서6길 18, 우리들약국",
+        "phone": "055-374-2356",
+        "coordinates": {
+            "x": 129.05865009389316,
+            "y": 35.41515510262883
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 12:40"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "18-8, Beonyeong 2-ro, Gongju-si, Chungcheongnam-do",
+        "address_kr": "충청남도 공주시 번영2로 18-8",
+        "phone": "041-881-4131",
+        "coordinates": {
+            "x": 127.1328427176991,
+            "y": 36.46902652465033
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "139-1 Bongdong-ro, Bongdong-eup, Wanju-gun, Jeollabuk-do",
+        "address_kr": "전북특별자치도 완주군 봉동읍 봉동로 139-1",
+        "phone": "063-261-2888",
+        "coordinates": {
+            "x": 127.16817892820484,
+            "y": 35.93746643943438
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "381-1 Jungang-ro, Miryang-si, Gyeongsangnam-do (Naei-dong)",
+        "address_kr": "경상남도 밀양시 중앙로 381-1 (내이동)",
+        "phone": "055-354-7686",
+        "coordinates": {
+            "x": 128.7510421181,
+            "y": 35.4956892961
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Male Otolaryngology Clinic, 7 Jungang-ro 1-gil, Iksan-si, Jeonbuk Special Self-Governing Province (Jungang-dong 1-ga)",
+        "address_kr": "전북특별자치도 익산시 중앙로1길 7, 남성이비인후과 (중앙동1가)",
+        "phone": "063-852-0995",
+        "coordinates": {
+            "x": 126.94857766890595,
+            "y": 35.94015678636203
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "23, Hwashin 1-gil, Gochang-eup, Gochang-gun, Jeollabuk-do",
+        "address_kr": "전북특별자치도 고창군 고창읍 화신1길 23",
+        "phone": "063-561-1183",
+        "coordinates": {
+            "x": 126.69521400571298,
+            "y": 35.436144155564556
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Samsung Homeplus (Hyucheon-dong), 29 Daehak-ro, Yeongju-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 영주시 대학로 29, 삼성홈플러스 (휴천동)",
+        "phone": "054-635-3138",
+        "coordinates": {
+            "x": 128.62128940321327,
+            "y": 36.80914420480249
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Sun": "10:00 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "84 Jinbujungang-ro, Jinbu-myeon, Pyeongchang-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 평창군 진부면 진부중앙로 84",
+        "phone": "033-336-0900",
+        "coordinates": {
+            "x": 128.55999991611722,
+            "y": 37.63853532499971
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "26-2, Hyeonchung-ro, Boseong-eup, Boseong-gun, Jeollanam-do",
+        "address_kr": "전라남도 보성군 보성읍 현충로 26-2",
+        "phone": "061-852-8613",
+        "coordinates": {
+            "x": 127.07601502015451,
+            "y": 34.76441352081574
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:00",
+            "Tue": "08:00 - 17:00",
+            "Wed": "08:00 - 17:00",
+            "Thu": "08:00 - 17:00",
+            "Fri": "08:00 - 17:00",
+            "Sat": "08:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#126~127, Megabox, 122 Saenae-ro, Jochiwon-eup, Sejong Special Self-Governing City",
+        "address_kr": "세종특별자치시 조치원읍 새내로 122, 메가박스 126~127호",
+        "phone": "044-868-8503",
+        "coordinates": {
+            "x": 127.29976772587602,
+            "y": 36.60129503043595
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 17:00",
+            "Holiday": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#101-103, 1st floor, Woosung Plaza, 19 Gyeyang Munhwa-ro, Gyeyang-gu, Incheon (Jakjeon Building)",
+        "address_kr": "인천광역시 계양구 계양문화로 19, 우성프라자 1층 101-103호 (작전동)",
+        "phone": "032-552-5430",
+        "coordinates": {
+            "x": 126.735970994,
+            "y": 37.5324390065
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "45-1, Haksan 1-gil, Iseo-myeon, Cheongdo-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 청도군 이서면 학산1길 45-1",
+        "phone": "054-372-5569",
+        "coordinates": {
+            "x": 128.6672506555,
+            "y": 35.6624219603
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1182 Jisan-ro, Jisan-myeon, Jindo-gun, Jeollanam-do",
+        "address_kr": "전라남도 진도군 지산면 지산로 1182",
+        "phone": "061-542-6868",
+        "coordinates": {
+            "x": 126.16604003816832,
+            "y": 34.4246222983995
+        },
+        "operating_hours": {
+            "Mon": "07:30 - 11:30",
+            "Tue": "07:30 - 11:30",
+            "Wed": "07:30 - 11:30",
+            "Thu": "07:30 - 11:30",
+            "Fri": "07:30 - 11:30",
+            "Sat": "07:30 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "53-1 Okgaro, Gangneung-si, Gangwon-do (Gyo-dong)",
+        "address_kr": "강원특별자치도 강릉시 옥가로 53-1 (교동)",
+        "phone": "033-645-0106",
+        "coordinates": {
+            "x": 128.89992925239585,
+            "y": 37.76114685444374
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "5133 Donghae-daero, Donghae-si, Gangwon-do (Hyoga-dong)",
+        "address_kr": "강원특별자치도 동해시 동해대로 5133(효가동)",
+        "phone": "033-521-2277",
+        "coordinates": {
+            "x": 129.1069105138664,
+            "y": 37.5033992595729
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Room 101, Joongang Medical, 192 3·15-daero, Masanhappo-gu, Changwon-si, Gyeongsangnam-do (Jungang-dong 2-ga)",
+        "address_kr": "경상남도 창원시 마산합포구 3·15대로 192 (중앙동2가) 중앙메디칼 101호",
+        "phone": "055-246-0555",
+        "coordinates": {
+            "x": 128.56715349648948,
+            "y": 35.19521415645461
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Medical Building, 7 Donggeum-ro, Sacheon-si, Gyeongsangnam-do (Donggeum-dong)",
+        "address_kr": "경상남도 사천시 동금로 7, 메디칼빌딩 (동금동)",
+        "phone": "055-835-7010",
+        "coordinates": {
+            "x": 128.07693040449362,
+            "y": 34.93223349774864
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 303, Gwonsamdeuk-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Geumam-dong)",
+        "address_kr": "전북특별자치도 전주시 덕진구 권삼득로 303, 1층 (금암동)",
+        "phone": "063-901-9128",
+        "coordinates": {
+            "x": 127.128450121907,
+            "y": 35.8432195149705
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:30",
+            "Tue": "10:00 - 22:30",
+            "Wed": "10:00 - 22:30",
+            "Thu": "10:00 - 22:30",
+            "Fri": "10:00 - 22:30",
+            "Sat": "10:00 - 22:30",
+            "Sun": "10:00 - 22:30",
+            "Holiday": "10:00 - 22:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "56 Ujeong-ro, Jeju-si, Jeju-do (Oedoil-dong)",
+        "address_kr": "제주특별자치도 제주시 우정로 56 (외도일동)",
+        "phone": "064-712-6543",
+        "coordinates": {
+            "x": 126.43074412467277,
+            "y": 33.487950088270225
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 19:00",
+            "Tue": "08:40 - 19:00",
+            "Wed": "08:40 - 19:00",
+            "Thu": "08:40 - 19:00",
+            "Fri": "08:40 - 19:00",
+            "Sat": "08:40 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#102, 10 Jigwi-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do (Bonggok-dong, Goryeo Building)",
+        "address_kr": "경상남도 창원시 의창구 지귀로 10, 102호(봉곡동,고려빌딩)",
+        "phone": "055-288-0546",
+        "coordinates": {
+            "x": "128.648761111111099",
+            "y": 35.243852777777775
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 18:30",
+            "Sun": "10:00 - 21:00",
+            "Holiday": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1, Dongbu-ro 591beon-gil, Munsan-eup, Jinju-si, Gyeongsangnam-do (Munsan-eup)",
+        "address_kr": "경상남도 진주시 문산읍 동부로591번길 1 (문산읍)",
+        "phone": "055-761-7494",
+        "coordinates": {
+            "x": 128.16442245033645,
+            "y": 35.16803838360289
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 12:30",
+            "Tue": "08:30 - 12:30",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 12:30",
+            "Fri": "08:30 - 12:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "74, Gyeongyeol-ro, Seo-gu, Gwangju, (Nongseong-dong)",
+        "address_kr": "광주광역시 서구 경열로 74, (농성동)",
+        "phone": "062-368-0100",
+        "coordinates": {
+            "x": 126.89404735133057,
+            "y": 35.1512081272831
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 17:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1211 Daejeon-ro, Daedeok-gu, Daejeon (Ojeong-dong)",
+        "address_kr": "대전광역시 대덕구 대전로 1211 (오정동)",
+        "phone": "042-672-7758",
+        "coordinates": {
+            "x": "127.41760128889083",
+            "y": 36.36229192262438
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 106 Hayang-ro, Hayang-eup, Gyeongsan-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경산시 하양읍 하양로 106, 1층",
+        "phone": "053-852-4616",
+        "coordinates": {
+            "x": 128.81873113277567,
+            "y": 35.914405301087385
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "35 Bomun-ro, Jung-gu, Daejeon",
+        "address_kr": "대전광역시 중구 보문로 35",
+        "phone": "042-286-6789",
+        "coordinates": {
+            "x": 127.43700600970382,
+            "y": 36.31370466636972
+        },
+        "operating_hours": {
+            "Mon": "08:45 - 18:15",
+            "Tue": "08:45 - 18:15",
+            "Wed": "08:45 - 18:15",
+            "Thu": "08:45 - 18:15",
+            "Fri": "08:45 - 18:15",
+            "Sat": "08:45 - 13:15"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "153 Neungdong-ro, Gimhae-si, Gyeongsangnam-do (Bugok-dong)",
+        "address_kr": "경상남도 김해시 능동로 153 (부곡동)",
+        "phone": "055-313-0272",
+        "coordinates": {
+            "x": 128.807969713605,
+            "y": 35.20245593012017
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 19:30",
+            "Tue": "08:40 - 19:30",
+            "Wed": "08:40 - 19:30",
+            "Thu": "08:40 - 19:30",
+            "Fri": "08:40 - 19:30",
+            "Sat": "08:40 - 17:00",
+            "Holiday": "08:40 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "621 Gyeryong-ro, Seo-gu, Daejeon (Tanbang-dong)",
+        "address_kr": "대전광역시 서구 계룡로 621 (탄방동)",
+        "phone": "070-4416-4050",
+        "coordinates": {
+            "x": 127.3919030009814,
+            "y": 36.34000822267336
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "2126, Dalgubeol-daero, Jung-gu, Daegu, (Bongsan-dong)",
+        "address_kr": "대구광역시 중구 달구벌대로 2126, (봉산동)",
+        "phone": "053-257-3006",
+        "coordinates": {
+            "x": 128.59597902622892,
+            "y": 35.86461633406255
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "788 Hogupo-ro, Namdong-gu, Incheon, (Guwol-dong)",
+        "address_kr": "인천광역시 남동구 호구포로 788, (구월동)",
+        "phone": "032-465-0607",
+        "coordinates": {
+            "x": 126.71931022184009,
+            "y": 37.452681503438065
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:30",
+            "Holiday": "09:00 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "155 Daedong-ro, Sasang-gu, Busan (Hakjang-dong)",
+        "address_kr": "부산광역시 사상구 대동로 155 (학장동)",
+        "phone": "051-365-0103",
+        "coordinates": {
+            "x": 128.98349272692622,
+            "y": 35.14144691724042
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:30",
+            "Tue": "09:30 - 18:30",
+            "Wed": "09:30 - 18:30",
+            "Thu": "09:30 - 18:30",
+            "Fri": "09:30 - 18:30",
+            "Sat": "09:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "216 Daemyeong-ro, Nam-gu, Daegu (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 대명로 216 (대명동)",
+        "phone": "053-623-0597",
+        "coordinates": {
+            "x": 128.58092453441785,
+            "y": 35.84039433311613
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1, Sangyeok-ro 8-gil, Buk-gu, Daegu, 1st floor (Sangyeok-dong)",
+        "address_kr": "대구광역시 북구 산격로8길 1 , 1층(산격동)",
+        "phone": "053-953-6848",
+        "coordinates": {
+            "x": 128.6053840927,
+            "y": 35.8937744688
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 6-1, Heukgyo-ro 52beon-gil, Jung-gu, Busan (Bosu-dong 1-ga)",
+        "address_kr": "부산광역시 중구 흑교로52번길 6-1, 1층 (보수동1가)",
+        "phone": "051-241-0075",
+        "coordinates": {
+            "x": 129.02539473710522,
+            "y": 35.104162955915676
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#105, 7, Baekyang Gwanmun-ro, Busanjin-gu, Busan (Gaegeum-dong, Jugong Apartment Complex)",
+        "address_kr": "부산광역시 부산진구 백양관문로 7, 105호 (개금동,주공아파트복합상가)",
+        "phone": "051-892-1199",
+        "coordinates": {
+            "x": 129.0302963952,
+            "y": 35.1600400753
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Seonil Building, 50-3 Sinnae-ro, Jungnang-gu, Seoul (Sinnae-dong)",
+        "address_kr": "서울특별시 중랑구 신내로 50-3, 선일빌딩 (신내동)",
+        "phone": "02-437-9090",
+        "coordinates": {
+            "x": 127.095977151761,
+            "y": 37.6037240392537
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "115-2, Gogwan-ro, Dong-gu, Busan, (Sujeong-dong)",
+        "address_kr": "부산광역시 동구 고관로 115-2, (수정동)",
+        "phone": "051-463-0059",
+        "coordinates": {
+            "x": 129.04664978665375,
+            "y": 35.12914677598222
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "179 Daeti-ro, Seo-gu, Busan, 1st floor (Seodaesin-dong 3-ga)",
+        "address_kr": "부산광역시 서구 대티로 179, 1층 (서대신동3가)",
+        "phone": "051-256-3633",
+        "coordinates": {
+            "x": 129.01173651783205,
+            "y": 35.111650342456535
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, Geumdong Building, 451 Nakdong-daero, Saha-gu, Busan (Hadan-dong)",
+        "address_kr": "부산광역시 사하구 낙동대로 451, 금동빌딩 1층 (하단동)",
+        "phone": "051-206-6500",
+        "coordinates": {
+            "x": 128.96874782990332,
+            "y": 35.1044822557122
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "131-4 Dadae-ro, Saha-gu, Busan, 1st floor (Sinpyeong-dong)",
+        "address_kr": "부산광역시 사하구 다대로 131-4, 1층 (신평동)",
+        "phone": "051-201-0401",
+        "coordinates": {
+            "x": 128.97819560362439,
+            "y": 35.0905916529881
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "370 Wolgye-ro, Nowon-gu, Seoul",
+        "address_kr": "서울특별시 노원구 월계로 370",
+        "phone": "02-977-3225",
+        "coordinates": {
+            "x": 127.06102564028,
+            "y": 37.6309766775099
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:30",
+            "Tue": "08:00 - 21:30",
+            "Wed": "08:00 - 21:30",
+            "Thu": "08:00 - 21:30",
+            "Fri": "08:00 - 21:30",
+            "Sat": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "174 Wolpyeong-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do (Yongam-dong)",
+        "address_kr": "충청북도 청주시 상당구 월평로 174 (용암동)",
+        "phone": "043-286-0008",
+        "coordinates": {
+            "x": 127.50369514644674,
+            "y": 36.61046493387677
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Rooms 102 and 103, 1st floor, Rainbow Building, 66 Seohyeonjung-ro, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do (Gangseo-dong)",
+        "address_kr": "충청북도 청주시 흥덕구 서현중로 66, 레인보우빌딩 1층 102, 103호 (강서동)",
+        "phone": "043-232-5433",
+        "coordinates": {
+            "x": 127.4282835725,
+            "y": 36.6242814973877
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "225, Sinnam-ro, Yeonggwang-eup, Yeonggwang-gun, Jeollanam-do,",
+        "address_kr": "전라남도 영광군 영광읍 신남로 225,",
+        "phone": "061-353-3512",
+        "coordinates": {
+            "x": 126.50664188326652,
+            "y": 35.27585814070103
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 13:00",
+            "Tue": "08:00 - 13:00",
+            "Wed": "08:00 - 13:00",
+            "Thu": "08:00 - 13:00",
+            "Fri": "08:00 - 13:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#102, 52, Juknimjungang-ro, Soramyeon, Yeosu-si, Jeollanam-do",
+        "address_kr": "전라남도 여수시 소라면 죽림중앙로 52, 102호",
+        "phone": "061-682-1014",
+        "coordinates": {
+            "x": 127.6379033026609,
+            "y": 34.764782488221734
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "14:00 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "164 Pyeongwon-ro, Wonju-si, Gangwon-do, 1st floor (Hakseong-dong)",
+        "address_kr": "강원특별자치도 원주시 평원로 164, 1층 (학성동)",
+        "phone": "033-900-7300",
+        "coordinates": {
+            "x": 127.944028853913,
+            "y": 37.3567821453357
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Room 101, 1st floor, 42 Geumdang-ro, Jangan-gu, Suwon-si, Gyeonggi-do (Jowon-dong, Green Plaza)",
+        "address_kr": "경기도 수원시 장안구 금당로 42, 1층 101호 (조원동, 그린프라자)",
+        "phone": "031-255-9659",
+        "coordinates": {
+            "x": 127.01535363955601,
+            "y": 37.303517605486675
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "73 Sejong-ro, Yeoju-si, Gyeonggi-do",
+        "address_kr": "경기도 여주시 세종로 73",
+        "phone": "031-885-5121",
+        "coordinates": {
+            "x": 127.63548021300679,
+            "y": 37.29138636214666
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:30",
+            "Tue": "08:30 - 22:30",
+            "Wed": "08:30 - 22:30",
+            "Thu": "08:30 - 22:30",
+            "Fri": "08:30 - 22:30",
+            "Sat": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Room 103, 1st floor, 2615 Nambusunhwan-ro, Gangnam-gu, Seoul (Dogok-dong, Far East Star Class)",
+        "address_kr": "서울특별시 강남구 남부순환로 2615, 1층 103호 (도곡동, 극동스타클래스)",
+        "phone": "02-577-1108",
+        "coordinates": {
+            "x": 127.035883711966,
+            "y": 37.4851852937745
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#101, 245 Buheung-ro, Bupyeong-gu, Incheon (Bupyeong-dong)",
+        "address_kr": "인천광역시 부평구 부흥로 245, 101호 (부평동)",
+        "phone": "032-507-1530",
+        "coordinates": {
+            "x": 126.71912313811693,
+            "y": 37.499061295588724
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 35 Yeonseo-ro, Eunpyeong-gu, Seoul (Yeokchon-dong)",
+        "address_kr": "서울특별시 은평구 연서로 35, 1층 (역촌동)",
+        "phone": "02-356-1530",
+        "coordinates": {
+            "x": 126.915561701676,
+            "y": 37.6022659568562
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "08:20 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, Sena Building, 466 Baekjegobun-ro, Songpa-gu, Seoul (Bangi-dong)",
+        "address_kr": "서울특별시 송파구 백제고분로 466, 세나빌딩 1층 (방이동)",
+        "phone": "02-484-3230",
+        "coordinates": {
+            "x": 127.113590915217,
+            "y": 37.5119345765183
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "781 Olympic-ro, Gangdong-gu, Seoul (Amsa-dong)",
+        "address_kr": "서울특별시 강동구 올림픽로 781, (암사동)",
+        "phone": "02-427-0012",
+        "coordinates": {
+            "x": 127.127536987931,
+            "y": 37.551017286411
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 01:30",
+            "Tue": "09:00 - 01:30",
+            "Wed": "09:00 - 01:30",
+            "Thu": "09:00 - 01:30",
+            "Fri": "09:00 - 01:30",
+            "Sat": "09:00 - 25:30",
+            "Sun": "09:30 - 25:30",
+            "Holiday": "09:00 - 01:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "9 Handeul 3-ro, Seobuk-gu, Cheonan-si, Chungcheongnam-do (Baekseok-dong, Seoul Woori Hospital)",
+        "address_kr": "충청남도 천안시 서북구 한들3로 9 (백석동, 서울우리병원)",
+        "phone": "070-8806-4530",
+        "coordinates": {
+            "x": 127.1234620319,
+            "y": 36.8242893131
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "24 Geumjang-ro, Okcheon-eup, Okcheon-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 옥천군 옥천읍 금장로 24",
+        "phone": "043-733-0187",
+        "coordinates": {
+            "x": 127.56706205133216,
+            "y": 36.30187750329537
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 15:00",
+            "Holiday": "08:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "Room 104, 1st floor, 7 Myeongnyun-ro 2beon-gil, Yeonje-gu, Busan (Geoje-dong, Samik Future Tower Apartment)",
+        "address_kr": "부산광역시 연제구 명륜로2번길 7, 1층 104호 (거제동, 삼익퓨쳐타워아파트)",
+        "phone": "051-504-4991",
+        "coordinates": {
+            "x": 129.08095382238682,
+            "y": 35.19517235802299
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 13:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "8 Sangchon-ro, Galsan-myeon, Hongseong-gun, Chungcheongnam-do (Galsan-myeon)",
+        "address_kr": "충청남도 홍성군 갈산면 상촌로 8 (갈산면)",
+        "phone": "041-632-1949",
+        "coordinates": {
+            "x": "126.548466666666670",
+            "y": "36.602861111111110"
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:00",
+            "Sun": "08:00 - 12:00",
+            "Holiday": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "84 Sangdong-ro, Bucheon-si, Gyeonggi-do (Sangdong)",
+        "address_kr": "경기도 부천시 상동로 84 (상동)",
+        "phone": "032-327-7531",
+        "coordinates": {
+            "x": 126.75339507512194,
+            "y": 37.50442135827673
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 9, Jungang-ro, Buyeo-eup, Buyeo-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 부여군 부여읍 중앙로 9, 1층",
+        "phone": "041-837-2780",
+        "coordinates": {
+            "x": 126.91150322072707,
+            "y": 36.28095585205412
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#110, 20, Arts Daehak-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Gojan-dong, Power Building)",
+        "address_kr": "경기도 안산시 단원구 예술대학로 20, 110호 (고잔동, 전원빌딩)",
+        "phone": "031-484-0161",
+        "coordinates": {
+            "x": "126.837155555555555",
+            "y": "37.318763888888888"
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "2nd floor, 1576 Bongyeong-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do (Yeongtong-dong, Homeplus Yeongtong Branch)",
+        "address_kr": "경기도 수원시 영통구 봉영로 1576, 2층 (영통동, 홈플러스 영통점)",
+        "phone": "031-201-8298",
+        "coordinates": {
+            "x": 127.0725224682032,
+            "y": 37.251751460984224
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Sun": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "21 Namsan-ro 354beon-gil, Nam-gu, Ulsan (Sinjeong-dong)",
+        "address_kr": "울산광역시 남구 남산로354번길 21  (신정동)",
+        "phone": "052-269-1004",
+        "coordinates": {
+            "x": 129.30654013790434,
+            "y": 35.548535250950536
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "#103, 175 Heonyang-gil, Eonyang-eup, Ulju-gun, Ulsan Metropolitan City",
+        "address_kr": "울산광역시 울주군 언양읍 헌양길 175, 103호",
+        "phone": "052-254-4518",
+        "coordinates": {
+            "x": 129.11698034057056,
+            "y": 35.567064402576136
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00",
+            "Sun": "14:00 - 20:00",
+            "Holiday": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 141-1, Sinheung-ro, Uijeongbu-si, Gyeonggi-do",
+        "address_kr": "경기도 의정부시 신흥로 141-1 1층",
+        "phone": "031-872-0075",
+        "coordinates": {
+            "x": 127.04331919020821,
+            "y": 37.728805998187525
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "1st floor, 6 Dongsomun-ro 46-gil, Seongbuk-gu, Seoul (Hawolgok-dong)",
+        "address_kr": "서울특별시 성북구 동소문로46길 6, 1층 (하월곡동)",
+        "phone": "02-911-3336",
+        "coordinates": {
+            "x": 127.029118393717,
+            "y": 37.6069520405666
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 24:00",
+            "Tue": "09:00 - 24:00",
+            "Wed": "09:00 - 24:00",
+            "Thu": "09:00 - 24:00",
+            "Fri": "09:00 - 24:00",
+            "Sat": "09:00 - 24:00",
+            "Sun": "09:00 - 24:00",
+            "Holiday": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "190 Ohyeon-ro, Gangbuk-gu, Seoul (Beon-dong)",
+        "address_kr": "서울특별시 강북구 오현로 190 (번동)",
+        "phone": "02-981-7577",
+        "coordinates": {
+            "x": 127.039410708924,
+            "y": 37.6284742878356
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 17:00",
+            "Sun": "12:00 - 17:00",
+            "Holiday": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wooridul Pharmacy",
+        "pharmacy_name_kr": "우리들약국",
+        "address_en": "19, Samyul 2-gil, Uljin-gun, Gyeongsangbuk-do (Hupo-myeon)",
+        "address_kr": "경상북도 울진군 삼율2길 19 (후포면) ",
+        "phone": "054-788-5095",
+        "coordinates": {
+            "x": 129.44307396662626,
+            "y": 36.67862618213902
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
     }
 ]
