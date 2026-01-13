@@ -332711,5 +332711,1933 @@
             "Fri": "09:00 - 19:00",
             "Sat": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Yulha Jeil Pharmacy",
+        "pharmacy_name_kr": "율하제일약국",
+        "address_en": "#106, 107, Yulha 1-ro, Gimhae-si, Gyeongsangnam-do (Yulha-dong)",
+        "address_kr": "경상남도 김해시 율하1로 106, 107호 (율하동)",
+        "phone": "055-329-4272",
+        "coordinates": {
+            "x": 128.81504931411865,
+            "y": 35.173208367785364
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yulha Blue Pharmacy",
+        "pharmacy_name_kr": "율하푸른약국",
+        "address_en": "1st floor, 73 Yulhadong-ro 8-gil, Dong-gu, Daegu (Yulha-dong)",
+        "address_kr": "대구광역시 동구 율하동로8길 73, 1층 (율하동)",
+        "phone": "053-961-3131",
+        "coordinates": {
+            "x": 128.7021802813,
+            "y": 35.8643549476
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum 365 Pharmacy",
+        "pharmacy_name_kr": "으뜸365약국",
+        "address_en": "Room 101,103, 1st floor, Building 2, 96-14 Sicheon-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Songcheon-dong 2-ga)",
+        "address_kr": "전북특별자치도 전주시 덕진구 시천로 96-14, 제2동 1층 101,103호 (송천동2가)",
+        "phone": "063-000-0000",
+        "coordinates": {
+            "x": 127.11590470689,
+            "y": 35.8675107263432
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteumgil Pharmacy",
+        "pharmacy_name_kr": "으뜸길약국",
+        "address_en": "690 Hyoja-ro, Donghae-si, Gangwon-do (Hyoga-dong, Eutteum Pharmacy)",
+        "address_kr": "강원특별자치도 동해시 효자로 690 (효가동, 으뜸약국)",
+        "phone": "033-522-3868",
+        "coordinates": {
+            "x": 129.10976810052222,
+            "y": 37.49223087218519
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "1st floor, 42 Daehyeonnam-ro, Buk-gu, Daegu (Daehyeon-dong)",
+        "address_kr": "대구광역시 북구 대현남로 42, 1층 (대현동)",
+        "phone": "053-951-0510",
+        "coordinates": {
+            "x": 128.607716480315,
+            "y": 35.881743878423
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "1699 Daehoman-ro, Seongmun-myeon, Dangjin-si, Chungcheongnam-do (Seokmun-myeon)",
+        "address_kr": "충청남도 당진시 석문면 대호만로 1699 (석문면)",
+        "phone": "041-357-6502",
+        "coordinates": {
+            "x": 126.5417077076595,
+            "y": 37.01176133757339
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "2, Pilmun-daero 106beon-gil, Dong-gu, Gwangju, (Gyerim-dong)",
+        "address_kr": "광주광역시 동구 필문대로106번길 2, (계림동)",
+        "phone": "062-521-8276",
+        "coordinates": {
+            "x": "126.929872222222215",
+            "y": 35.161055555555556
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "1st floor, 376 Nohyeong-ro, Jeju-si, Jeju-do (Nohyeong-dong)",
+        "address_kr": "제주특별자치도 제주시 노형로 376, 1층 (노형동)",
+        "phone": "064-749-0003",
+        "coordinates": {
+            "x": 126.47611373872998,
+            "y": 33.483402409354866
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "395 Yeseong-ro, Chungju-si, Chungcheongbuk-do (Yeonsu-dong)",
+        "address_kr": "충청북도 충주시 예성로 395 (연수동)",
+        "phone": "043-846-5837",
+        "coordinates": {
+            "x": 127.93378079595904,
+            "y": 36.99156082538118
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "33-1 Hwalcheon-ro, Gimhae-si, Gyeongsangnam-do (Samjeong-dong)",
+        "address_kr": "경상남도 김해시 활천로 33-1 (삼정동)",
+        "phone": "055-325-8810",
+        "coordinates": {
+            "x": 128.8934754099473,
+            "y": 35.23067472600642
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "17, Cheonsang-gil, Beomseo-eup, Ulju-gun, Ulsan Metropolitan City",
+        "address_kr": "울산광역시 울주군 범서읍 천상길 17",
+        "phone": "052-248-7590",
+        "coordinates": {
+            "x": 129.22989547658085,
+            "y": 35.56173347836863
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 13:00",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#103 Innovation Square, 69 Innovation 4-ro, Gimcheon-si, Gyeongsangbuk-do (Yulgok-dong)",
+        "address_kr": "경상북도 김천시 혁신4로 69, 이노베이션 스퀘어 103호 (율곡동)",
+        "phone": "054-435-5357",
+        "coordinates": {
+            "x": 128.18912491234718,
+            "y": 36.12146361280431
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00",
+            "Sun": "10:00 - 19:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#101,102, 23 Daehak-ro, Gyeongsan-si, Gyeongsangbuk-do (Jeongpyeong-dong)",
+        "address_kr": "경상북도 경산시 대학로 23, 101,102호 (정평동)",
+        "phone": "053-811-0414",
+        "coordinates": {
+            "x": 128.725539422094,
+            "y": 35.8349899307502
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Sun": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "182 Hyoseo-ro, Gyeyang-gu, Incheon (Hyosung-dong, Poonglim Apartment)",
+        "address_kr": "인천광역시 계양구 효서로 182 (효성동, 풍림아파트)",
+        "phone": "032-548-8071",
+        "coordinates": {
+            "x": 126.71640998338262,
+            "y": 37.527810568523556
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "268 Sinnam-ro, Yeonggwang-eup, Yeonggwang-gun, Jeollanam-do",
+        "address_kr": "전라남도 영광군 영광읍 신남로 268",
+        "phone": "061-353-6699",
+        "coordinates": {
+            "x": 126.5107548719,
+            "y": 35.2745170079
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:30",
+            "Tue": "08:00 - 17:30",
+            "Wed": "08:00 - 17:30",
+            "Thu": "08:00 - 17:30",
+            "Fri": "08:00 - 17:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "173 Nangju-ro, Yeongam-eup, Yeongam-gun, Jeollanam-do",
+        "address_kr": "전라남도 영암군 영암읍 낭주로 173",
+        "phone": "061-471-7684",
+        "coordinates": {
+            "x": 126.70027840678219,
+            "y": 34.803379738595446
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:30",
+            "Tue": "08:00 - 17:30",
+            "Wed": "08:00 - 17:30",
+            "Thu": "08:00 - 17:30",
+            "Fri": "08:00 - 17:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "62 Yeonhyang 1-ro, Suncheon-si, Jeollanam-do (Yeonhyang-dong)",
+        "address_kr": "전라남도 순천시 연향1로 62 (연향동)",
+        "phone": "061-726-7566",
+        "coordinates": {
+            "x": 127.52043559243143,
+            "y": 34.943286883482536
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:30",
+            "Tue": "09:30 - 18:30",
+            "Wed": "09:30 - 18:30",
+            "Thu": "09:30 - 18:30",
+            "Fri": "09:30 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "349 Seji-ro, Paldal-gu, Suwon-si, Gyeonggi-do (Jidong)",
+        "address_kr": "경기도 수원시 팔달구 세지로 349 (지동)",
+        "phone": "031-257-7253",
+        "coordinates": {
+            "x": "127.02521372616436",
+            "y": 37.28195588352229
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "Room 109, Mercy Tower, 10 Hanjung-ro, Seo-gu, Incheon (Baekseok-dong)",
+        "address_kr": "인천광역시 서구 한중로 10, 메르시타워 109호 (백석동)",
+        "phone": "050-71303-3775",
+        "coordinates": {
+            "x": 126.673809821857,
+            "y": 37.5776679082
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "1st~2nd floor, 36-6, Eomgwang-ro 44beon-gil, Busanjin-gu, Busan (Gaegeum-dong)",
+        "address_kr": "부산광역시 부산진구 엄광로44번길 36-6, 1~2층 (개금동)",
+        "phone": "051-897-0790",
+        "coordinates": {
+            "x": 129.021298272926,
+            "y": 35.1465789612098
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "4, Janggam-ro 87beon-gil, Janghowon-eup, Icheon-si, Gyeonggi-do",
+        "address_kr": "경기도 이천시 장호원읍 장감로87번길 4",
+        "phone": "031-642-3344",
+        "coordinates": {
+            "x": 127.63221652773434,
+            "y": 37.11783849888166
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 14:00",
+            "Tue": "09:00 - 14:00",
+            "Wed": "09:00 - 14:00",
+            "Thu": "09:00 - 14:00",
+            "Fri": "09:00 - 14:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "12-1 Dowon-ro 7beon-gil, Jung-gu, Incheon (Seonhwa-dong)",
+        "address_kr": "인천광역시 중구 도원로7번길 12-1 (선화동)",
+        "phone": "032-881-0092",
+        "coordinates": {
+            "x": 126.63589717256728,
+            "y": 37.46570847195885
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#104, Sanga-dong, 68 Jaeungari 1-gil, Jiksan-eup, Seobuk-gu, Cheonan-si, Chungcheongnam-do (Woosung Apartment)",
+        "address_kr": "충청남도 천안시 서북구 직산읍 자은가리1길 68, 상가동 104호 (우성아파트)",
+        "phone": "041-588-7574",
+        "coordinates": {
+            "x": 127.1282373848,
+            "y": 36.8702009646
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:10",
+            "Tue": "08:30 - 22:10",
+            "Wed": "08:30 - 22:10",
+            "Thu": "08:30 - 22:10",
+            "Fri": "08:30 - 22:10",
+            "Sat": "08:30 - 22:10",
+            "Sun": "08:30 - 22:10",
+            "Holiday": "08:30 - 22:10"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#411, 46 Ilsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Baekseok-dong, Namjeong City Plaza 3)",
+        "address_kr": "경기도 고양시 일산동구 일산로 46, 411호 (백석동, 남정씨티프라자3차)",
+        "phone": "070-8234-1743",
+        "coordinates": {
+            "x": 126.7878839598955,
+            "y": 37.64235645995964
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "23, Bonghyeon-ro, Jinjeop-eup, Namyangju-si, Gyeonggi-do",
+        "address_kr": "경기도 남양주시 진접읍 봉현로 23",
+        "phone": "031-572-7601",
+        "coordinates": {
+            "x": 127.18009087685414,
+            "y": 37.715698816409066
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "Room 252, 2nd floor, Doosan Venture Dime, 415 Heungan-daero, Dongan-gu, Anyang-si, Gyeonggi-do (Pyeongchon-dong)",
+        "address_kr": "경기도 안양시 동안구 흥안대로 415, 두산벤처다임 2층 252호 (평촌동)",
+        "phone": "070-7723-4155",
+        "coordinates": {
+            "x": 126.9573931843,
+            "y": 37.370969328
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "1st floor, 339 Sillim-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 신림로 339, 1층 (신림동)",
+        "phone": "02-888-7888",
+        "coordinates": {
+            "x": 126.929278703389,
+            "y": 37.4845586933158
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 21:00",
+            "Tue": "09:30 - 21:00",
+            "Wed": "09:30 - 21:00",
+            "Thu": "09:30 - 21:00",
+            "Fri": "09:30 - 21:00",
+            "Sat": "09:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "Room 104, Building 102, 52 Wangsan-ro, Dongdaemun-gu, Seoul (Yongdu-dong, Sinseol-dong Station Daewoo iville)",
+        "address_kr": "서울특별시 동대문구 왕산로 52, 102동 104호 (용두동, 신설동역대우아이빌)",
+        "phone": "02-953-3368",
+        "coordinates": {
+            "x": 127.029470644625,
+            "y": 37.5771885830465
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "11, Pyeongtaek 2-ro 20beon-gil, Pyeongtaek-si, Gyeonggi-do (Pyeongtaek-dong)",
+        "address_kr": "경기도 평택시 평택2로20번길 11, (평택동)",
+        "phone": "070-8836-0587",
+        "coordinates": {
+            "x": 127.08922031952883,
+            "y": 36.99277801340042
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30",
+            "Sat": "08:30 - 17:00",
+            "Sun": "16:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#103, Leaders Plaza, 24 Chungmin-ro 2-gil, Songpa-gu, Seoul (Jangji-dong)",
+        "address_kr": "서울특별시 송파구 충민로2길 24, 리더스프라자 103호 (장지동)",
+        "phone": "02-403-0734",
+        "coordinates": {
+            "x": 127.127283305984,
+            "y": 37.4776438114231
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#105, Shopping Building, 66 Neunggok-ro, Uijeongbu-si, Gyeonggi-do",
+        "address_kr": "경기도 의정부시 능곡로 66 상가동 105호",
+        "phone": "031-848-7773",
+        "coordinates": {
+            "x": 127.0617624426,
+            "y": 37.743332224
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Pharmacy",
+        "pharmacy_name_kr": "으뜸약국",
+        "address_en": "#104, 102, Hakha-ro, Yuseong-gu, Daejeon (Hakha-dong)",
+        "address_kr": "대전광역시 유성구 학하로 104, 102호 (학하동)",
+        "phone": "042-335-0715",
+        "coordinates": {
+            "x": 127.306563241113,
+            "y": 36.342351581436
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Onnuri Pharmacy",
+        "pharmacy_name_kr": "으뜸온누리약국",
+        "address_en": "#104, 812 Jingeon Onam-ro, Onam-eup, Namyangju-si, Gyeonggi-do (Onam-eup)",
+        "address_kr": "경기도 남양주시 오남읍 진건오남로 812, 104호 (오남읍)",
+        "phone": "031-527-9284",
+        "coordinates": {
+            "x": 127.2026073714,
+            "y": 37.6990122891
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eutteum Onnuri Pharmacy",
+        "pharmacy_name_kr": "으뜸온누리약국",
+        "address_en": "#104, Commercial Building, Sky Village Humansia Complex 3, 69 Nonhyeon-ro, Namdong-gu, Incheon (Nonhyeon-dong)",
+        "address_kr": "인천광역시 남동구 논현로 69, 하늘마을휴먼시아3단지 상가비동 104호 (논현동)",
+        "phone": "0324311125",
+        "coordinates": {
+            "x": 126.714148144253,
+            "y": 37.4020362820175
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:20",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 19:20",
+            "Thu": "09:00 - 19:20",
+            "Fri": "09:00 - 19:20",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eungyeol Pharmacy",
+        "pharmacy_name_kr": "은결약국",
+        "address_en": "291 Daehak-ro, Gyeongsan-si, Gyeongsangbuk-do (Daedong)",
+        "address_kr": "경상북도 경산시 대학로 291 (대동)",
+        "phone": "053-817-2769",
+        "coordinates": {
+            "x": 128.7537536638,
+            "y": 35.8371524073
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eungye Gold Pharmacy",
+        "pharmacy_name_kr": "은계골드약국",
+        "address_en": "#116, Goldway, 9 Eungye Beonyeong-gil, Siheung-si, Gyeonggi-do (Eunhaeng-dong)",
+        "address_kr": "경기도 시흥시 은계번영길 9, 골드웨이 116호 (은행동)",
+        "phone": "031-311-4420",
+        "coordinates": {
+            "x": 126.80163294672,
+            "y": 37.4375150988434
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver contract country",
+        "pharmacy_name_kr": "은계약국",
+        "address_en": "Room 105, Woopyeong Labien, 260 Eungye-ro, Siheung-si, Gyeonggi-do (Gyesu-dong)",
+        "address_kr": "경기도 시흥시 은계로 260, 우평라비엔 105호 (계수동)",
+        "phone": "031-314-7712",
+        "coordinates": {
+            "x": 126.80313810088252,
+            "y": 37.44486970695203
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00",
+            "Holiday": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eungye Onnuri Pharmacy",
+        "pharmacy_name_kr": "은계온누리약국",
+        "address_en": "#111, Taesan W Tower, 1 Eungye Beonyeong-gil, Siheung-si, Gyeonggi-do (Eunhaeng-dong)",
+        "address_kr": "경기도 시흥시 은계번영길 1, 태산W타워 111호 (은행동)",
+        "phone": "031-311-5513",
+        "coordinates": {
+            "x": 126.80160959246535,
+            "y": 37.43655980426645
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eungye Lake Pharmacy",
+        "pharmacy_name_kr": "은계호수약국",
+        "address_en": "#110~111, Eungye Town, 23 Eungye Beonyeong-gil, Siheung-si, Gyeonggi-do (Eunhaeng-dong)",
+        "address_kr": "경기도 시흥시 은계번영길 23, 은계타운 110~111호 (은행동)",
+        "phone": "031-317-5905",
+        "coordinates": {
+            "x": 126.80392224045347,
+            "y": 37.43712229211874
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunkwang Pharmacy",
+        "pharmacy_name_kr": "은광약국",
+        "address_en": "236-1 Balhan-ro, Donghae-si, Gangwon-do",
+        "address_kr": "강원특별자치도 동해시 발한로 236-1",
+        "phone": "033-531-3585",
+        "coordinates": {
+            "x": 129.10783233025882,
+            "y": 37.550297362860015
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:30",
+            "Tue": "08:00 - 19:30",
+            "Wed": "08:00 - 19:30",
+            "Thu": "08:00 - 19:30",
+            "Fri": "08:00 - 19:30",
+            "Sat": "08:00 - 19:30",
+            "Holiday": "08:00 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunkwang Pharmacy",
+        "pharmacy_name_kr": "은광약국",
+        "address_en": "14 Dokseoul 1-gil, Munsan-eup, Paju-si, Gyeonggi-do (Munsan-eup)",
+        "address_kr": "경기도 파주시 문산읍 독서울1길 14 (문산읍)",
+        "phone": "031-947-7100",
+        "coordinates": {
+            "x": 126.8044509673,
+            "y": 37.8658570593
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunkwang Pharmacy",
+        "pharmacy_name_kr": "은광약국",
+        "address_en": "1st floor, 57 Heunghae-ro, Heunghae-eup, Buk-gu, Pohang-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 포항시 북구 흥해읍 흥해로 57, 1층",
+        "phone": "054-262-0114",
+        "coordinates": {
+            "x": 129.347344145978,
+            "y": 36.109899054118
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunnara Pharmacy",
+        "pharmacy_name_kr": "은나라약국",
+        "address_en": "258 Galhyeon-ro, Eunpyeong-gu, Seoul (Galhyeon-dong)",
+        "address_kr": "서울특별시 은평구 갈현로 258, (갈현동)",
+        "phone": "02-358-8778",
+        "coordinates": {
+            "x": 126.91612317005,
+            "y": 37.6199107828924
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eundang Pharmacy",
+        "pharmacy_name_kr": "은당약국",
+        "address_en": "11 Gamgol 2-ro, Sangnok-gu, Ansan-si, Gyeonggi-do (Sadong, Yenurim)",
+        "address_kr": "경기 안산시 상록구 감골2로 11   (사동, 예누림)",
+        "phone": "031-409-5500",
+        "coordinates": {
+            "x": 126.853952716137,
+            "y": 37.2903463538573
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunmi Pharmacy",
+        "pharmacy_name_kr": "은미약국",
+        "address_en": "22 Sadang-ro 16-gil, Dongjak-gu, Seoul (Sadang-dong)",
+        "address_kr": "서울특별시 동작구 사당로16길 22 (사당동)",
+        "phone": "02-521-6950",
+        "coordinates": {
+            "x": 126.97309261448,
+            "y": 37.4825851158043
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunmin Pharmacy",
+        "pharmacy_name_kr": "은민약국",
+        "address_en": "#102, 32, Wolbae-ro 11-gil, Dalseo-gu, Daegu (Daecheon-dong)",
+        "address_kr": "대구광역시 달서구 월배로11길 32, 102호 (대천동)",
+        "phone": "053-636-7771",
+        "coordinates": {
+            "x": 128.5196440614,
+            "y": 35.8161220375
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunbi Pharmacy",
+        "pharmacy_name_kr": "은비약국",
+        "address_en": "Room 102, Seomi Plaza, 2 Eungye Beonyeong-gil, Siheung-si, Gyeonggi-do (Eunhaeng-dong)",
+        "address_kr": "경기도 시흥시 은계번영길 2, 서미프라자 102호 (은행동)",
+        "phone": "031-312-7572",
+        "coordinates": {
+            "x": 126.802231444801,
+            "y": 37.4365420151402
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Silver Pharmacy",
+        "pharmacy_name_kr": "은빛약국",
+        "address_en": "2, Tongil-ro 87-gil, Eunpyeong-gu, Seoul (Galhyeon-dong)",
+        "address_kr": "서울특별시 은평구 통일로87길 2, (갈현동)",
+        "phone": "02-355-5362",
+        "coordinates": {
+            "x": 126.91945266589,
+            "y": 37.6234721824825
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sun": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Silver Pharmacy",
+        "pharmacy_name_kr": "은빛약국",
+        "address_en": "#104, 1192 Jungang-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Madu-dong)",
+        "address_kr": "경기도 고양시 일산동구 중앙로 1192, 104호 (마두동)",
+        "phone": "0319058913",
+        "coordinates": {
+            "x": 126.77838834339941,
+            "y": 37.651734444701574
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Silver Pharmacy",
+        "pharmacy_name_kr": "은빛약국",
+        "address_en": "#109, 41, Dongil-ro 245ga-gil, Nowon-gu, Seoul (Sanggye-dong, Eunbit 2 Complex Apartment)",
+        "address_kr": "서울특별시 노원구 동일로245가길 41, 109호 (상계동, 은빛2단지아파트)",
+        "phone": "02-930-0323",
+        "coordinates": {
+            "x": 127.053801434371,
+            "y": 37.6806663867465
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:20",
+            "Tue": "09:00 - 18:20",
+            "Wed": "09:00 - 18:20",
+            "Thu": "09:00 - 18:20",
+            "Fri": "09:00 - 18:20",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Silver Pharmacy",
+        "pharmacy_name_kr": "은빛약국",
+        "address_en": "10 Songhyeon-ro 7-gil, Dalseo-gu, Daegu",
+        "address_kr": "대구광역시 달서구 송현로7길 10",
+        "phone": "053-624-7505",
+        "coordinates": {
+            "x": 128.5464346625721,
+            "y": 35.82093202612755
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunsa Pharmacy",
+        "pharmacy_name_kr": "은사약국",
+        "address_en": "26, Market-gil, Bugang-myeon, Sejong Special Self-Governing City",
+        "address_kr": "세종특별자치시 부강면 시장길 26",
+        "phone": "044-275-9122",
+        "coordinates": {
+            "x": 127.36827604536037,
+            "y": 36.529035547269146
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 12:30",
+            "Holiday": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "Gyeongseong Building, 3, Noryangjin-ro 8-gil, Dongjak-gu, Seoul (Noryangjin-dong)",
+        "address_kr": "서울특별시 동작구 노량진로8길 3, 경성빌딩 (노량진동)",
+        "phone": "02-816-4744",
+        "coordinates": {
+            "x": 126.93649160368,
+            "y": 37.5129296184414
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 18:40",
+            "Tue": "08:50 - 18:40",
+            "Wed": "08:50 - 18:40",
+            "Thu": "08:50 - 18:40",
+            "Fri": "08:50 - 18:40",
+            "Sat": "08:50 - 13:20"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "Room 110, 1st floor, 7 Sindorim-ro 19-gil, Guro-gu, Seoul (Sindorim-dong, Seonggwang Medical Building)",
+        "address_kr": "서울특별시 구로구 신도림로19길 7, 1층 110호 (신도림동,성광메디칼빌딩)",
+        "phone": "02-2636-9150",
+        "coordinates": {
+            "x": 126.884470304555,
+            "y": 37.5112029731186
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "1st floor, 260 Sangmu-daero, Gwangsan-gu, Gwangju (Songjeong-dong)",
+        "address_kr": "광주광역시 광산구 상무대로 260, 1층 (송정동)",
+        "phone": "062-431-8900",
+        "coordinates": {
+            "x": 126.795086648164,
+            "y": 35.1415833024467
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "1st floor, 440 Wolbae-ro, Dalseo-gu, Daegu (Songhyeon-dong)",
+        "address_kr": "대구광역시 달서구 월배로 440, 1층 (송현동)",
+        "phone": "053-657-3306",
+        "coordinates": {
+            "x": 128.55415817596943,
+            "y": 35.83276731147692
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "1st floor, Jeil Obstetrics and Gynecology, 46 Dongmun-ro, Seogwipo-si, Jeju-do (Seogwi-dong)",
+        "address_kr": "제주특별자치도 서귀포시 동문로 46, 제일산부인과 1층 (서귀동)",
+        "phone": "064-732-1346",
+        "coordinates": {
+            "x": 126.56634330951891,
+            "y": 33.24928909186374
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 12:00",
+            "Holiday": "08:30 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "#101, 732 Goyang-daero, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Ilsan-dong, Daejin Building)",
+        "address_kr": "경기도 고양시 일산서구 고양대로 732, 101호 (일산동, 대진빌딩)",
+        "phone": "031-917-8410",
+        "coordinates": {
+            "x": 126.77718971091227,
+            "y": 37.68272946127466
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "169 Cheonbyeon-ro, Chungju-si, Chungcheongbuk-do, (Gyohyeon-dong)",
+        "address_kr": "충청북도 충주시 천변로 169, (교현동)",
+        "phone": "043-842-6100",
+        "coordinates": {
+            "x": "127.927016666666660",
+            "y": "36.976738888888889"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "1st floor, 168 Sinnam-ro, Yeonggwang-eup, Yeonggwang-gun, Jeollanam-do (Yeonggwang-eup)",
+        "address_kr": "전라남도 영광군 영광읍 신남로 168, 1층 (영광읍)",
+        "phone": "061-353-5246",
+        "coordinates": {
+            "x": 126.50042031043358,
+            "y": 35.27572221578791
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:00",
+            "Tue": "08:30 - 17:00",
+            "Wed": "08:30 - 17:00",
+            "Thu": "08:30 - 17:00",
+            "Fri": "08:30 - 17:00",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "434 Samil-daero, Jongno-gu, Seoul (Nakwon-dong)",
+        "address_kr": "서울특별시 종로구 삼일대로 434 (낙원동)",
+        "phone": "02-765-4808",
+        "coordinates": {
+            "x": 126.988133763054,
+            "y": 37.5733519866702
+        },
+        "operating_hours": {
+            "Mon": "00:00 - 21:30",
+            "Tue": "00:00 - 21:30",
+            "Wed": "00:00 - 21:30",
+            "Thu": "00:00 - 21:30",
+            "Fri": "00:00 - 21:30",
+            "Sat": "00:00 - 21:30",
+            "Sun": "00:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "1st floor, 72 Yangji 5-gil, Dong-gu, Ulsan (Hwajeong-dong)",
+        "address_kr": "울산광역시 동구 양지5길 72, 1층 (화정동)",
+        "phone": "052-251-2016",
+        "coordinates": {
+            "x": 129.42079800813823,
+            "y": 35.49863104279527
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "100 Dongmyeong-ro 164beon-gil, Nam-gu, Busan",
+        "address_kr": "부산광역시 남구 동명로164번길 100",
+        "phone": "051-624-3106",
+        "coordinates": {
+            "x": 129.113712531982,
+            "y": 35.11464130534824
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Holiday": "08:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Pharmacy",
+        "pharmacy_name_kr": "은성약국",
+        "address_en": "#101, 182, Sudo-ro, Bucheon-si, Gyeonggi-do (Dodang-dong, Samsung I Park)",
+        "address_kr": "경기도 부천시 수도로 182, 101호 (도당동, 삼성I파크)",
+        "phone": "032-677-8106",
+        "coordinates": {
+            "x": 126.78757565515579,
+            "y": 37.51967681049323
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 16:00",
+            "Tue": "09:00 - 16:00",
+            "Wed": "09:00 - 16:00",
+            "Thu": "09:00 - 16:00",
+            "Fri": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunseong Onnuri Pharmacy",
+        "pharmacy_name_kr": "은성온누리약국",
+        "address_en": "210 Sillim-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 신림로 210 (신림동)",
+        "phone": "02-883-7555",
+        "coordinates": {
+            "x": 126.937522260461,
+            "y": 37.4761341307056
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunse Pharmacy",
+        "pharmacy_name_kr": "은세약국",
+        "address_en": "509 Olympic-ro, Songpa-gu, Seoul (Pungnap-dong)",
+        "address_kr": "서울특별시 송파구 올림픽로 509  (풍납동)",
+        "phone": "02-472-7571",
+        "coordinates": {
+            "x": 127.11839160464,
+            "y": 37.5278698593939
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunsol Pharmacy",
+        "pharmacy_name_kr": "은솔약국",
+        "address_en": "46 Hallimjungang-ro, Hallim-eup, Jeju-si, Jeju-do (Hallim-eup)",
+        "address_kr": "제주특별자치도 제주시 한림읍 한림중앙로 46 (한림읍)",
+        "phone": "064-796-7474",
+        "coordinates": {
+            "x": 126.26511329545454,
+            "y": 33.41059731773345
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00",
+            "Sun": "14:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunsol Pharmacy",
+        "pharmacy_name_kr": "은솔약국",
+        "address_en": "2nd floor, 158 Joamnam-ro, Dalseo-gu, Daegu (Yucheon-dong)",
+        "address_kr": "대구광역시 달서구 조암남로 158, 2층 (유천동)",
+        "phone": "053-643-7878",
+        "coordinates": {
+            "x": 128.51736499709094,
+            "y": 35.81659420474562
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Euna Pharmacy",
+        "pharmacy_name_kr": "은아약국",
+        "address_en": "158 Saesak-ro, Busanjin-gu, Busan, (Yeonji-dong)",
+        "address_kr": "부산광역시 부산진구 새싹로 158, (연지동)",
+        "phone": "051-805-8839",
+        "coordinates": {
+            "x": 129.05020982561388,
+            "y": 35.17031306416427
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Euna Pharmacy",
+        "pharmacy_name_kr": "은아약국",
+        "address_en": "1st floor, Severance Clinic, 9, Gyebaek-ro 1158beon-gil, Seo-gu, Daejeon (Gasuwon-dong)",
+        "address_kr": "대전광역시 서구 계백로1158번길 9, 세브란스의원 1층 (가수원동)",
+        "phone": "042-541-0390",
+        "coordinates": {
+            "x": 127.35223041878733,
+            "y": 36.30429360582149
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Euna Pharmacy",
+        "pharmacy_name_kr": "은아약국",
+        "address_en": "#108, 16 Sangnoksu-ro, Sangnok-gu, Ansan-si, Gyeonggi-do (Bongo-dong, Unam Sensville)",
+        "address_kr": "경기도 안산시 상록구 상록수로 16, 108호 (본오동, 우남센스빌)",
+        "phone": "031-419-3112",
+        "coordinates": {
+            "x": 126.86156008799603,
+            "y": 37.3023864876768
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "1st floor, 406 Jungdong-ro, Bucheon-si, Gyeonggi-do (Samjeong-dong)",
+        "address_kr": "경기도 부천시 중동로 406, 1층 (삼정동)",
+        "phone": "032-684-8109",
+        "coordinates": {
+            "x": 126.7704241581,
+            "y": 37.5161019863
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "22 Huseok-ro, Chuncheon-si, Gangwon-do (Seoksa-dong)",
+        "address_kr": "강원특별자치도 춘천시 후석로 22 (석사동)",
+        "phone": "033-262-8235",
+        "coordinates": {
+            "x": 127.74023730869646,
+            "y": 37.856730140329255
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "#102, Geumcheon Remain City, 224 Siheung-daero, Geumcheon-gu, Seoul (Siheung-dong)",
+        "address_kr": "서울특별시 금천구 시흥대로 224, 금천리메인시티 102호 (시흥동)",
+        "phone": "02-806-1203",
+        "coordinates": {
+            "x": 126.901396188424,
+            "y": 37.4539384154465
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "54 Eunhyeon-ro, Eunhyeon-myeon, Yangju-si, Gyeonggi-do (Eunhyeon-myeon)",
+        "address_kr": "경기도 양주시 은현면 은현로 54 (은현면)",
+        "phone": "031-868-3273",
+        "coordinates": {
+            "x": 127.0240212606414,
+            "y": 37.87376384400888
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00",
+            "Holiday": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "32-1, Janjeon-ro, Hwasun-eup, Hwasun-gun, Jeollanam-do",
+        "address_kr": "전라남도 화순군 화순읍 만연로 32-1",
+        "phone": "061-372-4433",
+        "coordinates": {
+            "x": 126.99034237148854,
+            "y": 35.058561453618736
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "337 Daenam-daero, Nam-gu, Gwangju (Wolsan-dong)",
+        "address_kr": "광주광역시 남구 대남대로 337 (월산동)",
+        "phone": "062-369-7447",
+        "coordinates": {
+            "x": 126.89321614579629,
+            "y": 35.14145782477851
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "473 Dobong-ro, Dobong-gu, Seoul, (Ssangmun-dong)",
+        "address_kr": "서울특별시 도봉구 도봉로 473, (쌍문동)",
+        "phone": "02-992-4321",
+        "coordinates": {
+            "x": 127.033995113936,
+            "y": 37.6480007664082
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "198 Hyeonggok-ro, Gumi-si, Gyeongsangbuk-do (Hyeonggok-dong)",
+        "address_kr": "경상북도 구미시 형곡로 198 (형곡동)",
+        "phone": "054-451-3206",
+        "coordinates": {
+            "x": 128.3376236999707,
+            "y": 36.10696399733745
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:30",
+            "Tue": "09:30 - 18:30",
+            "Wed": "09:30 - 18:30",
+            "Thu": "09:30 - 18:30",
+            "Fri": "09:30 - 18:30",
+            "Sat": "09:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "291 Isu-ro, Suncheon-si, Jeollanam-do",
+        "address_kr": "전라남도 순천시 이수로 291",
+        "phone": "061-723-1453",
+        "coordinates": {
+            "x": 127.51610155580505,
+            "y": 34.95252457072313
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "549 Samseong-ro, Gangnam-gu, Seoul (Samseong-dong)",
+        "address_kr": "서울특별시 강남구 삼성로 549 (삼성동)",
+        "phone": "02-557-7676",
+        "coordinates": {
+            "x": 127.054270559443,
+            "y": 37.5106008934452
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "Part of the 1st floor, 501 Gyeonhwon-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Ua-dong 3-ga)",
+        "address_kr": "전북특별자치도 전주시 덕진구 견훤로 501, 1층 일부호 (우아동3가)",
+        "phone": "063-242-3997",
+        "coordinates": {
+            "x": "127.15543152540547",
+            "y": 35.854960816041256
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "3rd floor, 551 Siheung-daero, Guro-gu, Seoul (Gwanghee Building, Guro-dong)",
+        "address_kr": "서울특별시 구로구 시흥대로 551, 3층 (구로동, 광희빌딩)",
+        "phone": "02-852-2283",
+        "coordinates": {
+            "x": 126.900246298277,
+            "y": 37.4825399425928
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "38 Jeongbalsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do",
+        "address_kr": "경기도 고양시 일산동구 정발산로 38",
+        "phone": "031-902-1512",
+        "coordinates": {
+            "x": 126.77342335560616,
+            "y": 37.65686146379275
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "#702, Regent Plaza, 103-6 Sanginseo-ro, Dalseo-gu, Daegu (Sangin-dong)",
+        "address_kr": "대구광역시 달서구 상인서로 103-6, 리젠트프라자 702호 (상인동)",
+        "phone": "053-644-3432",
+        "coordinates": {
+            "x": 128.53985050131962,
+            "y": 35.81871674588778
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "Unit 117, 203, Wolgye-ro, Gwangsan-gu, Gwangju Metropolitan City (Wolgye-dong)",
+        "address_kr": "광주광역시 광산구 월계로 203, 117(일부)호 (월계동)",
+        "phone": "062-972-7651",
+        "coordinates": {
+            "x": 126.8421980686,
+            "y": 35.2086099739
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "silver pharmacy",
+        "pharmacy_name_kr": "은약국",
+        "address_en": "#209, 224, Worldcupbuk-ro, Mapo-gu, Seoul (Seongsan-dong)",
+        "address_kr": "서울특별시 마포구 월드컵북로 224, 209호 (성산동)",
+        "phone": "02-0000-0000",
+        "coordinates": {
+            "x": 126.904699040069,
+            "y": 37.5698020382057
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 13:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sweet Song Pharmacy",
+        "pharmacy_name_kr": "은어송약국",
+        "address_en": "58 Euneosong-ro, Dong-gu, Daejeon (Gao-dong)",
+        "address_kr": "대전광역시 동구 은어송로 58 (가오동)",
+        "phone": "042-286-1030",
+        "coordinates": {
+            "x": 127.455904462881,
+            "y": 36.30604284958425
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:50",
+            "Tue": "08:30 - 20:50",
+            "Wed": "08:30 - 20:50",
+            "Thu": "08:30 - 20:50",
+            "Fri": "08:30 - 20:50",
+            "Sat": "08:30 - 18:50"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunonnuri Pharmacy",
+        "pharmacy_name_kr": "은온누리약국",
+        "address_en": "1st floor, 261 Daeyeong-ro, Dong-gu, Busan (Choryang-dong, Eunseong Building)",
+        "address_kr": "부산광역시 동구 대영로 261, 1층 (초량동, 은성빌딩)",
+        "phone": "051-977-0072",
+        "coordinates": {
+            "x": 129.0392643790636,
+            "y": 35.111864299702304
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunonnuri Pharmacy",
+        "pharmacy_name_kr": "은온누리약국",
+        "address_en": "Room 101, 1st floor, 245 Asiad-daero, Dongnae-gu, Busan (Oncheon-dong)",
+        "address_kr": "부산광역시 동래구 아시아드대로 245, 1층 101호 (온천동)",
+        "phone": "0519390805",
+        "coordinates": {
+            "x": 129.06792763962,
+            "y": 35.2058667427455
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunwoo Pharmacy",
+        "pharmacy_name_kr": "은우약국",
+        "address_en": "1st floor, 3283 1100-ro, Jeju-si, Jeju-do (Nohyeong-dong, Yeonghwa Building)",
+        "address_kr": "제주특별자치도 제주시 1100로 3283, 1층 (노형동, 영화빌딩)",
+        "phone": "064-748-7542",
+        "coordinates": {
+            "x": 126.48179699639986,
+            "y": "33.479405200121135"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Euyu Pharmacy",
+        "pharmacy_name_kr": "은유약국",
+        "address_en": "#103, 91 Gongdo-ro, Gongdo-eup, Anseong-si, Gyeonggi-do (Seongji Plaza)",
+        "address_kr": "경기도 안성시 공도읍 공도로 91, 103호 (성지프라자)",
+        "phone": "031-657-5673",
+        "coordinates": {
+            "x": 127.17113948533401,
+            "y": 37.000081553878495
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:40",
+            "Tue": "09:00 - 18:40",
+            "Wed": "09:00 - 18:40",
+            "Thu": "09:00 - 18:40",
+            "Fri": "09:00 - 18:40",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eun Eun Pharmacy",
+        "pharmacy_name_kr": "은은약국",
+        "address_en": "Room 111, 1st floor, 105 Sirubong-ro, Dobong-gu, Seoul (Banghak-dong, Shindonga Shopping Center)",
+        "address_kr": "서울특별시 도봉구 시루봉로 105, 1층 111호 (방학동, 신동아상가)",
+        "phone": "02-955-3011",
+        "coordinates": {
+            "x": 127.027032098141,
+            "y": 37.6601767333194
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunjeong Pharmacy",
+        "pharmacy_name_kr": "은정약국",
+        "address_en": "#106, 71 Neuti-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Jeongja-dong, Hyundai Plaza)",
+        "address_kr": "경기도 성남시 분당구 느티로 71, 106호(정자동,현대프라자)",
+        "phone": "031-711-9260",
+        "coordinates": {
+            "x": 127.1125898455374,
+            "y": 37.3688005862824
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunjeong Pharmacy",
+        "pharmacy_name_kr": "은정약국",
+        "address_en": "1st floor, 7-1 Huam-ro, Yongsan-gu, Seoul (Huam-dong)",
+        "address_kr": "서울특별시 용산구 후암로 7-1, 1층 (후암동)",
+        "phone": "02-754-1511",
+        "coordinates": {
+            "x": 126.978124576499,
+            "y": 37.5466508636957
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 13:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunji Pharmacy",
+        "pharmacy_name_kr": "은지약국",
+        "address_en": "22-1, Bongcheon-ro, Jori-eup, Paju-si, Gyeonggi-do",
+        "address_kr": "경기도 파주시 조리읍 봉천로 22-1",
+        "phone": "031-944-2005",
+        "coordinates": {
+            "x": 126.80932435965605,
+            "y": 37.7432092012555
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunjin Pharmacy",
+        "pharmacy_name_kr": "은진약국",
+        "address_en": "208 Dongchon-ro, Dong-gu, Daegu",
+        "address_kr": "대구광역시 동구 동촌로 208",
+        "phone": "053-981-4091",
+        "coordinates": {
+            "x": 128.6631289806605,
+            "y": 35.88219485536652
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunpa Pharmacy",
+        "pharmacy_name_kr": "은파약국",
+        "address_en": "159, Uiwon-ro, Gunsan-si, Jeollabuk-do, Shinil Apartment Shopping Center (Naun-dong)",
+        "address_kr": "전북특별자치도 군산시 의료원로 159, 신일아파트상가 (나운동)",
+        "phone": "063-462-2710",
+        "coordinates": {
+            "x": 126.69888361476427,
+            "y": 35.95885611976932
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunpyeong Mari Pharmacy",
+        "pharmacy_name_kr": "은평마리약국",
+        "address_en": "1st floor, Bogwang Building, 74 Yeonseo-ro, Eunpyeong-gu, Seoul (Yeokchon-dong)",
+        "address_kr": "서울특별시 은평구 연서로 74, 보광빌딩 1층 (역촌동)",
+        "phone": "02-351-4668",
+        "coordinates": {
+            "x": 126.915724946615,
+            "y": 37.6057262353977
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 13:15",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunpyeong Sacred Heart Pharmacy",
+        "pharmacy_name_kr": "은평성심약국",
+        "address_en": "Eunpyeong Credit Union #102, 371 Jeungsan-ro, Eunpyeong-gu, Seoul (Sinsa-dong)",
+        "address_kr": "서울특별시 은평구 증산로 371, 은평신용협동조합 102호 (신사동)",
+        "phone": "02-304-1737",
+        "coordinates": {
+            "x": 126.912885066283,
+            "y": 37.5895376912069
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
     }
 ]
