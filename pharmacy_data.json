@@ -328732,5 +328732,2035 @@
             "Fri": "08:30 - 19:00",
             "Sat": "08:30 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Parkae Pharmacy",
+        "pharmacy_name_kr": "박애약국",
+        "address_en": "471-1 Siheung-daero, Geumcheon-gu, Seoul (Doksan-dong)",
+        "address_kr": "서울특별시 금천구 시흥대로 471-1 (독산동)",
+        "phone": "02-855-9558",
+        "coordinates": {
+            "x": 126.89811373661304,
+            "y": 37.47576740108737
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "09:00 - 20:00",
+            "Holiday": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Songjeong Onnuri Pharmacy",
+        "pharmacy_name_kr": "송정온누리약국",
+        "address_en": "34 Gonghang-daero, Gangseo-gu, Seoul (Gonghang-dong)",
+        "address_kr": "서울특별시 강서구 공항대로 34 (공항동)",
+        "phone": "02-2661-7563",
+        "coordinates": {
+            "x": 126.810958242039,
+            "y": 37.5610066226343
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "WeCare Yeonsu Pharmacy",
+        "pharmacy_name_kr": "위케어연수약국",
+        "address_en": "#203, 302, Monwoogeum-ro, Yeonsu-gu, Incheon (Yeonsu-dong, Yeonsu Yucheon Apartment)",
+        "address_kr": "인천광역시 연수구 먼우금로 302, 203호 (연수동, 연수유천아파트)",
+        "phone": "050-71395-9655",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseong Pharmacy",
+        "pharmacy_name_kr": "유성약국",
+        "address_en": "204 Saun-ro, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do (Uncheon-dong)",
+        "address_kr": "충청북도 청주시 흥덕구 사운로 204 (운천동)",
+        "phone": "043-266-2667",
+        "coordinates": {
+            "x": 127.47746768898605,
+            "y": 36.646996359904804
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 15:00",
+            "Holiday": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseong Onnuri Pharmacy",
+        "pharmacy_name_kr": "유성온누리약국",
+        "address_en": "#102, 2, Doyle-ro 124beon-gil, Siheung-si, Gyeonggi-do (Geomo-dong)",
+        "address_kr": "경기도 시흥시 도일로124번길 2, 102호 (거모동)",
+        "phone": "031-492-5275",
+        "coordinates": {
+            "x": "126.78416079667465",
+            "y": 37.34134171329688
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseong Pacific Pharmacy",
+        "pharmacy_name_kr": "유성태평양약국",
+        "address_en": "50 Gyeryong-ro, Yuseong-gu, Daejeon (Bongmyeong-dong)",
+        "address_kr": "대전광역시 유성구 계룡로 50, (봉명동)",
+        "phone": "042-823-8561",
+        "coordinates": {
+            "x": 127.33652238831601,
+            "y": 36.35494546153466
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00",
+            "Sun": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseong Hana Pharmacy",
+        "pharmacy_name_kr": "유성하나약국",
+        "address_en": "92 Gyeryong-ro, Yuseong-gu, Daejeon",
+        "address_kr": "대전광역시 유성구 계룡로 92",
+        "phone": "042-826-7285",
+        "coordinates": {
+            "x": 127.34080266356688,
+            "y": 36.35355627121403
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 16:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseonghan Love Pharmacy",
+        "pharmacy_name_kr": "유성한사랑약국",
+        "address_en": "43 Oncheondong-ro, Yuseong-gu, Daejeon (Bongmyeong-dong)",
+        "address_kr": "대전광역시 유성구 온천동로 43 (봉명동)",
+        "phone": "042-824-7979",
+        "coordinates": {
+            "x": 127.35060105408232,
+            "y": 36.35532678038533
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseong Hanwoori Pharmacy",
+        "pharmacy_name_kr": "유성한우리약국",
+        "address_en": "61, Yuseong-daero 646beon-gil, Yuseong-gu, Daejeon (Guam-dong)",
+        "address_kr": "대전광역시 유성구 유성대로646번길 61, (구암동)",
+        "phone": "042-824-4928",
+        "coordinates": {
+            "x": "127.33190626022175",
+            "y": 36.350913894858785
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 21:30",
+            "Tue": "09:30 - 21:30",
+            "Wed": "09:30 - 21:30",
+            "Thu": "09:30 - 21:30",
+            "Fri": "09:30 - 21:30",
+            "Sat": "09:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Youth Pharmacy",
+        "pharmacy_name_kr": "유스약국",
+        "address_en": "1st floor, 63 Dongsero, Deogyang-gu, Goyang-si, Gyeonggi-do (Samsong-dong, Gangnam Plaza)",
+        "address_kr": "경기도 고양시 덕양구 동세로 63, 1층 (삼송동, 강남프라자)",
+        "phone": "02-381-9475",
+        "coordinates": {
+            "x": 126.88431111039203,
+            "y": 37.64813418203108
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseung Pharmacy",
+        "pharmacy_name_kr": "유승약국",
+        "address_en": "Ilsan Plaza, 452 Ilsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Jeongbalsan-dong)",
+        "address_kr": "경기도 고양시 일산동구 일산로 452, 일산프라자 (정발산동)",
+        "phone": "070-8860-3657",
+        "coordinates": {
+            "x": 126.7769481725,
+            "y": 37.6740435856
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 14:00",
+            "Tue": "09:00 - 14:00",
+            "Wed": "09:00 - 14:00",
+            "Thu": "09:00 - 14:00",
+            "Fri": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuseung Pharmacy",
+        "pharmacy_name_kr": "유승약국",
+        "address_en": "1st floor, 1 Yeokmal-ro 9-gil, Eunpyeong-gu, Seoul (Daejo-dong)",
+        "address_kr": "서울특별시 은평구 역말로9길 1, 1층 (대조동)",
+        "phone": "02-352-6595",
+        "coordinates": {
+            "x": 126.921613359886,
+            "y": 37.6112227241805
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yushin Pharmacy",
+        "pharmacy_name_kr": "유신약국",
+        "address_en": "2, Onsu-gil 36beon-gil, Gilsang-myeon, Ganghwa-gun, Incheon Metropolitan City (Gilsang-myeon)",
+        "address_kr": "인천광역시 강화군 길상면 온수길36번길 2 (길상면)",
+        "phone": "032-937-0020",
+        "coordinates": {
+            "x": 126.49094876121916,
+            "y": 37.63955067497152
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "08:00 - 20:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Infant Pharmacy",
+        "pharmacy_name_kr": "유아약국",
+        "address_en": "14, Siheung-daero 104-gil, Geumcheon-gu, Seoul (Doksan-dong)",
+        "address_kr": "서울특별시 금천구 시흥대로104길 14, (독산동)",
+        "phone": "02-804-0785",
+        "coordinates": {
+            "x": 126.898525995032,
+            "y": 37.4645954982554
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 21:30",
+            "Sun": "14:30 - 21:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuan Pharmacy",
+        "pharmacy_name_kr": "유안약국",
+        "address_en": "18 Wolbae-ro, Dalseo-gu, Daegu (Jincheon-dong)",
+        "address_kr": "대구광역시 달서구 월배로 18 (진천동)",
+        "phone": "053-639-8858",
+        "coordinates": {
+            "x": 128.5175775918,
+            "y": 35.8114873432
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "U&ION Nuri Pharmacy",
+        "pharmacy_name_kr": "유앤아이온누리약국",
+        "address_en": "Dorim Building, 13 Gongneung-ro 2-gil, Jungnang-gu, Seoul (Muk-dong)",
+        "address_kr": "서울특별시 중랑구 공릉로2길 13, 도림빌딩 (묵동)",
+        "phone": "02-973-3188",
+        "coordinates": {
+            "x": 127.078740933301,
+            "y": 37.6122111433458
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "Room 105, 1st floor, Green Medi Plaza, 11 Seosuwon-ro 47beon-gil, Gwonseon-gu, Suwon-si, Gyeonggi-do (Omokcheon-dong)",
+        "address_kr": "경기도 수원시 권선구 서수원로47번길 11, 그린메디프라자 1층 105호 (오목천동)",
+        "phone": "031-293-2878",
+        "coordinates": {
+            "x": 126.977843693121,
+            "y": 37.2336125723228
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "2, Sinmang-ro, Yeoncheon-eup, Yeoncheon-gun, Gyeonggi-do",
+        "address_kr": "경기도 연천군 연천읍 신망로 2",
+        "phone": "031-834-2576",
+        "coordinates": {
+            "x": 127.07899971106123,
+            "y": 38.133508503799895
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "18:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "Room 127, 1st floor, Jindo Family Plaza, 45 Migeum-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Gumi-dong)",
+        "address_kr": "경기도 성남시 분당구 미금로 45, 진도훼미리프라자 1층 127호 (구미동)",
+        "phone": "031-714-4274",
+        "coordinates": {
+            "x": 127.115784120324,
+            "y": 37.3373516330101
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "#106, 27, Buyong-ro, Paengseong-eup, Pyeongtaek-si, Gyeonggi-do",
+        "address_kr": "경기도 평택시 팽성읍 부용로 27, 106호",
+        "phone": "031-651-5559",
+        "coordinates": {
+            "x": 127.05873098093755,
+            "y": 36.96323698886978
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 14:00",
+            "Tue": "09:00 - 14:00",
+            "Wed": "09:00 - 14:00",
+            "Thu": "09:00 - 14:00",
+            "Fri": "09:00 - 14:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "14, Deogyeong-daero 1483beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do, 1st floor (Mangpo-dong)",
+        "address_kr": "경기도 수원시 영통구 덕영대로1483번길 14, 1층 (망포동)",
+        "phone": "031-205-9287",
+        "coordinates": {
+            "x": 127.052856373383,
+            "y": 37.246388238069
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "#107, 25-16, Gwangjeong-ro, Gunpo-si, Gyeonggi-do (Geumjeong-dong, Toegye General Shopping Center)",
+        "address_kr": "경기도 군포시 광정로 25-16, 107호 (금정동, 퇴계종합상가)",
+        "phone": "031-392-4128",
+        "coordinates": {
+            "x": 126.9317570208294,
+            "y": 37.35583807310803
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "#101, 329 Hwagok-ro, Gangseo-gu, Seoul (Hwagok-dong)",
+        "address_kr": "서울특별시 강서구 화곡로 329, 101호 (화곡동)",
+        "phone": "02-2695-7576",
+        "coordinates": {
+            "x": 126.850536584044,
+            "y": 37.5534298465129
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 17:00",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "1504 Chiak-ro, Wonju-si, Gangwon-do (Dangu-dong)",
+        "address_kr": "강원특별자치도 원주시 치악로 1504 (단구동)",
+        "phone": "033-761-5718",
+        "coordinates": {
+            "x": 127.96717199886005,
+            "y": 37.319093064584145
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Sun": "08:30 - 19:00",
+            "Holiday": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "1st floor, 765 Gaya-daero, Busanjin-gu, Busan (Bujeon-dong)",
+        "address_kr": "부산광역시 부산진구 가야대로 765, 1층 (부전동)",
+        "phone": "051-805-2788",
+        "coordinates": {
+            "x": 129.055349204519,
+            "y": 35.1579059840208
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Sun": "08:30 - 21:00",
+            "Holiday": "08:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "141 Joyang-ro, Hongseong-eup, Hongseong-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 홍성군 홍성읍 조양로 141",
+        "phone": "041-631-3900",
+        "coordinates": {
+            "x": 126.665656557289,
+            "y": 36.6018736668089
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "16, Hwasin 1-gil, Gochang-eup, Gochang-gun, Jeollabuk-do (Gochang-eup)",
+        "address_kr": "전북특별자치도 고창군 고창읍 화신1길 16 (고창읍)",
+        "phone": "063-564-5282",
+        "coordinates": {
+            "x": 126.69417231155455,
+            "y": 35.435988399268666
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "107 Handleul, Janggye-myeon, Jangsu-gun, Jeonbuk Special Self-Governing Province",
+        "address_kr": "전북특별자치도 장수군 장계면 한들로 107",
+        "phone": "063-352-0786",
+        "coordinates": {
+            "x": "127.58127911829174",
+            "y": 35.73095009566926
+        },
+        "operating_hours": {
+            "Mon": "08:20 - 17:30",
+            "Tue": "08:20 - 17:30",
+            "Wed": "08:20 - 13:00",
+            "Thu": "08:20 - 17:30",
+            "Fri": "08:20 - 17:30",
+            "Sat": "08:20 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "Academy Building (Outer Building), 35 Naoeejungang-ro, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 내외중앙로 35, 아카데미 빌딩 (외동)",
+        "phone": "055-338-2640",
+        "coordinates": {
+            "x": 128.866048348261,
+            "y": 35.2332002911407
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "1st floor, 266 Anyang-ro, Manan-gu, Anyang-si, Gyeonggi-do",
+        "address_kr": "경기도 안양시 만안구 안양로 266 1층",
+        "phone": "031-469-5300",
+        "coordinates": {
+            "x": 126.92369728082471,
+            "y": 37.396545066251136
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:30 - 15:00",
+            "Sun": "09:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "1st floor, 76 Sabi-ro, Buyeo-eup, Buyeo-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 부여군 부여읍 사비로 76, 1층",
+        "phone": "041-834-7890",
+        "coordinates": {
+            "x": 126.91072579876271,
+            "y": 36.27944848253957
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "18 Daedeok-daero 234beon-gil, Seo-gu, Daejeon, Basement 1, Uwell Building (Dunsan-dong)",
+        "address_kr": "대전광역시 서구 대덕대로234번길 18, 유웰빌딩 지하1층 (둔산동)",
+        "phone": "042-471-3777",
+        "coordinates": {
+            "x": 127.380599488763,
+            "y": 36.3533519633572
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Glazed Pharmacy",
+        "pharmacy_name_kr": "유약국",
+        "address_en": "2-13 Sangdo-ro 50-gil, Dongjak-gu, Seoul (Sangdo 1-dong)",
+        "address_kr": "서울특별시 동작구 상도로50길 2-13 (상도1동)",
+        "phone": "02-815-6003",
+        "coordinates": {
+            "x": 126.950730182929,
+            "y": 37.4990636399965
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "UN Pharmacy",
+        "pharmacy_name_kr": "유엔약국",
+        "address_en": "109 Gyeryong-ro, Yuseong-gu, Daejeon, 1st floor (Bongmyeong-dong)",
+        "address_kr": "대전광역시 유성구 계룡로 109, 지상1층 (봉명동)",
+        "phone": "042-825-7581",
+        "coordinates": {
+            "x": 127.342917547663,
+            "y": 36.3536521363177
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Flexible Pharmacy",
+        "pharmacy_name_kr": "유연약국",
+        "address_en": "#106, 1st floor, Homaesil Garden Parking Tower, 86 Homaesil-ro 90beon-gil, Gwonseon-gu, Suwon-si, Gyeonggi-do (Homaesil-dong)",
+        "address_kr": "경기도 수원시 권선구 호매실로90번길 86, 호매실가든주차타워 1층 106호 (호매실동)",
+        "phone": "031-296-6794",
+        "coordinates": {
+            "x": 126.964251036891,
+            "y": 37.259465810768
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Flexible Pharmacy",
+        "pharmacy_name_kr": "유연약국",
+        "address_en": "Room 318, 3rd floor, Building L, 410 Wangsimni-ro, Seongdong-gu, Seoul (Hawangsimni-dong, Centras)",
+        "address_kr": "서울특별시 성동구 왕십리로 410, 상가 L동 3층 318호 (하왕십리동, 센트라스)",
+        "phone": "02-2297-9733",
+        "coordinates": {
+            "x": 127.02912314406476,
+            "y": 37.56479755210159
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuyoung Pharmacy",
+        "pharmacy_name_kr": "유영약국",
+        "address_en": "1 Haneujae-ro 20beon-gil, Gyeyang-gu, Incheon (Gyesan-dong)",
+        "address_kr": "인천광역시 계양구 하느재로20번길 1 (계산동)",
+        "phone": "032-543-7036",
+        "coordinates": {
+            "x": 126.7252714864154,
+            "y": 37.54540337513297
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 21:00",
+            "Tue": "09:30 - 21:00",
+            "Wed": "09:30 - 21:00",
+            "Thu": "09:30 - 21:00",
+            "Fri": "09:30 - 21:00",
+            "Sat": "09:30 - 19:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuwon Center Pharmacy",
+        "pharmacy_name_kr": "유원센터약국",
+        "address_en": "#127, Bucheon Techno Valley U1 center, 92 Jomaru-ro 385beon-gil, Bucheon-si, Gyeonggi-do (Wonmi-dong)",
+        "address_kr": "경기도 부천시 조마루로385번길 92, 부천테크노밸리 U1 center 127호 (원미동)",
+        "phone": "032-240-6288",
+        "coordinates": {
+            "x": 126.79011439794,
+            "y": 37.500801739038
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuwon Somang Pharmacy",
+        "pharmacy_name_kr": "유원소망약국",
+        "address_en": "1st floor, 101 Nakseomjung-ro, Michuhol-gu, Incheon (Yonghyeon-dong)",
+        "address_kr": "인천광역시 미추홀구 낙섬중로 101, 1층 (용현동)",
+        "phone": "032-885-3929",
+        "coordinates": {
+            "x": 126.64149336382368,
+            "y": 37.45656428437341
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "08:30 - 21:30",
+            "Sun": "08:30 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuwon Pharmacy",
+        "pharmacy_name_kr": "유원약국",
+        "address_en": "718 Jangje-ro, Gyeyang-gu, Incheon, (Jakjeon-dong)",
+        "address_kr": "인천광역시 계양구 장제로 718, (작전동)",
+        "phone": "032-551-5650",
+        "coordinates": {
+            "x": "126.734186111111114",
+            "y": 37.531847222222225
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuyu Pharmacy",
+        "pharmacy_name_kr": "유유약국",
+        "address_en": "Homeplus (Yulryang-dong), 114 Chungcheong-daero, Cheongwon-gu, Cheongju-si, Chungcheongbuk-do",
+        "address_kr": "충청북도 청주시 청원구 충청대로 114, 홈플러스 (율량동)",
+        "phone": "043-714-3013",
+        "coordinates": {
+            "x": 127.49449681782775,
+            "y": 36.66656061247839
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:30",
+            "Tue": "10:00 - 21:30",
+            "Wed": "10:00 - 21:30",
+            "Thu": "10:00 - 21:30",
+            "Fri": "10:00 - 21:30",
+            "Sat": "10:00 - 21:30",
+            "Sun": "10:00 - 21:30",
+            "Holiday": "10:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yui Pharmacy",
+        "pharmacy_name_kr": "유이약국",
+        "address_en": "#102, 1st floor, 212 Gyeongchun-ro, Guri-si, Gyeonggi-do (Sutaek-dong)",
+        "address_kr": "경기도 구리시 경춘로 212, 1층 102호 (수택동)",
+        "phone": "031-553-0555",
+        "coordinates": {
+            "x": 127.138867851761,
+            "y": 37.600244720246
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "Room 102, 1st floor, 38 Byeongjeom 2-ro, Hwaseong-si, Gyeonggi-do (Byeongjeom-dong)",
+        "address_kr": "경기도 화성시 병점2로 38, 1층 102호 (병점동)",
+        "phone": "031-236-9955",
+        "coordinates": {
+            "x": 127.0409713162765,
+            "y": 37.20642296870458
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "30 Wonpyeong 1-ro, Pyeongtaek-si, Gyeonggi-do",
+        "address_kr": "경기도 평택시 원평1로 30",
+        "phone": "031-658-6009",
+        "coordinates": {
+            "x": 127.08340441062666,
+            "y": 36.9894078878232
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "1st floor, 23 Sejong-daero, Jung-gu, Seoul (Namdaemun-ro 5-ga)",
+        "address_kr": "서울특별시 중구 세종대로 23, 1층 (남대문로5가)",
+        "phone": "02-318-5997",
+        "coordinates": {
+            "x": 126.973844589811,
+            "y": 37.5590909738298
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "1st floor, 8, Hyojadong-gil 6beon-gil, Nam-gu, Pohang-si, Gyeongsangbuk-do (Hyoja-dong)",
+        "address_kr": "경상북도 포항시 남구 효자동길6번길 8, 1층 (효자동)",
+        "phone": "054-276-9754",
+        "coordinates": {
+            "x": 129.33500829485848,
+            "y": 36.00662528265054
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "85 Jisan-ro, Pyeongtaek-si, Gyeonggi-do (Dokgok-dong, Woonam Building)",
+        "address_kr": "경기도 평택시 지산로 85 (독곡동, 우남빌딩)",
+        "phone": "031-666-1909",
+        "coordinates": {
+            "x": "127.06424377549896",
+            "y": 37.08063831979094
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "#304, Jihaeng Station Plaza, 119 Dongducheon-ro, Dongducheon-si, Gyeonggi-do (Jihaeng Station)",
+        "address_kr": "경기도 동두천시 동두천로 119, 지행역프라자 304호 (지행동)",
+        "phone": "031-862-2030",
+        "coordinates": {
+            "x": 127.05460374095276,
+            "y": 37.892061128193475
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "Yuil Pharmacy, 893 Saimdang-ro, Beopwon-eup, Paju-si, Gyeonggi-do",
+        "address_kr": "경기도 파주시 법원읍 사임당로 893, 유일약국",
+        "phone": "031-958-6279",
+        "coordinates": {
+            "x": 126.88062266678344,
+            "y": 37.84815317733574
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "08:00 - 21:00",
+            "Sun": "08:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "20-4 Yangji-ro, Nam-gu, Daegu (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 양지로 20-4 (대명동)",
+        "phone": "053-621-3577",
+        "coordinates": {
+            "x": 128.57440969112628,
+            "y": 35.85094134507466
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "1st floor, 231 Dongchon-ro, Dong-gu, Daegu (Bangchon-dong)",
+        "address_kr": "대구광역시 동구 동촌로 231, 1층 (방촌동)",
+        "phone": "053-984-0061",
+        "coordinates": {
+            "x": "128.66580175406744",
+            "y": 35.881603513195486
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "529 Gukchaebosang-ro, Jung-gu, Daegu, (Haseo-dong)",
+        "address_kr": "대구광역시 중구 국채보상로 529, (하서동)",
+        "phone": "053-253-0012",
+        "coordinates": {
+            "x": 128.58859839848273,
+            "y": 35.87039408837979
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:30",
+            "Tue": "09:00 - 17:30",
+            "Wed": "09:00 - 17:30",
+            "Thu": "09:00 - 17:30",
+            "Fri": "09:00 - 17:30",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "53 Yeokjeon-ro, Jeungpyeong-eup, Jeungpyeong-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 증평군 증평읍 역전로 53",
+        "phone": "043-838-8757",
+        "coordinates": {
+            "x": 127.5812882071,
+            "y": 36.7817451237
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "7, Gwangjang-ro, Sasang-gu, Busan (Gwaebeop-dong, Homeplus)",
+        "address_kr": "부산광역시 사상구 광장로 7 (괘법동, 홈플러스)",
+        "phone": "051-312-6288",
+        "coordinates": {
+            "x": 128.97771463631378,
+            "y": 35.16433466076401
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Sun": "10:00 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "134 Beonyeong 1-ro, Gongju-si, Chungcheongnam-do (Singwan-dong)",
+        "address_kr": "충청남도 공주시 번영1로 134 (신관동)",
+        "phone": "041-856-8570",
+        "coordinates": {
+            "x": 127.14232685460402,
+            "y": 36.47420276017858
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "43 Geumma-gil, Geumma-myeon, Iksan-si, Jeonbuk Special Self-Governing Province (Yoil Pharmacy)",
+        "address_kr": "전북특별자치도 익산시 금마면 금마길 43 (유일약국)",
+        "phone": "063-836-6213",
+        "coordinates": {
+            "x": 127.05189969921061,
+            "y": 35.99055281744603
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Plaza Pharmacy",
+        "pharmacy_name_kr": "유일프라자약국",
+        "address_en": "8 Jinju-ro, Samcheok-si, Gangwon-do (Namyang-dong)",
+        "address_kr": "강원특별자치도 삼척시 진주로 8 (남양동)",
+        "phone": "033-573-2289",
+        "coordinates": {
+            "x": "129.164294444444437",
+            "y": "37.441347222222220"
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "153 Uirim-daero, Jecheon-si, Chungcheongbuk-do (Uirim-dong)",
+        "address_kr": "충청북도 제천시 의림대로 153 (의림동)",
+        "phone": "043-644-2428",
+        "coordinates": {
+            "x": 128.2120288801,
+            "y": 37.1414076654
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "#104, 353 Nambu-ro, Asan-si, Chungcheongnam-do (Punggi-dong, Dongil Highville Apartment Shopping Center)",
+        "address_kr": "충청남도 아산시 남부로 353, 104호 (풍기동, 동일하이빌아파트상가)",
+        "phone": "041-549-5315",
+        "coordinates": {
+            "x": 127.01999885891922,
+            "y": 36.77272166214806
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "258 Yeonseo-ro, Eunpyeong-gu, Seoul (Bulgwang-dong)",
+        "address_kr": "서울특별시 은평구 연서로 258, (불광동)",
+        "phone": "02-355-6270",
+        "coordinates": {
+            "x": 126.923335802805,
+            "y": 37.6198100033795
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "225 Samsung-ro, Gangnam-gu, Seoul",
+        "address_kr": "서울특별시 강남구 삼성로 225",
+        "phone": "02-568-7347",
+        "coordinates": {
+            "x": 127.061420512283,
+            "y": 37.497188179222
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "673 Yeompo-ro, Buk-gu, Ulsan (Yeompo-dong)",
+        "address_kr": "울산광역시 북구 염포로 673 (염포동)",
+        "phone": "052-287-7587",
+        "coordinates": {
+            "x": 129.39139506755419,
+            "y": 35.53247308400935
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "#107, 1st floor, 10 Beolmal-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Yatap-dong, Magnolia Village neighborhood shopping center)",
+        "address_kr": "경기도 성남시 분당구 벌말로 10, 1층 107호 (야탑동, 목련마을근린상가)",
+        "phone": "031-708-0927",
+        "coordinates": {
+            "x": 127.13827443953794,
+            "y": 37.408934071385765
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Pharmacy",
+        "pharmacy_name_kr": "유정약국",
+        "address_en": "Room 103, 1st floor, Na-dong, 10 Hakjeongdong-ro, Buk-gu, Daegu (Gukwoo-dong, Chilgok Greenville Complex 5,6)",
+        "address_kr": "대구광역시 북구 학정동로 10, 나동 1층 103호 (국우동, 칠곡그린빌 5,6단지)",
+        "phone": "053-326-0246",
+        "coordinates": {
+            "x": 128.56702887023096,
+            "y": 35.944734429314714
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Onnuri Pharmacy",
+        "pharmacy_name_kr": "유정온누리약국",
+        "address_en": "200 Cheongsu-ro, Suseong-gu, Daegu",
+        "address_kr": "대구광역시 수성구 청수로 200",
+        "phone": "053-766-1658",
+        "coordinates": {
+            "x": 128.6297994623166,
+            "y": 35.83891034038018
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yujeong Onnuri Pharmacy",
+        "pharmacy_name_kr": "유정온누리약국",
+        "address_en": "1st floor, 1, Yeouidaebang-ro 22na-gil, Dongjak-gu, Seoul (Sindaebang-dong)",
+        "address_kr": "서울특별시 동작구 여의대방로22나길 1, 1층 (신대방동)",
+        "phone": "02-822-5692",
+        "coordinates": {
+            "x": 126.920806652541,
+            "y": 37.4975103435893
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:30 - 16:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sun": "09:00 - 13:30",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "1st floor, Yupoong Building, 166 Seooreung-ro, Eunpyeong-gu, Seoul (Galhyeon-dong)",
+        "address_kr": "서울특별시 은평구 서오릉로 166, 유풍빌딩 1층 (갈현동)",
+        "phone": "02-384-8877",
+        "coordinates": {
+            "x": 126.915228694484,
+            "y": 37.6128048616854
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "08:30 - 19:00",
+            "Sun": "10:00 - 17:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "323 Eonju-ro, Gangnam-gu, Seoul (Yeoksam-dong)",
+        "address_kr": "서울특별시 강남구 언주로 323 (역삼동)",
+        "phone": "02-562-3923",
+        "coordinates": {
+            "x": 127.045099200513,
+            "y": 37.4967458451005
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "#103, 338 Dongtanwoncheon-ro, Hwaseong-si, Gyeonggi-do (Neung-dong, Dongtan Forest Plaza)",
+        "address_kr": "경기도 화성시 동탄원천로 338, 103호 (능동, 동탄포레스트 프라자)",
+        "phone": "031-613-9956",
+        "coordinates": {
+            "x": 127.0586358881984,
+            "y": 37.217133748463496
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "1st floor, 263 Jungang-ro, Nam-gu, Ulsan (Sinjeong-dong)",
+        "address_kr": "울산광역시 남구 중앙로 263, 1층 (신정동)",
+        "phone": "052-258-1245",
+        "coordinates": {
+            "x": 129.3102252634251,
+            "y": 35.54412364273293
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 12:30",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "11-21, Dongchundang-ro 94beon-gil, Daedeok-gu, Daejeon",
+        "address_kr": "대전광역시 대덕구 동춘당로94번길 11-21",
+        "phone": "042-636-0631",
+        "coordinates": {
+            "x": 127.43923715437245,
+            "y": 36.3661985880296
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "1st floor, 15, Gohwa-ro 14beon-gil, Paldal-gu, Suwon-si, Gyeonggi-do (Maesan-ro 3-ga)",
+        "address_kr": "경기도 수원시 팔달구 고화로14번길 15, 1층 (매산로3가)",
+        "phone": "031-241-9993",
+        "coordinates": {
+            "x": 127.008556436496,
+            "y": 37.2711227227527
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "1st floor, 15 Geumgok-ro, Namyangju-si, Gyeonggi-do (Geumgok-dong)",
+        "address_kr": "경기도 남양주시 금곡로 15, 1층 (금곡동)",
+        "phone": "031-511-1364",
+        "coordinates": {
+            "x": 127.20475711129006,
+            "y": 37.63392124147403
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "96 Janggam-ro, Janghowon-eup, Icheon-si, Gyeonggi-do",
+        "address_kr": "경기도 이천시 장호원읍 장감로 96",
+        "phone": "031-641-2030",
+        "coordinates": {
+            "x": "127.633169444444448",
+            "y": 37.117783333333335
+        },
+        "operating_hours": {
+            "Mon": "06:00 - 20:00",
+            "Tue": "06:00 - 20:00",
+            "Wed": "06:00 - 20:00",
+            "Thu": "06:00 - 20:00",
+            "Fri": "06:00 - 20:00",
+            "Sat": "06:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "1st floor, 334, Jungsimsangga-ro, Siheung-si, Gyeonggi-do (Jeongwang-dong, Eunseong Building)",
+        "address_kr": "경기도 시흥시 중심상가로 334, 1층 (정왕동, 은성빌딩)",
+        "phone": "031-432-1621",
+        "coordinates": {
+            "x": 126.7489907886322,
+            "y": 37.33624459485714
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "1st floor, 384 Gongdan-daero, Gunsan-si, Jeollabuk-do (Naun-dong)",
+        "address_kr": "전북특별자치도 군산시 공단대로 384, 1층 (나운동)",
+        "phone": "063-462-2667",
+        "coordinates": {
+            "x": 126.69980914771278,
+            "y": 35.9623867973937
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "640, Seooreung-ro, Deogyang-gu, Goyang-si, Gyeonggi-do, #101 (partial) (Wonheung-dong)",
+        "address_kr": "경기도 고양시 덕양구 서오릉로 640, 101(일부)호 (원흥동)",
+        "phone": "0319661303",
+        "coordinates": {
+            "x": 126.872507853741,
+            "y": 37.6360245071238
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Pharmacy",
+        "pharmacy_name_kr": "유진약국",
+        "address_en": "60 Gwandeok-ro, Jeju-si, Jeju-do, (Ildoil-dong)",
+        "address_kr": "제주특별자치도 제주시 관덕로 60, (일도일동)",
+        "phone": "064-753-7116",
+        "coordinates": {
+            "x": 126.5257129368,
+            "y": 33.5129399669
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 18:00",
+            "Tue": "08:40 - 18:00",
+            "Wed": "08:40 - 18:00",
+            "Thu": "08:40 - 18:00",
+            "Fri": "08:40 - 18:00",
+            "Sat": "08:40 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Onnuri Pharmacy",
+        "pharmacy_name_kr": "유진온누리약국",
+        "address_en": "1565 Jungang-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Daehwa-dong)",
+        "address_kr": "경기도 고양시 일산서구 중앙로 1565  (대화동)",
+        "phone": "031-915-3382",
+        "coordinates": {
+            "x": 126.7477429098316,
+            "y": 37.6757366132862
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Onnuri Pharmacy",
+        "pharmacy_name_kr": "유진온누리약국",
+        "address_en": "73 Dohwa 4-gil, Mapo-gu, Seoul",
+        "address_kr": "서울특별시 마포구 도화4길 73",
+        "phone": "02-702-1210",
+        "coordinates": {
+            "x": 126.951132481622,
+            "y": 37.538718127097
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 15:00",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Onnuri Pharmacy",
+        "pharmacy_name_kr": "유진온누리약국",
+        "address_en": "Room 124, 1st floor, Queens Avenue, 17, Gamilbaekjero 180beon-gil, Hanam-si, Gyeonggi-do (Gamy-dong)",
+        "address_kr": "경기도 하남시 감일백제로180번길 17, 퀸즈에비뉴 1층 124호 (감이동)",
+        "phone": "02-474-9047",
+        "coordinates": {
+            "x": 127.154873948836,
+            "y": 37.5091544674194
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Onnuri Pharmacy",
+        "pharmacy_name_kr": "유진온누리약국",
+        "address_en": "85 Yeonhui-ro, Seodaemun-gu, Seoul (Yeonhui-dong)",
+        "address_kr": "서울특별시 서대문구 연희로 85  (연희동)",
+        "phone": "02-335-1794",
+        "coordinates": {
+            "x": 126.929894728865,
+            "y": 37.5659975754095
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eugene Hanaro Pharmacy",
+        "pharmacy_name_kr": "유진하나로약국",
+        "address_en": "#105, 80, Gogi-ro, Suji-gu, Yongin-si, Gyeonggi-do (Dongcheon-dong)",
+        "address_kr": "경기도 용인시 수지구 고기로 80, 105호 (동천동)",
+        "phone": "0507-1466-9334",
+        "coordinates": {
+            "x": 127.094359175421,
+            "y": 37.344903632041
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuchang Pharmacy",
+        "pharmacy_name_kr": "유창약국",
+        "address_en": "355-1 Seongseo-ro, Dalseo-gu, Daegu (Sindang-dong)",
+        "address_kr": "대구광역시 달서구 성서서로 355-1 (신당동)",
+        "phone": "053-592-2033",
+        "coordinates": {
+            "x": 128.4996712224276,
+            "y": 35.85698460213206
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuchang Pharmacy",
+        "pharmacy_name_kr": "유창약국",
+        "address_en": "304 Seodaegu-ro, Seo-gu, Daegu (Bisan-dong)",
+        "address_kr": "대구광역시 서구 서대구로 304 (비산동)",
+        "phone": "053-357-0463",
+        "coordinates": {
+            "x": 128.5571792410422,
+            "y": 35.884692336687706
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuchang Onnuri Pharmacy",
+        "pharmacy_name_kr": "유창온누리약국",
+        "address_en": "1st floor, Sinjeong Building, 288 Songpa-daero, Songpa-gu, Seoul (Garak-dong)",
+        "address_kr": "서울특별시 송파구 송파대로 288, 신정빌딩 1층 (가락동)",
+        "phone": "02-400-7585",
+        "coordinates": {
+            "x": 127.117042586324,
+            "y": 37.495033486768
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Holiday": "08:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuchae Pharmacy",
+        "pharmacy_name_kr": "유채약국",
+        "address_en": "Room 302, 3rd floor, Jeongneung Building, 22 Geumgok-daero 303beon-gil, Buk-gu, Busan (Hwamyeong-dong)",
+        "address_kr": "부산광역시 북구 금곡대로303번길 22, 정능빌딩 3층 302호 (화명동)",
+        "phone": "051-365-0428",
+        "coordinates": {
+            "x": 129.012649816552,
+            "y": 35.2357333783758
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yucheon Dongyang Pharmacy",
+        "pharmacy_name_kr": "유천동양약국",
+        "address_en": "58 Pyeongchon-ro, Jung-gu, Daejeon (Yucheon-dong)",
+        "address_kr": "대전광역시 중구 평촌로 58 (유천동)",
+        "phone": "042-525-7599",
+        "coordinates": {
+            "x": 127.393531434484,
+            "y": 36.3212144016661
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yucheon Big Love Pharmacy",
+        "pharmacy_name_kr": "유천큰사랑약국",
+        "address_en": "1543 Gyebaek-ro, Jung-gu, Daejeon, 1st floor (Yucheon-dong)",
+        "address_kr": "대전광역시 중구 계백로 1543, 1층 (유천동)",
+        "phone": "042-527-3650",
+        "coordinates": {
+            "x": 127.39179446232,
+            "y": 36.3171751642831
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "14:00 - 22:00",
+            "Holiday": "14:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yucheon Plaza Pharmacy",
+        "pharmacy_name_kr": "유천프라자약국",
+        "address_en": "68, Gyebaek-ro 1565beon-gil, Jung-gu, Daejeon (Yucheon-dong)",
+        "address_kr": "대전광역시 중구 계백로1565번길 68 (유천동)",
+        "phone": "042-534-0486",
+        "coordinates": {
+            "x": "127.393083333333337",
+            "y": "36.320633333333333"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yucheon Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "유천한마음약국",
+        "address_en": "1597 Gyebaek-ro, Jung-gu, Daejeon (Yucheon-dong)",
+        "address_kr": "대전광역시 중구 계백로 1597 (유천동)",
+        "phone": "042-525-8700",
+        "coordinates": {
+            "x": 127.39756054285438,
+            "y": 36.31876500206868
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pleasant Pharmacy",
+        "pharmacy_name_kr": "유쾌한약국",
+        "address_en": "1st floor, Seongwon Building, 168 Dasan-ro, Jung-gu, Seoul (Sindang-dong)",
+        "address_kr": "서울특별시 중구 다산로 168, 성원빌딩 1층 (신당동)",
+        "phone": "02-2234-0827",
+        "coordinates": {
+            "x": 127.013269833607,
+            "y": 37.5588130051943
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 01:00",
+            "Tue": "09:00 - 01:00",
+            "Wed": "09:00 - 01:00",
+            "Thu": "09:00 - 01:00",
+            "Fri": "09:00 - 01:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pleasant Pharmacy",
+        "pharmacy_name_kr": "유쾌한약국",
+        "address_en": "1st floor, 217 Nangok-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 난곡로 217, 1층 (신림동)",
+        "phone": "02-852-7477",
+        "coordinates": {
+            "x": 126.917484545337,
+            "y": 37.4738513821693
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "You King Pharmacy Nearby Pharmacy",
+        "pharmacy_name_kr": "유킹스파머시가까운약국",
+        "address_en": "Room 101, 1st floor, Ansan Chamber of Commerce annex building, 120 Jeokgeum-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Gojan-dong)",
+        "address_kr": "경기도 안산시 단원구 적금로 120, 안산상공회의소 별관동 1층 101호 (고잔동)",
+        "phone": "031-504-8575",
+        "coordinates": {
+            "x": 126.826405099,
+            "y": 37.3189395408
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "You King Pharmacy Nearby Pharmacy",
+        "pharmacy_name_kr": "유킹스파머시가까운약국",
+        "address_en": "Room 101, 1st floor, Gadong, 234-9 Sungwang-ro, Haeryong-myeon, Suncheon-si, Jeollanam-do",
+        "address_kr": "전라남도 순천시 해룡면 순광로 234-9, 가동 1층 101호",
+        "phone": "061-724-8271",
+        "coordinates": {
+            "x": 127.54526744785693,
+            "y": 34.963534635494476
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "You King's Pharmacy Yeosu Sea Pharmacy",
+        "pharmacy_name_kr": "유킹스파머시여수바다약국",
+        "address_en": "26-1 Geobukseon Park 1-gil, Yeosu-si, Jeollanam-do (Hak-dong)",
+        "address_kr": "전라남도 여수시 거북선공원1길 26-1 (학동)",
+        "phone": "061-683-0365",
+        "coordinates": {
+            "x": 127.6654995704236,
+            "y": 34.76268415581415
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 13:00",
+            "Tue": "08:30 - 13:00",
+            "Wed": "08:30 - 13:00",
+            "Thu": "08:30 - 13:00",
+            "Fri": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "You King Pharmacy Jo Eun Pharmacy",
+        "pharmacy_name_kr": "유킹스파머시조은약국",
+        "address_en": "45-1 Eohang-ro, Yeosu-si, Jeollanam-do (Bongsan-dong)",
+        "address_kr": "전라남도 여수시 어항로 45-1 (봉산동)",
+        "phone": "061-641-0366",
+        "coordinates": {
+            "x": 127.72316635308277,
+            "y": 34.73109130125953
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "U Tower Onnuri Pharmacy",
+        "pharmacy_name_kr": "유타워 온누리약국",
+        "address_en": "767 Sinsu-ro, Suji-gu, Yongin-si, Gyeonggi-do, Bundang Suji U-TOWER #128 (Dongcheon-dong)",
+        "address_kr": "경기도 용인시 수지구 신수로 767, 분당수지 U-TOWER 128호 (동천동)",
+        "phone": "031-525-3223",
+        "coordinates": {
+            "x": 127.1017200496,
+            "y": 37.3383160489
+        },
+        "operating_hours": {
+            "Mon": "07:30 - 20:00",
+            "Tue": "07:30 - 20:00",
+            "Wed": "07:30 - 20:00",
+            "Thu": "07:30 - 20:00",
+            "Fri": "07:30 - 20:00",
+            "Sat": "07:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yupoong Pharmacy",
+        "pharmacy_name_kr": "유풍약국",
+        "address_en": "54 Gyeongin-ro 47-gil, Guro-gu, Seoul (Gocheok-dong)",
+        "address_kr": "서울특별시 구로구 경인로47길 54 (고척동)",
+        "phone": "02-2618-9311",
+        "coordinates": {
+            "x": 126.865301478683,
+            "y": 37.5015074126632
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuha Pharmacy",
+        "pharmacy_name_kr": "유하약국",
+        "address_en": "161 Sangsaseo-ro, Gumi-si, Gyeongsangbuk-do (Sagok-dong)",
+        "address_kr": "경상북도 구미시 상사서로 161 (사곡동)",
+        "phone": "054-463-3776",
+        "coordinates": {
+            "x": 128.35645800989687,
+            "y": 36.096823563825055
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuhandang Pharmacy",
+        "pharmacy_name_kr": "유한당약국",
+        "address_en": "Yuhandang Pharmacy, 6 Uam-ro, Jeongeup-si, Jeonbuk Special Self-Governing Province (Sigi-dong)",
+        "address_kr": "전북특별자치도 정읍시 우암로 6, 유한당약국 (시기동)",
+        "phone": "063-532-8855",
+        "coordinates": {
+            "x": 126.85410964924114,
+            "y": 35.56394631305613
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuhan Pharmacy",
+        "pharmacy_name_kr": "유한약국",
+        "address_en": "757 Jungang-daero, Busanjin-gu, Busan, (Bujeon-dong, 1st floor)",
+        "address_kr": "부산광역시 부산진구 중앙대로 757, (부전동, 1층)",
+        "phone": "051-803-9178",
+        "coordinates": {
+            "x": "129.060672222222223",
+            "y": "35.160122222222220"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 21:30",
+            "Sun": "09:00 - 21:30",
+            "Holiday": "09:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuhan Pharmacy",
+        "pharmacy_name_kr": "유한약국",
+        "address_en": "#10, 2nd floor, 295 Cheonho-daero, Dongdaemun-gu, Seoul (Dapsimni-dong, Woochang Plaza)",
+        "address_kr": "서울특별시 동대문구 천호대로 295, 2층 10호 (답십리동, 우창프라자)",
+        "phone": "02-2214-0205",
+        "coordinates": {
+            "x": 127.053852977095,
+            "y": 37.5664577767003
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuhan Pharmacy",
+        "pharmacy_name_kr": "유한약국",
+        "address_en": "67 Hwarang-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Wongok-dong)",
+        "address_kr": "경기도 안산시 단원구 화랑로 67 (원곡동)",
+        "phone": "031-494-3050",
+        "coordinates": {
+            "x": 126.79738241097795,
+            "y": 37.328725690939095
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 15:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuhan Pharmacy",
+        "pharmacy_name_kr": "유한약국",
+        "address_en": "104 Olympic-ro, Songpa-gu, Seoul (Jamsil-dong)",
+        "address_kr": "서울특별시 송파구 올림픽로 104  (잠실동)",
+        "phone": "02-421-5777",
+        "coordinates": {
+            "x": 127.082263786514,
+            "y": 37.5114667980986
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 16:00"
+        }
     }
 ]
