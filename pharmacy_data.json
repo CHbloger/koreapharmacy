@@ -364095,5 +364095,1941 @@
             "Fri": "09:00 - 17:00",
             "Sat": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Jeonghae Pharmacy",
+        "pharmacy_name_kr": "정해약국",
+        "address_en": "516 Samyang-ro, Gangbuk-gu, Seoul (Suyu-dong)",
+        "address_kr": "서울특별시 강북구 삼양로 516 (수유동)",
+        "phone": "02-902-1442",
+        "coordinates": {
+            "x": 127.014146168905,
+            "y": 37.6490886993071
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeonghwa Pharmacy",
+        "pharmacy_name_kr": "정화약국",
+        "address_en": "11 Duteopbawi-ro, Yongsan-gu, Seoul (Galwol-dong)",
+        "address_kr": "서울특별시 용산구 두텁바위로 11 (갈월동)",
+        "phone": "02-774-2399",
+        "coordinates": {
+            "x": 126.973507835329,
+            "y": 37.5454769074933
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeonghwa Pharmacy",
+        "pharmacy_name_kr": "정화약국",
+        "address_en": "#103,104, 218, Deokso-ro, Wabu-eup, Namyangju-si, Gyeonggi-do (Wabu-eup)",
+        "address_kr": "경기도 남양주시 와부읍 덕소로 218, 103,104호 (와부읍)",
+        "phone": "031-577-8366",
+        "coordinates": {
+            "x": "127.22056544890608",
+            "y": 37.579545742550025
+        },
+        "operating_hours": {
+            "Mon": "22:00 - 25:00",
+            "Tue": "22:00 - 25:00",
+            "Wed": "22:00 - 25:00",
+            "Thu": "22:00 - 25:00",
+            "Fri": "22:00 - 25:00",
+            "Sat": "22:00 - 25:00",
+            "Sun": "22:00 - 25:00",
+            "Holiday": "22:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeonghwa Pharmacy",
+        "pharmacy_name_kr": "정화약국",
+        "address_en": "70 Chungjeong-ro, Jeongeup-si, Jeonbuk Special Self-Governing Province (Sangdong)",
+        "address_kr": "전북특별자치도 정읍시 충정로 70 (상동)",
+        "phone": "063-533-7388",
+        "coordinates": {
+            "x": 126.86861337017203,
+            "y": 35.560694945574696
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeonghwa Pharmacy",
+        "pharmacy_name_kr": "정화약국",
+        "address_en": "167 Daeti-ro, Seo-gu, Busan",
+        "address_kr": "부산광역시 서구 대티로 167",
+        "phone": "051-241-0110",
+        "coordinates": {
+            "x": 129.01164935400797,
+            "y": 35.112743876921336
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "22:00 - 25:00",
+            "Sun": "09:00 - 18:00",
+            "Holiday": "22:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeonghwa Pharmacy",
+        "pharmacy_name_kr": "정화약국",
+        "address_en": "36 Jungmunsang-ro, Seogwipo-si, Jeju-do (Jungmun-dong)",
+        "address_kr": "제주특별자치도 서귀포시 중문상로 36 (중문동)",
+        "phone": "064-738-5550",
+        "coordinates": {
+            "x": 126.4254531244,
+            "y": 33.2514363946
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 12:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeonghwa Pharmacy",
+        "pharmacy_name_kr": "정화약국",
+        "address_en": "145 Jungheung-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do, 1st floor (Yongam-dong)",
+        "address_kr": "충청북도 청주시 상당구 중흥로 145, 1층 (용암동)",
+        "phone": "043-218-1004",
+        "coordinates": {
+            "x": 127.50991041871481,
+            "y": 36.616973292613075
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "The 2nd Gyeongbuk Pharmacy",
+        "pharmacy_name_kr": "제2경북약국",
+        "address_en": "122 Jungang-ro, Yeongju-si, Gyeongsangbuk-do (Hamang-dong)",
+        "address_kr": "경상북도 영주시 중앙로 122 (하망동)",
+        "phone": "054-634-4822",
+        "coordinates": {
+            "x": 128.62605024162397,
+            "y": 36.8259016776389
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00",
+            "Holiday": "08:30 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "2nd Thousand Days Pharmacy",
+        "pharmacy_name_kr": "제2천일약국",
+        "address_en": "1st floor, 58 Sangseomun-ro, Sangju-si, Gyeongsangbuk-do (Namseong-dong)",
+        "address_kr": "경상북도 상주시 상서문로 58, 1층 (남성동)",
+        "phone": "054-536-3030",
+        "coordinates": {
+            "x": 128.156105240992,
+            "y": 36.414947683226686
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "2nd Pangyo Pharmacy",
+        "pharmacy_name_kr": "제2판교약국",
+        "address_en": "#114, Tri Tower, 22, Geumto-ro 80beon-gil, Sujeong-gu, Seongnam-si, Gyeonggi-do (Geumto-dong)",
+        "address_kr": "경기도 성남시 수정구 금토로80번길 22, 트라이타워 114호 (금토동)",
+        "phone": "031-717-1206",
+        "coordinates": {
+            "x": 127.068010463777,
+            "y": 37.3732046962505
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jekyung Pharmacy",
+        "pharmacy_name_kr": "제경약국",
+        "address_en": "#101, 108-1 Dongpyeong-ro, Busanjin-gu, Busan (Danggam-dong, Baekyang Medical)",
+        "address_kr": "부산광역시 부산진구 동평로 108-1, 101호 (당감동, 백양메디칼)",
+        "phone": "051-892-1280",
+        "coordinates": {
+            "x": 129.04131284777563,
+            "y": 35.165672771056435
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:30",
+            "Sun": "10:00 - 15:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jegi-dong Central Pharmacy",
+        "pharmacy_name_kr": "제기동중앙약국",
+        "address_en": "1st floor, 123 Wangsan-ro, Dongdaemun-gu, Seoul (Jegi-dong)",
+        "address_kr": "서울특별시 동대문구 왕산로 123, 1층 (제기동)",
+        "phone": "02-6951-3994",
+        "coordinates": {
+            "x": 127.037160568378,
+            "y": 37.5784272619867
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Zenith 365 Pharmacy",
+        "pharmacy_name_kr": "제니스365약국",
+        "address_en": "37 Geumnam-ro, Buk-gu, Gwangju, part 1st floor (Im-dong)",
+        "address_kr": "광주광역시 북구 금남로 37, 1층 일부호 (임동)",
+        "phone": "062-252-1313",
+        "coordinates": {
+            "x": 126.900314319945,
+            "y": 35.1592397136777
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Zenith Rodem Pharmacy",
+        "pharmacy_name_kr": "제니스로뎀약국",
+        "address_en": "#205-3, Building 301, 2435 Dalgubeol-daero, Suseong-gu, Daegu (Beomeo-dong, Doosan We've the Zenith)",
+        "address_kr": "대구광역시 수성구 달구벌대로 2435, 301동 205-3호 (범어동, 두산위브더제니스)",
+        "phone": "053-247-0891",
+        "coordinates": {
+            "x": 128.628267994973,
+            "y": 35.8609892465636
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Zenith Pharmacy",
+        "pharmacy_name_kr": "제니스약국",
+        "address_en": "Room 213, 2nd floor, Doosan We've the Zenith, Cheonggyecheon, 17 Dasan-ro 46-gil, Jung-gu, Seoul (Heungin-dong)",
+        "address_kr": "서울특별시 중구 다산로46길 17, 청계천 두산위브더제니스 2층 213호 (흥인동)",
+        "phone": "02-2232-6645",
+        "coordinates": {
+            "x": 127.017122913186,
+            "y": 37.5668675982177
+        },
+        "operating_hours": {
+            "Mon": "08:15 - 20:00",
+            "Tue": "08:15 - 18:00",
+            "Wed": "08:15 - 20:00",
+            "Thu": "08:15 - 18:00",
+            "Fri": "08:15 - 20:00",
+            "Sat": "08:15 - 14:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Zenith Pharmacy",
+        "pharmacy_name_kr": "제니스약국",
+        "address_en": "33 Marine City 2-ro, Haeundae-gu, Busan, (Udon, Zenith Square Shopping Center)",
+        "address_kr": "부산광역시 해운대구 마린시티2로 33, (우동,제니스스퀘어상가)",
+        "phone": "051-744-9799",
+        "coordinates": {
+            "x": 129.1448178866254,
+            "y": 35.157204455063585
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Zenith Pharmacy",
+        "pharmacy_name_kr": "제니스약국",
+        "address_en": "Room 109-b, We've the Zenith, Ilsan, 97-11 Ilhyeon-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Tanhyeon-dong)",
+        "address_kr": "경기도 고양시 일산서구 일현로 97-11 (탄현동) 일산 위브더제니스109-b호",
+        "phone": "031-917-5119",
+        "coordinates": {
+            "x": 126.76218146978312,
+            "y": 37.69505792829289
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:00",
+            "Sun": "12:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Zenith Onnuri Pharmacy",
+        "pharmacy_name_kr": "제니스온누리약국",
+        "address_en": "#158-A, We've the Zenith, Ilsan, 97-11 Ilhyeon-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Tanhyeon-dong, We've the Zenith, Ilsan)",
+        "address_kr": "경기도 고양시 일산서구 일현로 97-11, 일산 위브더제니스 158-A호 (탄현동, 일산 위브더제니스)",
+        "phone": "031-918-7119",
+        "coordinates": {
+            "x": 126.7621678176,
+            "y": 37.69507231629999
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sugar Pharmacy",
+        "pharmacy_name_kr": "제당약국",
+        "address_en": "97 Guksabong-gil, Dongjak-gu, Seoul (Sangdo-dong)",
+        "address_kr": "서울특별시 동작구 국사봉길 97 (상도동)",
+        "phone": "02-821-9417",
+        "coordinates": {
+            "x": 126.931741537663,
+            "y": 37.4958406650941
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:00",
+            "Tue": "08:00 - 22:00",
+            "Wed": "08:00 - 22:00",
+            "Thu": "08:00 - 22:00",
+            "Fri": "08:00 - 22:00",
+            "Sat": "08:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "institutional pharmacy",
+        "pharmacy_name_kr": "제도약국",
+        "address_en": "292 Inha-ro, Michuhol-gu, Incheon Metropolitan City",
+        "address_kr": "인천광역시 미추홀구 인하로 292",
+        "phone": "032-425-0831",
+        "coordinates": {
+            "x": 126.6809123958466,
+            "y": 37.44780471759067
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jemin Pharmacy",
+        "pharmacy_name_kr": "제민약국",
+        "address_en": "24 Samgae-ro, Mapo-gu, Seoul",
+        "address_kr": "서울특별시 마포구 삼개로 24",
+        "phone": "02-715-6338",
+        "coordinates": {
+            "x": 126.947245160994,
+            "y": 37.538084132581
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:30",
+            "Tue": "09:30 - 19:30",
+            "Wed": "09:30 - 19:30",
+            "Thu": "09:30 - 19:30",
+            "Fri": "09:30 - 19:30",
+            "Sat": "09:30 - 16:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jemin Pharmacy",
+        "pharmacy_name_kr": "제민약국",
+        "address_en": "9, Gomdallae-ro 10-gil, Yangcheon-gu, Seoul (Sinwol-dong)",
+        "address_kr": "서울특별시 양천구 곰달래로10길 9, (신월동)",
+        "phone": "02-2603-3918",
+        "coordinates": {
+            "x": 126.836753328893,
+            "y": 37.5291557141905
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jemin Pharmacy",
+        "pharmacy_name_kr": "제민약국",
+        "address_en": "253 Galhyeon-ro, Eunpyeong-gu, Seoul (Galhyeon-dong)",
+        "address_kr": "서울특별시 은평구 갈현로 253 (갈현동)",
+        "phone": "02-358-8880",
+        "coordinates": {
+            "x": 126.915626982257,
+            "y": 37.6196640090635
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:50",
+            "Tue": "08:00 - 19:50",
+            "Wed": "08:00 - 19:50",
+            "Thu": "08:00 - 19:50",
+            "Fri": "08:00 - 19:50",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jemin Pharmacy",
+        "pharmacy_name_kr": "제민약국",
+        "address_en": "6, Bibong-ro, Inje-eup, Inje-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 인제군 인제읍 비봉로 6",
+        "phone": "033-461-4566",
+        "coordinates": {
+            "x": 128.17209458860202,
+            "y": 38.06849396941929
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Sun": "08:30 - 21:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jemin Pharmacy",
+        "pharmacy_name_kr": "제민약국",
+        "address_en": "3, Gomae-ro 20beon-gil, Paldal-gu, Suwon-si, Gyeonggi-do (Godeung-dong)",
+        "address_kr": "경기도 수원시 팔달구 고매로20번길 3, (고등동)",
+        "phone": "031-256-6787",
+        "coordinates": {
+            "x": 127.00531264557311,
+            "y": 37.27134419527469
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:30",
+            "Tue": "10:00 - 19:30",
+            "Wed": "10:00 - 19:30",
+            "Thu": "10:00 - 19:30",
+            "Fri": "10:00 - 19:30",
+            "Sat": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeminheebo Pharmacy",
+        "pharmacy_name_kr": "제민희보약국",
+        "address_en": "31 Hasinbeonyeong-ro 167beon-gil, Saha-gu, Busan (Sinpyeong-dong)",
+        "address_kr": "부산광역시 사하구 하신번영로167번길 31 (신평동)",
+        "phone": "051-416-7766",
+        "coordinates": {
+            "x": 128.95821694772505,
+            "y": 35.09748363864938
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jesaengdang Pharmacy",
+        "pharmacy_name_kr": "제생당약국",
+        "address_en": "893-1 Mangyang-ro, Dong-gu, Busan",
+        "address_kr": "부산광역시 동구 망양로 893-1 ",
+        "phone": "051-632-0261",
+        "coordinates": {
+            "x": 129.04880683253867,
+            "y": 35.14028479052675
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jesaeng Pharmacy",
+        "pharmacy_name_kr": "제생약국",
+        "address_en": "94 Dodang-ro, Dobong-gu, Seoul (Banghak-dong)",
+        "address_kr": "서울특별시 도봉구 도당로 94 (방학동)",
+        "phone": "02-956-3675",
+        "coordinates": {
+            "x": 127.037366644592,
+            "y": 37.665632146213
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jesaeng Pharmacy",
+        "pharmacy_name_kr": "제생약국",
+        "address_en": "1712 Gyebaek-ro, Jung-gu, Daejeon, (Munhwa-dong, Munhwa Jugong 3rd Apartment Shopping Center)",
+        "address_kr": "대전광역시 중구 계백로 1712, (문화동,문화주공3차아파트상가)",
+        "phone": "042-585-8153",
+        "coordinates": {
+            "x": "127.399888888888896",
+            "y": "36.309658333333331"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "15:00 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeseongdang Pharmacy",
+        "pharmacy_name_kr": "제성당약국",
+        "address_en": "68, Dongchundang-ro 23beon-gil, Daedeok-gu, Daejeon",
+        "address_kr": "대전광역시 대덕구 동춘당로23번길 68",
+        "phone": "042-636-5386",
+        "coordinates": {
+            "x": 127.44444780708795,
+            "y": 36.35840773847742
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:30",
+            "Tue": "08:30 - 21:30",
+            "Wed": "08:30 - 21:30",
+            "Thu": "08:30 - 21:30",
+            "Fri": "08:30 - 21:30",
+            "Sat": "08:30 - 21:30",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeseon Nuri Pharmacy",
+        "pharmacy_name_kr": "제세온누리약국",
+        "address_en": "58, Jogaeteo-ro 42beon-gil, Pyeongtaek-si, Gyeonggi-do (Hapjeong-dong)",
+        "address_kr": "경기도 평택시 조개터로42번길 58 (합정동)",
+        "phone": "031-651-7714",
+        "coordinates": {
+            "x": 127.10584218356891,
+            "y": 36.99018725858358
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 23:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 23:00",
+            "Sat": "09:00 - 23:00",
+            "Sun": "09:00 - 23:00",
+            "Holiday": "09:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeshin Pharmacy",
+        "pharmacy_name_kr": "제신약국",
+        "address_en": "#1, 1st floor, Building D, Dongdaemun General Market, 266 Jongno, Jongno-gu, Seoul (Jongno 6-ga)",
+        "address_kr": "서울특별시 종로구 종로 266, 동대문종합시장 D동 1층 1호 (종로6가)",
+        "phone": "02-2267-3690",
+        "coordinates": {
+            "x": 127.007328677369,
+            "y": 37.5707064933341
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:30",
+            "Tue": "08:00 - 19:30",
+            "Wed": "08:00 - 19:30",
+            "Thu": "08:00 - 19:30",
+            "Fri": "08:00 - 19:30",
+            "Sat": "08:30 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jewondang Pharmacy",
+        "pharmacy_name_kr": "제원당약국",
+        "address_en": "2nd floor, 56 Geomapyeong-ro, Wansan-gu, Jeonju-si, Jeonbuk-do (Samcheon-dong 1-ga)",
+        "address_kr": "전북특별자치도 전주시 완산구 거마평로 56, 2층 (삼천동1가)",
+        "phone": "063-227-2020",
+        "coordinates": {
+            "x": 127.117061658024,
+            "y": 35.7975037289832
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:00",
+            "Tue": "09:00 - 17:00",
+            "Wed": "09:00 - 17:00",
+            "Thu": "09:00 - 17:00",
+            "Fri": "09:00 - 17:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jewon Pharmacy",
+        "pharmacy_name_kr": "제원약국",
+        "address_en": "1st floor, 2-1 Yangnyeongsi-ro, Dongdaemun-gu, Seoul (Jegi-dong)",
+        "address_kr": "서울특별시 동대문구 약령시로 2-1, 1층 (제기동)",
+        "phone": "02-927-7937",
+        "coordinates": {
+            "x": 127.030281601214,
+            "y": 37.5823688223772
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이(J)약국",
+        "address_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "address_kr": "경상북도 경주시 금성로 286-1, 1층 102호 (성건동)",
+        "phone": "054-701-1211",
+        "coordinates": {
+            "x": 129.207276873596,
+            "y": 35.8430759853412
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "JB Miso Pharmacy",
+        "pharmacy_name_kr": "제이비미소약국",
+        "address_en": "841 Nonhyeon-ro, Gangnam-gu, Seoul (Sinsa-dong)",
+        "address_kr": "서울특별시 강남구 논현로 841  (신사동)",
+        "phone": "02-543-8391",
+        "coordinates": {
+            "x": 127.027758806248,
+            "y": 37.5239684663137
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "#214-1, 2nd floor, Kolon Science Valley 2, 55 Digital-ro 34-gil, Guro-gu, Seoul (Guro-dong)",
+        "address_kr": "서울특별시 구로구 디지털로34길 55, 코오롱싸이언스밸리2차 2층 214-1호 (구로동)",
+        "phone": "02-857-7557",
+        "coordinates": {
+            "x": 126.899282125859,
+            "y": 37.4842856391064
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "265 Janggi-ro, Dalseo-gu, Daegu (Janggi-dong)",
+        "address_kr": "대구광역시 달서구 장기로 265 (장기동)",
+        "phone": "053-566-7369",
+        "coordinates": {
+            "x": 128.53125480673023,
+            "y": 35.84334139463802
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "#101, 1st floor, 2188 Dalgubeol-daero, Jung-gu, Daegu (Daebong-dong)",
+        "address_kr": "대구광역시 중구 달구벌대로 2188, 1층 101호 (대봉동)",
+        "phone": "053-431-0160",
+        "coordinates": {
+            "x": 128.60244096705824,
+            "y": 35.8628184149283
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "1st floor, Mediforet, 57 Dongil-ro 92-gil, Jungnang-gu, Seoul (Myeonmok-dong)",
+        "address_kr": "서울특별시 중랑구 동일로92길 57, 메디포레 1층 (면목동)",
+        "phone": "02-433-1520",
+        "coordinates": {
+            "x": 127.083196727099,
+            "y": 37.5834835948977
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "1st floor, 3-11, Pungam 1-ro 21beon-gil, Seo-gu, Gwangju (Pungam-dong)",
+        "address_kr": "광주광역시 서구 풍암1로21번길 3-11, 1층 (풍암동)",
+        "phone": "062-672-0075",
+        "coordinates": {
+            "x": 126.878119619552,
+            "y": 35.1259064484106
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "101 Teheran-ro, Gangnam-gu, Seoul (Yeoksam-dong)",
+        "address_kr": "서울특별시 강남구 테헤란로 101  (역삼동)",
+        "phone": "02-566-1259",
+        "coordinates": {
+            "x": 127.028065727387,
+            "y": 37.4986232309429
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Pharmacy",
+        "pharmacy_name_kr": "제이약국",
+        "address_en": "#6, 1st floor, 323 Seocho-daero, Seocho-gu, Seoul (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 서초대로 323, 1층 6호 (서초동)",
+        "phone": "02-594-1118",
+        "coordinates": {
+            "x": 127.016812452546,
+            "y": 37.4948845692016
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "JJ Pharmacy",
+        "pharmacy_name_kr": "제이제이약국",
+        "address_en": "1st floor, 2557-1 Dalgubeol-daero, Suseong-gu, Daegu (Manchon-dong)",
+        "address_kr": "대구광역시 수성구 달구벌대로 2557-1, 1층 (만촌동)",
+        "phone": "053-000-0000",
+        "coordinates": {
+            "x": 128.642617419102,
+            "y": 35.8592463474853
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Farm Pharmacy",
+        "pharmacy_name_kr": "제이팜약국",
+        "address_en": "130 Seochojungang-ro, Seocho-gu, Seoul, 1st floor (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 서초중앙로 130, 1층 (서초동)",
+        "phone": "02-6398-3334",
+        "coordinates": {
+            "x": 127.01409501559,
+            "y": 37.4932621209182
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "J Farm Pharmacy",
+        "pharmacy_name_kr": "제이팜약국",
+        "address_en": "259 Baekje-daero, Wansan-gu, Jeonju-si, Jeollabuk-do",
+        "address_kr": "전북특별자치도 전주시 완산구 백제대로 259",
+        "phone": "063-223-0367",
+        "coordinates": {
+            "x": 127.12259242611654,
+            "y": 35.81622931778555
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "08:30 - 12:30",
+            "Holiday": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil 365 Onnuri Pharmacy",
+        "pharmacy_name_kr": "제일365온누리약국",
+        "address_en": "#108,109, Jeil Building, 220 Pogok-ro, Pogok-eup, Cheoin-gu, Yongin-si, Gyeonggi-do (Pogok-eup)",
+        "address_kr": "경기도 용인시 처인구 포곡읍 포곡로 220, 제일빌딩 108,109호 (포곡읍)",
+        "phone": "031-322-0996",
+        "coordinates": {
+            "x": 127.227548532465,
+            "y": 37.275797890915
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Nearest pharmacy",
+        "pharmacy_name_kr": "제일가까운약국",
+        "address_en": "10 Gangnamdong-ro, Giheung-gu, Yongin-si, Gyeonggi-do, (Gangnampia #111, Gugal-dong)",
+        "address_kr": "경기도 용인시 기흥구 강남동로 10, (구갈동,강남피아111호)",
+        "phone": "031-275-1144",
+        "coordinates": {
+            "x": "127.12813874917594",
+            "y": 37.27125694672194
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Health Pharmacy",
+        "pharmacy_name_kr": "제일건강약국",
+        "address_en": "1st floor, 291 Gyeongin-ro, Michuhol-gu, Incheon (Dohwa-dong)",
+        "address_kr": "인천광역시 미추홀구 경인로 291, 1층 (도화동)",
+        "phone": "032-873-7776",
+        "coordinates": {
+            "x": 126.673567494058,
+            "y": 37.4610162035898
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Healthy Pharmacy",
+        "pharmacy_name_kr": "제일건강한약국",
+        "address_en": "747 Gunpo-ro, Gunpo-si, Gyeonggi-do",
+        "address_kr": "경기도 군포시 군포로 747",
+        "phone": "031-394-5757",
+        "coordinates": {
+            "x": 126.9427840224131,
+            "y": 37.371858714868274
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "13:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Grand Pharmacy",
+        "pharmacy_name_kr": "제일그랜드약국",
+        "address_en": "1st floor, Jewoo Building, 478 Gangnam-daero, Gangnam-gu, Seoul (Nonhyeon-dong)",
+        "address_kr": "서울특별시 강남구 강남대로 478, 제우빌딩 1층 (논현동)",
+        "phone": "02-546-0093",
+        "coordinates": {
+            "x": 127.024669466556,
+            "y": 37.5051062753525
+        },
+        "operating_hours": {
+            "Mon": "00:00 - 24:00",
+            "Tue": "00:00 - 24:00",
+            "Wed": "00:00 - 24:00",
+            "Thu": "00:00 - 24:00",
+            "Fri": "00:00 - 24:00",
+            "Sat": "00:00 - 24:00",
+            "Sun": "00:00 - 24:00",
+            "Holiday": "00:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeildang Pharmacy",
+        "pharmacy_name_kr": "제일당약국",
+        "address_en": "19, Jungang-ro 400beon-gil, Anseong-si, Gyeonggi-do (Dongbon-dong)",
+        "address_kr": "경기도 안성시 중앙로400번길 19, (동본동)",
+        "phone": "031-674-1041",
+        "coordinates": {
+            "x": 127.27133982246505,
+            "y": 37.00643212194931
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:30",
+            "Tue": "08:00 - 22:30",
+            "Wed": "08:00 - 22:30",
+            "Thu": "08:00 - 22:30",
+            "Fri": "08:00 - 22:30",
+            "Sat": "08:00 - 22:30",
+            "Sun": "08:00 - 22:30",
+            "Holiday": "08:00 - 22:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeildang Pharmacy",
+        "pharmacy_name_kr": "제일당한약국",
+        "address_en": "1st floor, Geumbok Building, 1 Uichang-daero 54beon-gil, Uichang-gu, Changwon-si, Gyeongsangnam-do (Palyong-dong)",
+        "address_kr": "경상남도 창원시 의창구 의창대로54번길 1, 금복빌딩 1층 (팔용동)",
+        "phone": "055-547-7576",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 17:00",
+            "Tue": "10:00 - 17:00",
+            "Wed": "10:00 - 17:00",
+            "Thu": "10:00 - 17:00",
+            "Fri": "10:00 - 17:00",
+            "Sat": "10:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Medical Pharmacy",
+        "pharmacy_name_kr": "제일메디칼약국",
+        "address_en": "187 Garogongwon-ro, Gangseo-gu, Seoul",
+        "address_kr": "서울특별시 강서구 가로공원로 187",
+        "phone": "02-6402-3579",
+        "coordinates": {
+            "x": 126.836699017573,
+            "y": 37.5373576230977
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Sarang Pharmacy",
+        "pharmacy_name_kr": "제일사랑약국",
+        "address_en": "237 Icheon-ro, Jung-gu, Daegu",
+        "address_kr": "대구광역시 중구 이천로 237 ",
+        "phone": "053-254-4855",
+        "coordinates": {
+            "x": 128.5989938033909,
+            "y": 35.8623418709689
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:30",
+            "Tue": "10:00 - 19:30",
+            "Wed": "10:00 - 19:30",
+            "Thu": "10:00 - 19:30",
+            "Fri": "10:00 - 19:30",
+            "Sat": "09:00 - 16:30",
+            "Sun": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeilsa Pharmacy",
+        "pharmacy_name_kr": "제일사약국",
+        "address_en": "1st floor, 142 Chungjang-ro, Jinhae-gu, Changwon-si, Gyeongsangnam-do (Chungmu-dong, Jeilsa Pharmacy)",
+        "address_kr": "경상남도 창원시 진해구 충장로 142, 1층 (충무동, 제일사약국)",
+        "phone": "055-544-7273",
+        "coordinates": {
+            "x": 128.66752853805002,
+            "y": 35.15178109914027
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "#101, 1st floor, Hwaseong Plaza, 214 Ilsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Madu-dong)",
+        "address_kr": "경기도 고양시 일산동구 일산로 214, 화성프라자 1층 101호 (마두동)",
+        "phone": "031-904-3158",
+        "coordinates": {
+            "x": "126.789786111111113",
+            "y": "37.655447222222222"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "4478 Seodong-daero, Gongdo-eup, Anseong-si, Gyeonggi-do (Lotte Mart)",
+        "address_kr": "경기도 안성시 공도읍 서동대로 4478 (롯데마트)",
+        "phone": "070-4409-5344",
+        "coordinates": {
+            "x": 127.1995627774177,
+            "y": 37.007843228765495
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Sun": "10:00 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "36 Raseong-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Wongok-dong, Banwol General Shopping Center Building B)",
+        "address_kr": "경기도 안산시 단원구 라성로 36 (원곡동, 반월종합상가 B동)",
+        "phone": "031-484-4004",
+        "coordinates": {
+            "x": 126.80050066959964,
+            "y": 37.32718126825324
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "783 Gaya-daero, Busanjin-gu, Busan (Bujeon-dong)",
+        "address_kr": "부산광역시 부산진구 가야대로 783 (부전동)",
+        "phone": "051-557-7447",
+        "coordinates": {
+            "x": 129.07888012651648,
+            "y": 35.2133069534994
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "74 Sambong-ro, Jongno-gu, Seoul (Cheongjin-dong)",
+        "address_kr": "서울특별시 종로구 삼봉로 74 (청진동)",
+        "phone": "02-739-3447",
+        "coordinates": {
+            "x": 126.981279903051,
+            "y": 37.5720980850569
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "07:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "94 Garogongwon-ro 76-gil, Gangseo-gu, Seoul, (Hwagok-dong)",
+        "address_kr": "서울특별시 강서구 가로공원로76길 94, (화곡동)",
+        "phone": "02-2601-2431",
+        "coordinates": {
+            "x": 126.838700603144,
+            "y": 37.5330339530834
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "10:00 - 13:00",
+            "Holiday": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "Dow Building, 457 Baekjegobun-ro, Songpa-gu, Seoul (Bangi-dong)",
+        "address_kr": "서울특별시 송파구 백제고분로 457, 다우빌딩 (방이동)",
+        "phone": "02-417-8486",
+        "coordinates": {
+            "x": 127.112633169553,
+            "y": 37.5115157159544
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 20:00",
+            "Tue": "08:40 - 20:00",
+            "Wed": "08:40 - 20:00",
+            "Thu": "08:40 - 20:00",
+            "Fri": "08:40 - 20:00",
+            "Sat": "08:40 - 15:00",
+            "Sun": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "27 Sejong-ro, Yeoju-si, Gyeonggi-do (Hongmun-dong)",
+        "address_kr": "경기도 여주시 세종로 27 (홍문동)",
+        "phone": "031-885-2482",
+        "coordinates": {
+            "x": 127.6367672278,
+            "y": 37.2954119242
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "4, Mokdong Jungangnam-ro 11-gil, Yangcheon-gu, Seoul (Mok-dong)",
+        "address_kr": "서울특별시 양천구 목동중앙남로11길 4, (목동)",
+        "phone": "02-2642-4128",
+        "coordinates": {
+            "x": 126.865768037008,
+            "y": 37.5394905085373
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "136 Heungseon-ro, Uijeongbu-si, Gyeonggi-do (Uijeongbu-dong)",
+        "address_kr": "경기도 의정부시 흥선로 136 (의정부동)",
+        "phone": "031-836-3297",
+        "coordinates": {
+            "x": 127.04195613307918,
+            "y": 37.74163090393118
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "378 Dokseodang-ro, Seongdong-gu, Seoul (Eungbong-dong)",
+        "address_kr": "서울특별시 성동구 독서당로 378(응봉동)",
+        "phone": "02-2293-6946",
+        "coordinates": {
+            "x": 127.030541536734,
+            "y": 37.5496445808135
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "163, Jungbu-daero, Paldal-gu, Suwon-si, Gyeonggi-do (Uman-dong)",
+        "address_kr": "경기도 수원시 팔달구 중부대로 163 (우만동)",
+        "phone": "031-215-6336",
+        "coordinates": {
+            "x": "127.03414273614461",
+            "y": 37.2780070909726
+        },
+        "operating_hours": {
+            "Mon": "09:10 - 17:30",
+            "Tue": "09:10 - 17:30",
+            "Wed": "09:10 - 17:30",
+            "Thu": "09:10 - 17:30",
+            "Fri": "09:10 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "311 Kkotbawi-ro, Dong-gu, Ulsan, 1st floor (Bangeo-dong)",
+        "address_kr": "울산광역시 동구 꽃바위로 311, 1층(방어동)",
+        "phone": "052-232-8972",
+        "coordinates": {
+            "x": "129.422494444444453",
+            "y": "35.485341666666663"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "64 Byeolyang-ro, Gwacheon-si, Gyeonggi-do, #106, Complex 3 Hospital Shopping Center (Byeolyang-dong)",
+        "address_kr": "경기도 과천시 별양로 64, 3단지병원상가 106호 (별양동)",
+        "phone": "02-504-1020",
+        "coordinates": {
+            "x": "126.99299974576298",
+            "y": 37.427326681998615
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 20:00",
+            "Tue": "10:00 - 20:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 20:00",
+            "Fri": "10:00 - 20:00",
+            "Sat": "10:00 - 20:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "5, Yeouidaebang-ro 36-gil, Dongjak-gu, Seoul (Daebang-dong)",
+        "address_kr": "서울특별시 동작구 여의대방로36길 5 (대방동)",
+        "phone": "02-822-0179",
+        "coordinates": {
+            "x": 126.922539459499,
+            "y": 37.5041954236647
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "376 Dobong-ro, Gangbuk-gu, Seoul (Beon-dong)",
+        "address_kr": "서울특별시 강북구 도봉로 376 (번동)",
+        "phone": "02-592-4920",
+        "coordinates": {
+            "x": 127.028639931748,
+            "y": 37.6403813947561
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "10:00 - 17:00",
+            "Holiday": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "39, World Cup-daero 275beon-gil, Yuseong-gu, Daejeon",
+        "address_kr": "대전광역시 유성구 월드컵대로275번길 39",
+        "phone": "042-825-5555",
+        "coordinates": {
+            "x": 127.33146235454089,
+            "y": 36.350410309778816
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "59 Heonyang-gil, Eonyang-eup, Ulju-gun, Ulsan Metropolitan City",
+        "address_kr": "울산광역시 울주군 언양읍 헌양길 59",
+        "phone": "052-254-2346",
+        "coordinates": {
+            "x": 129.12392106921357,
+            "y": 35.564952647681494
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "68 Pyeonghae-ro, Pyeonghae-eup, Uljin-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 울진군 평해읍 평해로 68  ",
+        "phone": "054-787-5038",
+        "coordinates": {
+            "x": 129.44178988599586,
+            "y": 36.726626846141485
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "68 Poeun-ro, Mapo-gu, Seoul (Mangwon-dong)",
+        "address_kr": "서울특별시 마포구 포은로 68  (망원동)",
+        "phone": "02-336-2685",
+        "coordinates": {
+            "x": 126.906319543208,
+            "y": 37.5532574372969
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "1st floor, 26 Jayang-ro 15-gil, Gwangjin-gu, Seoul (Jayang-dong)",
+        "address_kr": "서울특별시 광진구 자양로15길 26, 1층 (자양동)",
+        "phone": "02-446-5383",
+        "coordinates": {
+            "x": 127.082165866147,
+            "y": 37.5357350021337
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "10:00 - 20:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "2nd floor, 25 Nammun-ro 744beon-gil, Dong-gu, Gwangju (Hak-dong)",
+        "address_kr": "광주광역시 동구 남문로744번길 25, 2층 (학동)",
+        "phone": "062-223-3131",
+        "coordinates": {
+            "x": 126.92627610469259,
+            "y": 35.13801672784107
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "3, Market-gil, Seongju-eup, Seongju-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 성주군 성주읍 시장길 3",
+        "phone": "054-933-2117",
+        "coordinates": {
+            "x": 128.28677014411156,
+            "y": 35.91786368544629
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "16 Rotary-gil, Gurye-eup, Gurye-gun, Jeollanam-do",
+        "address_kr": "전라남도 구례군 구례읍 로터리길 16",
+        "phone": "061-782-2219",
+        "coordinates": {
+            "x": 127.4661638615215,
+            "y": 35.208858860607286
+        },
+        "operating_hours": {
+            "Mon": "07:00 - 18:00",
+            "Tue": "07:00 - 18:00",
+            "Wed": "07:00 - 18:00",
+            "Thu": "07:00 - 18:00",
+            "Fri": "07:00 - 18:00",
+            "Sat": "07:00 - 15:00",
+            "Sun": "07:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "81 Myeongryun-ro, Jecheon-si, Chungcheongbuk-do (Uirim-dong)",
+        "address_kr": "충청북도 제천시 명륜로 81 (의림동)",
+        "phone": "0436538587",
+        "coordinates": {
+            "x": 128.210082445539,
+            "y": 37.141884815299
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "1 Bongdongjugong-gil, Goheung-eup, Goheung-gun, Jeollanam-do",
+        "address_kr": "전라남도 고흥군 고흥읍 봉동주공길 1",
+        "phone": "061-833-2787",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "39, Ilsi 1-gil, Gogun-myeon, Jindo-gun, Jeollanam-do",
+        "address_kr": "전라남도 진도군 고군면 오일시1길 39",
+        "phone": "061-543-1011",
+        "coordinates": {
+            "x": 126.31376091912534,
+            "y": 34.50135266270225
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "1 Yehyang-ro, Seongjeon-myeon, Gangjin-gun, Jeollanam-do",
+        "address_kr": "전라남도 강진군 성전면 예향로 1",
+        "phone": "061-434-5044",
+        "coordinates": {
+            "x": 126.70861714647612,
+            "y": 34.691177918947716
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "47, Market-ro, Yeongcheon-si, Gyeongsangbuk-do (Wansan-dong)",
+        "address_kr": "경상북도 영천시 시장로 47 (완산동)",
+        "phone": "054-334-2513",
+        "coordinates": {
+            "x": 128.93541756406327,
+            "y": 35.9636093464103
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "32 Igokgongwon-ro, Dalseo-gu, Daegu",
+        "address_kr": "대구광역시 달서구 이곡공원로 32",
+        "phone": "053-593-0330",
+        "coordinates": {
+            "x": 128.51096581529714,
+            "y": 35.85481193523488
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "55 Won-daero, Seo-gu, Daegu Metropolitan City",
+        "address_kr": "대구광역시 서구 원대로 55",
+        "phone": "053-352-7674",
+        "coordinates": {
+            "x": 128.58073877298034,
+            "y": 35.88229368449931
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "Room 107, 108, 1st floor, Winners Plaza, 223 Guwol-ro, Namdong-gu, Incheon (Guwol-dong)",
+        "address_kr": "인천광역시 남동구 구월로 223, 위너스프라자 1층 107호, 108호일부호 (구월동)",
+        "phone": "032-467-9780",
+        "coordinates": {
+            "x": 126.71563517008704,
+            "y": 37.45648489200761
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "#111, 28, Seunghak-ro 236beon-gil, Seo-gu, Incheon (Simgok-dong, Daedong Shopping Center)",
+        "address_kr": "인천광역시 서구 승학로236번길 28, 111호(심곡동,대동상가)",
+        "phone": "032-564-8421",
+        "coordinates": {
+            "x": 126.68164043946936,
+            "y": 37.54479375047483
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "396 Inju-daero, Michuhol-gu, Incheon, 1st floor",
+        "address_kr": "인천광역시 미추홀구 인주대로 396 , 1층",
+        "phone": "032-431-0390",
+        "coordinates": {
+            "x": "126.680638888888893",
+            "y": "37.450938888888892"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "208-1 Ayang-ro, Dong-gu, Daegu (Hyomok-dong)",
+        "address_kr": "대구광역시 동구 아양로 208-1 (효목동)",
+        "phone": "053-952-7119",
+        "coordinates": {
+            "x": 128.6358690525,
+            "y": 35.8857358055
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "9, World Cup-daero, Yeonje-gu, Busan",
+        "address_kr": "부산광역시 연제구 월드컵대로 9",
+        "phone": "051-852-4675",
+        "coordinates": {
+            "x": 129.08600940027102,
+            "y": 35.17553441729884
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "3121 Dalgubeol-daero, Suseong-gu, Daegu",
+        "address_kr": "대구광역시 수성구 달구벌대로 3121",
+        "phone": "053-793-8883",
+        "coordinates": {
+            "x": 128.69862156437918,
+            "y": 35.84260776548098
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:40",
+            "Tue": "09:00 - 18:40",
+            "Wed": "09:00 - 18:40",
+            "Thu": "09:00 - 18:40",
+            "Fri": "09:00 - 18:40",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "7 Dongyeong-ro, Jung-gu, Busan",
+        "address_kr": "부산광역시 중구 동영로 7",
+        "phone": "051-468-7004",
+        "coordinates": {
+            "x": 129.03325411594332,
+            "y": 35.10796423842829
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "1st floor, 53 Myeongdeoksijang-gil, Nam-gu, Daegu (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 명덕시장길 53, 1층 (대명동)",
+        "phone": "070-7582-8247",
+        "coordinates": {
+            "x": 128.58595990380604,
+            "y": 35.845321438907796
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:00",
+            "Tue": "09:00 - 17:00",
+            "Wed": "09:00 - 17:00",
+            "Thu": "09:00 - 17:00",
+            "Fri": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "24, Dongrae-ro 148beon-gil, Dongrae-gu, Busan, 1st floor, part room (Bokcheon-dong)",
+        "address_kr": "부산광역시 동래구 동래로148번길 24, 1층 일부호 (복천동)",
+        "phone": "051-556-4111",
+        "coordinates": {
+            "x": "129.086608333333345",
+            "y": "35.204297222222223"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "431 Gwanganhaebyeon-ro, Suyeong-gu, Busan",
+        "address_kr": "부산광역시 수영구 광안해변로 431 ",
+        "phone": "051-301-7823",
+        "coordinates": {
+            "x": 129.12929443981372,
+            "y": 35.159929517638375
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 17:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "4, Daecheon-ro 67beon-gil, Haeundae-gu, Busan",
+        "address_kr": "부산광역시 해운대구 대천로67번길 4",
+        "phone": "051-731-3334",
+        "coordinates": {
+            "x": 129.17011623733563,
+            "y": 35.1732858807235
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "17 Seodongjungsim-ro, Geumjeong-gu, Busan (Seodong)",
+        "address_kr": "부산광역시 금정구 서동중심로 17 (서동)",
+        "phone": "051-558-0096",
+        "coordinates": {
+            "x": 129.1041924173916,
+            "y": 35.21135535150811
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "14:00 - 18:00",
+            "Holiday": "14:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "893 Baekyang-daero, Sasang-gu, Busan (Mora-dong)",
+        "address_kr": "부산광역시 사상구 백양대로 893 (모라동)",
+        "phone": "051-311-6226",
+        "coordinates": {
+            "x": 128.99081283536674,
+            "y": 35.18591669444296
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
     }
 ]
