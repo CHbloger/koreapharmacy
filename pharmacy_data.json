@@ -398786,5 +398786,1933 @@
             "Fri": "08:30 - 19:00",
             "Sat": "08:30 - 17:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Pharmacy",
+        "pharmacy_name_kr": "청담약국",
+        "address_en": "135 Jungang-ro, Seosan-si, Chungcheongnam-do, 1st floor (Seokrim-dong, Vitamin Building)",
+        "address_kr": "충청남도 서산시 중앙로 135, 1층 (석림동, 비타민빌딩)",
+        "phone": "041-666-2288",
+        "coordinates": {
+            "x": 126.46384959629741,
+            "y": 36.775793573481124
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:30",
+            "Tue": "08:30 - 22:30",
+            "Wed": "08:30 - 22:30",
+            "Thu": "08:30 - 22:30",
+            "Fri": "08:30 - 22:30",
+            "Sat": "08:30 - 22:30",
+            "Holiday": "08:30 - 22:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Pharmacy",
+        "pharmacy_name_kr": "청담약국",
+        "address_en": "Room 105, 1st floor, Guri Nobleheim Officetel, 163 Gyeongchun-ro, Guri-si, Gyeonggi-do (Gyomun-dong)",
+        "address_kr": "경기도 구리시 경춘로 163, 구리노블하임오피스텔 1층 105호 (교문동)",
+        "phone": "031-523-3228",
+        "coordinates": {
+            "x": 127.133450942806,
+            "y": 37.6009937457506
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Pharmacy",
+        "pharmacy_name_kr": "청담약국",
+        "address_en": "Megaline #302, 51 Saujung-ro, Gimpo-si, Gyeonggi-do (Sau-dong)",
+        "address_kr": "경기도 김포시 사우중로 51, 메가라인 302호 (사우동)",
+        "phone": "031-997-1247",
+        "coordinates": {
+            "x": 126.71886691086065,
+            "y": 37.61972003815155
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam N Pharmacy",
+        "pharmacy_name_kr": "청담엔약국",
+        "address_en": "1st floor, Seorim Building, 330 Dosan-daero, Gangnam-gu, Seoul (Nonhyeon-dong)",
+        "address_kr": "서울특별시 강남구 도산대로 330, 서림빌딩 1층 (논현동)",
+        "phone": "02-543-3303",
+        "coordinates": {
+            "x": 127.038116051214,
+            "y": 37.5224387390193
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:00",
+            "Tue": "09:30 - 20:30",
+            "Wed": "09:30 - 20:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 20:30",
+            "Sat": "09:30 - 16:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam L Pharmacy",
+        "pharmacy_name_kr": "청담엘약국",
+        "address_en": "Room 105, 1st floor, 11 Hakdong-ro 101-gil, Gangnam-gu, Seoul (Cheongdam-dong)",
+        "address_kr": "서울특별시 강남구 학동로101길 11, 1층 105호 (청담동)",
+        "phone": "050-713-6910",
+        "coordinates": {
+            "x": 127.057420802329,
+            "y": 37.5212638625375
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Y Pharmacy",
+        "pharmacy_name_kr": "청담와이약국",
+        "address_en": "Room B104, 461 Apgujeong-ro, Gangnam-gu, Seoul (Cheongdam-dong)",
+        "address_kr": "서울특별시 강남구 압구정로 461, B104호 (청담동)",
+        "phone": "02-512-7262",
+        "coordinates": {
+            "x": 127.047232410937,
+            "y": 37.5252547717564
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "10:00 - 20:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Eutteum Pharmacy",
+        "pharmacy_name_kr": "청담으뜸약국",
+        "address_en": "Room 108, Eutteum Building, 52 Hamilyedang 3-ro, Jinjeop-eup, Namyangju-si, Gyeonggi-do",
+        "address_kr": "경기도 남양주시 진접읍 해밀예당3로 52, 으뜸빌딩 108호",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 127.198564198269,
+            "y": 37.7144890551463
+        },
+        "operating_hours": {}
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Ewha Pharmacy",
+        "pharmacy_name_kr": "청담이화약국",
+        "address_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "address_kr": "서울특별시 강남구 선릉로130길 20",
+        "phone": "02-545-2929",
+        "coordinates": {
+            "x": 127.043343754852,
+            "y": 37.5156660777991
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam K-Pharm Pharmacy",
+        "pharmacy_name_kr": "청담케이팜약국",
+        "address_en": "1st floor, 333 Dosan-daero, Gangnam-gu, Seoul (Sinsa-dong)",
+        "address_kr": "서울특별시 강남구 도산대로 333, 1층 (신사동)",
+        "phone": "070-4125-7407",
+        "coordinates": {
+            "x": 127.038381231393,
+            "y": 37.523358666868
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Oriental Pharmacy",
+        "pharmacy_name_kr": "청담한약국",
+        "address_en": "1st floor, 27, Jungang-daero 1841beon-gil, Geumjeong-gu, Busan (Guseo-dong)",
+        "address_kr": "부산광역시 금정구 중앙대로1841번길 27, 1층 (구서동)",
+        "phone": "051-517-3424",
+        "coordinates": {
+            "x": 129.090364748015,
+            "y": 35.2487471932179
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 19:00",
+            "Sat": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Oriental Pharmacy",
+        "pharmacy_name_kr": "청담한약국",
+        "address_en": "Room 104, 1st floor, 3 Samseong-ro 145-gil, Gangnam-gu, Seoul (Cheongdam-dong)",
+        "address_kr": "서울특별시 강남구 삼성로145길 3, 1층 104호 (청담동)",
+        "phone": "02-000-0000",
+        "coordinates": {
+            "x": 127.04788614397,
+            "y": 37.5221956954066
+        },
+        "operating_hours": {
+            "Mon": "12:00 - 12:30",
+            "Wed": "11:30 - 15:30",
+            "Fri": "11:30 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdam Hope Pharmacy",
+        "pharmacy_name_kr": "청담희망약국",
+        "address_en": "Room 102, 1st floor, 3-2, Hakdong-ro 53-gil, Gangnam-gu, Seoul (Nonhyeon-dong)",
+        "address_kr": "서울특별시 강남구 학동로53길 3-2, 1층 102호 (논현동)",
+        "phone": "02-6956-2436",
+        "coordinates": {
+            "x": 127.040134161132,
+            "y": 37.5173459617876
+        },
+        "operating_hours": {
+            "Mon": "08:10 - 20:00",
+            "Tue": "08:10 - 19:00",
+            "Wed": "08:10 - 19:00",
+            "Thu": "08:10 - 20:00",
+            "Fri": "08:10 - 20:00",
+            "Sat": "08:10 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdang Pharmacy",
+        "pharmacy_name_kr": "청당약국",
+        "address_en": "#105, 68, Cheongsu 14-ro, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Cheongdang-dong)",
+        "address_kr": "충청남도 천안시 동남구 청수14로 68, 105호 (청당동)",
+        "phone": "041-552-2906",
+        "coordinates": {
+            "x": 127.153981563828,
+            "y": 36.784412066819
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:30",
+            "Tue": "10:00 - 19:30",
+            "Wed": "10:00 - 19:30",
+            "Thu": "10:00 - 19:30",
+            "Fri": "10:00 - 19:30",
+            "Sat": "13:00 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdae Jeongmun Pharmacy",
+        "pharmacy_name_kr": "청대정문약국",
+        "address_en": "#101, 257 Sangdang-ro, Cheongwon-gu, Cheongju-si, Chungcheongbuk-do (Uam-dong)",
+        "address_kr": "충청북도 청주시 청원구 상당로 257, 101호 (우암동)",
+        "phone": "050-71414-5428",
+        "coordinates": {
+            "x": 127.488680138278,
+            "y": 36.6513780520013
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "12:00 - 22:00",
+            "Sun": "12:00 - 22:00",
+            "Holiday": "12:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongdo Pharmacy",
+        "pharmacy_name_kr": "청도약국",
+        "address_en": "82 Cheonghwa-ro, Cheongdo-eup, Cheongdo-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 청도군 청도읍 청화로 82",
+        "phone": "054-373-8089",
+        "coordinates": {
+            "x": 128.73642143976807,
+            "y": 35.647567014010946
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:30",
+            "Sun": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Roy Pharmacy",
+        "pharmacy_name_kr": "청라로이약국",
+        "address_en": "Room 109, World Plaza, 31 Crystal-ro 74beon-gil, Seo-gu, Incheon (Gyeongseo-dong)",
+        "address_kr": "인천광역시 서구 크리스탈로74번길 31, 월드프라자 109호 (경서동)",
+        "phone": "032-569-7725",
+        "coordinates": {
+            "x": 126.6401269841413,
+            "y": 37.532002031747716
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Future Pharmacy",
+        "pharmacy_name_kr": "청라미래약국",
+        "address_en": "602, Jungbong-daero, Seo-gu, Incheon (Yeonhui-dong)",
+        "address_kr": "인천광역시 서구 중봉대로 602  (연희동)",
+        "phone": "032-715-6038",
+        "coordinates": {
+            "x": 126.650262046,
+            "y": 37.5334092043
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 13:00",
+            "Tue": "10:00 - 13:00",
+            "Wed": "10:00 - 13:00",
+            "Thu": "10:00 - 13:00",
+            "Fri": "10:00 - 13:00",
+            "Sat": "09:00 - 17:30",
+            "Sun": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Sea Pharmacy",
+        "pharmacy_name_kr": "청라바다약국",
+        "address_en": "Marciel (Cheongna-dong), 10-16, Jungbong-daero 612beon-gil, Seo-gu, Incheon",
+        "address_kr": "인천광역시 서구 중봉대로612번길 10-16, 마르씨엘 (청라동)",
+        "phone": "032-569-3258",
+        "coordinates": {
+            "x": 126.651624361,
+            "y": 37.533384399
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 16:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Bareun Pharmacy",
+        "pharmacy_name_kr": "청라바른약국",
+        "address_en": "Room 102, 3-5, Cheongnahannae-ro 161beon-gil, Seo-gu, Incheon (Cheongna-dong)",
+        "address_kr": "인천광역시 서구 청라한내로161번길 3-5, 102호 (청라동)",
+        "phone": "032-566-8277",
+        "coordinates": {
+            "x": 126.627876534709,
+            "y": 37.5391623910432
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Vision Pharmacy",
+        "pharmacy_name_kr": "청라비젼약국",
+        "address_en": "594 Jungbong-daero, Seo-gu, Incheon",
+        "address_kr": "인천광역시 서구 중봉대로 594 ",
+        "phone": "032-569-1057",
+        "coordinates": {
+            "x": 126.6502795605,
+            "y": 37.5325659232
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 16:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Pharmacy",
+        "pharmacy_name_kr": "청라약국",
+        "address_en": "1st floor, 71 Dalseong-ro, Jung-gu, Daegu (Daesin-dong, Cheongna Hill Gwell the Centro)",
+        "address_kr": "대구광역시 중구 달성로 71, 1층 (대신동, 청라힐 지웰 더 센트로)",
+        "phone": "0535622398",
+        "coordinates": {
+            "x": 128.581892507018,
+            "y": 35.8713923222057
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Hill Malgeun Pharmacy",
+        "pharmacy_name_kr": "청라언덕맑은약국",
+        "address_en": "#101, 595b Cheongna, Dalgubeol-daero 2012, Jung-gu, Daegu (Namsan-dong)",
+        "address_kr": "대구광역시 중구 달구벌대로 2012, 595b Cheongna 101호 (남산동)",
+        "phone": "053-255-6167",
+        "coordinates": {
+            "x": 128.584135101136,
+            "y": 35.8651152177485
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Onnuri Pharmacy",
+        "pharmacy_name_kr": "청라온누리약국",
+        "address_en": "Room 108, 8, Cheongna Emerald-ro 102beon-gil, Seo-gu, Incheon (Cheongna-dong, Woosung Medipia)",
+        "address_kr": "인천광역시 서구 청라에메랄드로102번길 8, 108호 (청라동, 우성메디피아)",
+        "phone": "032-567-8212",
+        "coordinates": {
+            "x": 126.65663993821869,
+            "y": 37.533943676807596
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Famous Pharmacy",
+        "pharmacy_name_kr": "청라유명약국",
+        "address_en": "65 Cheongna Lime-ro, Seo-gu, Incheon (Cheongna-dong)",
+        "address_kr": "인천광역시 서구 청라라임로 65  (청라동)",
+        "phone": "032-563-0605",
+        "coordinates": {
+            "x": 126.65298630787628,
+            "y": 37.53343886466702
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 19:00",
+            "Sun": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Central Pharmacy",
+        "pharmacy_name_kr": "청라중앙약국",
+        "address_en": "588 Jungbong-daero, Seo-gu, Incheon (Cheongna-dong)",
+        "address_kr": "인천광역시 서구 중봉대로 588  (청라동)",
+        "phone": "032-569-5678",
+        "coordinates": {
+            "x": 126.65024053336121,
+            "y": 37.53206517418724
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Angel Pharmacy",
+        "pharmacy_name_kr": "청라천사약국",
+        "address_en": "Room 112, The Space Tower, 10 Cheongna Canal-ro 288beon-gil, Seo-gu, Incheon (Cheongna-dong)",
+        "address_kr": "인천광역시 서구 청라커낼로288번길 10, 더스페이스타워 112호 (청라동)",
+        "phone": "032-572-8887",
+        "coordinates": {
+            "x": 126.64566637965783,
+            "y": 37.533874834930366
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongna Big Love Pharmacy",
+        "pharmacy_name_kr": "청라큰사랑약국",
+        "address_en": "#79, B12, B13, Cheongna Emerald-ro, Seo-gu, Incheon (Cheongna-dong)",
+        "address_kr": "인천광역시 서구 청라에메랄드로 79, B12, B13호 (청라동)",
+        "phone": "032-568-7729",
+        "coordinates": {
+            "x": 126.6556886216342,
+            "y": 37.53233674617663
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongnyangni Jongno Pharmacy",
+        "pharmacy_name_kr": "청량리종로약국",
+        "address_en": "Room 101, 1st floor, 178 Wangsan-ro, Dongdaemun-gu, Seoul (Jeonnong-dong)",
+        "address_kr": "서울특별시 동대문구 왕산로 178, 1층 101호 (전농동)",
+        "phone": "02-960-2361",
+        "coordinates": {
+            "x": 127.043146161257,
+            "y": 37.5793037852612
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:00",
+            "Tue": "08:00 - 22:00",
+            "Wed": "08:00 - 22:00",
+            "Thu": "08:00 - 22:00",
+            "Fri": "08:00 - 22:00",
+            "Sat": "08:00 - 22:00",
+            "Sun": "08:00 - 22:00",
+            "Holiday": "08:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongnyangni Central Pharmacy",
+        "pharmacy_name_kr": "청량리중앙약국",
+        "address_en": "214 Wangsan-ro, Dongdaemun-gu, Seoul, Cheongnyangni Station, Lotte Department Store 403-Right Tower (Jeonnong-dong)",
+        "address_kr": "서울특별시 동대문구 왕산로 214, 청량리역,롯데백화점 403-우측호 (전농동)",
+        "phone": "02-3707-1588",
+        "coordinates": {
+            "x": 127.05114503929,
+            "y": 37.584197400389
+        },
+        "operating_hours": {
+            "Mon": "10:30 - 21:00",
+            "Tue": "10:30 - 21:00",
+            "Wed": "10:30 - 21:00",
+            "Thu": "10:30 - 21:00",
+            "Fri": "10:30 - 21:00",
+            "Sat": "10:30 - 21:00",
+            "Sun": "14:00 - 20:00",
+            "Holiday": "10:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongryong Central Pharmacy",
+        "pharmacy_name_kr": "청룡중앙약국",
+        "address_en": "#103, Yeonhee Tower, 233 Gajwa-ro, Eunpyeong-gu, Seoul (Eungam-dong)",
+        "address_kr": "서울특별시 은평구 가좌로 233, 연희타워 103호 (응암동)",
+        "phone": "02-303-6550",
+        "coordinates": {
+            "x": 126.916412390363,
+            "y": 37.5904238447716
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 25:00",
+            "Tue": "10:00 - 25:00",
+            "Wed": "10:00 - 25:00",
+            "Thu": "10:00 - 25:00",
+            "Fri": "10:00 - 25:00",
+            "Sat": "10:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheonglim Pharmacy",
+        "pharmacy_name_kr": "청림약국",
+        "address_en": "25 Talhae-ro 52beon-gil, Gyeongju-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경주시 탈해로52번길 25",
+        "phone": "054-776-1708",
+        "coordinates": {
+            "x": 129.23114225865424,
+            "y": 35.84883329722173
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 20:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheonglim Oriental Pharmacy",
+        "pharmacy_name_kr": "청림한약국",
+        "address_en": "40 Seonhwa-ro 13-gil, Iksan-si, Jeollabuk-do (Mohyeon-dong 1-ga)",
+        "address_kr": "전북특별자치도 익산시 선화로13길 40  (모현동1가)",
+        "phone": "070-8200-8253",
+        "coordinates": {
+            "x": 126.94382789514,
+            "y": 35.9512447686325
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:00",
+            "Tue": "10:00 - 22:00",
+            "Wed": "10:00 - 22:00",
+            "Thu": "10:00 - 22:00",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:00",
+            "Sun": "14:00 - 22:00",
+            "Holiday": "14:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongma Pharmacy",
+        "pharmacy_name_kr": "청마약국",
+        "address_en": "50 Myeongdeok Market-gil, Nam-gu, Daegu, (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 명덕시장길 50, (대명동)",
+        "phone": "053-651-9419",
+        "coordinates": {
+            "x": 128.58587434794057,
+            "y": 35.845199804675175
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongmyeong Pharmacy",
+        "pharmacy_name_kr": "청명약국",
+        "address_en": "1st floor, The Cheongmyeong Building, 27 Geumgok-daero, Buk-gu, Busan (Deokcheon-dong)",
+        "address_kr": "부산광역시 북구 금곡대로 27, 더청명빌딩 1층 (덕천동)",
+        "phone": "051-343-6604",
+        "coordinates": {
+            "x": 129.0041381261,
+            "y": 35.2123362637
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongmyeong Pharmacy",
+        "pharmacy_name_kr": "청명약국",
+        "address_en": "6, Seobu-ro 1465beon-gil, Seowon-gu, Cheongju-si, Chungcheongbuk-do, Gaeseong (Gaesin-dong)",
+        "address_kr": "충청북도 청주시 서원구 서부로1465번길 6, 가동 (개신동)",
+        "phone": "043-260-8835",
+        "coordinates": {
+            "x": 127.45982250630624,
+            "y": 36.621646737140715
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongmyeong Onnuri Pharmacy",
+        "pharmacy_name_kr": "청명온누리약국",
+        "address_en": "6, Bandal-ro 7beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+        "address_kr": "경기도 수원시 영통구 반달로7번길 6",
+        "phone": "031-203-1717",
+        "coordinates": {
+            "x": 127.0739945230469,
+            "y": 37.25243970854933
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongmirae Pharmacy",
+        "pharmacy_name_kr": "청미래약국",
+        "address_en": "#410, 120, Dongan-ro, Dongan-gu, Anyang-si, Gyeonggi-do (Hogye-dong, Pyeongchon Sports Center)",
+        "address_kr": "경기도 안양시 동안구 동안로 120, 410호 (호계동, 평촌스포츠센타)",
+        "phone": "070-8826-3379",
+        "coordinates": {
+            "x": 126.95222862556935,
+            "y": 37.38954458666001
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 12:00",
+            "Holiday": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongmirae Oriental Medicine Pharmacy",
+        "pharmacy_name_kr": "청미래한약국",
+        "address_en": "1st floor, 48 Gaya-daero 784beon-gil, Busanjin-gu, Busan (Bujeon-dong)",
+        "address_kr": "부산광역시 부산진구 가야대로784번길 48, 1층 (부전동)",
+        "phone": "0507-1476-1163",
+        "coordinates": {
+            "x": 129.057147587325,
+            "y": 35.1553313764504
+        },
+        "operating_hours": {
+            "Mon": "13:00 - 20:00",
+            "Tue": "13:00 - 20:00",
+            "Wed": "13:00 - 20:00",
+            "Thu": "13:00 - 20:00",
+            "Fri": "13:00 - 20:00",
+            "Sat": "13:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongbaek Pharmacy",
+        "pharmacy_name_kr": "청백약국",
+        "address_en": "94 Wolgye-ro 45ga-gil, Nowon-gu, Seoul",
+        "address_kr": "서울특별시 노원구 월계로45가길 94",
+        "phone": "02-906-0565",
+        "coordinates": {
+            "x": 127.052326972987,
+            "y": 37.6318155292192
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongbaek Pharmacy",
+        "pharmacy_name_kr": "청백약국",
+        "address_en": "1st floor, 623 Samyang-ro, Gangbuk-gu, Seoul (Ui-dong)",
+        "address_kr": "서울특별시 강북구 삼양로 623, 1층 (우이동)",
+        "phone": "02-993-2787",
+        "coordinates": {
+            "x": 127.013523839792,
+            "y": 37.6584533150352
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongbuk Sol Pharmacy",
+        "pharmacy_name_kr": "청북솔약국",
+        "address_en": "1st floor, 47 Seojeongyeok-ro, Pyeongtaek-si, Gyeonggi-do (Seojeong-dong)",
+        "address_kr": "경기도 평택시 서정역로 47, 1층 (서정동)",
+        "phone": "070-4176-8751",
+        "coordinates": {
+            "x": 127.0551090991,
+            "y": 37.0583864612
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 16:00",
+            "Tue": "09:00 - 16:00",
+            "Wed": "09:00 - 16:00",
+            "Thu": "09:00 - 16:00",
+            "Fri": "09:00 - 16:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongbuk Pharmacy",
+        "pharmacy_name_kr": "청북약국",
+        "address_en": "47, Sinpo-gil, Cheongbuk-myeon, Pyeongtaek-si, Gyeonggi-do,",
+        "address_kr": "경기도 평택시 청북면 신포길 47,",
+        "phone": "031-683-7553",
+        "coordinates": {
+            "x": 126.93328601145065,
+            "y": 37.04017517186168
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongbuk Onnuri Pharmacy",
+        "pharmacy_name_kr": "청북온누리약국",
+        "address_en": "Room 102, Hannam Plaza, 332 Ancheong-ro, Cheongbuk-eup, Pyeongtaek-si, Gyeonggi-do",
+        "address_kr": "경기도 평택시 청북읍 안청로 332, 한남프라자 102호",
+        "phone": "031-686-8690",
+        "coordinates": {
+            "x": 126.9159288148164,
+            "y": 37.01752187847792
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "13:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsarang Pharmacy",
+        "pharmacy_name_kr": "청사랑약국",
+        "address_en": "42 Jeil-ro, Michuhol-gu, Incheon, (Dohwa-dong)",
+        "address_kr": "인천광역시 미추홀구 제일로 42, (도화동)",
+        "phone": "032-873-9141",
+        "coordinates": {
+            "x": "126.67482100504696",
+            "y": 37.45861864358269
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsa Pharmacy",
+        "pharmacy_name_kr": "청사약국",
+        "address_en": "1st floor, 205 Jungang-ro, Gwangju-si, Gyeonggi-do (Songjeong-dong)",
+        "address_kr": "경기도 광주시 중앙로 205, 1층 (송정동)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 127.256509428722,
+            "y": 37.4180014913242
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsa Pharmacy",
+        "pharmacy_name_kr": "청사약국",
+        "address_en": "1st floor, 234 Jungang-ro, Jeju-si, Jeju-do (Ido-dong)",
+        "address_kr": "제주특별자치도 제주시 중앙로 234, 1층 (이도이동)",
+        "phone": "070-7757-7271",
+        "coordinates": {
+            "x": 126.5301503002,
+            "y": 33.4988487706
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 24:00",
+            "Tue": "10:00 - 24:00",
+            "Wed": "10:00 - 24:00",
+            "Thu": "10:00 - 24:00",
+            "Fri": "10:00 - 24:00",
+            "Sat": "10:00 - 24:00",
+            "Sun": "10:00 - 24:00",
+            "Holiday": "10:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsa Pharmacy",
+        "pharmacy_name_kr": "청사약국",
+        "address_en": "189 Cheongsa-ro, Seo-gu, Daejeon, Basement 1 (Dunsan-dong, General Government Complex)",
+        "address_kr": "대전광역시 서구 청사로 189, 지하1층 (둔산동, 정부종합청사)",
+        "phone": "042-487-1161",
+        "coordinates": {
+            "x": 127.38490679374979,
+            "y": 36.36267969096531
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsan Pharmacy",
+        "pharmacy_name_kr": "청산약국",
+        "address_en": "805 Hanam-daero, Hanam-si, Gyeonggi-do, part 1st floor (Sinjang-dong)",
+        "address_kr": "경기도 하남시 하남대로 805, 1층 일부호 (신장동)",
+        "phone": "031-791-0805",
+        "coordinates": {
+            "x": 127.207890990159,
+            "y": 37.5409092884015
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsan Pharmacy",
+        "pharmacy_name_kr": "청산약국",
+        "address_en": "43 Toseong-gil, Singwang-myeon, Buk-gu, Pohang-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 포항시 북구 신광면 토성길 43",
+        "phone": "054-242-6671",
+        "coordinates": {
+            "x": 129.26341501846173,
+            "y": 36.12840338843945
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 16:00",
+            "Tue": "09:30 - 16:00",
+            "Wed": "09:30 - 16:00",
+            "Thu": "09:30 - 16:00",
+            "Fri": "09:30 - 16:00",
+            "Sat": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Donga Pharmacy",
+        "pharmacy_name_kr": "청솔동아약국",
+        "address_en": "#107, Sanga-dong, 103 Nohae-ro 69-gil, Dobong-gu, Seoul (Chang-dong, Donga Cheongsol Apartment)",
+        "address_kr": "서울특별시 도봉구 노해로69길 103, 상가동 107호 (창동, 동아청솔아파트)",
+        "phone": "02-990-3378",
+        "coordinates": {
+            "x": 127.049275691881,
+            "y": 37.6577863519515
+        },
+        "operating_hours": {
+            "Mon": "10:30 - 18:00",
+            "Tue": "10:30 - 18:00",
+            "Wed": "10:30 - 18:00",
+            "Thu": "10:30 - 18:00",
+            "Fri": "10:30 - 18:00",
+            "Sat": "10:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "462 Majang-ro, Bupyeong-gu, Incheon (Cheongcheon-dong)",
+        "address_kr": "인천광역시 부평구 마장로 462 (청천동)",
+        "phone": "032-502-4238",
+        "coordinates": {
+            "x": 126.70493548185635,
+            "y": 37.51937493138177
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "743 Hancheon-ro, Seongbuk-gu, Seoul (Jangwi-dong)",
+        "address_kr": "서울특별시 성북구 한천로 743 (장위동)",
+        "phone": "02-909-8067",
+        "coordinates": {
+            "x": 127.05105875671,
+            "y": 37.6224560956296
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "11:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "1st floor, 3, Jungangcheon-ro 2beon-gil, Yeonje-gu, Busan (Yeonsan-dong)",
+        "address_kr": "부산광역시 연제구 중앙천로2번길 3, 1층 (연산동)",
+        "phone": "051-862-1232",
+        "coordinates": {
+            "x": 129.084489188292,
+            "y": 35.1751928750611
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "39-1 Gangnamdong-ro, Dolsan-eup, Yeosu-si, Jeollanam-do",
+        "address_kr": "전라남도 여수시 돌산읍 강남동로 39-1",
+        "phone": "061-644-0788",
+        "coordinates": {
+            "x": 127.755564012624,
+            "y": 34.7186180605901
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "43-14, Jungchoncheonbuk-gil, Jain-myeon, Gyeongsan-si, Gyeongsangbuk-do,",
+        "address_kr": "경상북도 경산시 자인면 중촌천북길 43-14,",
+        "phone": "053-853-2200",
+        "coordinates": {
+            "x": 128.82348199444624,
+            "y": 35.81985910259666
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 19:00",
+            "Holiday": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "3, Bogeun-gil, Bonghwa-eup, Bonghwa-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 봉화군 봉화읍 보밑길 3",
+        "phone": "054-674-0332",
+        "coordinates": {
+            "x": 128.73301790273845,
+            "y": 36.891226589500896
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 17:40",
+            "Tue": "08:40 - 17:40",
+            "Wed": "08:40 - 17:40",
+            "Thu": "08:40 - 17:40",
+            "Fri": "08:40 - 17:40",
+            "Sat": "08:40 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "85 Gumijungang-ro, Gumi-si, Gyeongsangbuk-do (Wonpyeong-dong)",
+        "address_kr": "경상북도 구미시 구미중앙로 85 (원평동)",
+        "phone": "054-456-1278",
+        "coordinates": {
+            "x": 128.33220020376507,
+            "y": 36.12882462917911
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "170 Nabiheori-gil, Wonju-si, Gangwon-do, (Gwanseol-dong)",
+        "address_kr": "강원특별자치도 원주시 나비허리길 170, (관설동)",
+        "phone": "033-761-5851",
+        "coordinates": {
+            "x": "127.965477777777778",
+            "y": 37.318333333333335
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "1st floor, 67-1 Geumgang-ro, Chuncheon-si, Gangwon-do (Joyang-dong)",
+        "address_kr": "강원특별자치도 춘천시 금강로 67-1, 1층 (조양동)",
+        "phone": "033-251-3981",
+        "coordinates": {
+            "x": 127.729190940078,
+            "y": 37.8793409917991
+        },
+        "operating_hours": {
+            "Mon": "22:00 - 25:00",
+            "Tue": "22:00 - 25:00",
+            "Wed": "22:00 - 25:00",
+            "Thu": "22:00 - 25:00",
+            "Fri": "22:00 - 25:00",
+            "Sat": "22:00 - 25:00",
+            "Sun": "22:00 - 25:00",
+            "Holiday": "22:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "176 Asanman-ro, Dogo-myeon, Asan-si, Chungcheongnam-do (Dogo-myeon)",
+        "address_kr": "충청남도 아산시 도고면 아산만로 176 (도고면)",
+        "phone": "041-541-3260",
+        "coordinates": {
+            "x": 126.86813014332702,
+            "y": 36.759265065113155
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "35, Sogeumgang-ro, Gyeongju-si, Gyeongsangbuk-do, (Yonggang-dong)",
+        "address_kr": "경상북도 경주시 소금강로 35, (용강동)",
+        "phone": "054-775-5253",
+        "coordinates": {
+            "x": 129.22416899829477,
+            "y": 35.85991775049669
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "20 Danggyo 3-gil, Mungyeong-si, Gyeongsangbuk-do (Mojeon-dong)",
+        "address_kr": "경상북도 문경시 당교3길 20 (모전동)",
+        "phone": "054-556-0999",
+        "coordinates": {
+            "x": 128.1897415534441,
+            "y": 36.585487621932316
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "#105, 157, Dong-Oe-ro, Goseong-eup, Goseong-gun, Gyeongsangnam-do",
+        "address_kr": "경상남도 고성군 고성읍 동외로 157, 105호",
+        "phone": "055-674-7963",
+        "coordinates": {
+            "x": 128.325654232527,
+            "y": 34.9753730183231
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "Room 121, 1st floor, 50 Woljeong-ro, Yangcheon-gu, Seoul (Sinwol-dong, Cheongsol Apartment)",
+        "address_kr": "서울특별시 양천구 월정로 50, 1층 121호 (신월동, 청솔아파트)",
+        "phone": "02-2690-2106",
+        "coordinates": {
+            "x": 126.842137823501,
+            "y": 37.524261587996
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "Woori Union Clinic, 6, Jinhae-daero 921beon-gil, Jinhae-gu, Changwon-si, Gyeongsangnam-do (Jaeun-dong)",
+        "address_kr": "경상남도 창원시 진해구 진해대로921번길 6, 우리연합의원 (자은동)",
+        "phone": "055-547-6247",
+        "coordinates": {
+            "x": 128.70766179052038,
+            "y": 35.14713162011696
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "309, Jungang-ro, Tongyeong-si, Gyeongsangnam-do, (Mujeon-dong)",
+        "address_kr": "경상남도 통영시 중앙로 309, (무전동)",
+        "phone": "055-645-2497",
+        "coordinates": {
+            "x": 128.4281928830668,
+            "y": 34.85792087897701
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "#105, 6, Janghyeonjanggok-ro, Siheung-si, Gyeonggi-do (Janggok-dong)",
+        "address_kr": "경기도 시흥시 장현장곡로 6, 105호 (장곡동)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 126.789706967191,
+            "y": 37.3789200777834
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "Room 107, 1st floor, 79 Dolma-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Geumgok-dong, Sun Plaza)",
+        "address_kr": "경기도 성남시 분당구 돌마로 79, 1층 107호 (금곡동, 썬프라자)",
+        "phone": "031-714-9947",
+        "coordinates": {
+            "x": 127.11082425890181,
+            "y": 37.35041048753091
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "264 Yeoyang 2-ro, Buknae-myeon, Yeoju-si, Gyeonggi-do",
+        "address_kr": "경기도 여주시 북내면 여양2로 264",
+        "phone": "031-882-3981",
+        "coordinates": {
+            "x": 127.6803057959,
+            "y": 37.3265395141
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "1st floor, 3, Wolpi-ro 1-gil, Sangnok-gu, Ansan-si, Gyeonggi-do (Wolpi-dong)",
+        "address_kr": "경기도 안산시 상록구 월피로1길 3, 1층 (월피동)",
+        "phone": "031-418-6156",
+        "coordinates": {
+            "x": 126.85342895712111,
+            "y": 37.336044330642096
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "20 Jeonnong-ro 10-gil, Dongdaemun-gu, Seoul (Dapsimni-dong, Cheongsol Woosung Apartment Mall)",
+        "address_kr": "서울특별시 동대문구 전농로10길 20 (답십리동, 청솔우성아파트상가)",
+        "phone": "02-3394-6600",
+        "coordinates": {
+            "x": 127.060129124176,
+            "y": 37.5746094744702
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "1st floor, 472 Anyang-ro, Manan-gu, Anyang-si, Gyeonggi-do (Seoksu-dong)",
+        "address_kr": "경기도 안양시 만안구 안양로 472, 1층 (석수동)",
+        "phone": "031-473-8275",
+        "coordinates": {
+            "x": 126.9108587089,
+            "y": 37.4120012001
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "472 Anyang-ro, Manan-gu, Anyang-si, Gyeonggi-do",
+        "address_kr": "경기도 안양시 만안구 안양로 472",
+        "phone": "031-472-4115",
+        "coordinates": {
+            "x": 126.91082222885295,
+            "y": 37.4119949703769
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Pharmacy",
+        "pharmacy_name_kr": "청솔약국",
+        "address_en": "49 Donghaean-ro, Dong-gu, Ulsan, (Dongbu-dong)",
+        "address_kr": "울산광역시 동구 동해안로 49, (동부동)",
+        "phone": "052-252-8778",
+        "coordinates": {
+            "x": "129.428594444444457",
+            "y": "35.542394444444447"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsol Onnuri Pharmacy",
+        "pharmacy_name_kr": "청솔온누리약국",
+        "address_en": "#3, 1st floor, 728 Namdong-daero, Namdong-gu, Incheon (Guwol-dong, Myeongbo Building Shopping Center)",
+        "address_kr": "인천광역시 남동구 남동대로 728, 1층 3호 (구월동, 명보빌딩상가)",
+        "phone": "0324662144",
+        "coordinates": {
+            "x": 126.70763719613407,
+            "y": 37.44730029850309
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsong Pharmacy",
+        "pharmacy_name_kr": "청송약국",
+        "address_en": "18 Cheongsong-ro, Gimpo-si, Gyeonggi-do",
+        "address_kr": "경기도 김포시 청송로 18",
+        "phone": "031-988-9310",
+        "coordinates": {
+            "x": 126.66614603999034,
+            "y": 37.64746941332788
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 20:00",
+            "Tue": "08:40 - 20:00",
+            "Wed": "08:40 - 20:00",
+            "Thu": "08:40 - 20:00",
+            "Fri": "08:40 - 20:00",
+            "Sat": "08:40 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsong Onnuri Pharmacy",
+        "pharmacy_name_kr": "청송온누리약국",
+        "address_en": "#108, 45, Mokdongjungangbon-ro 7-gil, Yangcheon-gu, Seoul (Mok-dong)",
+        "address_kr": "서울특별시 양천구 목동중앙본로7길 45, 108호 (목동)",
+        "phone": "02-2651-5319",
+        "coordinates": {
+            "x": 126.866336562907,
+            "y": 37.5391374210157
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsudang Pharmacy",
+        "pharmacy_name_kr": "청수당약국",
+        "address_en": "#102, 19 Changhyeon-ro, Hwado-eup, Namyangju-si, Gyeonggi-do (Boram Art Plaza)",
+        "address_kr": "경기도 남양주시 화도읍 창현로 19, 102호 (보람아트플라자)",
+        "phone": "031-511-8784",
+        "coordinates": {
+            "x": 127.30608724283448,
+            "y": 37.64916241385196
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sun": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsudang Pharmacy",
+        "pharmacy_name_kr": "청수당약국",
+        "address_en": "#103, 300 Seokjeong-ro, Michuhol-gu, Incheon (Dohwa-dong, Shintaeyang Shopping Center)",
+        "address_kr": "인천광역시 미추홀구 석정로 300, 103호(도화동,신태양상가)",
+        "phone": "032-875-1929",
+        "coordinates": {
+            "x": 126.66885763575318,
+            "y": 37.467862642530946
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00",
+            "Holiday": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsu Pharmacy",
+        "pharmacy_name_kr": "청수약국",
+        "address_en": "1st floor, 83 Jangnae-ro, Manan-gu, Anyang-si, Gyeonggi-do (Anyang-dong)",
+        "address_kr": "경기도 안양시 만안구 장내로 83, 1층 (안양동)",
+        "phone": "031-449-7725",
+        "coordinates": {
+            "x": 126.9178036552,
+            "y": 37.3951463346
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00",
+            "Holiday": "09:30 - 23:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsu Onnuri Pharmacy",
+        "pharmacy_name_kr": "청수온누리약국",
+        "address_en": "1st floor, Sedation Plastic Surgery Clinic, 1008 Pungse-ro, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Cheongsu-dong)",
+        "address_kr": "충청남도 천안시 동남구 풍세로 1008, 진정형외과 1층 (청수동)",
+        "phone": "041-566-7565",
+        "coordinates": {
+            "x": 127.153017946533,
+            "y": 36.7971737952404
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 12:30",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongshin Pharmacy",
+        "pharmacy_name_kr": "청신약국",
+        "address_en": "202 Bok-daero, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do (Bokdae-dong)",
+        "address_kr": "충청북도 청주시 흥덕구 복대로 202 (복대동)",
+        "phone": "043-235-5830",
+        "coordinates": {
+            "x": "127.440980555555555",
+            "y": "36.634488888888889"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongsil Pharmacy",
+        "pharmacy_name_kr": "청실약국",
+        "address_en": "1st floor, Namgang Construction Hall Building, 15 Mugyo-ro, Jung-gu, Seoul (Mugyo-dong)",
+        "address_kr": "서울특별시 중구 무교로 15, 남강건설회관빌딩 1층 (무교동)",
+        "phone": "02-3789-6953",
+        "coordinates": {
+            "x": 126.978921749794,
+            "y": 37.5672818668855
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "10:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongshim Pharmacy",
+        "pharmacy_name_kr": "청심약국",
+        "address_en": "#101, 42-9, Heewoojeong-ro, Mapo-gu, Seoul (Hapjeong-dong)",
+        "address_kr": "서울특별시 마포구 희우정로 42-9, 101호 (합정동)",
+        "phone": "02-325-4552",
+        "coordinates": {
+            "x": 126.90694153959,
+            "y": 37.551152747714
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "14:30 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongshim Pharmacy",
+        "pharmacy_name_kr": "청심약국",
+        "address_en": "12, Suseong-ro 41-gil, Suseong-gu, Daegu, (Middle East)",
+        "address_kr": "대구광역시 수성구 수성로41길 12, (중동)",
+        "phone": "053-762-5480",
+        "coordinates": {
+            "x": 128.61189982572523,
+            "y": 35.84466420061206
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongshim Pharmacy",
+        "pharmacy_name_kr": "청심약국",
+        "address_en": "189 Woongjin-ro, Gongju-si, Chungcheongnam-do (Sanseong-dong)",
+        "address_kr": "충청남도 공주시 웅진로 189 (산성동)",
+        "phone": "041-854-5656",
+        "coordinates": {
+            "x": 127.12458252335858,
+            "y": 36.45738145761305
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Blue Cross Pharmacy",
+        "pharmacy_name_kr": "청십자약국",
+        "address_en": "1st floor, 798 Hogupo-ro, Namdong-gu, Incheon (Guwol-dong)",
+        "address_kr": "인천광역시 남동구 호구포로 798, 1층 (구월동)",
+        "phone": "032-466-0777",
+        "coordinates": {
+            "x": 126.71941758570397,
+            "y": 37.45358457960287
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "10:30 - 20:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Blue Cross Pharmacy",
+        "pharmacy_name_kr": "청십자약국",
+        "address_en": "1st floor, 102 Songnim-ro, Dong-gu, Incheon (Songnim-dong)",
+        "address_kr": "인천광역시 동구 송림로 102, 1층 (송림동)",
+        "phone": "032-761-9686",
+        "coordinates": {
+            "x": "126.71936102287372",
+            "y": 37.4536042588075
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "09:00 - 21:30",
+            "Sun": "10:30 - 21:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Blue Cross Pharmacy",
+        "pharmacy_name_kr": "청십자약국",
+        "address_en": "1st floor, 99 Bomun-ro, Seongbuk-gu, Seoul (Bomun-dong 5-ga, Yeonggwang Building)",
+        "address_kr": "서울특별시 성북구 보문로 99, 1층 (보문동5가, 영광빌딩)",
+        "phone": "02-923-2393",
+        "coordinates": {
+            "x": 127.019823992916,
+            "y": 37.5839929200316
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Blue Cross Pharmacy",
+        "pharmacy_name_kr": "청십자약국",
+        "address_en": "157 Inbuk-ro, Iksan-si, Jeollabuk-do, 1st floor (Namjung-dong)",
+        "address_kr": "전북특별자치도 익산시 인북로 157, 1층 (남중동)",
+        "phone": "063-855-1014",
+        "coordinates": {
+            "x": 126.95459530973004,
+            "y": 35.94296961776949
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "Room 103, 1st floor, Giyoung Plaza, 23, Hwangsaeul-ro 342beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do (Seohyeon-dong)",
+        "address_kr": "경기도 성남시 분당구 황새울로342번길 23, 기영프라자 1층 103호 (서현동)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 127.124614689096,
+            "y": 37.3868993063236
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "12 Taeboksan-ro 3beon-gil, Uichang-gu, Changwon-si, Gyeongsangnam-do (Dogye-dong)",
+        "address_kr": "경상남도 창원시 의창구 태복산로3번길 12 (도계동)",
+        "phone": "055-238-9572",
+        "coordinates": {
+            "x": 128.638390230527,
+            "y": 35.2534185476763
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "#104, 36, Cheongdang 5-ro, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Cheongdang-dong)",
+        "address_kr": "충청남도 천안시 동남구 청당5로 36, 104호 (청당동)",
+        "phone": "041-551-4930",
+        "coordinates": {
+            "x": 127.152657489977,
+            "y": 36.7803449707908
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "#102, 12, Apdok 2-ro 2-gil, Apryang-eup, Gyeongsan-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경산시 압량읍 압독2로2길 12, 102호",
+        "phone": "053-815-7582",
+        "coordinates": {
+            "x": 128.761796676422,
+            "y": 35.841517548654
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "1st floor, 59-3 Geumho-ro, Gwonseon-gu, Suwon-si, Gyeonggi-do (Geumgok-dong)",
+        "address_kr": "경기도 수원시 권선구 금호로 59-3, 1층 (금곡동)",
+        "phone": "031-296-5575",
+        "coordinates": {
+            "x": 126.9579101327,
+            "y": 37.2700177214
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "#209, 100 Jungdong-ro, Wonmi-gu, Bucheon-si, Gyeonggi-do (Jungdong)",
+        "address_kr": "경기도 부천시 원미구 중동로 100, 209호 (중동)",
+        "phone": "032-657-7644",
+        "coordinates": {
+            "x": 126.7658215440975,
+            "y": 37.488722598697684
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 14:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "#103, 1st floor, 2480 Dalgubeol-daero, Suseong-gu, Daegu (Beomeo-dong)",
+        "address_kr": "대구광역시 수성구 달구벌대로 2480, 1층 103호 (범어동)",
+        "phone": "053-716-9899",
+        "coordinates": {
+            "x": 128.633784063589,
+            "y": 35.858386650322
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheong-A Pharmacy",
+        "pharmacy_name_kr": "청아약국",
+        "address_en": "1st floor, 705 Nonhyeon-ro, Gangnam-gu, Seoul (Nonhyeon-dong)",
+        "address_kr": "서울특별시 강남구 논현로 705, 1층 (논현동)",
+        "phone": "02-511-6201",
+        "coordinates": {
+            "x": 127.029976515577,
+            "y": 37.5148984268352
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheongato Oriental Medicine Pharmacy",
+        "pharmacy_name_kr": "청아토한약국",
+        "address_en": "1st floor, 10-16 Seolleung-ro 72-gil, Gangnam-gu, Seoul (Daechi-dong)",
+        "address_kr": "서울특별시 강남구 선릉로72길 10-16, 1층 (대치동)",
+        "phone": "050-71486-2041",
+        "coordinates": {
+            "x": 127.052414941231,
+            "y": 37.4992659137902
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:00",
+            "Tue": "09:30 - 18:00",
+            "Wed": "09:30 - 18:00",
+            "Thu": "09:30 - 18:00",
+            "Fri": "09:30 - 18:00",
+            "Sat": "09:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheonga Oriental Medicine Pharmacy",
+        "pharmacy_name_kr": "청아한약국",
+        "address_en": "133, Yuseong-daero 654beon-gil, Yuseong-gu, Daejeon, 1st floor above ground (Guam-dong)",
+        "address_kr": "대전광역시 유성구 유성대로654번길 133, 지상1층 (구암동)",
+        "phone": "050-71301-5578",
+        "coordinates": {
+            "x": 127.336316733824,
+            "y": 36.3507817266655
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 17:30",
+            "Tue": "09:30 - 17:30",
+            "Wed": "09:30 - 17:30",
+            "Thu": "09:30 - 17:30",
+            "Fri": "09:30 - 17:30",
+            "Sat": "09:30 - 18:30",
+            "Sun": "09:30 - 18:30"
+        }
     }
 ]
