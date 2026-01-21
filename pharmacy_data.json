@@ -408521,5 +408521,2118 @@
             "Fri": "09:00 - 18:00",
             "Sat": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Gangnam Iroun Pharmacy",
+        "pharmacy_name_kr": "강남이로운약국",
+        "address_en": "#140, Building B, 46 Teheran-ro 4-gil, Gangnam-gu, Seoul (Yeoksam-dong, Ssangyong Platinum Value)",
+        "address_kr": "서울특별시 강남구 테헤란로4길 46, B동 140호 (역삼동, 쌍용플래티넘밸류)",
+        "phone": "02-538-9984",
+        "coordinates": {
+            "x": 127.03006467392,
+            "y": 37.4955481444177
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "11:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Kumho Pharmacy",
+        "pharmacy_name_kr": "금호약국",
+        "address_en": "139 Dongmyeong-ro, Nam-gu, Busan, 1st floor (Yongho-dong)",
+        "address_kr": "부산광역시 남구 동명로 139, 1층 (용호동)",
+        "phone": "051-625-1950",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Medical Woori Pharmacy",
+        "pharmacy_name_kr": "메디컬우리약국",
+        "address_en": "1st floor, 271 Sillim-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 신림로 271, 1층 (신림동)",
+        "phone": "02-866-7288",
+        "coordinates": {
+            "x": 126.931460106031,
+            "y": 37.4788494755263
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Medipharm Woori Pharmacy",
+        "pharmacy_name_kr": "메디팜우리약국",
+        "address_en": "1907 Nambusunhwan-ro, Gwanak-gu, Seoul, 1st floor (Bongcheon-dong)",
+        "address_kr": "서울특별시 관악구 남부순환로 1907, 1층 (봉천동)",
+        "phone": "02-6012-9918",
+        "coordinates": {
+            "x": 126.961376517086,
+            "y": 37.4782296325366
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "14:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "sea ​​pharmacy",
+        "pharmacy_name_kr": "바다약국",
+        "address_en": "Part of the 1st floor, 7 Hachon-ro, Namdong-gu, Incheon (Mansu-dong)",
+        "address_kr": "인천광역시 남동구 하촌로 7, 1층 일부(102)호 (만수동)",
+        "phone": "050-71375-9744",
+        "coordinates": {
+            "x": 126.730043130332,
+            "y": 37.4492994328615
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Samsung Twinkle Pharmacy",
+        "pharmacy_name_kr": "삼성트윙클약국",
+        "address_en": "506 Bongeunsa-ro, Gangnam-gu, Seoul, Basement 1st floor (Samseong-dong)",
+        "address_kr": "서울특별시 강남구 봉은사로 506, 지하 1층 (삼성동)",
+        "phone": "02-558-8507",
+        "coordinates": {
+            "x": 127.054337199334,
+            "y": 37.5129697830986
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Wasuri Onnuri Pharmacy",
+        "pharmacy_name_kr": "와수리온누리약국",
+        "address_en": "162-2 Wasu-ro, Seomyeon, Cheorwon-gun, Gangwon-do (Wasuri Pharmacy)",
+        "address_kr": "강원특별자치도 철원군 서면 와수로 162-2 (와수리 약국)",
+        "phone": "033-458-0828",
+        "coordinates": {
+            "x": 127.43803319218286,
+            "y": 38.23813415178335
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Complete pharmacy",
+        "pharmacy_name_kr": "완약국",
+        "address_en": "115 Segeomjeong-ro 1-gil, Seodaemun-gu, Seoul (Hongeun-dong)",
+        "address_kr": "서울특별시 서대문구 세검정로1길 115 (홍은동)",
+        "phone": "070-4235-4395",
+        "coordinates": {
+            "x": 126.946120230126,
+            "y": 37.5954748952739
+        },
+        "operating_hours": {
+            "Mon": "06:00 - 20:00",
+            "Tue": "06:00 - 20:00",
+            "Wed": "06:00 - 20:00",
+            "Thu": "06:00 - 20:00",
+            "Fri": "06:00 - 20:00",
+            "Sat": "06:00 - 20:00",
+            "Sun": "06:00 - 20:00",
+            "Holiday": "06:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cham Yak Copy Pharmacy",
+        "pharmacy_name_kr": "참약사본약국",
+        "address_en": "1911 Nambusunhwan-ro, Gwanak-gu, Seoul, 1st floor (Bongcheon-dong)",
+        "address_kr": "서울특별시 관악구 남부순환로 1911, 1층 (봉천동)",
+        "phone": "02-6671-0833",
+        "coordinates": {
+            "x": 126.961883013413,
+            "y": 37.4780033733494
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "11:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Gyeongbuk Pharmacy",
+        "pharmacy_name_kr": "큰경북약국",
+        "address_en": "62, Jungang-ro, Gyeongsan-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경산시 중앙로 62",
+        "phone": "053-629-7620",
+        "coordinates": {
+            "x": 128.7338579370437,
+            "y": 35.822154000289224
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 19:00",
+            "Sat": "10:00 - 19:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Bear Pharmacy",
+        "pharmacy_name_kr": "큰곰약국",
+        "address_en": "Rooms 2 and 3, 1st floor, Jeongho Building, 9 Hyeeum-ro, Deogyang-gu, Goyang-si, Gyeonggi-do (Goyang-dong)",
+        "address_kr": "경기도 고양시 덕양구 혜음로 9, 정호빌딩 1층 2,3호 (고양동)",
+        "phone": "031-962-5685",
+        "coordinates": {
+            "x": 126.90177570513762,
+            "y": 37.70144686703888
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "10:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Bear Pharmacy",
+        "pharmacy_name_kr": "큰곰약국",
+        "address_en": "1st floor, 338 Upyeong-ro, Jeju-si, Jeju-do (Oedoil-dong)",
+        "address_kr": "제주특별자치도 제주시 우평로 338, 1층 (외도일동)",
+        "phone": "064-746-1133",
+        "coordinates": {
+            "x": 126.43053170174399,
+            "y": 33.48419669939543
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Giraffe Pharmacy",
+        "pharmacy_name_kr": "큰기린약국",
+        "address_en": "Room 209, 2nd floor, Shopping Building, 26 Dongbu-ro, Dong-gu, Daegu (Sincheon-dong, Sincheon Humansia Complex 5)",
+        "address_kr": "대구광역시 동구 동부로 26, 상가동 2층 209호 (신천동, 신천휴먼시아5단지)",
+        "phone": "053-215-0820",
+        "coordinates": {
+            "x": 128.6151654017,
+            "y": 35.873497445
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:00",
+            "Tue": "09:30 - 18:00",
+            "Wed": "09:30 - 18:00",
+            "Thu": "09:30 - 18:00",
+            "Fri": "09:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Semyeong Pharmacy",
+        "pharmacy_name_kr": "큰길세명약국",
+        "address_en": "1st floor, 63 Gyeongin-ro, Bucheon-si, Gyeonggi-do (Songnae-dong)",
+        "address_kr": "경기도 부천시 경인로 63, 1층 (송내동)",
+        "phone": "032-612-0826",
+        "coordinates": {
+            "x": 126.76236386170764,
+            "y": 37.4839274064385
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "#101, 649 Gaya-daero, Busanjin-gu, Busan (Gaya-dong)",
+        "address_kr": "부산광역시 부산진구 가야대로 649, 101호 (가야동)",
+        "phone": "051-896-9996",
+        "coordinates": {
+            "x": 129.042622950815,
+            "y": 35.1561762242103
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "1st floor, 37-2 Bupyeong-daero, Bupyeong-gu, Incheon (Bupyeong-dong)",
+        "address_kr": "인천광역시 부평구 부평대로 37-2, 1층 (부평동)",
+        "phone": "032-505-2770",
+        "coordinates": {
+            "x": 126.722433823454,
+            "y": 37.4948595479923
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "370 Gangnam-daero, Gangnam-gu, Seoul, Basement 1 (Yeoksam-dong)",
+        "address_kr": "서울특별시 강남구 강남대로 370, 지하1층 (역삼동)",
+        "phone": "02-553-1517",
+        "coordinates": {
+            "x": 127.029219161362,
+            "y": 37.4958597444988
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:30",
+            "Tue": "09:00 - 23:30",
+            "Wed": "09:00 - 23:30",
+            "Thu": "09:00 - 23:30",
+            "Fri": "09:00 - 23:30",
+            "Sat": "09:30 - 23:30",
+            "Sun": "09:30 - 23:30",
+            "Holiday": "09:30 - 23:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "2291 Gangbyeon-daero, Seokjeok-eup, Chilgok-gun, Gyeongsangbuk-do (Seokjeok-eup)",
+        "address_kr": "경상북도 칠곡군 석적읍 강변대로 2291 (석적읍)",
+        "phone": "054-971-0041",
+        "coordinates": {
+            "x": 128.3944288864,
+            "y": 36.0762147753
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "373 Jinyangho-ro, Jinju-si, Gyeongsangnam-do (Sinan-dong)",
+        "address_kr": "경상남도 진주시 진양호로 373 (신안동) ",
+        "phone": "055-742-9504",
+        "coordinates": {
+            "x": 128.0690380427,
+            "y": 35.1859096533
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "1st floor, 2, Sinbok-gil 67beon-gil, Okcheon-myeon, Yangpyeong-gun, Gyeonggi-do (Okcheon-myeon)",
+        "address_kr": "경기도 양평군 옥천면 신복길67번길 2, 1층 (옥천면)",
+        "phone": "031-774-7584",
+        "coordinates": {
+            "x": 127.464341599096,
+            "y": 37.5279133107764
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Main Road Pharmacy",
+        "pharmacy_name_kr": "큰길약국",
+        "address_en": "Keungil Pharmacy, 1154 Jungbu-daero, Cheoin-gu, Yongin-si, Gyeonggi-do (Samga-dong)",
+        "address_kr": "경기도 용인시 처인구 중부대로 1154 (삼가동) 큰길약국",
+        "phone": "031-333-2882",
+        "coordinates": {
+            "x": 127.17332201345172,
+            "y": 37.2393313648574
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무대형약국",
+        "address_en": "763, Chuncheonsunhwan-ro, Dong-myeon, Chuncheon-si, Gangwon-do",
+        "address_kr": "강원특별자치도 춘천시 동면 춘천순환로 763",
+        "phone": "033-251-8119",
+        "coordinates": {
+            "x": 127.720928186462,
+            "y": 37.87628583380161
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Sun": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "1st floor, Youngjin Building, 316 Apgujeong-ro, Gangnam-gu, Seoul (Sinsa-dong)",
+        "address_kr": "서울특별시 강남구 압구정로 316, 영진빌딩 1층 (신사동)",
+        "phone": "02-512-2165",
+        "coordinates": {
+            "x": 127.03602685018,
+            "y": 37.5287140639694
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:00",
+            "Tue": "09:30 - 20:00",
+            "Wed": "09:30 - 20:00",
+            "Thu": "09:30 - 20:00",
+            "Fri": "09:30 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "#33, 107, 108, Gyejok-ro, Dong-gu, Daejeon (Hyo-dong)",
+        "address_kr": "대전광역시 동구 계족로 33, 107, 108호 (효동)",
+        "phone": "042-382-8275",
+        "coordinates": {
+            "x": 127.441968191957,
+            "y": 36.3181816321983
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 16:00",
+            "Holiday": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "Basement 1 and part of the 1st floor, Jeongin Building, 286 Sujeong-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do (Sinheung-dong)",
+        "address_kr": "경기도 성남시 수정구 수정로 286, 정인빌딩 지하1층,1층일부층 (신흥동)",
+        "phone": "031-732-0992",
+        "coordinates": {
+            "x": 127.146817752149,
+            "y": 37.4499438109003
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "2 Geumgang Park-ro, Dongrae-gu, Busan",
+        "address_kr": "부산광역시 동래구 금강공원로 2",
+        "phone": "051-555-3980",
+        "coordinates": {
+            "x": 129.08414591395,
+            "y": 35.21861972150211
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "442, Maesohol-ro, Michuhol-gu, Incheon Metropolitan City",
+        "address_kr": "인천광역시 미추홀구 매소홀로 442",
+        "phone": "032-873-8087",
+        "coordinates": {
+            "x": 126.67107145337354,
+            "y": 37.439596503116455
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "8, Gimhae-daero 361beon-gil, Jinyeong-eup, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 진영읍 김해대로361번길 8",
+        "phone": "055-342-5734",
+        "coordinates": {
+            "x": 128.72979914592625,
+            "y": 35.30748903772325
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "50 Seogang-ro 54beon-gil, Buk-gu, Gwangju",
+        "address_kr": "광주광역시 북구 서강로54번길 50",
+        "phone": "062-526-0507",
+        "coordinates": {
+            "x": 126.87624213657804,
+            "y": 35.17559331647317
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "297 Jungheung-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do (Jukdo-dong)",
+        "address_kr": "경상북도 포항시 북구 중흥로 297  (죽도동)",
+        "phone": "054-275-0120",
+        "coordinates": {
+            "x": 129.36269838695,
+            "y": 36.0290164639906
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:30",
+            "Tue": "09:30 - 18:30",
+            "Wed": "09:30 - 18:30",
+            "Thu": "09:30 - 18:30",
+            "Fri": "09:30 - 18:30",
+            "Sat": "09:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Pharmacy",
+        "pharmacy_name_kr": "큰나무약국",
+        "address_en": "Room 203, 999 Jinhae-daero, Jinhae-gu, Changwon-si, Gyeongsangnam-do (Jaeun-dong, Hizone Building)",
+        "address_kr": "경상남도 창원시 진해구 진해대로 999, 203호 (자은동, 하이존빌딩)",
+        "phone": "055-547-2211",
+        "coordinates": {
+            "x": 128.70781238277007,
+            "y": 35.14026576086863
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Tree Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰나무온누리약국",
+        "address_en": "64, Jungang-ro, Pocheon-si, Gyeonggi-do, (Sineup-dong)",
+        "address_kr": "경기도 포천시 중앙로 64, (신읍동)",
+        "phone": "031-535-2911",
+        "coordinates": {
+            "x": 127.19973562359908,
+            "y": 37.89273699965411
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Green Cross Pharmacy",
+        "pharmacy_name_kr": "큰녹십자약국",
+        "address_en": "8-1 Jungang-ro, Suncheon-si, Jeollanam-do (Jangcheon-dong)",
+        "address_kr": "전라남도 순천시 중앙로 8-1 (장천동)",
+        "phone": "061-742-6010",
+        "coordinates": {
+            "x": "127.48767753658023",
+            "y": 34.94766827969825
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Dana Pharmacy",
+        "pharmacy_name_kr": "큰다나약국",
+        "address_en": "68 Jukbong-daero, Seo-gu, Gwangju (Nongseong-dong)",
+        "address_kr": "광주광역시 서구 죽봉대로 68 (농성동)",
+        "phone": "062-361-7272",
+        "coordinates": {
+            "x": 126.883696052996,
+            "y": 35.1594497896979
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keundeok Pharmacy",
+        "pharmacy_name_kr": "큰덕약국",
+        "address_en": "16 Gangseo-ro 47ga-gil, Gangseo-gu, Seoul",
+        "address_kr": "서울특별시 강서구 강서로47가길 16",
+        "phone": "02-2664-0717",
+        "coordinates": {
+            "x": 126.835446035834,
+            "y": 37.5519801678556
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00",
+            "Sun": "10:00 - 19:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big neighborhood pharmacy",
+        "pharmacy_name_kr": "큰동네약국",
+        "address_en": "158 Opaesan-ro 3-gil, Seongbuk-gu, Seoul, 1st floor (Hawolgok-dong)",
+        "address_kr": "서울특별시 성북구 오패산로3길 158, 1층 (하월곡동)",
+        "phone": "02-6082-3979",
+        "coordinates": {
+            "x": 127.032936728233,
+            "y": 37.60992556342669
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keundongui Pharmacy",
+        "pharmacy_name_kr": "큰동의약국",
+        "address_en": "A-109, A-110, Building 270, 554 Jinnam-ro, Busanjin-gu, Busan (Yangjeong-dong, Yangjeong Zidershop SKVIEW Complex 2)",
+        "address_kr": "부산광역시 부산진구 진남로 554, 270동 A-109, A-110호 (양정동, 양정자이더샵SKVIEW 2단지)",
+        "phone": "051-715-7780",
+        "coordinates": {
+            "x": 129.075770813078,
+            "y": 35.170124867452
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Dream Pharmacy",
+        "pharmacy_name_kr": "큰드림약국",
+        "address_en": "208 Bunseong-ro, Gimhae-si, Gyeongsangnam-do (Oedong)",
+        "address_kr": "경상남도 김해시 분성로 208 (외동) ",
+        "phone": "055-336-8217",
+        "coordinates": {
+            "x": 128.86961791531837,
+            "y": 35.23020939266974
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunmasan Pharmacy",
+        "pharmacy_name_kr": "큰마산약국",
+        "address_en": "20 Wanwol-dong 15-gil, Masan Happo-gu, Changwon-si, Gyeongsangnam-do (Janggun-dong 5-ga)",
+        "address_kr": "경상남도 창원시 마산합포구 완월동15길 20 (장군동5가)",
+        "phone": "055-245-8182",
+        "coordinates": {
+            "x": 128.5661896506,
+            "y": 35.1999094722
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Village Pharmacy",
+        "pharmacy_name_kr": "큰마을약국",
+        "address_en": "150, 203, Daedeok-daero, Seo-gu, Daejeon (Galma-dong, Keunmaeul Apartment)",
+        "address_kr": "대전광역시 서구 대덕대로 150, 203호 (갈마동, 큰마을아파트)",
+        "phone": "042-523-3817",
+        "coordinates": {
+            "x": 127.37615811291124,
+            "y": 36.34687932521148
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Village Pharmacy",
+        "pharmacy_name_kr": "큰마을약국",
+        "address_en": "474 Yeokgok-ro, Bucheon-si, Gyeonggi-do (Gogang-dong)",
+        "address_kr": "경기도 부천시 역곡로 474 (고강동)",
+        "phone": "032-673-1500",
+        "coordinates": {
+            "x": 126.8164350509,
+            "y": 37.5268755419
+        },
+        "operating_hours": {
+            "Mon": "22:00 - 01:00",
+            "Tue": "22:00 - 01:00",
+            "Wed": "22:00 - 01:00",
+            "Thu": "22:00 - 01:00",
+            "Fri": "22:00 - 01:00",
+            "Sat": "22:00 - 01:00",
+            "Sun": "22:00 - 01:00",
+            "Holiday": "22:00 - 01:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Heart Pharmacy",
+        "pharmacy_name_kr": "큰마음약국",
+        "address_en": "150-34 Gongse-ro, Giheung-gu, Yongin-si, Gyeonggi-do, Samsung C&T Co., Ltd. 1st (partial) floor (Gongse-dong)",
+        "address_kr": "경기도 용인시 기흥구 공세로 150-34, 삼성물산(주) 1(일부)층 (공세동)",
+        "phone": "031-288-4220",
+        "coordinates": {
+            "x": 127.110782069203,
+            "y": 37.237301991595
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Heart Pharmacy",
+        "pharmacy_name_kr": "큰마음약국",
+        "address_en": "1st floor, 181 Mosan-ro, Baebang-eup, Asan-si, Chungcheongnam-do",
+        "address_kr": "충청남도 아산시 배방읍 모산로 181, 1층",
+        "phone": "041-545-7540",
+        "coordinates": {
+            "x": 127.062825955843,
+            "y": 36.775660598042
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00",
+            "Holiday": "08:30 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Faith Pharmacy",
+        "pharmacy_name_kr": "큰믿음약국",
+        "address_en": "1st (left) floor, 73-4, Hosu-ro 856beon-gil, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Daehwa-dong)",
+        "address_kr": "경기도 고양시 일산서구 호수로856번길 73-4, 1(좌측)층 (대화동)",
+        "phone": "031-921-6622",
+        "coordinates": {
+            "x": 126.74972615645441,
+            "y": 37.67385963898471
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "12:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Rock Pharmacy",
+        "pharmacy_name_kr": "큰바위약국",
+        "address_en": "110 Wadong-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Wadong)",
+        "address_kr": "경기도 안산시 단원구 와동로 110 (와동)",
+        "phone": "031-401-5030",
+        "coordinates": {
+            "x": 126.82752703171221,
+            "y": 37.34020963892101
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunbyeol Pharmacy",
+        "pharmacy_name_kr": "큰별약국",
+        "address_en": "1st floor, 6, Nambusunhwan-ro 239-gil, Gwanak-gu, Seoul (Bongcheon-dong)",
+        "address_kr": "서울특별시 관악구 남부순환로239길 6, 1층 (봉천동)",
+        "phone": "070-7622-5179",
+        "coordinates": {
+            "x": 126.961482704722,
+            "y": 37.4783967143403
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 19:00",
+            "Tue": "08:50 - 19:00",
+            "Wed": "08:50 - 19:00",
+            "Thu": "08:50 - 19:00",
+            "Fri": "08:50 - 19:00",
+            "Sat": "08:50 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunbyeol Pharmacy",
+        "pharmacy_name_kr": "큰별약국",
+        "address_en": "1st floor, 68 Oksan-ro, Hapcheon-eup, Hapcheon-gun, Gyeongsangnam-do (Hapcheon-eup)",
+        "address_kr": "경상남도 합천군 합천읍 옥산로 68, 1층 (합천읍)",
+        "phone": "055-933-4741",
+        "coordinates": {
+            "x": 128.1626880921,
+            "y": 35.5681242621
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:30",
+            "Tue": "08:00 - 19:30",
+            "Wed": "08:00 - 19:30",
+            "Thu": "08:00 - 19:30",
+            "Fri": "08:00 - 19:30",
+            "Sat": "08:00 - 17:00",
+            "Sun": "10:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunboram Pharmacy",
+        "pharmacy_name_kr": "큰보람약국",
+        "address_en": "Room 123, Plus Cinema, 38 Myeongjigukje 8-ro 10beon-gil, Gangseo-gu, Busan (Myeongji-dong)",
+        "address_kr": "부산광역시 강서구 명지국제8로10번길 38, 플러스시네마 123호 (명지동)",
+        "phone": "051-203-9013",
+        "coordinates": {
+            "x": 128.9031580058935,
+            "y": 35.08404539396079
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunboram Pharmacy",
+        "pharmacy_name_kr": "큰보람약국",
+        "address_en": "15, Beonhwa 1-ro 80beon-gil, Gimhae-si, Gyeongsangnam-do (Daecheong-dong)",
+        "address_kr": "경상남도 김해시 번화1로80번길 15 (대청동)",
+        "phone": "07042388487",
+        "coordinates": {
+            "x": 128.8010565108399,
+            "y": 35.19504621796388
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Light Pharmacy",
+        "pharmacy_name_kr": "큰빛약국",
+        "address_en": "29, Saman-ro 195beon-gil, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 삼안로195번길 29",
+        "phone": "055-327-8275",
+        "coordinates": {
+            "x": 128.9089607893589,
+            "y": 35.244779630865956
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Health Pharmacy",
+        "pharmacy_name_kr": "큰사랑건강약국",
+        "address_en": "#2, Na-dong, 153 Jungang-ro, Seosan-si, Chungcheongnam-do (Seokrim-dong)",
+        "address_kr": "충청남도 서산시 중앙로 153, 나동 2호 (석림동)",
+        "phone": "041-667-1051",
+        "coordinates": {
+            "x": 126.4658066812,
+            "y": 36.7746381495
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "#113,114, Sinchon Plaza, 112 Haan-ro, Gwangmyeong-si, Gyeonggi-do (Soha-dong)",
+        "address_kr": "경기도 광명시 하안로 112, 신촌프라자 113,114호 (소하동)",
+        "phone": "02-899-7729",
+        "coordinates": {
+            "x": 126.89147610987808,
+            "y": 37.448346881308865
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "182 Wolpyeong-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do (Yongam-dong)",
+        "address_kr": "충청북도 청주시 상당구 월평로 182 (용암동)",
+        "phone": "043-294-8088",
+        "coordinates": {
+            "x": 127.50437427824637,
+            "y": 36.61002932948268
+        },
+        "operating_hours": {
+            "Mon": "00:00 - 24:00",
+            "Tue": "00:00 - 24:00",
+            "Wed": "00:00 - 24:00",
+            "Thu": "00:00 - 24:00",
+            "Fri": "00:00 - 24:00",
+            "Sat": "00:00 - 24:00",
+            "Sun": "22:00 - 25:00",
+            "Holiday": "00:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "#104, 265 Dongbaekjungang-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Jungdong, The M Shopping Center)",
+        "address_kr": "경기도 용인시 기흥구 동백중앙로 265, 104호(중동,더엠상가)",
+        "phone": "031-8005-6421",
+        "coordinates": {
+            "x": 127.15262069354607,
+            "y": 37.27636744792284
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 461-1 Anyang-ro, Manan-gu, Anyang-si, Gyeonggi-do (Seoksu-dong)",
+        "address_kr": "경기도 안양시 만안구 안양로 461-1, 1층 (석수동)",
+        "phone": "031-473-6354",
+        "coordinates": {
+            "x": "126.91082368197241",
+            "y": 37.41105690536232
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "122 Wolbong-ro, Seobuk-gu, Cheonan-si, Chungcheongnam-do, (Ssangyong-dong)",
+        "address_kr": "충청남도 천안시 서북구 월봉로 122, (쌍용동)",
+        "phone": "041-578-2383",
+        "coordinates": {
+            "x": 127.1189074395553,
+            "y": 36.801501252366364
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "31 Geumjang-ro, Okcheon-eup, Okcheon-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 옥천군 옥천읍 금장로 31",
+        "phone": "043-731-4353",
+        "coordinates": {
+            "x": "127.56783807686346",
+            "y": 36.301859864737075
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 20:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "Room 404, Jeonggwan Jeil Tower, 569 Jeonggwan-ro, Jeonggwan-eup, Gijang-gun, Busan",
+        "address_kr": "부산광역시 기장군 정관읍 정관로 569, 정관 제일타워 404호",
+        "phone": "051-727-9780",
+        "coordinates": {
+            "x": 129.176253663324,
+            "y": 35.3217049114736
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 45 Yongmasan-ro 117-gil, Jungnang-gu, Seoul (Mangu-dong)",
+        "address_kr": "서울특별시 중랑구 용마산로117길 45, 1층 (망우동)",
+        "phone": "02-433-2902",
+        "coordinates": {
+            "x": 127.097916431288,
+            "y": 37.5998724249685
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 438 Nakdong-daero, Saha-gu, Busan (Dangni-dong)",
+        "address_kr": "부산광역시 사하구 낙동대로 438, 1층 (당리동)",
+        "phone": "051-293-7488",
+        "coordinates": {
+            "x": 128.9707792613412,
+            "y": 35.10482192492482
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "317-1 Dadae-ro, Saha-gu, Busan (Jangnim-dong)",
+        "address_kr": "부산광역시 사하구 다대로 317-1 (장림동)",
+        "phone": "051-263-1701",
+        "coordinates": {
+            "x": 128.97691361072182,
+            "y": 35.07384375013652
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "430 Baekyang-daero, Sasang-gu, Busan",
+        "address_kr": "부산광역시 사상구 백양대로 430",
+        "phone": "051-326-5890",
+        "coordinates": {
+            "x": 129.00536034514488,
+            "y": 35.15273747790771
+        },
+        "operating_hours": {
+            "Mon": "08:20 - 19:00",
+            "Tue": "08:20 - 19:00",
+            "Wed": "08:20 - 19:00",
+            "Thu": "08:20 - 19:00",
+            "Fri": "08:20 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "96 Bokbok-ro, Siheung-si, Gyeonggi-do (Daeyadong)",
+        "address_kr": "경기도 시흥시 복지로 96 (대야동)",
+        "phone": "031-311-4255",
+        "coordinates": {
+            "x": 126.79182164313133,
+            "y": 37.447282257111475
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "89 Nampa-ro, Anseong-si, Gyeonggi-do (Dangwang-dong)",
+        "address_kr": "경기도 안성시 남파로 89 (당왕동)",
+        "phone": "031-677-5533",
+        "coordinates": {
+            "x": 127.2600266418389,
+            "y": 37.01658558028826
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "09:00 - 19:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st, 2nd floor, 60-45 Oesammi-ro, Osan-si, Gyeonggi-do (Oesammi-dong)",
+        "address_kr": "경기도 오산시 외삼미로 60-45, 1, 2층 (외삼미동)",
+        "phone": "031-8003-1933",
+        "coordinates": {
+            "x": 127.062343293637,
+            "y": 37.1901763669231
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "63 Jungangbuk-ro, Jincheon-eup, Jincheon-gun, Chungcheongbuk-do,",
+        "address_kr": "충청북도 진천군 진천읍 중앙북로 63,",
+        "phone": "043-532-1275",
+        "coordinates": {
+            "x": 127.44384401427396,
+            "y": 36.85868590451014
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "74, Sinlip-ro, Chungju-si, Chungcheongbuk-do, (Chilgeum-dong)",
+        "address_kr": "충청북도 충주시 신립로 74, (칠금동)",
+        "phone": "043-854-6420",
+        "coordinates": {
+            "x": "127.922019444444444",
+            "y": "36.986538888888887"
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:30",
+            "Holiday": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "37 Jungang 2-ro, Pyeongtaek-si, Gyeonggi-do (Hapjeong-dong)",
+        "address_kr": "경기도 평택시 중앙2로 37 (합정동)",
+        "phone": "031-651-1880",
+        "coordinates": {
+            "x": 127.09116453430997,
+            "y": 36.99159431495404
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "4 Podori-ro, Gwangju-si, Gyeonggi-do (Tanbeol-dong)",
+        "address_kr": "경기도 광주시 포돌이로 4 (탄벌동)",
+        "phone": "031-797-7952",
+        "coordinates": {
+            "x": 127.25074532971112,
+            "y": 37.41523416212498
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 44 Sangam-ro, Gangdong-gu, Seoul (Cheonho-dong, Yujeong Building)",
+        "address_kr": "서울특별시 강동구 상암로 44, 1층 (천호동, 유정빌딩)",
+        "phone": "02-488-6763",
+        "coordinates": {
+            "x": 127.1282987378,
+            "y": 37.5496457731598
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "211 Dongnam-ro, Songpa-gu, Seoul (Garak-dong)",
+        "address_kr": "서울특별시 송파구 동남로 211  (가락동)",
+        "phone": "02-448-8450",
+        "coordinates": {
+            "x": 127.131242339439,
+            "y": 37.4963479098063
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "66 Dongsomun-ro, Seongbuk-gu, Seoul (Dongsomun-dong 3-ga)",
+        "address_kr": "서울특별시 성북구 동소문로 66 (동소문동3가)",
+        "phone": "02-922-9721",
+        "coordinates": {
+            "x": 127.012981904976,
+            "y": 37.5914030041092
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "166 Eungam-ro, Eunpyeong-gu, Seoul (Eungam-dong)",
+        "address_kr": "서울특별시 은평구 응암로 166 (응암동)",
+        "phone": "02-374-3075",
+        "coordinates": {
+            "x": 126.916426894993,
+            "y": 37.5867678984829
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "258 Inbuk-ro, Iksan-si, Jeollabuk-do (Namjung-dong)",
+        "address_kr": "전북특별자치도 익산시 인북로 258 (남중동)",
+        "phone": "063-855-4358",
+        "coordinates": {
+            "x": 126.9584655799,
+            "y": 35.9512516278
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00",
+            "Holiday": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "#103, 1st floor, 39, Iseopdaecheon-ro 1454beon-gil, Icheon-si, Gyeonggi-do (Jeungpo-dong)",
+        "address_kr": "경기도 이천시 이섭대천로1454번길 39, 1층 103호 (증포동)",
+        "phone": "031-635-3691",
+        "coordinates": {
+            "x": 127.458513974772,
+            "y": 37.295872341097
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "104, Dangjinjungang 2-ro, Dangjin-si, Chungcheongnam-do (Eupnae-dong)",
+        "address_kr": "충청남도 당진시 당진중앙2로 104 (읍내동)",
+        "phone": "041-355-8975",
+        "coordinates": {
+            "x": 126.63080094226171,
+            "y": 36.89365861578433
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "Room 103, 1st floor, Building A, Hyundai Sun & Builders Square, 45 Yongdong-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do (Sarim-dong)",
+        "address_kr": "경상남도 창원시 의창구 용동로 45, 현대썬앤빌더스퀘어 A동 1층 103호 (사림동)",
+        "phone": "055-266-6004",
+        "coordinates": {
+            "x": 128.6980149119265,
+            "y": 35.237018008196756
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "115 Geumseong-ro, Gimje-si, Jeollabuk-do (Geomsan-dong)",
+        "address_kr": "전북특별자치도 김제시 금성로 115 (검산동)",
+        "phone": "063-547-2221",
+        "coordinates": {
+            "x": 126.90246247083844,
+            "y": 35.800246878512304
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 119, Gurodong-ro 26-gil, Guro-gu, Seoul (Guro-dong, Jeongyeop Building)",
+        "address_kr": "서울특별시 구로구 구로동로26길 119, 1층 (구로동, 정엽빌딩)",
+        "phone": "02-865-1862",
+        "coordinates": {
+            "x": 126.890620654436,
+            "y": 37.4900653805612
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "13 Nammun 5-ro, Haemi-myeon, Seosan-si, Chungcheongnam-do",
+        "address_kr": "충청남도 서산시 해미면 남문5로 13",
+        "phone": "041-688-4303",
+        "coordinates": {
+            "x": 126.54420746532261,
+            "y": 36.712219908824835
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "Daeshin Plaza (Dangu-dong), 402 Seowon-daero, Wonju-si, Gangwon-do",
+        "address_kr": "강원특별자치도 원주시 서원대로 402, 대신프라자 (단구동)",
+        "phone": "033-762-1994",
+        "coordinates": {
+            "x": 127.94932439280034,
+            "y": 37.33035308392386
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "5-1 Nammun-ro, Andong-si, Gyeongsangbuk-do (Nammun-dong)",
+        "address_kr": "경상북도 안동시 남문로 5-1 (남문동)",
+        "phone": "054-853-2008",
+        "coordinates": {
+            "x": 128.72933049283068,
+            "y": 36.56378847152134
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "43 Jwasuyeong-ro, Yeosu-si, Jeollanam-do",
+        "address_kr": "전라남도 여수시 좌수영로 43",
+        "phone": "061-642-0033",
+        "coordinates": {
+            "x": 127.72812544175349,
+            "y": 34.744254568700455
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "15 Seongiro 1-gil, Gumi-si, Gyeongsangbuk-do (Namtong-dong)",
+        "address_kr": "경상북도 구미시 선기로1길 15 (남통동)",
+        "phone": "054-443-9922",
+        "coordinates": {
+            "x": 128.3193092204766,
+            "y": 36.12928435744858
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "107 Jungang-gil, Yeongdeok-eup, Yeongdeok-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 영덕군 영덕읍 중앙길 107 ",
+        "phone": "054-733-0101",
+        "coordinates": {
+            "x": 129.368399784741,
+            "y": 36.41105441327841
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "265 Jungheung-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do (Jukdo-dong)",
+        "address_kr": "경상북도 포항시 북구 중흥로 265 (죽도동)",
+        "phone": "054-273-6679",
+        "coordinates": {
+            "x": 129.3606809403536,
+            "y": 36.026576420528876
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 45 Sangseomun-ro, Sangju-si, Gyeongsangbuk-do (Namseong-dong)",
+        "address_kr": "경상북도 상주시 상서문로 45, 1층 (남성동)",
+        "phone": "054-534-7579",
+        "coordinates": {
+            "x": 128.1562009294084,
+            "y": 36.4147854756346
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "116, Seonhwaseo-ro, Jung-gu, Daejeon, (Seonhwa-dong)",
+        "address_kr": "대전광역시 중구 선화서로 116, (선화동)",
+        "phone": "042-254-7574",
+        "coordinates": {
+            "x": "127.414938888888884",
+            "y": "36.333572222222223"
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "262 Deoksin-ro, Onsan-eup, Ulju-gun, Ulsan Metropolitan City",
+        "address_kr": "울산광역시 울주군 온산읍 덕신로 262",
+        "phone": "052-237-5578",
+        "coordinates": {
+            "x": "129.310094444444445",
+            "y": "35.433574999999998"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "Part of the 1st floor, 483 Seokjeong-ro, Namdong-gu, Incheon (Ganseok-dong)",
+        "address_kr": "인천광역시 남동구 석정로 483, 1층일부호 (간석동)",
+        "phone": "032-655-4770",
+        "coordinates": {
+            "x": 126.689326415555,
+            "y": 37.4660990137353
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "Keunsarang Pharmacy, 39 Nambu-ro, Jeongeup-si, Jeonbuk Special Self-Governing Province (Suseong-dong)",
+        "address_kr": "전북특별자치도 정읍시 남북로 39, 큰사랑약국 (수성동)",
+        "phone": "0635355268",
+        "coordinates": {
+            "x": 126.85107779146324,
+            "y": 35.568998689039674
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00",
+            "Holiday": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "25-6, Munhwa-ro, Asan-si, Chungcheongnam-do (Silok-dong)",
+        "address_kr": "충청남도 아산시 문화로 25-6 (실옥동)",
+        "phone": "041-541-3433",
+        "coordinates": {
+            "x": "126.98954953198861",
+            "y": 36.7872956036156
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "40, Ansim-ro 22-gil, Dong-gu, Daegu, 105-dong (Yulha-dong)",
+        "address_kr": "대구광역시 동구 안심로22길 40, 105동 (율하동)",
+        "phone": "053-964-7585",
+        "coordinates": {
+            "x": 128.6956993570484,
+            "y": 35.86318746374839
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "13:00 - 20:00",
+            "Holiday": "13:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "1st floor, 5, Aratbansong-ro 23beon-gil, Haeundae-gu, Busan (Bansong-dong)",
+        "address_kr": "부산광역시 해운대구 아랫반송로23번길 5, 1층 (반송동)",
+        "phone": "051-542-2311",
+        "coordinates": {
+            "x": 129.148723503661,
+            "y": 35.225321363873
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "476 Seohae-daero, Jung-gu, Incheon",
+        "address_kr": "인천광역시 중구 서해대로 476 ",
+        "phone": "032-765-0664",
+        "coordinates": {
+            "x": "126.63652031649371",
+            "y": 37.46898485718823
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 16:00",
+            "Tue": "09:00 - 16:00",
+            "Wed": "09:00 - 16:00",
+            "Thu": "09:00 - 16:00",
+            "Fri": "09:00 - 16:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "149 Geumyeong-ro, Gwangyang-si, Jeollanam-do (Gwangyeong-dong)",
+        "address_kr": "전라남도 광양시 금영로 149 (광영동)",
+        "phone": "061-792-2005",
+        "coordinates": {
+            "x": 127.71945023167787,
+            "y": 34.96399144451601
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 12:30",
+            "Tue": "09:00 - 12:30",
+            "Wed": "09:00 - 12:30",
+            "Thu": "09:00 - 12:30",
+            "Fri": "09:00 - 12:30",
+            "Sun": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "25, Taegi-ro, Hoengseong-eup, Hoengseong-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 횡성군 횡성읍 태기로 25",
+        "phone": "033-345-1339",
+        "coordinates": {
+            "x": 127.9863725963782,
+            "y": 37.49112728051539
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 13:00",
+            "Sun": "09:00 - 20:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Pharmacy",
+        "pharmacy_name_kr": "큰사랑약국",
+        "address_en": "#115, Art Plaza 1st floor, 62 Gwangdeok 1-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Choji-dong)",
+        "address_kr": "경기도 안산시 단원구 광덕1로 62, 아트프라자 1층 115호 (초지동)",
+        "phone": "031-410-3767",
+        "coordinates": {
+            "x": 126.81627137493939,
+            "y": 37.308090848758916
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰사랑온누리약국",
+        "address_en": "93-2 Donghwa-gil, Bongdam-eup, Hwaseong-si, Gyeonggi-do",
+        "address_kr": "경기도 화성시 봉담읍 동화길 93-2",
+        "phone": "031-278-1365",
+        "coordinates": {
+            "x": 126.95913292899256,
+            "y": 37.216272166705814
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰사랑온누리약국",
+        "address_en": "Room 301, Camellia Plaza, 705 Geumha-ro, Geumcheon-gu, Seoul (Siheung-dong)",
+        "address_kr": "서울특별시 금천구 금하로 705, 카멜리아프라자 301호 (시흥동)",
+        "phone": "02-893-7582",
+        "coordinates": {
+            "x": 126.908361346757,
+            "y": 37.4515708431855
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰사랑온누리약국",
+        "address_en": "133, 204 Solnae-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Songcheon-dong 1-ga, Mammoth Building)",
+        "address_kr": "전북특별자치도 전주시 덕진구 솔내로 133, 204 (송천동1가,맘모스빌딩)",
+        "phone": "063-253-6811",
+        "coordinates": {
+            "x": 127.1266147163677,
+            "y": 35.86205145890847
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰사랑온누리약국",
+        "address_en": "149 Seooreung-ro, Eunpyeong-gu, Seoul (Gusan-dong)",
+        "address_kr": "서울특별시 은평구 서오릉로 149 (구산동)",
+        "phone": "02-356-3393",
+        "coordinates": {
+            "x": 126.916212472705,
+            "y": 37.6115932839556
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰사랑온누리약국",
+        "address_en": "1st floor, Gyeongho Building, 16 Donggureung-ro 85beon-gil, Guri-si, Gyeonggi-do (Inchang-dong)",
+        "address_kr": "경기도 구리시 동구릉로85번길 16, 경호빌딩 1층 (인창동)",
+        "phone": "031-522-4314",
+        "coordinates": {
+            "x": 127.133689353881,
+            "y": 37.6084809687294
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Big Pharmacy",
+        "pharmacy_name_kr": "큰사랑큰약국",
+        "address_en": "98 Boeun-ro, Boeun-eup, Boeun-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 보은군 보은읍 보은로 98",
+        "phone": "043-544-2037",
+        "coordinates": {
+            "x": 127.71835295258913,
+            "y": 36.482899642831796
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Love Hubase Pharmacy",
+        "pharmacy_name_kr": "큰사랑휴베이스약국",
+        "address_en": "Room 101, 1st floor, Neo Plaza Medical Center, 855 Gimpo-daero, Gimpo-si, Gyeonggi-do (Sau-dong)",
+        "address_kr": "경기도 김포시 김포대로 855, 네오프라자 메디칼센타 1층 101호 (사우동)",
+        "phone": "031-989-2221",
+        "coordinates": {
+            "x": 126.71865656383771,
+            "y": 37.62023760106129
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:30",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 20:30",
+            "Thu": "08:30 - 20:30",
+            "Fri": "08:30 - 20:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunsaem Pharmacy",
+        "pharmacy_name_kr": "큰샘약국",
+        "address_en": "41-2, Munhwaseo-ro 4beon-gil, Namdong-gu, Incheon, (Guwol-dong)",
+        "address_kr": "인천광역시 남동구 문화서로4번길 41-2, (구월동)",
+        "phone": "032-435-4455",
+        "coordinates": {
+            "x": 126.69741491748897,
+            "y": 37.44490851468138
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunsaem Onnuri Pharmacy",
+        "pharmacy_name_kr": "큰샘온누리약국",
+        "address_en": "9, Jungang-ro, Ganghwa-eup, Ganghwa-gun, Incheon Metropolitan City (Ganghwa-eup)",
+        "address_kr": "인천광역시 강화군 강화읍 중앙로 9 (강화읍)",
+        "phone": "032-934-0700",
+        "coordinates": {
+            "x": 126.4918564619,
+            "y": 37.7419251491
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 13:00",
+            "Tue": "08:00 - 13:00",
+            "Wed": "08:00 - 13:00",
+            "Thu": "08:00 - 13:00",
+            "Fri": "08:00 - 13:00",
+            "Sat": "08:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Big Hope Pharmacy",
+        "pharmacy_name_kr": "큰소망약국",
+        "address_en": "1st floor, Tam Medical Building, 402 Yeonsu-ro, Suyeong-gu, Busan (Gwangan-dong)",
+        "address_kr": "부산광역시 수영구 연수로 402, 탐메디컬빌딩 1층 (광안동)",
+        "phone": "051-757-7000",
+        "coordinates": {
+            "x": 129.113057327986,
+            "y": 35.1685592173414
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunsol Pharmacy",
+        "pharmacy_name_kr": "큰솔약국",
+        "address_en": "112, Gohyeon-ro, Iksan-si, Jeollabuk-do",
+        "address_kr": "전북특별자치도 익산시 고현로 112",
+        "phone": "063-853-7080",
+        "coordinates": {
+            "x": 126.94408198976046,
+            "y": 35.94714470909765
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Keunsol Pharmacy",
+        "pharmacy_name_kr": "큰솔약국",
+        "address_en": "#105, 24, Yongjuk 3-ro, Pyeongtaek-si, Gyeonggi-do (Yongi-dong)",
+        "address_kr": "경기도 평택시 용죽3로 24, 105호 (용이동)",
+        "phone": "031-651-8175",
+        "coordinates": {
+            "x": 127.12541654306831,
+            "y": 36.99410774445218
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
     }
 ]
