@@ -445637,5 +445637,1938 @@
             "Fri": "09:00 - 21:00",
             "Sat": "09:00 - 19:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Halla Pharmacy",
+        "pharmacy_name_kr": "한라약국",
+        "address_en": "124 Bogwang-ro, Yongsan-gu, Seoul (Itaewon-dong)",
+        "address_kr": "서울특별시 용산구 보광로 124, (이태원동)",
+        "phone": "02-795-7603",
+        "coordinates": {
+            "x": 126.994278926911,
+            "y": 37.5338461180202
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Halla Pharmacy",
+        "pharmacy_name_kr": "한라약국",
+        "address_en": "177 Cheongjeon-daero, Jecheon-si, Chungcheongbuk-do (Cheongjeon-dong)",
+        "address_kr": "충청북도 제천시 청전대로 177 (청전동)",
+        "phone": "043-642-0717",
+        "coordinates": {
+            "x": 128.21693459143515,
+            "y": 37.15203090098875
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00",
+            "Holiday": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Halla Pharmacy",
+        "pharmacy_name_kr": "한라약국",
+        "address_en": "1st floor, 33 Wolrang-ro, Jeju-si, Jeju-do (Nohyeong-dong, Halla Building)",
+        "address_kr": "제주특별자치도 제주시 월랑로 33, 1층 (노형동, 한라빌딩)",
+        "phone": "064-712-7364",
+        "coordinates": {
+            "x": 126.47608257237,
+            "y": 33.4885609141354
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "14:00 - 20:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Halla Plaza Pharmacy",
+        "pharmacy_name_kr": "한라프라자약국",
+        "address_en": "1st floor, 46 Sammu-ro, Jeju-si, Jeju-do (Yeondong)",
+        "address_kr": "제주특별자치도 제주시 삼무로 46, 1층 (연동)",
+        "phone": "064-743-2098",
+        "coordinates": {
+            "x": 126.49154499487851,
+            "y": 33.48964799609363
+        },
+        "operating_hours": {
+            "Mon": "16:00 - 21:00",
+            "Tue": "16:00 - 21:00",
+            "Wed": "16:00 - 21:00",
+            "Thu": "16:00 - 21:00",
+            "Fri": "16:00 - 21:00",
+            "Sat": "16:00 - 21:00",
+            "Sun": "17:00 - 21:00",
+            "Holiday": "16:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Couple Pharmacy",
+        "pharmacy_name_kr": "한림부부약국",
+        "address_en": "Room 103, 1st floor, 116 Hallimsang-ro, Hallim-eup, Jeju-si, Jeju-do",
+        "address_kr": "제주특별자치도 제주시 한림읍 한림상로 116, 1층 103호",
+        "phone": "064-796-4590",
+        "coordinates": {
+            "x": 126.265486208907,
+            "y": 33.4099219825896
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Saeng Pharmacy",
+        "pharmacy_name_kr": "한림생약국",
+        "address_en": "#204, 284 Manan-ro, Manan-gu, Anyang-si, Gyeonggi-do",
+        "address_kr": "경기도 안양시 만안구 만안로 284 204호",
+        "phone": "031-447-5188",
+        "coordinates": {
+            "x": 126.91930170795605,
+            "y": 37.40514149300131
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 17:00",
+            "Tue": "10:00 - 17:00",
+            "Wed": "10:00 - 17:00",
+            "Thu": "10:00 - 17:00",
+            "Fri": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "#115, Samsung Chereville, Dongtan, 23-11 Keunjaebong-gil, Hwaseong-si, Gyeonggi-do (Seokwoo-dong)",
+        "address_kr": "경기도 화성시 큰재봉길 23-11, 동탄 삼성쉐르빌 115호 (석우동)",
+        "phone": "031-8003-4550",
+        "coordinates": {
+            "x": 127.079349688703,
+            "y": 37.2175028269828
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "679 Hallim-ro, Hallim-eup, Jeju-si, Jeju-do",
+        "address_kr": "제주특별자치도 제주시 한림읍 한림로 679",
+        "phone": "064-796-7309",
+        "coordinates": {
+            "x": 126.26494144463673,
+            "y": 33.415523189869575
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "#122, 21, Bongyeong-ro 1770beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do (Yeongtong-dong, Korea New Meditation Shopping Center)",
+        "address_kr": "경기도 수원시 영통구 봉영로1770번길 21, 122호(영통동,한국신명상가)",
+        "phone": "031-203-1441",
+        "coordinates": {
+            "x": 127.0830809947,
+            "y": 37.267419073800006
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "#101, 545 Gunpo-ro, Gunpo-si, Gyeonggi-do (Dang-dong, Hallym Officetel)",
+        "address_kr": "경기도 군포시 군포로 545, 101호 (당동, 한림오피스텔 )",
+        "phone": "031-477-5690",
+        "coordinates": {
+            "x": 126.94634104121208,
+            "y": 37.354667042843246
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Holiday": "13:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "61 Jungang-ro 32-gil, Yangcheon-gu, Seoul",
+        "address_kr": "서울특별시 양천구 중앙로32길 61",
+        "phone": "02-2646-5775",
+        "coordinates": {
+            "x": 126.860302811899,
+            "y": 37.5200828278632
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "149 Seongan-ro, Gangdong-gu, Seoul (Cheonho-dong)",
+        "address_kr": "서울특별시 강동구 성안로 149 (천호동)",
+        "phone": "02-486-9743",
+        "coordinates": {
+            "x": 127.134703232614,
+            "y": 37.5365990243988
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00",
+            "Holiday": "13:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "82 Kkotmeo-ro, Hongcheon-eup, Hongcheon-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 홍천군 홍천읍 꽃뫼로 82",
+        "phone": "033-434-9977",
+        "coordinates": {
+            "x": 127.88264219161519,
+            "y": 37.69097813351131
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 12:00",
+            "Holiday": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallym Pharmacy",
+        "pharmacy_name_kr": "한림약국",
+        "address_en": "405 Hallim-ro, Hallim-myeon, Gimhae-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 김해시 한림면 한림로 405",
+        "phone": "055-346-1779",
+        "coordinates": {
+            "x": 128.8020355777335,
+            "y": 35.32299014477594
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hallymwon Oriental Medicine Pharmacy",
+        "pharmacy_name_kr": "한림원한약국",
+        "address_en": "1st and 3rd floors, Daehak-ro, Yuseong-gu, Daejeon (Bongmyeong-dong)",
+        "address_kr": "대전광역시 유성구 대학로 1, 3층 (봉명동)",
+        "phone": "042-483-1069",
+        "coordinates": {
+            "x": 127.341166330541,
+            "y": 36.3541141352394
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaru Pharmacy",
+        "pharmacy_name_kr": "한마루약국",
+        "address_en": "#112, Pureun General Shopping Center, 102 Guseong-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Eonnam-dong)",
+        "address_kr": "경기도 용인시 기흥구 구성로 102, 푸른종합상가 112호 (언남동)",
+        "phone": "031-281-8005",
+        "coordinates": {
+            "x": 127.120420222827,
+            "y": 37.2934850405222
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeul Pharmacy",
+        "pharmacy_name_kr": "한마을약국",
+        "address_en": "180 Jungang-ro, Jeungpyeong-eup, Jeungpyeong-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 증평군 증평읍 중앙로 180",
+        "phone": "043-838-1438",
+        "coordinates": {
+            "x": 127.5795178504967,
+            "y": 36.7822871957483
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:30",
+            "Tue": "09:00 - 22:30",
+            "Wed": "09:00 - 22:30",
+            "Thu": "09:00 - 22:30",
+            "Fri": "09:00 - 22:30",
+            "Sat": "09:00 - 22:00",
+            "Sun": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeul Pharmacy",
+        "pharmacy_name_kr": "한마을약국",
+        "address_en": "382, Gyeongin-ro, Guro-gu, Seoul, 1-110 (Gaebong-dong, Hanmaeul Apartment Shopping Center)",
+        "address_kr": "서울특별시 구로구 경인로 382, 1-110(개봉동,한마을아파트상가)",
+        "phone": "02-2613-3006",
+        "coordinates": {
+            "x": 126.863082153299,
+            "y": 37.4963730035523
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "10:00 - 21:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeul Pharmacy",
+        "pharmacy_name_kr": "한마을약국",
+        "address_en": "16, Gujeuk-ro, Yuseong-gu, Daejeon",
+        "address_kr": "대전광역시 유성구 구즉로 16",
+        "phone": "042-935-0054",
+        "coordinates": {
+            "x": 127.38398006987768,
+            "y": 36.430990713353964
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeul Pharmacy",
+        "pharmacy_name_kr": "한마을약국",
+        "address_en": "16 Gwangjang-ro, Bupyeong-gu, Incheon (Bupyeong-dong)",
+        "address_kr": "인천광역시 부평구 광장로 16 (부평동)",
+        "phone": "032-516-3311",
+        "coordinates": {
+            "x": "126.72341732381323",
+            "y": 37.490103732365114
+        },
+        "operating_hours": {
+            "Mon": "12:00 - 20:00",
+            "Tue": "12:00 - 20:00",
+            "Wed": "12:00 - 20:00",
+            "Thu": "12:00 - 20:00",
+            "Fri": "12:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum National Assembly Pharmacy",
+        "pharmacy_name_kr": "한마음국회약국",
+        "address_en": "1 Uisadang-daero, Yeongdeungpo-gu, Seoul, 1st floor, National Assembly Communication Building (Yeouido-dong)",
+        "address_kr": "서울특별시 영등포구 의사당대로 1, 국회 국회소통관동 1층 (여의도동)",
+        "phone": "02-761-0311",
+        "coordinates": {
+            "x": 126.91302149579667,
+            "y": 37.53034645399991
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "67 Dorim-ro, Guro-gu, Seoul (Guro-dong)",
+        "address_kr": "서울특별시 구로구 도림로 67 (구로동)",
+        "phone": "02-865-0511",
+        "coordinates": {
+            "x": 126.891011550623,
+            "y": 37.4895224344356
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "298 Suyeong-ro, Nam-gu, Busan (Daeyeon-dong)",
+        "address_kr": "부산광역시 남구 수영로 298  (대연동)",
+        "phone": "051-627-6489",
+        "coordinates": {
+            "x": 129.09903640097107,
+            "y": 35.13658795444545
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 21:00",
+            "Tue": "09:30 - 21:00",
+            "Wed": "09:30 - 21:00",
+            "Thu": "09:30 - 21:00",
+            "Fri": "09:30 - 21:00",
+            "Sat": "09:30 - 21:00",
+            "Sun": "17:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "16 Godonggol-ro, Nam-gu, Busan",
+        "address_kr": "부산광역시 남구 고동골로 16",
+        "phone": "051-637-9417",
+        "coordinates": {
+            "x": 129.07126983862997,
+            "y": 35.138389315247956
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "16, Mugeuk-ro 244beon-gil, Geumwang-eup, Eumseong-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 음성군 금왕읍 무극로244번길 16",
+        "phone": "070-4102-0424",
+        "coordinates": {
+            "x": 127.58940350270314,
+            "y": 36.9903773002942
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "115 Dongsan-ro, Seongsan-gu, Changwon-si, Gyeongsangnam-do (Sangnam-dong, Daedong Apartment)",
+        "address_kr": "경남 창원시 성산구 동산로 115   (상남동, 대동아파트)",
+        "phone": "055-284-5508",
+        "coordinates": {
+            "x": 128.687615914182,
+            "y": 35.2190579361973
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:30",
+            "Tue": "09:30 - 20:30",
+            "Wed": "09:30 - 20:30",
+            "Thu": "09:30 - 20:30",
+            "Fri": "09:30 - 20:30",
+            "Sat": "09:30 - 19:30",
+            "Holiday": "09:30 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, Dongheung Building, 221 Okpo-ro, Geoje-si, Gyeongsangnam-do (Okpo-dong)",
+        "address_kr": "경상남도 거제시 옥포로 221, 동흥빌딩 1층 (옥포동)",
+        "phone": "055-688-6145",
+        "coordinates": {
+            "x": 128.69058917294026,
+            "y": 34.89451410255474
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "210-1, Cheonjeyeon-ro, Seogwipo-si, Jeju-do, (Jungmun-dong)",
+        "address_kr": "제주특별자치도 서귀포시 천제연로 210-1, (중문동)",
+        "phone": "064-739-0381",
+        "coordinates": {
+            "x": 126.42707535785708,
+            "y": 33.251479928494014
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 24:00",
+            "Tue": "09:00 - 24:00",
+            "Wed": "09:00 - 24:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 24:00",
+            "Sat": "09:00 - 24:00",
+            "Sun": "09:00 - 24:00",
+            "Holiday": "09:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "106-3, Jungang-ro, Sancheong-eup, Sancheong-gun, Gyeongsangnam-do (Hyewonville)",
+        "address_kr": "경상남도 산청군 산청읍 중앙로 106-3 (혜원빌)",
+        "phone": "055-974-1242",
+        "coordinates": {
+            "x": 127.88465494099503,
+            "y": 35.41553463318116
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#101, 228, Saman-ro, Gimhae-si, Gyeongsangnam-do (Sambang-dong, Dongwon Apartment Shopping Mall)",
+        "address_kr": "경상남도 김해시 삼안로 228, 101호 (삼방동, 동원아파트상가동)",
+        "phone": "055-322-4623",
+        "coordinates": {
+            "x": 128.9110633475073,
+            "y": 35.24843406534317
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, 198 Seokbong-ro, Gapyeong-eup, Gapyeong-gun, Gyeonggi-do",
+        "address_kr": "경기도 가평군 가평읍 석봉로 198, 1층",
+        "phone": "031-582-2173",
+        "coordinates": {
+            "x": 127.5136859891,
+            "y": 37.8293620653
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 15:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "16 Saengmoe-gil, Nonsan-si, Chungcheongnam-do (Gangsan-dong)",
+        "address_kr": "충청남도 논산시 생뫼길 16 (강산동)",
+        "phone": "041-735-1528",
+        "coordinates": {
+            "x": 127.0904012486076,
+            "y": 36.18750174431452
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "5, Market 6-ro, Seosan-si, Chungcheongnam-do, (Dongmun-dong)",
+        "address_kr": "충청남도 서산시 시장6로 5, (동문동)",
+        "phone": "041-663-8242",
+        "coordinates": {
+            "x": 126.45771140107945,
+            "y": 36.780213583810294
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:40",
+            "Tue": "08:00 - 18:40",
+            "Wed": "08:00 - 18:40",
+            "Thu": "08:00 - 18:40",
+            "Fri": "08:00 - 18:40",
+            "Sat": "08:00 - 13:40"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Uljin Nonghyup, 136 Uljinjungang-ro, Uljin-eup, Uljin-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 울진군 울진읍 울진중앙로 136, 울진농협",
+        "phone": "054-781-0778",
+        "coordinates": {
+            "x": 129.3845481852,
+            "y": 36.0824483255
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#306-1, 3rd floor, 37, Gukjegeumyung-ro 2-gil, Yeongdeungpo-gu, Seoul (Yeouido-dong, Estrenu)",
+        "address_kr": "서울특별시 영등포구 국제금융로2길 37, 3층 306-1호 (여의도동, 에스트레뉴)",
+        "phone": "02-761-0336",
+        "coordinates": {
+            "x": 126.924285608734,
+            "y": 37.5229451843816
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Room 215, 2nd floor, 43 Dobong-ro 150-gil, Dobong-gu, Seoul (Banghak-dong, ESA Apartment)",
+        "address_kr": "서울특별시 도봉구 도봉로150길 43, 2층 215호 (방학동, ESA 아파트)",
+        "phone": "02-3492-1255",
+        "coordinates": {
+            "x": 127.045847069683,
+            "y": 37.6662934478885
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "12 Samsong-ro, Deogyang-gu, Goyang-si, Gyeonggi-do (Wonheung-dong)",
+        "address_kr": "경기도 고양시 덕양구 삼송로 12 (원흥동)",
+        "phone": "031-963-1771",
+        "coordinates": {
+            "x": 126.8753654823214,
+            "y": 37.64967698716306
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "171 Jangchun-ro, Jung-gu, Ulsan, (Haksan-dong)",
+        "address_kr": "울산광역시 중구 장춘로 171, (학산동)",
+        "phone": "052-243-2267",
+        "coordinates": {
+            "x": "129.326888888888902",
+            "y": "35.558944444444442"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "292 Hogye-ro, Buk-gu, Ulsan (Hogye-dong)",
+        "address_kr": "울산광역시 북구 호계로 292  (호계동)",
+        "phone": "052-282-0872",
+        "coordinates": {
+            "x": 129.35130627858942,
+            "y": 35.629236892575236
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, Hanmaum Neurosurgery Department, 1821 Gyeongui-ro, Paju-si, Gyeonggi-do (Children’s Building)",
+        "address_kr": "경기도 파주시 경의로 1821, 한마음신경외과내과 1층 (아동동)",
+        "phone": "031-957-7516",
+        "coordinates": {
+            "x": 126.77729441273958,
+            "y": 37.76832178048774
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1, Sonjae-ro, Gwangsan-gu, Gwangju Metropolitan City (Sanjeong-dong)",
+        "address_kr": "광주광역시 광산구 손재로 1, (산정동)",
+        "phone": "062-953-0250",
+        "coordinates": {
+            "x": 126.8013929012,
+            "y": 35.1669001674
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "720 Geumha-ro, Geumcheon-gu, Seoul (Siheung-dong)",
+        "address_kr": "서울특별시 금천구 금하로 720 (시흥동)",
+        "phone": "02-808-8740",
+        "coordinates": {
+            "x": 126.909481684032,
+            "y": 37.4504425566682
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, 660 Pyeonghwa-ro, Uijeongbu-si, Gyeonggi-do (Gajeong-dong)",
+        "address_kr": "경기도 의정부시 평화로 660, 1층 (가능동)",
+        "phone": "031-821-1474",
+        "coordinates": {
+            "x": 127.04471297648607,
+            "y": 37.75082337219266
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "196, Eunpyeong Tunnel-ro, Eunpyeong-gu, Seoul (Sinsa-dong)",
+        "address_kr": "서울특별시 은평구 은평터널로 196, (신사동)",
+        "phone": "02-309-1881",
+        "coordinates": {
+            "x": 126.909113934102,
+            "y": 37.5958276437388
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:20",
+            "Tue": "09:00 - 18:20",
+            "Wed": "09:00 - 18:20",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 18:20",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "10 Mareunnae-ro, Jung-gu, Seoul (Jeodong 2-ga)",
+        "address_kr": "서울특별시 중구 마른내로 10(저동2가)",
+        "phone": "02-2271-2861",
+        "coordinates": {
+            "x": 126.988879594332,
+            "y": 37.564528069003
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 19:20",
+            "Tue": "08:40 - 19:20",
+            "Wed": "08:40 - 19:20",
+            "Thu": "08:40 - 19:20",
+            "Fri": "08:40 - 19:20",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#109, 46 Byeongjeom 2-ro, Hwaseong-si, Gyeonggi-do (Byeongjeom-dong, Taeseong Building)",
+        "address_kr": "경기도 화성시 병점2로 46, 109호 (병점동, 태성빌딩)",
+        "phone": "031-233-7675",
+        "coordinates": {
+            "x": 127.04176176613964,
+            "y": 37.20666348976574
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 20:40",
+            "Wed": "08:30 - 20:40",
+            "Thu": "08:30 - 20:40",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "68 Jung-daero, Songpa-gu, Seoul (Munjeong-dong)",
+        "address_kr": "서울특별시 송파구 중대로 68  (문정동)",
+        "phone": "02-404-8075",
+        "coordinates": {
+            "x": 127.11734474632374,
+            "y": 37.491061189119264
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "74, Dongseochon-ro, Paengseong-eup, Pyeongtaek-si, Gyeonggi-do,",
+        "address_kr": "경기도 평택시 팽성읍 동서촌로 74,",
+        "phone": "031-691-9185",
+        "coordinates": {
+            "x": 127.0603909680979,
+            "y": 36.96446605195257
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "12:00 - 17:00",
+            "Holiday": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "156-1 Paldalmun-ro, Paldal-gu, Suwon-si, Gyeonggi-do (Uman-dong)",
+        "address_kr": "경기 수원시 팔달구 팔달문로 156-1   (우만동)",
+        "phone": "031-217-7591",
+        "coordinates": {
+            "x": 127.033167582854,
+            "y": 37.2828582181244
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#102, 165 Gwanak-daero, Dongan-gu, Anyang-si, Gyeonggi-do (Bisan-dong)",
+        "address_kr": "경기도 안양시 동안구 관악대로 165, 102호 (비산동)",
+        "phone": "031-383-2308",
+        "coordinates": {
+            "x": 126.94240585433559,
+            "y": 37.39914850871298
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "139 Muchon-ro, Bubal-eup, Icheon-si, Gyeonggi-do",
+        "address_kr": "경기도 이천시 부발읍 무촌로 139",
+        "phone": "031-632-6885",
+        "coordinates": {
+            "x": 127.48797623948735,
+            "y": 37.2844257836693
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 15:00",
+            "Tue": "09:00 - 15:00",
+            "Wed": "09:00 - 15:00",
+            "Thu": "09:00 - 15:00",
+            "Fri": "09:00 - 15:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#302-1, 72 Geumgok-ro, Namyangju-si, Gyeonggi-do (Geumgok-dong, Center Plaza)",
+        "address_kr": "경기도 남양주시 금곡로 72, 302-1호 (금곡동, 센타프라자)",
+        "phone": "031-595-3999",
+        "coordinates": {
+            "x": 127.21115789805289,
+            "y": 37.63448989005249
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 13:30",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#311, 45 Migeum-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Gumi-dong, Jindo Family Plaza)",
+        "address_kr": "경기도 성남시 분당구 미금로 45, 311호 (구미동, 진도훼미리프라자)",
+        "phone": "031-711-8235",
+        "coordinates": {
+            "x": 127.11583828304832,
+            "y": 37.33755700340252
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#109, 800 Taejang-ro, Gimpo-si, Gyeonggi-do (Janggi-dong)",
+        "address_kr": "경기도 김포시 태장로 800, 109호 (장기동)",
+        "phone": "031-984-7666",
+        "coordinates": {
+            "x": 126.678449922,
+            "y": 37.638097784
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Room 101, 159, Giljunam-ro, Bupyeong-gu, Incheon Metropolitan City (Bugae-dong, Saerom Plaza 14th)",
+        "address_kr": "인천광역시 부평구 길주남로 159, 101호 (부개동, 새롬프라자14차)",
+        "phone": "032-362-0158",
+        "coordinates": {
+            "x": 126.73959071422901,
+            "y": 37.50399703882162
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Hanmaeum Pharmacy, 118 Imkeokjeong-ro, Goesan-eup, Goesan-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 괴산군 괴산읍 임꺽정로 118, 한마음약국",
+        "phone": "043-833-0058",
+        "coordinates": {
+            "x": 127.78386836862916,
+            "y": 36.81536110583036
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Room 104, 1st floor, 188 Hanbora 2-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Gongse-dong)",
+        "address_kr": "경기도 용인시 기흥구 한보라2로 188, 1층 104호 (공세동)",
+        "phone": "031-283-7002",
+        "coordinates": {
+            "x": 127.10588063624668,
+            "y": 37.24410711474849
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "6 Samgeum-ro, Okcheon-eup, Okcheon-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 옥천군 옥천읍 삼금로 6",
+        "phone": "043-731-5055",
+        "coordinates": {
+            "x": 127.56677907867982,
+            "y": 36.299074403319096
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "2nd floor, 231 Gyeongin-ro, Sosa-gu, Bucheon-si, Gyeonggi-do (Simgokbon-dong, eye shopping)",
+        "address_kr": "경기도 부천시 소사구 경인로 231, 2층 (심곡본동, 아이쇼핑)",
+        "phone": "032-614-8169",
+        "coordinates": {
+            "x": 126.7812696467647,
+            "y": 37.48348458362482
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, 207 Sanseong-daero, Sujeong-gu, Seongnam-si, Gyeonggi-do (Sinheung-dong)",
+        "address_kr": "경기도 성남시 수정구 산성대로 207, 1층 (신흥동)",
+        "phone": "031-723-6060",
+        "coordinates": {
+            "x": 127.14082513982859,
+            "y": 37.43809483197429
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#217, 2nd floor, 368 Myeongdeok-ro, Suseong-gu, Daegu (Suseong-dong 1-ga, Woobang Hangaram Town)",
+        "address_kr": "대구광역시 수성구 명덕로 368, 2층 217호 (수성동1가, 우방한가람타운)",
+        "phone": "053-764-8761",
+        "coordinates": {
+            "x": 128.61022624457786,
+            "y": 35.8543563867567
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "159 Sirang-ro, Buk-gu, Busan",
+        "address_kr": "부산광역시 북구 시랑로 159",
+        "phone": "051-337-9955",
+        "coordinates": {
+            "x": 129.01277682459312,
+            "y": 35.19618043963701
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "#102, 94 Seonsechon-ro, Haeundae-gu, Busan (Banyeo-dong, Daeryong Building)",
+        "address_kr": "부산광역시 해운대구 선수촌로 94, 102호 (반여동, 대룡빌딩)",
+        "phone": "051-529-2272",
+        "coordinates": {
+            "x": 129.11956367127428,
+            "y": 35.20211613724832
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 19:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, 92 Chungryeol-daero, Dongrae-gu, Busan (Oncheon-dong)",
+        "address_kr": "부산광역시 동래구 충렬대로 92, 1층 (온천동)",
+        "phone": "051-502-8875",
+        "coordinates": {
+            "x": 129.0709044134,
+            "y": 35.20718587
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:30",
+            "Sun": "10:00 - 15:00",
+            "Holiday": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "158 Changgyeonggung-ro, Jongno-gu, Seoul (Wonnam-dong)",
+        "address_kr": "서울특별시 종로구 창경궁로 158 (원남동)",
+        "phone": "02-3676-4411",
+        "coordinates": {
+            "x": 126.997570843872,
+            "y": 37.5764587371697
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30",
+            "Sun": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "126 Soenae-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do (Geumcheon-dong)",
+        "address_kr": "충청북도 청주시 상당구 쇠내로 126 (금천동)",
+        "phone": "043-255-5771",
+        "coordinates": {
+            "x": "127.506386111111112",
+            "y": "36.622533333333337"
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "147 Deungchon-ro, Gangseo-gu, Seoul, 1st floor (Deungchon-dong, Yuseok Building)",
+        "address_kr": "서울특별시 강서구 등촌로 147, 1층 (등촌동, 유석빌딩)",
+        "phone": "02-2652-6692",
+        "coordinates": {
+            "x": 126.862405130693,
+            "y": 37.5428771879604
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "179 Gukwon-daero, Chungju-si, Chungcheongbuk-do (Geumneung-dong)",
+        "address_kr": "충청북도 충주시 국원대로 179 (금릉동)",
+        "phone": "043-857-4467",
+        "coordinates": {
+            "x": 127.92803219777245,
+            "y": 36.98770614416593
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "35 Yeonbong-ro, Hongcheon-eup, Hongcheon-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 홍천군 홍천읍 연봉로 35",
+        "phone": "033-432-1345",
+        "coordinates": {
+            "x": 127.87774460942885,
+            "y": 37.68176440383895
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Sun": "09:30 - 21:00",
+            "Holiday": "09:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "351 Dangu-ro, Wonju-si, Gangwon-do (Dangu-dong)",
+        "address_kr": "강원특별자치도 원주시 단구로 351 (단구동)",
+        "phone": "033-763-7520",
+        "coordinates": {
+            "x": 127.95859878334826,
+            "y": 37.32447152208639
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "14-70 Mansu-ro, Namdong-gu, Incheon, (Mansu-dong)",
+        "address_kr": "인천광역시 남동구 만수로 14-70, (만수동)",
+        "phone": "032-461-0972",
+        "coordinates": {
+            "x": "126.73312398589183",
+            "y": 37.45598237056957
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "691 Hyoja-ro, Donghae-si, Gangwon-do, (Hyoga-dong)",
+        "address_kr": "강원특별자치도 동해시 효자로 691, (효가동)",
+        "phone": "033-521-9998",
+        "coordinates": {
+            "x": 129.1096920562964,
+            "y": 37.49295832093189
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Hanmiri Building, 3 Ojosan-ro, Gyeyang-gu, Incheon (Jakjeon-dong)",
+        "address_kr": "인천광역시 계양구 오조산로 3, 한미리빌딩 (작전동)",
+        "phone": "032-551-7701",
+        "coordinates": {
+            "x": 126.73796965701385,
+            "y": 37.53122674961742
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Room 208, Building 203, 28, Songdomunhwa-ro 28beon-gil, Yeonsu-gu, Incheon (Songdo-dong, Songdo Global Campus Prugio)",
+        "address_kr": "인천광역시 연수구 송도문화로28번길 28, 203동 208호 (송도동, 송도글로벌캠퍼스푸르지오)",
+        "phone": "070-4126-9715",
+        "coordinates": {
+            "x": 126.65381972278607,
+            "y": 37.37491946914329
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 14:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Room 210, Wooshin Plaza, 85 Wonjeok-ro, Seo-gu, Incheon (Gajwa-dong)",
+        "address_kr": "인천광역시 서구 원적로 85, 우신프라자 210호 (가좌동)",
+        "phone": "032-571-7582",
+        "coordinates": {
+            "x": "126.681302777777773",
+            "y": "37.494544444444443"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, 111 Hwarang-ro, Dong-gu, Daegu (Hyomok-dong)",
+        "address_kr": "대구광역시 동구 화랑로 111, 1층(효목동)",
+        "phone": "053-752-2335",
+        "coordinates": {
+            "x": 128.63869873903482,
+            "y": 35.873339032794135
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "1st floor, 9-4, Jangseonbaegi 1-gil, Suncheon-si, Jeollanam-do (Jorye-dong)",
+        "address_kr": "전라남도 순천시 장선배기1길 9-4, 1층 (조례동)",
+        "phone": "061-725-1616",
+        "coordinates": {
+            "x": 127.5220576558,
+            "y": 34.9536061028
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "Hanmaeum Pharmacy, 97 Durumi-ro, Galmal-eup, Cheorwon-gun, Gangwon-do (Galmal-eup)",
+        "address_kr": "강원특별자치도 철원군 갈말읍 두루미로 97, 한마음약국 (갈말읍)",
+        "phone": "033-452-5271",
+        "coordinates": {
+            "x": 127.32048094527256,
+            "y": 38.18484124933082
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "331-1, Baengdae-ro, Mokpo-si, Jeollanam-do (Sangdong)",
+        "address_kr": "전라남도 목포시 백년대로 331-1 (상동)",
+        "phone": "061-2841-820",
+        "coordinates": {
+            "x": 126.42349627907592,
+            "y": 34.80555721693461
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 18:30",
+            "Sun": "09:00 - 18:30",
+            "Holiday": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Pharmacy",
+        "pharmacy_name_kr": "한마음약국",
+        "address_en": "16-1, Gangnam-ro 95beon-gil, Jinju-si, Gyeongsangnam-do, (Chilam-dong)",
+        "address_kr": "경상남도 진주시 강남로95번길 16-1, (칠암동)",
+        "phone": "055-753-2233",
+        "coordinates": {
+            "x": "128.095922222222214",
+            "y": "35.177630555555552"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Onnuri Pharmacy",
+        "pharmacy_name_kr": "한마음온누리약국",
+        "address_en": "370 Bongsu-ro, Dong-gu, Ulsan (Jeonha-dong, Jeonha-dong Hyundai Hometown)",
+        "address_kr": "울산광역시 동구 봉수로 370(전하동, 전하동현대홈타운)",
+        "phone": "052-234-7582",
+        "coordinates": {
+            "x": 129.42663013884214,
+            "y": 35.51816012624338
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Onnuri Pharmacy",
+        "pharmacy_name_kr": "한마음온누리약국",
+        "address_en": "Room 106, 1st floor, Metheim, 504 Gaepo-ro, Gangnam-gu, Seoul (Gaepo-dong)",
+        "address_kr": "서울특별시 강남구 개포로 504, 메트하임 1층 106호 (개포동)",
+        "phone": "02-445-7582",
+        "coordinates": {
+            "x": 127.067186912363,
+            "y": 37.4890546234463
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Onnuri Pharmacy",
+        "pharmacy_name_kr": "한마음온누리약국",
+        "address_en": "355 Seogot-ro, Seo-gu, Incheon",
+        "address_kr": "인천광역시 서구 서곶로 355",
+        "phone": "032-565-4668",
+        "coordinates": {
+            "x": 126.67671667935213,
+            "y": 37.5492993845298
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Onnuri Pharmacy",
+        "pharmacy_name_kr": "한마음온누리약국",
+        "address_en": "Room 122, 1st floor, Jugong Apartment Complex 19, 46 Nohae-ro 70-gil, Dobong-gu, Seoul (Chang-dong)",
+        "address_kr": "서울특별시 도봉구 노해로70길 46, 주공아파트 19단지종합상가 1층 122호 (창동)",
+        "phone": "02-991-0400",
+        "coordinates": {
+            "x": 127.051377751402,
+            "y": 37.6502819830907
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Ehwa Pharmacy",
+        "pharmacy_name_kr": "한마음이화약국",
+        "address_en": "77 Yongmin-ro, Uijeongbu-si, Gyeonggi-do",
+        "address_kr": "경기도 의정부시 용민로 77",
+        "phone": "031-853-9700",
+        "coordinates": {
+            "x": 127.08675380136881,
+            "y": 37.737713079753476
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Jeongmun Pharmacy",
+        "pharmacy_name_kr": "한마음정문약국",
+        "address_en": "Room 102, 1st floor, Building H, Hyundai Sun & Builders Square, 45 Yongdong-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do (Sarim-dong)",
+        "address_kr": "경상남도 창원시 의창구 용동로 45, 현대썬앤빌더스퀘어 H동 1층 102호 (사림동)",
+        "phone": "055-266-0182",
+        "coordinates": {
+            "x": 128.69797061126775,
+            "y": 35.237000605552964
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmaeum Humun Pharmacy",
+        "pharmacy_name_kr": "한마음후문약국",
+        "address_en": "9-6, Yongdong-ro 57beonan-gil, Uichang-gu, Changwon-si, Gyeongsangnam-do, Room 118-1, 1st floor, Building 1, Utop Vital City, Changwon Jungang Station (Sarim-dong)",
+        "address_kr": "경상남도 창원시 의창구 용동로57번안길 9-6, 창원중앙역 유탑바이탈시티 1동 1층 118-1호 (사림동)",
+        "phone": "055-267-0153",
+        "coordinates": {
+            "x": 128.698661229901,
+            "y": 35.2388926553907
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmir Pharmacy",
+        "pharmacy_name_kr": "한미르약국",
+        "address_en": "2002, Cheongnam-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do",
+        "address_kr": "충청북도 청주시 서원구 청남로 2002",
+        "phone": "043-296-2961",
+        "coordinates": {
+            "x": 127.48499043725445,
+            "y": 36.61078378997024
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmiso Pharmacy",
+        "pharmacy_name_kr": "한미소약국",
+        "address_en": "#104, Everpureun Shopping Center, 33, Jeonbap-ro, Wonmi-gu, Bucheon-si, Gyeonggi-do (same building)",
+        "address_kr": "경기도 부천시 원미구 도약로 33, 늘푸른상가 104호 (상동)",
+        "phone": "070-7718-9927",
+        "coordinates": {
+            "x": 126.7534551601,
+            "y": 37.5125682944
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "1629 Yangjae-daero, Gangdong-gu, Seoul, (Myeongil-dong)",
+        "address_kr": "서울특별시 강동구 양재대로 1629, (명일동)",
+        "phone": "02-3426-4271",
+        "coordinates": {
+            "x": 127.143672912956,
+            "y": 37.5510529952601
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "141 Sinjang-ro, Hanam-si, Gyeonggi-do (Deokpung-dong)",
+        "address_kr": "경기도 하남시 신장로 141 (덕풍동)",
+        "phone": "031-796-0615",
+        "coordinates": {
+            "x": 127.20260186051709,
+            "y": 37.53862603053012
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 15:30",
+            "Tue": "09:00 - 15:30",
+            "Wed": "09:00 - 15:30",
+            "Thu": "09:00 - 15:30",
+            "Fri": "09:00 - 15:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "56 Ilhyeon-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do",
+        "address_kr": "경기도 고양시 일산서구 일현로 56",
+        "phone": "031-922-9577",
+        "coordinates": {
+            "x": 126.7637512991152,
+            "y": 37.69193334618554
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "97 Jongam-ro, Seongbuk-gu, Seoul (Jongam-dong)",
+        "address_kr": "서울특별시 성북구 종암로 97 (종암동)",
+        "phone": "02-925-0825",
+        "coordinates": {
+            "x": 127.034242869282,
+            "y": 37.5989706836624
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "10:00 - 19:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "1st floor, 24, Gimpo-daero 2230beon-gil, Tongjin-eup, Gimpo-si, Gyeonggi-do",
+        "address_kr": "경기도 김포시 통진읍 김포대로2230번길 24, 1층",
+        "phone": "031-989-5612",
+        "coordinates": {
+            "x": 126.5997913653553,
+            "y": 37.69092103013307
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "2-1, Dongseong-ro 6-gil, Jung-gu, Daegu (Dongseong-ro 2-ga)",
+        "address_kr": "대구광역시 중구 동성로6길 2-1 (동성로2가)",
+        "phone": "053-425-4803",
+        "coordinates": {
+            "x": 128.5956375385352,
+            "y": 35.868972686452764
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 20:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "1st floor, 318 Cheonggyecheon-ro, Jung-gu, Seoul (Sindang-dong)",
+        "address_kr": "서울특별시 중구 청계천로 318 1층  (신당동)",
+        "phone": "02-2238-5929",
+        "coordinates": {
+            "x": 127.013791492597,
+            "y": 37.5693565845148
+        },
+        "operating_hours": {
+            "Mon": "07:30 - 18:00",
+            "Tue": "07:30 - 18:00",
+            "Wed": "07:30 - 18:00",
+            "Thu": "07:30 - 18:00",
+            "Fri": "07:30 - 18:00",
+            "Sat": "07:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "81 Wolgoksanjeong-ro, Gwangsan-gu, Gwangju, (Wolgok-dong)",
+        "address_kr": "광주광역시 광산구 월곡산정로 81, (월곡동)",
+        "phone": "062-953-6500",
+        "coordinates": {
+            "x": 126.81107380146122,
+            "y": 35.16617021024076
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "Basement 1, 1st floor, 30 Susaek-ro, Seodaemun-gu, Seoul (Namgajwa-dong)",
+        "address_kr": "서울특별시 서대문구 수색로 30, 지하1층, 1층 (남가좌동)",
+        "phone": "02-375-3548",
+        "coordinates": {
+            "x": 126.915284959107,
+            "y": 37.5693738471486
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "11:00 - 18:00",
+            "Holiday": "11:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "24 Seokjeon-dong 5-gil, Masanhoewon-gu, Changwon-si, Gyeongsangnam-do (Seokjeon-dong)",
+        "address_kr": "경상남도 창원시 마산회원구 석전동5길 24 (석전동)",
+        "phone": "055-293-9885",
+        "coordinates": {
+            "x": "128.574688888888886",
+            "y": "35.230797222222222"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanmi Pharmacy",
+        "pharmacy_name_kr": "한미약국",
+        "address_en": "136 Baekseo-ro, Dong-gu, Gwangju (Hak-dong)",
+        "address_kr": "광주광역시 동구 백서로 136(학동)",
+        "phone": "062-228-7070",
+        "coordinates": {
+            "x": 126.920106411239,
+            "y": 35.1422041521742
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
     }
 ]
