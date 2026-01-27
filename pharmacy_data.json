@@ -461585,5 +461585,1931 @@
             "Fri": "09:00 - 21:00",
             "Sat": "09:00 - 16:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#105, Boram Plaza, 860 Wondang-daero, Seo-gu, Incheon (Dangha-dong)",
+        "address_kr": "인천광역시 서구 원당대로 860, 보람프라자 105호 (당하동)",
+        "phone": "070-7774-8586",
+        "coordinates": {
+            "x": 126.69687291451899,
+            "y": 37.59328109797204
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 2362 Dalgubeol-daero, Suseong-gu, Daegu (Suseong-dong 3-ga)",
+        "address_kr": "대구광역시 수성구 달구벌대로 2362, 1층 (수성동3가)",
+        "phone": "053-753-5879",
+        "coordinates": {
+            "x": 128.62084820592,
+            "y": 35.8590741071985
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "SeAH Tower 1st floor, 65 Daemyeong-ro, Nam-gu, Daegu (Daemyeong-dong)",
+        "address_kr": "대구광역시 남구 대명로 65, 세아타워 1층 (대명동)",
+        "phone": "053-622-2255",
+        "coordinates": {
+            "x": 128.5646488592,
+            "y": 35.8396053295
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 3 Nohyeong 8-gil, Jeju-si, Jeju-do (Nohyeong-dong)",
+        "address_kr": "제주특별자치도 제주시 노형8길 3, 1층 (노형동)",
+        "phone": "064-745-0555",
+        "coordinates": {
+            "x": 126.477797252714,
+            "y": 33.4844444517438
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 14:00",
+            "Tue": "08:00 - 14:00",
+            "Wed": "08:00 - 14:00",
+            "Thu": "08:00 - 14:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#107, 1325 Jungang-daero, Dongrae-gu, Busan (Oncheon-dong, Isen Tower)",
+        "address_kr": "부산광역시 동래구 중앙대로 1325, 107호(온천동,이센타워)",
+        "phone": "051-555-0272",
+        "coordinates": {
+            "x": 129.0775322273,
+            "y": 35.2053096286
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "87 Yongsan-ro 24-gil, Dalseo-gu, Daegu (Gamsam-dong)",
+        "address_kr": "대구광역시 달서구 용산로24길 87 (감삼동)",
+        "phone": "053-556-7511",
+        "coordinates": {
+            "x": 128.53499814368024,
+            "y": 35.8492160277204
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "10, Haggam-daero 222beon-gil, Sasang-gu, Busan (Gamjeon-dong)",
+        "address_kr": "부산광역시 사상구 학감대로222번길 10(감전동)",
+        "phone": "051-911-7365",
+        "coordinates": {
+            "x": 128.990375694224,
+            "y": 35.1507410785721
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, Hansung Building, 669 Jungang-daero, Busanjin-gu, Busan (Bujeon-dong)",
+        "address_kr": "부산광역시 부산진구 중앙대로 669, 한성빌딩 1층 (부전동)",
+        "phone": "051-802-2050",
+        "coordinates": {
+            "x": 129.058831542379,
+            "y": 35.152439496456
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 103, 1st floor, Building 102, 1943 Dalgubeol-daero, Jung-gu, Daegu Metropolitan City (Daeshin-dong, Daeshin e-Pyeonhansesang)",
+        "address_kr": "대구광역시 중구 달구벌대로 1943, 102동 1층 103호 (대신동, 대신e편한세상)",
+        "phone": "053-253-8879",
+        "coordinates": {
+            "x": 128.5769280296388,
+            "y": 35.86369648905528
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:30",
+            "Holiday": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "2, Geumgang-ro 321beon-gil, Geumjeong-gu, Busan (Jangjeon-dong)",
+        "address_kr": "부산광역시 금정구 금강로321번길 2, (장전동)",
+        "phone": "051-514-3251",
+        "coordinates": {
+            "x": 129.0864172645656,
+            "y": 35.23681052914529
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Iin Medical Building, 40 Jeonggwan 4-ro, Jeonggwan-eup, Gijang-gun, Busan",
+        "address_kr": "부산광역시 기장군 정관읍 정관4로 40, 이인 메디컬 빌딩",
+        "phone": "051-728-0882",
+        "coordinates": {
+            "x": 129.17112752691014,
+            "y": 35.32617046521524
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "12-2 Mira 3-gil, Seobuk-gu, Cheonan-si, Chungcheongnam-do (Ssangyong-dong)",
+        "address_kr": "충청남도 천안시 서북구 미라3길 12-2 (쌍용동)",
+        "phone": "041-575-3570",
+        "coordinates": {
+            "x": 127.13089645987753,
+            "y": 36.800432073288334
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "7, Daesilnambuk 1-gil, Duma-myeon, Gyeryong-si, Chungcheongnam-do",
+        "address_kr": "충청남도 계룡시 두마면 대실남북1길 7",
+        "phone": "042-551-0806",
+        "coordinates": {
+            "x": 127.259018663533,
+            "y": 36.266747688765
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 15:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 88 Maegok-ro, Gwonseon-gu, Suwon-si, Gyeonggi-do (Geumgok-dong, Minkyung Building)",
+        "address_kr": "경기도 수원시 권선구 매곡로 88, 1층 (금곡동, 민경빌딩)",
+        "phone": "031-227-3733",
+        "coordinates": {
+            "x": 126.9557625266,
+            "y": 37.2716352082
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "50 Shinhwa-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do",
+        "address_kr": "충청북도 청주시 서원구 신화로 50 ",
+        "phone": "043-232-1960",
+        "coordinates": {
+            "x": 127.45548806280894,
+            "y": 36.619133007291154
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 304-1, 3rd floor, Royal Plaza, 39 Migeum-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Gumi-dong)",
+        "address_kr": "경기도 성남시 분당구 미금로 39, 로얄프라자 3층 304-1호 (구미동)",
+        "phone": "031-715-4456",
+        "coordinates": {
+            "x": 127.1159495355866,
+            "y": 37.336829496797094
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 148, 1st floor, Building 301, 22 Salter-ro, Gimpo-si, Gyeonggi-do (Gurae-dong, Metro Tower Yemiji)",
+        "address_kr": "경기도 김포시 솔터로 22, 301동 1층 148호 (구래동, 메트로타워 예미지)",
+        "phone": "031-998-6230",
+        "coordinates": {
+            "x": 126.630857571038,
+            "y": 37.6454292192719
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:40",
+            "Tue": "09:00 - 20:40",
+            "Wed": "09:00 - 20:40",
+            "Thu": "09:00 - 20:40",
+            "Fri": "09:00 - 20:40",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 405, World Tower, 121 Seongho-daero, Osan-si, Gyeonggi-do (Osan-dong)",
+        "address_kr": "경기도 오산시 성호대로 121, 월드타워 405호 (오산동)",
+        "phone": "031-373-9390",
+        "coordinates": {
+            "x": 127.09658838260002,
+            "y": 37.197559689500004
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 19:00",
+            "Sat": "10:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "197 Buheung-ro, Bucheon-si, Gyeonggi-do",
+        "address_kr": "경기도 부천시 부흥로 197",
+        "phone": "032-611-6161",
+        "coordinates": {
+            "x": 126.76473474443716,
+            "y": 37.496303224446116
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#307,307-1, 56, Seonbu Gwangjang 1-ro, Danwon-gu, Ansan-si, Gyeonggi-do (Seonbu-dong)",
+        "address_kr": "경기도 안산시 단원구 선부광장1로 56, 307,307-1호 (선부동)",
+        "phone": "031-487-8925",
+        "coordinates": {
+            "x": 126.81072429678117,
+            "y": 37.33659372872038
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "3, Jungbu-daero 788beon-gil, Giheung-gu, Yongin-si, Gyeonggi-do (Sangha-dong)",
+        "address_kr": "경기도 용인시 기흥구 중부대로788번길 3  (상하동)",
+        "phone": "031-282-9541",
+        "coordinates": {
+            "x": 127.14254617538583,
+            "y": 37.25797874193335
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 20:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "132 Gongdo-ro, Gongdo-eup, Anseong-si, Gyeonggi-do (Gongdo-eup)",
+        "address_kr": "경기도 안성시 공도읍 공도로 132 (공도읍)",
+        "phone": "031-618-0171",
+        "coordinates": {
+            "x": 127.17507376531692,
+            "y": 37.00147737274726
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#603, 1073 Hyohaeng-ro, Hwaseong-si, Gyeonggi-do (Jinan-dong, Geosung Plaza)",
+        "address_kr": "경기도 화성시 효행로 1073, 603호 (진안동, 거성프라자)",
+        "phone": "031-222-0306",
+        "coordinates": {
+            "x": 127.04393424467342,
+            "y": 37.21539927227181
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "61 Dalan-ro, Dongan-gu, Anyang-si, Gyeonggi-do (Bisan-dong)",
+        "address_kr": "경기도 안양시 동안구 달안로 61  (비산동)",
+        "phone": "031-388-8675",
+        "coordinates": {
+            "x": 126.94896289035434,
+            "y": 37.39651542148245
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 10 Pyeonun-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Yeoui-dong 2-ga)",
+        "address_kr": "전북특별자치도 전주시 덕진구 편운로 10, 1층 (여의동2가)",
+        "phone": "063-717-1175",
+        "coordinates": {
+            "x": 127.077520941306,
+            "y": 35.8710015364571
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 12:30",
+            "Fri": "08:30 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 58 Jahamun-ro, Jongno-gu, Seoul (Changseong-dong)",
+        "address_kr": "서울특별시 종로구 자하문로 58, 1층 (창성동)",
+        "phone": "02-723-5489",
+        "coordinates": {
+            "x": 126.971269860764,
+            "y": 37.5812527890293
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 18:30",
+            "Tue": "08:40 - 18:30",
+            "Wed": "08:40 - 13:30",
+            "Thu": "08:40 - 18:30",
+            "Fri": "08:40 - 18:30",
+            "Sat": "08:40 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#105-5, Building 114, 134 Seombat-ro, Nowon-gu, Seoul (Gongneung-dong, Poonglim Apartment)",
+        "address_kr": "서울특별시 노원구 섬밭로 134, 114동 105-5호 (공릉동, 풍림아파트)",
+        "phone": "02-973-5589",
+        "coordinates": {
+            "x": 127.069334929029,
+            "y": 37.6283837344084
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 113, 1st floor, Building 820, 17 Jingwan 4-ro, Eunpyeong-gu, Seoul (Jingwan-dong, Eunpyeong New Town Sanglim Village)",
+        "address_kr": "서울특별시 은평구 진관4로 17, 820동 1층 113호 (진관동, 은평뉴타운상림마을)",
+        "phone": "02-387-5358",
+        "coordinates": {
+            "x": 126.922900461734,
+            "y": 37.6436459287601
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#103 Fantasia, 32 Dongnam-ro 71-gil, Gangdong-gu, Seoul (Myeongil-dong)",
+        "address_kr": "서울특별시 강동구 동남로71길 32, 환타지아 103호 (명일동)",
+        "phone": "024417716",
+        "coordinates": {
+            "x": 127.154500056801,
+            "y": 37.5520049235939
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "2nd floor, 22 Janghan-ro, Dongdaemun-gu, Seoul (Jangan-dong)",
+        "address_kr": "서울특별시 동대문구 장한로 22, 2층 (장안동)",
+        "phone": "02-2217-1190",
+        "coordinates": {
+            "x": 127.066126699769,
+            "y": 37.56321714445
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 18:00",
+            "Tue": "09:30 - 18:00",
+            "Wed": "09:30 - 18:00",
+            "Thu": "09:30 - 18:00",
+            "Fri": "09:30 - 18:00",
+            "Sat": "09:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "3rd floor, 291 Majang-ro, Seongdong-gu, Seoul (Majang-dong)",
+        "address_kr": "서울특별시 성동구 마장로 291, 3층 (마장동)",
+        "phone": "02-2298-2825",
+        "coordinates": {
+            "x": 127.041939050117,
+            "y": 37.5658522754099
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 31 Wiryeseong-daero 20-gil, Songpa-gu, Seoul (Ogeum-dong)",
+        "address_kr": "서울특별시 송파구 위례성대로20길 31, 1층 (오금동)",
+        "phone": "02-406-5258",
+        "coordinates": {
+            "x": 127.127228338968,
+            "y": 37.5086959814967
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#105, 276 Haengsin-ro, Deokyang-gu, Goyang-si, Gyeonggi-do (Haengsin-dong, Myeongil Plaza)",
+        "address_kr": "경기도 고양시 덕양구 행신로 276, 105호 (행신동, 명일프라자)",
+        "phone": "031-973-3200",
+        "coordinates": {
+            "x": 126.8450642273,
+            "y": 37.6195315522
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#204, 65-1, Misagangbyeonbuk-ro, Hanam-si, Gyeonggi-do (Seondong, Misagangbyeon The Sharp River Foret neighborhood living facility)",
+        "address_kr": "경기도 하남시 미사강변북로 65-1, 204호 (선동, 미사강변더샵리버포레 근린생활시설)",
+        "phone": "070-7744-9380",
+        "coordinates": {
+            "x": 127.1848708714,
+            "y": 37.5737722118
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 103, 2-41, Hyeonchon 4-gil, Pyeongtaek-si, Gyeonggi-do (Yongi-dong, Korea Mart parking building)",
+        "address_kr": "경기도 평택시 현촌4길 2-41, 103호 (용이동, 한국마트 주차빌딩)",
+        "phone": "031-657-4576",
+        "coordinates": {
+            "x": 127.13320344728331,
+            "y": 36.999127300819225
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#313, 51 Taebong-ro, Gwangju-si, Gyeonggi-do (Taejeon-dong, Seongwon Plaza)",
+        "address_kr": "경기도 광주시 태봉로 51, 313호 (태전동, 성원프라자)",
+        "phone": "031-797-2184",
+        "coordinates": {
+            "x": 127.22938309983756,
+            "y": 37.38868659398712
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 14:00",
+            "Sun": "10:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#106, Star Plaza, 266 Cheongseok-ro, Paju-si, Gyeonggi-do (Dongpae-dong)",
+        "address_kr": "경기도 파주시 청석로 266, 스타프라자 106호 (동패동)",
+        "phone": "031-941-3345",
+        "coordinates": {
+            "x": 126.71771560989121,
+            "y": 37.72547756766314
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "42 Daeheung-ro, Jung-gu, Daejeon (Daeheung-dong)",
+        "address_kr": "대전광역시 중구 대흥로 42 (대흥동)",
+        "phone": "042-226-9395",
+        "coordinates": {
+            "x": 127.41789928344058,
+            "y": 36.32298163186846
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 16:00",
+            "Tue": "08:50 - 16:00",
+            "Wed": "08:50 - 16:00",
+            "Thu": "08:50 - 16:00",
+            "Fri": "08:50 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 202, 2nd floor, 46 Maegok 1-ro, Buk-gu, Ulsan (Maegok-dong, Daewoo Plaza)",
+        "address_kr": "울산광역시 북구 매곡1로 46, 2층 202호(매곡동,대우프라자)",
+        "phone": "052-293-7282",
+        "coordinates": {
+            "x": 129.3512595639,
+            "y": 35.6447088523
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#207, 106, Sujeong-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do (Sujin-dong, SR Plaza)",
+        "address_kr": "경기도 성남시 수정구 수정로 106, 207호 (수진동, SR프라자)",
+        "phone": "031-751-7576",
+        "coordinates": {
+            "x": 127.13221943362242,
+            "y": 37.440728535311635
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#102, 1st floor, 575 Doan-daero, Yuseong-gu, Daejeon (Bongmyeong-dong)",
+        "address_kr": "대전광역시 유성구 도안대로 575, 1층 102호 (봉명동)",
+        "phone": "042-825-8763",
+        "coordinates": {
+            "x": 127.3390056546,
+            "y": 36.332574849
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1038 Hancheon-ro, Gangbuk-gu, Seoul, Cheonji Building, paid parking lot 1st floor (Suyu-dong)",
+        "address_kr": "서울특별시 강북구 한천로 1038, 천지빌딩,유료주차장 1층 (수유동)",
+        "phone": "02-991-4047",
+        "coordinates": {
+            "x": 127.027026777635,
+            "y": 37.6401812161408
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 102, Seungam Building, 23-24, Gwanjeobuk-ro 13beon-gil, Seo-gu, Daejeon (Gwanjeo-dong)",
+        "address_kr": "대전광역시 서구 관저북로13번길 23-24, 승암빌딩 102호 (관저동)",
+        "phone": "042-546-7890",
+        "coordinates": {
+            "x": "127.33585898661398",
+            "y": 36.30194329936731
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "2nd floor, 71 Mokdongjungang-ro, Yangcheon-gu, Seoul (Mok-dong)",
+        "address_kr": "서울특별시 양천구 목동중앙로 71, 2층 (목동)",
+        "phone": "02-2653-3698",
+        "coordinates": {
+            "x": 126.870194217249,
+            "y": 37.5360244453731
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 309, 3rd floor, Sinchon Lemayer Town II, 13 Baekbeom-ro, Mapo-gu, Seoul (Nogosan-dong)",
+        "address_kr": "서울특별시 마포구 백범로 13, 신촌르메이에르타운II 3층 309호 (노고산동)",
+        "phone": "02-6956-8457",
+        "coordinates": {
+            "x": 126.937479181431,
+            "y": 37.5534277936917
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:30",
+            "Tue": "10:00 - 20:30",
+            "Wed": "10:00 - 19:30",
+            "Thu": "13:00 - 19:30",
+            "Fri": "10:00 - 19:30",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 104, Building 101, 100, Susaek-ro, Seodaemun-gu, Seoul (Bukgajwa-dong, DMC Raemian e-Pyeonhansesang)",
+        "address_kr": "서울특별시 서대문구 수색로 100, 101동 104호 (북가좌동, DMC래미안e편한세상)",
+        "phone": "02-309-2656",
+        "coordinates": {
+            "x": 126.907916083955,
+            "y": 37.5747334832097
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 13:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Part of the 1st floor, 5 Seoksa-ro, Dongrae-gu, Busan (Sajik-dong)",
+        "address_kr": "부산광역시 동래구 석사로 5, 1층 일부 (사직동)",
+        "phone": "0515033452",
+        "coordinates": {
+            "x": 129.01133976884205,
+            "y": 35.22250376064482
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#104, Hwagok-dong Shopping Center, 223 Gomdallae-ro, Gangseo-gu, Seoul (Hwagok-dong)",
+        "address_kr": "서울특별시 강서구 곰달래로 223, 화곡동상가 104호 (화곡동)",
+        "phone": "02-722-7585",
+        "coordinates": {
+            "x": 126.857787393658,
+            "y": 37.5318084319088
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#101-102, 80-13 Asanvalleyjungang-ro, Dunpo-myeon, Asan-si, Chungcheongnam-do",
+        "address_kr": "충청남도 아산시 둔포면 아산밸리중앙로 80-13, 101-102호",
+        "phone": "041-000-0000",
+        "coordinates": {
+            "x": 127.057014350205,
+            "y": 36.9221811651245
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, 705 Namgang-ro, Jinju-si, Gyeongsangnam-do (Jangdae-dong)",
+        "address_kr": "경상남도 진주시 남강로 705, 1층 (장대동)",
+        "phone": "055-742-7288",
+        "coordinates": {
+            "x": 128.088559670964,
+            "y": 35.1917705862458
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 17:30",
+            "Wed": "09:00 - 17:30",
+            "Thu": "09:00 - 17:30",
+            "Fri": "09:00 - 17:30",
+            "Sat": "09:00 - 14:00",
+            "Sun": "10:00 - 17:00",
+            "Holiday": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 108, The Kairos, 9 Yulha 7-ro, Gimhae-si, Gyeongsangnam-do (Jangyu-dong)",
+        "address_kr": "경상남도 김해시 율하7로 9, 더 카이로스 108호 (장유동)",
+        "phone": "055-326-3630",
+        "coordinates": {
+            "x": 128.824877164441,
+            "y": 35.1722778766567
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "1st floor, Sammun Tower, 67 Miribuljungang-ro, Miryang-si, Gyeongsangnam-do (Sammun-dong)",
+        "address_kr": "경상남도 밀양시 미리벌중앙로 67 삼문타워1층 (삼문동)",
+        "phone": "055-355-6331",
+        "coordinates": {
+            "x": 128.74853216232714,
+            "y": 35.48366608325669
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "8, Hwahap 1-gil, Mulgeum-eup, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 물금읍 화합1길 8",
+        "phone": "055-364-3440",
+        "coordinates": {
+            "x": 129.00873947279007,
+            "y": 35.32919281789358
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "41 Uichang-daero, Uichang-gu, Changwon-si, Gyeongsangnam-do (Sogye-dong)",
+        "address_kr": "경상남도 창원시 의창구 의창대로 41 (소계동)",
+        "phone": "055-253-5625",
+        "coordinates": {
+            "x": 128.605676807016,
+            "y": 35.2557781068745
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:45",
+            "Tue": "08:30 - 17:45",
+            "Wed": "08:30 - 17:45",
+            "Thu": "08:30 - 17:45",
+            "Fri": "08:30 - 17:45",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "Room 210, Building A02, 50 Taepyeong-ro, Jung-gu, Daegu (Dowon-dong, Hillstate Dowon Central)",
+        "address_kr": "대구광역시 중구 태평로 50, A02동 210호 (도원동, 힐스테이트 도원 센트럴)",
+        "phone": "053-000-0000",
+        "coordinates": {
+            "x": 128.582563587051,
+            "y": 35.8770264457908
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "117-3, Gwanghyewonsandan 1-gil, Gwanghyewon-myeon, Jincheon-gun, Chungcheongbuk-do",
+        "address_kr": "충청북도 진천군 광혜원면 광혜원산단1길 117-3",
+        "phone": "043-535-9390",
+        "coordinates": {
+            "x": 127.44181154908993,
+            "y": 36.98938732748604
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "23, Gyeongin-ro 67-gil, Guro-gu, Seoul (Sindorim-dong, Daewoo Prugio 2nd Building 101, Room 311)",
+        "address_kr": "서울특별시 구로구 경인로67길 23 (신도림동,대우푸르지오2차 101동 311호)",
+        "phone": "02-2631-4959",
+        "coordinates": {
+            "x": 126.889481191271,
+            "y": 37.5104826397728
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:00",
+            "Tue": "09:30 - 20:00",
+            "Wed": "09:30 - 20:00",
+            "Thu": "09:30 - 20:00",
+            "Fri": "09:30 - 20:00",
+            "Sat": "09:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "95 Sangmujungang-ro, Seo-gu, Gwangju (Chipyeong-dong)",
+        "address_kr": "광주광역시 서구 상무중앙로 95 (치평동)",
+        "phone": "062-381-3331",
+        "coordinates": {
+            "x": 126.8477707013,
+            "y": 35.1554912284
+        },
+        "operating_hours": {
+            "Mon": "07:00 - 19:00",
+            "Tue": "07:00 - 19:00",
+            "Wed": "07:00 - 19:00",
+            "Thu": "07:00 - 19:00",
+            "Fri": "07:00 - 19:00",
+            "Sat": "08:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "22 Hwalcheon-ro, Gimhae-si, Gyeongsangnam-do (Samjeong-dong)",
+        "address_kr": "경상남도 김해시 활천로 22 (삼정동)",
+        "phone": "055-322-2994",
+        "coordinates": {
+            "x": 128.89408503698243,
+            "y": 35.22956705985271
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 21:00",
+            "Tue": "08:50 - 21:00",
+            "Wed": "08:50 - 21:00",
+            "Thu": "08:50 - 21:00",
+            "Fri": "08:50 - 21:00",
+            "Sat": "08:50 - 17:00",
+            "Sun": "08:50 - 12:30",
+            "Holiday": "08:50 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "31 Pyeonghwa 18-gil, Wansan-gu, Jeonju-si, Jeonbuk-do, (Pyeonghwa-dong 1-ga)",
+        "address_kr": "전북특별자치도 전주시 완산구 평화18길 31,  (평화동1가)",
+        "phone": "063-226-3678",
+        "coordinates": {
+            "x": 127.132974694236,
+            "y": 35.7948355751756
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#103, 58 Yangil-ro, Buk-gu, Gwangju (Yeonje-dong)",
+        "address_kr": "광주광역시 북구 양일로 58, 103호 (연제동)",
+        "phone": "062-571-3811",
+        "coordinates": {
+            "x": 126.871237767319,
+            "y": 35.19749100281
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 13:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#103, 1st floor, 665 Seomun-daero, Nam-gu, Gwangju (Jinwol-dong)",
+        "address_kr": "광주광역시 남구 서문대로 665, 1층 103호 (진월동)",
+        "phone": "062-674-1245",
+        "coordinates": {
+            "x": 126.8986219189,
+            "y": 35.1190248429
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:00",
+            "Tue": "08:00 - 22:00",
+            "Wed": "08:00 - 22:00",
+            "Thu": "08:00 - 22:00",
+            "Fri": "08:00 - 22:00",
+            "Sat": "08:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "303 Haedong-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do (Dongbin 1-ga)",
+        "address_kr": "경상북도 포항시 북구 해동로 303  (동빈1가)",
+        "phone": "054-256-1423",
+        "coordinates": {
+            "x": 129.3712163431613,
+            "y": 36.04625912725345
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:40",
+            "Tue": "09:00 - 18:40",
+            "Wed": "09:00 - 18:40",
+            "Thu": "09:00 - 18:40",
+            "Fri": "09:00 - 18:40",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "401 Jangcheok-ro, Janggun-myeon, Sejong Special Self-Governing City (Janggun-myeon)",
+        "address_kr": "세종특별자치시 장군면 장척로 401 (장군면)",
+        "phone": "044-881-9543",
+        "coordinates": {
+            "x": 127.2052002662,
+            "y": 36.4971626608
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "#2, 1st floor, 544 Gyeongsu-daero, Dongan-gu, Anyang-si, Gyeonggi-do (Hogye-dong)",
+        "address_kr": "경기도 안양시 동안구 경수대로 544, 1층 2호 (호계동)",
+        "phone": "070-4001-1383",
+        "coordinates": {
+            "x": 126.958269148133,
+            "y": 37.3711611983703
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Pharmacy",
+        "pharmacy_name_kr": "햇살약국",
+        "address_en": "73 Sangsaseo-ro, Gumi-si, Gyeongsangbuk-do (Sangmo-dong)",
+        "address_kr": "경상북도 구미시 상사서로 73 (상모동)",
+        "phone": "054-464-2552",
+        "coordinates": {
+            "x": 128.354997320813,
+            "y": 36.0889662030886
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "11:00 - 21:00",
+            "Holiday": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "Room 104, Jun Building, 4, Aenggogae-ro 104beon-gil, Yeonsu-gu, Incheon (Dongchun-dong)",
+        "address_kr": "인천광역시 연수구 앵고개로104번길 4, 준빌딩 104호 (동춘동)",
+        "phone": "070-7630-0620",
+        "coordinates": {
+            "x": 126.65705169522536,
+            "y": 37.412387966321155
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:30",
+            "Tue": "09:30 - 19:30",
+            "Wed": "09:30 - 19:30",
+            "Thu": "09:30 - 19:30",
+            "Fri": "09:30 - 19:30",
+            "Sat": "09:30 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "298-13, Physical education-ro, Uijeongbu-si, Gyeonggi-do (Nokyang-dong)",
+        "address_kr": "경기도 의정부시 체육로 298-13 (녹양동)",
+        "phone": "031-836-8251",
+        "coordinates": {
+            "x": 127.04100952742243,
+            "y": 37.76048472756909
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "#114, 142 Hwagok-ro, Gangseo-gu, Seoul (Hwagok-dong, Megabox)",
+        "address_kr": "서울특별시 강서구 화곡로 142, 114호 (화곡동, 메가박스)",
+        "phone": "02-2699-6314",
+        "coordinates": {
+            "x": 126.837581836675,
+            "y": 37.5405665780291
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:40",
+            "Tue": "09:00 - 19:10",
+            "Wed": "09:00 - 19:10",
+            "Thu": "09:00 - 19:10",
+            "Fri": "09:00 - 20:40",
+            "Sat": "09:00 - 14:10"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "140 Imunan-ro, Guri-si, Gyeonggi-do (Topyeong-dong)",
+        "address_kr": "경기도 구리시 이문안로 140 (토평동)",
+        "phone": "031-568-8086",
+        "coordinates": {
+            "x": 127.14691882108248,
+            "y": 37.59090476320666
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 16:00",
+            "Tue": "09:00 - 16:00",
+            "Wed": "09:00 - 16:00",
+            "Thu": "09:00 - 16:00",
+            "Fri": "09:00 - 16:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "1st floor, 345 Sangdo-ro, Dongjak-gu, Seoul (Sangdo-dong)",
+        "address_kr": "서울특별시 동작구 상도로 345, 1층 (상도동)",
+        "phone": "02-401-6599",
+        "coordinates": {
+            "x": 126.952667931095,
+            "y": 37.4978381627265
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 16:00",
+            "Holiday": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "Room 111, Okjeong Main Tower, 36 Okjeongdong-ro 7ga-gil, Yangju-si, Gyeonggi-do (Okjeong-dong)",
+        "address_kr": "경기도 양주시 옥정동로7가길 36, 옥정메인타워 111호 (옥정동)",
+        "phone": "031-857-8883",
+        "coordinates": {
+            "x": 127.094101424507,
+            "y": 37.8198372639068
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:20",
+            "Tue": "09:00 - 21:20",
+            "Wed": "09:00 - 21:20",
+            "Thu": "09:00 - 21:20",
+            "Fri": "09:00 - 21:20",
+            "Sat": "09:00 - 21:20",
+            "Sun": "15:00 - 19:00",
+            "Holiday": "09:00 - 21:20"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "33, Sangsang-ro, Uijeongbu-si, Gyeonggi-do (Geumo-dong)",
+        "address_kr": "경기도 의정부시 상금로 33 (금오동)",
+        "phone": "031-846-2199",
+        "coordinates": {
+            "x": 127.07458918630323,
+            "y": 37.75789555633514
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "1st floor, 55 Solmoru-ro, Soheul-eup, Pocheon-si, Gyeonggi-do (New Story Solmoru Building)",
+        "address_kr": "경기도 포천시 소흘읍 솔모루로 55, 1층 (뉴스토리솔모루빌딩)",
+        "phone": "070-4227-1122",
+        "coordinates": {
+            "x": 127.144596651191,
+            "y": 37.82735187798232
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Onnuri Pharmacy",
+        "pharmacy_name_kr": "햇살온누리약국",
+        "address_en": "223 Dangsan-ro, Yeongdeungpo-gu, Seoul (Dangsan-dong 5-ga)",
+        "address_kr": "서울특별시 영등포구 당산로 223 (당산동5가)",
+        "phone": "02-2069-0823",
+        "coordinates": {
+            "x": 126.901161001392,
+            "y": 37.5337352481764
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sunshine Joeun Pharmacy",
+        "pharmacy_name_kr": "햇살조은약국",
+        "address_en": "Room 304, Serenmedi, 349-7, 10Yongsa-ro, Hwaseong-si, Gyeonggi-do (Neungdong)",
+        "address_kr": "경기도 화성시 10용사로 349-7, 세렌메디 304호 (능동)",
+        "phone": "031-613-3037",
+        "coordinates": {
+            "x": 127.05618722762381,
+            "y": 37.199814927666004
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Haenglimdang Pharmacy",
+        "pharmacy_name_kr": "행림당약국",
+        "address_en": "166, Jungang-ro, Suncheon-si, Jeollanam-do, (Maegok-dong)",
+        "address_kr": "전라남도 순천시 중앙로 166, (매곡동)",
+        "phone": "061-753-8553",
+        "coordinates": {
+            "x": 127.4847256615561,
+            "y": 34.96041659963186
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Haenglim Pharmacy",
+        "pharmacy_name_kr": "행림약국",
+        "address_en": "3023-1, Gyeongsang-daero, Sangju-si, Gyeongsangbuk-do (Muyang-dong)",
+        "address_kr": "경상북도 상주시 경상대로 3023-1  (무양동)",
+        "phone": "054-533-5578",
+        "coordinates": {
+            "x": 128.1508783903,
+            "y": 36.4170500406
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Full Catholic Pharmacy",
+        "pharmacy_name_kr": "행복가득가톨릭약국",
+        "address_en": "1st floor, Catholic Hospital, 351 Dosan-ro, Seo-gu, Daejeon (Yongmun-dong)",
+        "address_kr": "대전광역시 서구 도산로 351, 가톨릭병원 1층 (용문동)",
+        "phone": "042-534-0222",
+        "coordinates": {
+            "x": 127.39032965482787,
+            "y": 36.33647420721415
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복가득약국",
+        "address_en": "1st floor, 73 Sinchon-ro, Seodaemun-gu, Seoul (Changcheon-dong, Geohwa Building)",
+        "address_kr": "서울특별시 서대문구 신촌로 73, 1층 (창천동, 거화빌딩)",
+        "phone": "02-336-3667",
+        "coordinates": {
+            "x": 126.934520427944,
+            "y": 37.5563071297207
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복가득약국",
+        "address_en": "81 Nohae-ro, Gangbuk-gu, Seoul (Suyu-dong)",
+        "address_kr": "서울특별시 강북구 노해로 81 (수유동)",
+        "phone": "02-992-1037",
+        "coordinates": {
+            "x": 127.022035262914,
+            "y": 37.6428484471923
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복가득약국",
+        "address_en": "#104, 59 Heungdeokjungang-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Yeongdeok-dong, Yongin Heungdeok Noblesse)",
+        "address_kr": "경기도 용인시 기흥구 흥덕중앙로 59, 104호 (영덕동, 용인흥덕노블레스)",
+        "phone": "031-216-8886",
+        "coordinates": {
+            "x": 127.07356195224546,
+            "y": 37.27638587514226
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 20:30",
+            "Tue": "08:40 - 20:30",
+            "Wed": "08:40 - 20:30",
+            "Thu": "08:40 - 20:30",
+            "Fri": "08:40 - 20:30",
+            "Sat": "08:40 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복가득약국",
+        "address_en": "Room 408, 4th floor, Ilsong Noblesse, 1426 Jungang-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Juyeop-dong)",
+        "address_kr": "경기도 고양시 일산서구 중앙로 1426, 일송노블레스 4층 408호 (주엽동)",
+        "phone": "031-921-1008",
+        "coordinates": {
+            "x": 126.761931356609,
+            "y": 37.6702585946513
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy full of happiness",
+        "pharmacy_name_kr": "행복가득한약국",
+        "address_en": "1st floor, 62 Muwon-ro, Deogyang-gu, Goyang-si, Gyeonggi-do (Haengsin-dong)",
+        "address_kr": "경기도 고양시 덕양구 무원로 62, 1층 (행신동)",
+        "phone": "031-972-6985",
+        "coordinates": {
+            "x": 126.83254340019306,
+            "y": 37.61849813304164
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "10:00 - 21:00",
+            "Holiday": "10:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happiness Sharing Pharmacy",
+        "pharmacy_name_kr": "행복나눔약국",
+        "address_en": "221-1, Joyang-ro, Hongseong-eup, Hongseong-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 홍성군 홍성읍 조양로 221-1",
+        "phone": "041-634-2728",
+        "coordinates": {
+            "x": 126.6741378679,
+            "y": 36.600021348
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happiness Sharing Pharmacy",
+        "pharmacy_name_kr": "행복나눔약국",
+        "address_en": "1st floor, 1582 Samcheonbyeongma-ro, Gwonseon-gu, Suwon-si, Gyeonggi-do (Omokcheon-dong)",
+        "address_kr": "경기도 수원시 권선구 삼천병마로 1582, 1층 (오목천동)",
+        "phone": "031-294-0052",
+        "coordinates": {
+            "x": "126.963283333333337",
+            "y": "37.243827777777781"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happiness Sharing Pharmacy",
+        "pharmacy_name_kr": "행복나눔약국",
+        "address_en": "6, Yeongtong-ro 61beon-gil, Hwaseong-si, Gyeonggi-do (Banwol-dong)",
+        "address_kr": "경기도 화성시 영통로61번길 6  (반월동)",
+        "phone": "031-273-8939",
+        "coordinates": {
+            "x": 127.06114938554722,
+            "y": 37.23548573432731
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "15:00 - 20:00",
+            "Holiday": "15:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happiness Sharing Pharmacy",
+        "pharmacy_name_kr": "행복나눔약국",
+        "address_en": "#406, 24 Jamwon-ro, Seocho-gu, Seoul (Banpo-dong, Banpo Xi Plaza)",
+        "address_kr": "서울특별시 서초구 잠원로 24, 406호 (반포동, 반포자이플라자)",
+        "phone": "02-533-3107",
+        "coordinates": {
+            "x": 127.009873208557,
+            "y": 37.5071156980651
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happiness Sharing Pharmacy",
+        "pharmacy_name_kr": "행복나눔약국",
+        "address_en": "59 Wolrang-ro, Jeju-si, Jeju Special Self-Governing Province",
+        "address_kr": "제주특별자치도 제주시 월랑로 59",
+        "phone": "064-747-7227",
+        "coordinates": {
+            "x": 126.4741754670276,
+            "y": 33.49021994286531
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Tree Pharmacy",
+        "pharmacy_name_kr": "행복나무약국",
+        "address_en": "1st floor, 54, Cheonho-daero 157-gil, Gangdong-gu, Seoul (Cheonho-dong)",
+        "address_kr": "서울특별시 강동구 천호대로157길 54, 1층 (천호동)",
+        "phone": "02-487-8880",
+        "coordinates": {
+            "x": 127.127978643189,
+            "y": 37.5400093989839
+        },
+        "operating_hours": {
+            "Mon": "11:00 - 25:00",
+            "Tue": "11:00 - 25:00",
+            "Wed": "11:00 - 25:00",
+            "Thu": "11:00 - 25:00",
+            "Fri": "11:00 - 25:00",
+            "Sat": "10:00 - 25:00",
+            "Sun": "10:00 - 25:00",
+            "Holiday": "11:00 - 25:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Tree Pharmacy",
+        "pharmacy_name_kr": "행복나무약국",
+        "address_en": "#105, Building A, 666 Goyang-daero, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Ilsan-dong, e-Pyeonhansesang Ilsan Urban Sky)",
+        "address_kr": "경기도 고양시 일산서구 고양대로 666, A동 105호 (일산동, e편한세상 일산 어반스카이)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 126.769264328922,
+            "y": 37.6835547426274
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Tree Pharmacy",
+        "pharmacy_name_kr": "행복나무약국",
+        "address_en": "#101, 193 Gangseo-ro, Gangseo-gu, Seoul (Hwagok-dong)",
+        "address_kr": "서울특별시 강서구 강서로 193, 101호 (화곡동)",
+        "phone": "02-2065-8864",
+        "coordinates": {
+            "x": 126.838305757944,
+            "y": 37.543351477505
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복드리는약국",
+        "address_en": "11 Geonji 2-gil, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province",
+        "address_kr": "전북특별자치도 전주시 덕진구 건지2길 11",
+        "phone": "063-271-2336",
+        "coordinates": {
+            "x": 127.14116482571552,
+            "y": 35.84429580609919
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Dream Pharmacy",
+        "pharmacy_name_kr": "행복드림약국",
+        "address_en": "1st floor, 531 Jungang-daero, Dong-gu, Busan (Beomil-dong)",
+        "address_kr": "부산광역시 동구 중앙대로 531, 1층 (범일동)",
+        "phone": "051-633-7071",
+        "coordinates": {
+            "x": 129.056225569651,
+            "y": 35.1406348089761
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Dream Pharmacy",
+        "pharmacy_name_kr": "행복드림약국",
+        "address_en": "3rd floor, 76 Jungnicheon-ro, Icheon-si, Gyeonggi-do (Jungni-dong, Raon Palace)",
+        "address_kr": "경기도 이천시 중리천로 76, 3층 (중리동, 라온팰리스)",
+        "phone": "031-638-8324",
+        "coordinates": {
+            "x": 127.44573749273039,
+            "y": 37.27844870894432
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Holiday": "10:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Dream Pharmacy",
+        "pharmacy_name_kr": "행복드림약국",
+        "address_en": "819 Hoguk-ro, Deokyang-gu, Goyang-si, Gyeonggi-do",
+        "address_kr": "경기도 고양시 덕양구 호국로 819",
+        "phone": "031-967-2700",
+        "coordinates": {
+            "x": 126.83841835793282,
+            "y": 37.65881081870462
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Smile Pharmacy",
+        "pharmacy_name_kr": "행복미소약국",
+        "address_en": "21 Songhwa-ro 150beon-gil, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do (Songjeol-dong)",
+        "address_kr": "충청북도 청주시 흥덕구 송화로150번길 21 (송절동)",
+        "phone": "043-260-3080",
+        "coordinates": {
+            "x": 127.45124125400682,
+            "y": 36.66457686461288
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 20:30",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy New Pharmacy",
+        "pharmacy_name_kr": "행복새약국",
+        "address_en": "#110, Artis Forum, 62 Digital-ro 31-gil, Guro-gu, Seoul (Guro-dong)",
+        "address_kr": "서울특별시 구로구 디지털로31길 62, 아티스포럼 110호 (구로동)",
+        "phone": "02-855-9569",
+        "coordinates": {
+            "x": 126.892484748869,
+            "y": 37.4863155666722
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 21:30",
+            "Tue": "08:30 - 21:30",
+            "Wed": "08:30 - 21:30",
+            "Thu": "08:30 - 21:30",
+            "Fri": "08:30 - 21:30",
+            "Sat": "09:00 - 19:30",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Suwon Jeil Pharmacy",
+        "pharmacy_name_kr": "행복수원제일약국",
+        "address_en": "1st floor, 17, Jungbu-daero, Paldal-gu, Suwon-si, Gyeonggi-do (Yeongdong)",
+        "address_kr": "경기도 수원시 팔달구 중부대로 17, 1층 (영동)",
+        "phone": "031-256-8066",
+        "coordinates": {
+            "x": 127.018854546802,
+            "y": 37.2755140140452
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#107, 1004 Jangje-ro, Gyeyang-gu, Incheon (Bakchon-dong, Gyeyang Hanyangsujain)",
+        "address_kr": "인천광역시 계양구 장제로 1004, 107호 (박촌동, 계양한양수자인)",
+        "phone": "032-552-2050",
+        "coordinates": {
+            "x": 126.746032361568,
+            "y": 37.5550942100711
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
     }
 ]
