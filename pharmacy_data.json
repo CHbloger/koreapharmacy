@@ -463511,5 +463511,1937 @@
             "Fri": "09:00 - 19:00",
             "Sat": "09:00 - 14:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "365 Jungang-daero, Dong-gu, Busan, 1st floor, Busan Ilbo (Sujeong-dong)",
+        "address_kr": "부산광역시 동구 중앙대로 365, 부산일보 1층 (수정동)",
+        "phone": "051-465-8993",
+        "coordinates": {
+            "x": 129.0480078397,
+            "y": 35.1285362642
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 19:30",
+            "Tue": "08:40 - 19:30",
+            "Wed": "08:40 - 19:30",
+            "Thu": "08:40 - 19:30",
+            "Fri": "08:40 - 19:30",
+            "Sat": "08:40 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "474 Wolbae-ro, Nam-gu, Daegu",
+        "address_kr": "대구광역시 남구 월배로 474",
+        "phone": "053-421-3955",
+        "coordinates": {
+            "x": 128.556276932824,
+            "y": 35.83518382915328
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "27, Dongdaegu-ro 85-gil, Dong-gu, Daegu",
+        "address_kr": "대구광역시 동구 동대구로85길 27",
+        "phone": "053-754-6261",
+        "coordinates": {
+            "x": 128.6243859132639,
+            "y": 35.872815813501724
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "83-1 Namsan-ro, Jung-gu, Daegu",
+        "address_kr": "대구광역시 중구 남산로 83-1 ",
+        "phone": "053-422-2198",
+        "coordinates": {
+            "x": 128.582079744,
+            "y": 35.8640036205
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00",
+            "Holiday": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "460 Gaya-daero, Busanjin-gu, Busan, (Gaegeum-dong)",
+        "address_kr": "부산광역시 부산진구 가야대로 460, (개금동)",
+        "phone": "051-894-1400",
+        "coordinates": {
+            "x": 129.02239605650723,
+            "y": 35.152791672543316
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 101, 1st floor, Global RDI Building, 12, Jungang-ro 480beon-gil, Nonsan-si, Chungcheongnam-do (Banwol-dong)",
+        "address_kr": "충청남도 논산시 중앙로480번길 12, 글로벌알디빌딩 1층 101호 (반월동)",
+        "phone": "041-735-5779",
+        "coordinates": {
+            "x": 127.0853922687,
+            "y": 36.2060939122
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:30",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:30",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 20:00",
+            "Sun": "08:00 - 20:00",
+            "Holiday": "08:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "5 Nosangha 4-gil, Miryang-si, Gyeongsangnam-do (Naei-dong)",
+        "address_kr": "경상남도 밀양시 노상하4길 5 (내이동)",
+        "phone": "070-4388-0013",
+        "coordinates": {
+            "x": 128.74870791452275,
+            "y": 35.49626185878609
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 18:00",
+            "Tue": "08:50 - 18:00",
+            "Wed": "08:50 - 18:00",
+            "Thu": "08:50 - 18:00",
+            "Fri": "08:50 - 18:00",
+            "Sat": "08:50 - 12:30",
+            "Sun": "09:00 - 16:00",
+            "Holiday": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "18 Dongseo 2-gil, Uiseong-eup, Uiseong-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 의성군 의성읍 동서2길 18",
+        "phone": "050-71429-9868",
+        "coordinates": {
+            "x": 128.695941471337,
+            "y": 36.350435684067
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "15 Iksan-daero 16-gil, Iksan-si, Jeollabuk-do (Changin-dong 1-ga)",
+        "address_kr": "전북특별자치도 익산시 익산대로16길 15 (창인동1가)",
+        "phone": "063-841-7481",
+        "coordinates": {
+            "x": 126.9491307111,
+            "y": 35.9405989612
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "6, Yongpyeong 1-gil, Hamyang-eup, Hamyang-gun, Gyeongsangnam-do",
+        "address_kr": "경상남도 함양군 함양읍 용평1길 6",
+        "phone": "055-963-2299",
+        "coordinates": {
+            "x": 127.728895078128,
+            "y": 35.5203349479158
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "20 Deokgye-ro, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 덕계로 20",
+        "phone": "055-363-1650",
+        "coordinates": {
+            "x": 129.14843579047243,
+            "y": 35.37015725790409
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "4, Sameun 3-gil, Jiksan-eup, Seobuk-gu, Cheonan-si, Chungcheongnam-do",
+        "address_kr": "충청남도 천안시 서북구 직산읍 삼은3길 4",
+        "phone": "041-584-0341",
+        "coordinates": {
+            "x": 127.1508392196147,
+            "y": 36.87729312479739
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "3768 Geoje-daero, Geoje-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 거제시 거제대로 3768",
+        "phone": "055-687-8581",
+        "coordinates": {
+            "x": 128.6886260088748,
+            "y": 34.89237512675421
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "42 Yongni-ro, Wansan-gu, Jeonju-si, Jeonbuk Special Self-Governing Province",
+        "address_kr": "전북특별자치도 전주시 완산구 용리로 42",
+        "phone": "063-221-7964",
+        "coordinates": {
+            "x": 127.11452504101902,
+            "y": 35.79847521543704
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "20, Mangun-ro 10beon-gil, Namhae-eup, Namhae-gun, Gyeongsangnam-do",
+        "address_kr": "경상남도 남해군 남해읍 망운로10번길 20",
+        "phone": "055-863-3105",
+        "coordinates": {
+            "x": 127.8931236468,
+            "y": 34.8399677322
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#104, Shopping Building, 34 Seokpo-ro, Nam-gu, Busan",
+        "address_kr": "부산광역시 남구 석포로 34 상가동104호",
+        "phone": "051-644-5862",
+        "coordinates": {
+            "x": 129.08561728636982,
+            "y": 35.12263546714487
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "21, Deokam-ro 148beonan-gil, Daedeok-gu, Daejeon",
+        "address_kr": "대전광역시 대덕구 덕암로148번안길 21",
+        "phone": "042-933-0004",
+        "coordinates": {
+            "x": 127.42326667764885,
+            "y": 36.43367360524267
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:10",
+            "Tue": "09:00 - 18:10",
+            "Wed": "09:00 - 18:10",
+            "Thu": "09:00 - 18:10",
+            "Fri": "09:00 - 18:10",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#104, 337, Jungang-ro, Jeju-si, Jeju-do (Ido-dong, Daou Building)",
+        "address_kr": "제주특별자치도 제주시 중앙로 337, 104호 (이도이동, 다우빌딩)",
+        "phone": "064-727-1300",
+        "coordinates": {
+            "x": 126.537291778,
+            "y": 33.4915222483
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Seosang Building, 70 Seosang-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do (Seosang-dong)",
+        "address_kr": "경상남도 창원시 의창구 서상로 70, 서상빌딩 (서상동)",
+        "phone": "055-252-1959",
+        "coordinates": {
+            "x": 128.61865482304,
+            "y": 35.2633899342889
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#102, Oullim Tower, 80-57 Daejeon-ro 542beon-gil, Dong-gu, Daejeon (Cheon-dong)",
+        "address_kr": "대전광역시 동구 대전로542번길 80-57, 어울림타워 102호 (천동)",
+        "phone": "042-274-8481",
+        "coordinates": {
+            "x": 127.4468284996,
+            "y": 36.316172231
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1st floor, 55 Sanseong-ro, Jung-gu, Daejeon (Sanseong-dong)",
+        "address_kr": "대전광역시 중구 산성로 55, 1층 (산성동)",
+        "phone": "042-584-5738",
+        "coordinates": {
+            "x": 127.394769063666,
+            "y": 36.3075120254439
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "30 Segye-gil, Ocheon-eup, Nam-gu, Pohang-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 포항시 남구 오천읍 세계길 30",
+        "phone": "054-292-8074",
+        "coordinates": {
+            "x": 129.41575729777782,
+            "y": 35.964757303375244
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 106, Basement 1, Building 104, 30 Bunseong-ro, Gimhae-si, Gyeongsangnam-do (outside building)",
+        "address_kr": "경상남도 김해시 분성로 30, 104동 지하1층 106호 (외동)",
+        "phone": "055-311-0790",
+        "coordinates": {
+            "x": 128.850739822002,
+            "y": 35.2324276937525
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "52 Sinshi-ro, Gumi-si, Gyeongsangbuk-do (Hyeonggok-dong)",
+        "address_kr": "경상북도 구미시 신시로 52 (형곡동)",
+        "phone": "054-451-0379",
+        "coordinates": {
+            "x": 128.3395790486892,
+            "y": 36.112514796875566
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "110 Simsan-ro, Seongju-eup, Seongju-gun, Gyeongsangbuk-do,",
+        "address_kr": "경상북도 성주군 성주읍 심산로 110,",
+        "phone": "054-933-6416",
+        "coordinates": {
+            "x": 128.28379961870968,
+            "y": 35.918664190707396
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "101-1 Bihwawon-ro, Angang-eup, Gyeongju-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경주시 안강읍 비화원로 101-1",
+        "phone": "054-763-7760",
+        "coordinates": {
+            "x": 129.22120480490597,
+            "y": 35.991044566223664
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#112, 1st floor, 47 Technojungang-ro, Yuseong-gu, Daejeon (Gwanpyeong-dong)",
+        "address_kr": "대전광역시 유성구 테크노중앙로 47, 1층 112호 (관평동)",
+        "phone": "042-671-0097",
+        "coordinates": {
+            "x": 127.391040787882,
+            "y": 36.4269396731633
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Basement 1, 5 Yeonhui-ro, Mapo-gu, Seoul (Donggyo-dong)",
+        "address_kr": "서울특별시 마포구 연희로 5, 지하1층 (동교동)",
+        "phone": "02-324-5615",
+        "coordinates": {
+            "x": 126.926268135168,
+            "y": 37.5592303251822
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 16:30",
+            "Tue": "08:30 - 16:30",
+            "Wed": "08:30 - 16:30",
+            "Thu": "08:30 - 16:30",
+            "Fri": "08:30 - 16:30",
+            "Sat": "09:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 102, 1st floor, 3, Nambusunhwan-ro 59-gil, Yangcheon-gu, Seoul (Sinwol-dong, Wooyoung Apartment)",
+        "address_kr": "서울특별시 양천구 남부순환로59길 3, 1층 102호 (신월동, 우영아파트)",
+        "phone": "02-2606-0783",
+        "coordinates": {
+            "x": 126.831560813715,
+            "y": 37.532135959813
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#101, 115, Deungyong-ro, Dongjak-gu, Seoul (Daebang-dong, Elysia Building)",
+        "address_kr": "서울특별시 동작구 등용로 115, 101호 (대방동, 엘리시아빌딩)",
+        "phone": "02-822-9095",
+        "coordinates": {
+            "x": 126.931753795645,
+            "y": 37.5114464461348
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "127 Yangpyeong-ro, Yeongdeungpo-gu, Seoul (Yangpyeong-dong 5-ga)",
+        "address_kr": "서울특별시 영등포구 양평로 127 (양평동5가)",
+        "phone": "02-2631-6967",
+        "coordinates": {
+            "x": 126.893497671952,
+            "y": 37.5377817354409
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 301, 12, Gwanak-ro 30-gil, Gwanak-gu, Seoul (Bongcheon-dong, Bongcheon Woosung Apartment)",
+        "address_kr": "서울특별시 관악구 관악로30길 12, 301호 (봉천동, 봉천우성아파트)",
+        "phone": "050-71473-0376",
+        "coordinates": {
+            "x": 126.960607343765,
+            "y": 37.4841357625535
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1113 Cheonho-daero, Gangdong-gu, Seoul (Gil-dong)",
+        "address_kr": "서울특별시 강동구 천호대로 1113  (길동)",
+        "phone": "02-478-2111",
+        "coordinates": {
+            "x": 127.135394068183,
+            "y": 37.535270160408
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 19:30",
+            "Holiday": "09:00 - 11:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "42 Yangsan-ro, Songpa-gu, Seoul (Geoyeo-dong)",
+        "address_kr": "서울특별시 송파구 양산로 42 (거여동)",
+        "phone": "02-403-4888",
+        "coordinates": {
+            "x": 127.14448399601,
+            "y": 37.4926338265085
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "181 Sujeong-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do, 1st floor, Seongnam Building (Taepyeong-dong)",
+        "address_kr": "경기도 성남시 수정구 수정로 181, 성남빌딩 1층 일부호 (태평동)",
+        "phone": "031-722-4330",
+        "coordinates": {
+            "x": 127.14000190695,
+            "y": 37.4435958811998
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "47 Singok-ro, Uijeongbu-si, Gyeonggi-do",
+        "address_kr": "경기도 의정부시 신곡로 47",
+        "phone": "031-873-1324",
+        "coordinates": {
+            "x": 127.05632612313231,
+            "y": 37.73077211520561
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "268 Jungang-ro, Pyeongtaek-si, Gyeonggi-do (Hapjeong-dong)",
+        "address_kr": "경기도 평택시 중앙로 268  (합정동)",
+        "phone": "031-618-8933",
+        "coordinates": {
+            "x": 127.11255654097526,
+            "y": 36.9898743823336
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#103, 538 Ilsan-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Ilsandong, Ilsin 2 Union)",
+        "address_kr": "경기도 고양시 일산서구 일산로 538, 103호 (일산동, 일신2조합)",
+        "phone": "031-915-7717",
+        "coordinates": {
+            "x": 126.76844205625562,
+            "y": 37.67773201215082
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "30, Samjae-ro 145beon-gil, Janghowon-eup, Icheon-si, Gyeonggi-do",
+        "address_kr": "경기도 이천시 장호원읍 샘재로145번길 30",
+        "phone": "031-642-5329",
+        "coordinates": {
+            "x": 127.6293753447299,
+            "y": 37.11904570412562
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:00",
+            "Tue": "08:00 - 22:00",
+            "Wed": "08:00 - 22:00",
+            "Thu": "08:00 - 22:00",
+            "Fri": "08:00 - 22:00",
+            "Sat": "08:00 - 22:00",
+            "Sun": "11:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 106, Dasan Beopjo Medical Tower, 235 Migeum-ro, Namyangju-si, Gyeonggi-do (Dasan-dong)",
+        "address_kr": "경기도 남양주시 미금로 235, 다산법조메디컬타워 106호 (다산동)",
+        "phone": "031-568-2227",
+        "coordinates": {
+            "x": 127.164405065947,
+            "y": 37.6114070586857
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "577 Bangeojin Ring Road, Dong-gu, Ulsan (Hwajeong-dong)",
+        "address_kr": "울산광역시 동구 방어진순환도로 577  (화정동)",
+        "phone": "052-209-1005",
+        "coordinates": {
+            "x": 129.42648342485631,
+            "y": 35.49349986145375
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "76, Sinhyeon-ro, Opo-eup, Gwangju-si, Gyeonggi-do",
+        "address_kr": "경기도 광주시 오포읍 신현로 76",
+        "phone": "031-719-9117",
+        "coordinates": {
+            "x": 127.15512329728703,
+            "y": 37.36010621598042
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#102, 175, Sinbong 1-ro, Suji-gu, Yongin-si, Gyeonggi-do (Sinbong-dong, Jinseong Plaza)",
+        "address_kr": "경기도 용인시 수지구 신봉1로 175, 102호 (신봉동, 진성프라자)",
+        "phone": "031-266-6567",
+        "coordinates": {
+            "x": 127.06789769755633,
+            "y": 37.3283604696791
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1st floor, 985 Dongil-ro, Nowon-gu, Seoul (Gongneung-dong)",
+        "address_kr": "서울특별시 노원구 동일로 985 (공릉동) 1층",
+        "phone": "02-930-0300",
+        "coordinates": {
+            "x": 127.075202938835,
+            "y": 37.6180588829415
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:35"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "151 Saimdang-ro, Seocho-gu, Seoul",
+        "address_kr": "서울특별시 서초구 사임당로 151",
+        "phone": "02-521-2829",
+        "coordinates": {
+            "x": 127.025692827371,
+            "y": 37.4920676848724
+        },
+        "operating_hours": {
+            "Mon": "09:10 - 19:30",
+            "Tue": "09:10 - 19:30",
+            "Wed": "09:10 - 19:30",
+            "Thu": "09:10 - 19:30",
+            "Fri": "09:10 - 19:30",
+            "Sat": "09:10 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 102, 1st floor, 6, Jungang-daero 1493beon-gil, Dongnae-gu, Busan (Oncheon-dong)",
+        "address_kr": "부산광역시 동래구 중앙대로1493번길 6, 1층 102호 (온천동)",
+        "phone": "051-715-5538",
+        "coordinates": {
+            "x": 129.0846031829015,
+            "y": 35.21905855539999
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 17:30",
+            "Wed": "09:00 - 17:30",
+            "Thu": "09:00 - 17:30",
+            "Fri": "09:00 - 17:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 104, 1st floor, 70 Haeundae-ro 38beon-gil, Haeundae-gu, Busan (Jaesong-dong)",
+        "address_kr": "부산광역시 해운대구 해운대로38번길 70, 1층 104호 (재송동)",
+        "phone": "051-784-7117",
+        "coordinates": {
+            "x": 129.11759121949,
+            "y": 35.1910570160555
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "190 Beomil-ro, Busanjin-gu, Busan",
+        "address_kr": "부산광역시 부산진구 범일로 190",
+        "phone": "051-636-3835",
+        "coordinates": {
+            "x": 129.0599625974422,
+            "y": 35.1469663693545
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1st floor, 240-1 Saesak-ro, Busanjin-gu, Busan (Cho-eup-dong)",
+        "address_kr": "부산광역시 부산진구 새싹로 240-1, 1층 (초읍동)",
+        "phone": "051-805-2032",
+        "coordinates": {
+            "x": 129.048533950898,
+            "y": 35.1774936083705
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:30",
+            "Tue": "09:00 - 17:30",
+            "Wed": "09:00 - 17:30",
+            "Thu": "09:00 - 17:30",
+            "Fri": "09:00 - 17:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#1, 1st floor, 1 Jahamun-ro, Jongno-gu, Seoul (Naeja-dong)",
+        "address_kr": "서울특별시 종로구 자하문로 1, 1층 1호 (내자동)",
+        "phone": "070-7576-3340",
+        "coordinates": {
+            "x": 126.972281883776,
+            "y": 37.5763198182948
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "08:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "10:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "334 Junggae-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do (Geumcheon-dong)",
+        "address_kr": "충청북도 청주시 상당구 중고개로 334  (금천동)",
+        "phone": "043-286-0068",
+        "coordinates": {
+            "x": 127.50405876850391,
+            "y": 36.630670194646
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Happy Medical Center 1st floor, 128 World Cup-daero, Yeonje-gu, Busan (Yeonsan-dong)",
+        "address_kr": "부산광역시 연제구 월드컵대로 128, 행복한메디컬센타 1층 (연산동)",
+        "phone": "051-862-1185",
+        "coordinates": {
+            "x": 129.08238734986514,
+            "y": 35.185685997218044
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 110, 1st floor, Gimpo Central Plaza 2, 386 Gimpo Hangang 8-ro, Gimpo-si, Gyeonggi-do (Gurae-dong)",
+        "address_kr": "경기도 김포시 김포한강8로 386, 김포센트럴프라자2 1층 110호 (구래동)",
+        "phone": "031-997-2847",
+        "coordinates": {
+            "x": 126.6261834469,
+            "y": 37.6434865862
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1st floor, 101-10 Jungang-ro, Chungju-si, Chungcheongbuk-do (Seongnae-dong)",
+        "address_kr": "충청북도 충주시 중앙로 101-10, 1층 (성내동)",
+        "phone": "043-843-6998",
+        "coordinates": {
+            "x": 127.93481582645691,
+            "y": 36.97290408885348
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Room 103, 1st floor, Happy Medical Building, 20 Gwahaksandan 2-ro 20beon-gil, Gangseo-gu, Busan (Jisa-dong)",
+        "address_kr": "부산광역시 강서구 과학산단2로20번길 20, 행복메디컬빌딩 1층 103호 (지사동)",
+        "phone": "051-941-9936",
+        "coordinates": {
+            "x": 128.832700686257,
+            "y": 35.1504937260466
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "17, Hyohaeng-ro 763beon-gil, Hwaseong-si, Gyeonggi-do (Anyeong-dong, Hwaseong Samsung Orthopedic Clinic)",
+        "address_kr": "경기도 화성시 효행로763번길 17 (안녕동, 화성삼성정형외과의원)",
+        "phone": "031-222-2697",
+        "coordinates": {
+            "x": 127.0137204691,
+            "y": 37.2047129736
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "22 Jugong-ro, Boryeong-si, Chungcheongnam-do (Dongdae-dong)",
+        "address_kr": "충청남도 보령시 주공로 22 (동대동)",
+        "phone": "070-8861-7512",
+        "coordinates": {
+            "x": 126.6026885065,
+            "y": 36.34428717
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "225 Uibyeong-daero, Jecheon-si, Chungcheongbuk-do (Sinbaek-dong)",
+        "address_kr": "충청북도 제천시 의병대로 225 (신백동)",
+        "phone": "043-644-5646",
+        "coordinates": {
+            "x": 128.22538605409798,
+            "y": 37.132764825266655
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "10 Daewon-ro, Osan-si, Gyeonggi-do, (Won-dong)",
+        "address_kr": "경기도 오산시 대원로 10, (원동)",
+        "phone": "031-376-2789",
+        "coordinates": {
+            "x": "127.069419444444449",
+            "y": 37.146230555555555
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Holiday": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "264 Buheung-ro, Bupyeong-gu, Incheon (Bupyeong-dong, Donga Wellbeing Town #302-2)",
+        "address_kr": "인천광역시 부평구 부흥로 264 (부평동, 동아웰빙타운302-2호)",
+        "phone": "032-503-8477",
+        "coordinates": {
+            "x": 126.7210505975,
+            "y": 37.4983288489
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1st floor, 52-3 Eunpyeong-ro, Eunpyeong-gu, Seoul (Sinsa-dong, Hongin neighborhood housing)",
+        "address_kr": "서울특별시 은평구 은평로 52-3, 1층 (신사동, 홍인근생주택)",
+        "phone": "02-303-6637",
+        "coordinates": {
+            "x": 126.913850263312,
+            "y": 37.5983190122198
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "29 Handong-ro, Heunghae-eup, Buk-gu, Pohang-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 포항시 북구 흥해읍 한동로 29",
+        "phone": "054-262-9551",
+        "coordinates": {
+            "x": 129.34494293232655,
+            "y": 36.111055137183214
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#103, 16, Munhui-ro, Mungyeong-eup, Mungyeong-si, Gyeongsangbuk-do (Happy Pharmacy)",
+        "address_kr": "경상북도 문경시 문경읍 문희로 16, 103호 (행복약국)",
+        "phone": "054-571-6571",
+        "coordinates": {
+            "x": 128.10859637637182,
+            "y": 36.733738935112875
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:30",
+            "Tue": "08:00 - 17:30",
+            "Wed": "08:00 - 17:30",
+            "Thu": "08:00 - 17:30",
+            "Fri": "08:00 - 17:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "1st floor, 4163 Donghae-daero, Sokcho-si, Gangwon-do (Joyang-dong)",
+        "address_kr": "강원특별자치도 속초시 동해대로 4163, 1층 (조양동)",
+        "phone": "033-637-2825",
+        "coordinates": {
+            "x": 128.5800528611002,
+            "y": 38.1900439032
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 24:00",
+            "Tue": "09:00 - 24:00",
+            "Wed": "09:00 - 24:00",
+            "Thu": "09:00 - 24:00",
+            "Fri": "09:00 - 24:00",
+            "Sat": "09:00 - 24:00",
+            "Sun": "21:00 - 24:00",
+            "Holiday": "21:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "Rooms 636 and 637, First One, 30 Naseongbuk-ro, Sejong Special Self-Governing City (Naseong-dong)",
+        "address_kr": "세종특별자치시 나성북로 30, 퍼스트원 636, 637호 (나성동)",
+        "phone": "044-868-2439",
+        "coordinates": {
+            "x": 127.260245278663,
+            "y": 36.4890737483121
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "70, Sicheong-ro, Wonju-si, Gangwon-do",
+        "address_kr": "강원특별자치도 원주시 시청로 70 ",
+        "phone": "033-742-5875",
+        "coordinates": {
+            "x": 127.9263862272546,
+            "y": 37.33736736928606
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 20:00",
+            "Sun": "08:00 - 20:00",
+            "Holiday": "08:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "35 Seochangnam-ro, Namdong-gu, Incheon (Seochang-dong)",
+        "address_kr": "인천광역시 남동구 서창남로 35 (서창동)",
+        "phone": "032-467-7088",
+        "coordinates": {
+            "x": 126.7505999521,
+            "y": 37.4228434459
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "#102, 589, Hannaru-ro, Michuhol-gu, Incheon (Dohwa-dong)",
+        "address_kr": "인천광역시 미추홀구 한나루로 589, 102호 (도화동)",
+        "phone": "032-861-9991",
+        "coordinates": {
+            "x": 126.671778159,
+            "y": 37.4586516866
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00",
+            "Sun": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "Myeongseong Clinic Building, 31 Sinseo-ro 48beon-gil, Seogwipo-si, Jeju-do (Gangjeong-dong)",
+        "address_kr": "제주특별자치도 서귀포시 신서로48번길 31, 명성 클리닉 빌딩 (강정동)",
+        "phone": "064-738-4831",
+        "coordinates": {
+            "x": 126.508636272298,
+            "y": 33.2535774663368
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "20 Seonhwa-ro, Jung-gu, Daejeon",
+        "address_kr": "대전광역시 중구 선화로 20 ",
+        "phone": "042-223-9141",
+        "coordinates": {
+            "x": 127.41164104284101,
+            "y": 36.32560594942052
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "1st floor, 88 Korea-daero, Seongbuk-gu, Seoul (Anam-dong 5-ga)",
+        "address_kr": "서울특별시 성북구 고려대로 88, 1층 (안암동5가)",
+        "phone": "02-928-8276",
+        "coordinates": {
+            "x": 127.029018009469,
+            "y": 37.5861368230603
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "50, Gaeseong-ro, Uijeongbu-si, Gyeonggi-do, (Gajeong-dong)",
+        "address_kr": "경기도 의정부시 가능로 50, (가능동)",
+        "phone": "031-872-6043",
+        "coordinates": {
+            "x": 127.03667831425733,
+            "y": 37.746562765469484
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "#104, Dream Medical, 54 Banyeo-ro 41beon-gil, Haeundae-gu, Busan (Banyeo-dong)",
+        "address_kr": "부산광역시 해운대구 반여로41번길 54, 꿈의메디컬 104호 (반여동)",
+        "phone": "051-521-1661",
+        "coordinates": {
+            "x": 129.11897075744,
+            "y": 35.1975229288451
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "2nd floor, 40, Dongsuwon-ro 177beon-gil, Gwonseon-gu, Suwon-si, Gyeonggi-do (Gwonseon-dong, Suwon I-Park City Complex 8)",
+        "address_kr": "경기도 수원시 권선구 동수원로177번길 40 2층 (권선동, 수원아이파크시티8단지)",
+        "phone": "031-232-8646",
+        "coordinates": {
+            "x": 127.0301431551,
+            "y": 37.2466843523
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "Part of the first floor, 231 Gaepo-ro, Gangnam-gu, Seoul (Gaepo-dong)",
+        "address_kr": "서울특별시 강남구 개포로 231 (개포동) 1층일부",
+        "phone": "02-574-8376",
+        "coordinates": {
+            "x": 127.047948113823,
+            "y": 37.4790084728115
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "81 Wishity-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do",
+        "address_kr": "경기도 고양시 일산동구 위시티로 81",
+        "phone": "031-978-7496",
+        "coordinates": {
+            "x": 126.81146662589966,
+            "y": 37.67919009615992
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "36 Ssangbong-ro, Yeosu-si, Jeollanam-do (Hak-dong)",
+        "address_kr": "전라남도 여수시 쌍봉로 36 (학동)",
+        "phone": "061-685-0559",
+        "coordinates": {
+            "x": 127.65987487853903,
+            "y": 34.76630862268855
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "#24, 101, 102, Solbit-ro, Seo-gu, Incheon (Cheongna-dong)",
+        "address_kr": "인천광역시 서구 솔빛로 24, 101, 102호 (청라동)",
+        "phone": "032-567-0523",
+        "coordinates": {
+            "x": 126.6240669351,
+            "y": 37.5237024734
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "1st floor, 243-1 Ayang-ro, Dong-gu, Daegu (Sinam-dong, Jesaeng Building)",
+        "address_kr": "대구광역시 동구 아양로 243-1, 1층 (신암동, 제생빌딩)",
+        "phone": "053-954-5279",
+        "coordinates": {
+            "x": 128.6394184574,
+            "y": 35.8873094416
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "#102, 1st floor, Crystal Tower, 8 Haksa-ro, Buk-gu, Busan (Hwamyeong-dong)",
+        "address_kr": "부산광역시 북구 학사로 8, 크리스탈타워 1층 102호 (화명동)",
+        "phone": "051-365-4577",
+        "coordinates": {
+            "x": 129.008755219018,
+            "y": 35.2240810071698
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Onnuri Pharmacy",
+        "pharmacy_name_kr": "행복온누리약국",
+        "address_en": "8-9 Yeongjin 3-gil, Yeongok-myeon, Gangneung-si, Gangwon-do",
+        "address_kr": "강원특별자치도 강릉시 연곡면 영진3길 8-9",
+        "phone": "033-661-1320",
+        "coordinates": {
+            "x": 128.839244529614,
+            "y": 37.8700944583846
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy that gives happiness",
+        "pharmacy_name_kr": "행복을 주는 약국",
+        "address_en": "#212, 70 Saechang-ro, Yongsan-gu, Seoul (Dowon-dong, Dowon-dong Samsung Raemian)",
+        "address_kr": "서울특별시 용산구 새창로 70, 212호 (도원동, 도원동삼성래미안)",
+        "phone": "02-3275-3723",
+        "coordinates": {
+            "x": 126.954943490673,
+            "y": 37.5386030532321
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Seorae Pharmacy that opens happiness",
+        "pharmacy_name_kr": "행복을여는서래약국",
+        "address_en": "3 Seorae-ro 5-gil, Seocho-gu, Seoul (Banpo-dong)",
+        "address_kr": "서울특별시 서초구 서래로5길 3 (반포동)",
+        "phone": "02-537-6979",
+        "coordinates": {
+            "x": 126.998119942326,
+            "y": 37.4977152719584
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy that opens happiness",
+        "pharmacy_name_kr": "행복을여는약국",
+        "address_en": "1st floor, 202 Seoha-ro, Buk-gu, Gwangju (Ochi-dong)",
+        "address_kr": "광주광역시 북구 서하로 202, 1층(오치동)",
+        "phone": "062-265-5007",
+        "coordinates": {
+            "x": 126.90250987192516,
+            "y": 35.187033840053395
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Sun": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy that gives happiness",
+        "pharmacy_name_kr": "행복을주는약국",
+        "address_en": "328 Hongcheon-ro, Hongcheon-eup, Hongcheon-gun, Gangwon-do (Hongcheon-eup)",
+        "address_kr": "강원특별자치도 홍천군 홍천읍 홍천로 328 (홍천읍)",
+        "phone": "033-435-3223",
+        "coordinates": {
+            "x": 127.88182599626336,
+            "y": 37.6883066168683
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 19:00",
+            "Sun": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Onnuri Pharmacy that gives happiness",
+        "pharmacy_name_kr": "행복을주는온누리약국",
+        "address_en": "1st floor, 1036 Dongil-ro, Nowon-gu, Seoul (Gongneung-dong)",
+        "address_kr": "서울특별시 노원구 동일로 1036 (공릉동) 1층",
+        "phone": "02-977-4203",
+        "coordinates": {
+            "x": 127.074354898622,
+            "y": 37.6226068845517
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "A pharmacy full of happiness",
+        "pharmacy_name_kr": "행복이 가득한 수약국",
+        "address_en": "1st floor, 245 Dobong-ro, Gangbuk-gu, Seoul (Mia-dong)",
+        "address_kr": "서울특별시 강북구 도봉로 245, 1층 (미아동)",
+        "phone": "02-984-6388",
+        "coordinates": {
+            "x": 127.024256283393,
+            "y": 37.6303012518373
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:30",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Seoul pharmacy full of happiness",
+        "pharmacy_name_kr": "행복이가득한서울약국",
+        "address_en": "1470 Jungang-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do",
+        "address_kr": "경기도 고양시 일산서구 중앙로 1470",
+        "phone": "031-915-5557",
+        "coordinates": {
+            "x": 126.75697169970815,
+            "y": 37.67244774710114
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy full of happiness",
+        "pharmacy_name_kr": "행복이가득한약국",
+        "address_en": "1032 Gukchaebosang-ro, Suseong-gu, Daegu, 1st floor, Ilhae Building (Manchon-dong)",
+        "address_kr": "대구광역시 수성구 국채보상로 1032, 일해빌딩 1층 (만촌동)",
+        "phone": "053-742-8486",
+        "coordinates": {
+            "x": 128.64327255931218,
+            "y": 35.866104394438615
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy full of happiness",
+        "pharmacy_name_kr": "행복이가득한약국",
+        "address_en": "1443 Nambusunhwan-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 남부순환로 1443 (신림동)",
+        "phone": "02-865-4703",
+        "coordinates": {
+            "x": 126.911112887271,
+            "y": 37.4814233477412
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "10:30 - 17:00",
+            "Holiday": "10:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy where happiness blooms",
+        "pharmacy_name_kr": "행복이꽃피는약국",
+        "address_en": "271 Gajwa-ro, Eunpyeong-gu, Seoul (Sinsa-dong)",
+        "address_kr": "서울특별시 은평구 가좌로 271 (신사동)",
+        "phone": "02-308-7475",
+        "coordinates": {
+            "x": 126.913416898807,
+            "y": 37.5928477862044
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health pharmacy where happiness opens",
+        "pharmacy_name_kr": "행복이열리는건강약국",
+        "address_en": "113 Seongsui-ro, Seongdong-gu, Seoul (Seongsu-dong 2-ga)",
+        "address_kr": "서울특별시 성동구 성수이로 113  (성수동2가)",
+        "phone": "02-462-3685",
+        "coordinates": {
+            "x": 127.057127702049,
+            "y": 37.5451422412538
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health pharmacy where happiness opens",
+        "pharmacy_name_kr": "행복이열리는건강약국",
+        "address_en": "301 Sangdo-ro, Dongjak-gu, Seoul (Sangdo 1-dong)",
+        "address_kr": "서울특별시 동작구 상도로 301 (상도1동)",
+        "phone": "02-823-0700",
+        "coordinates": {
+            "x": 126.949958196071,
+            "y": 37.500997865553
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dooly Pharmacy, where happiness opens",
+        "pharmacy_name_kr": "행복이열리는둘리약국",
+        "address_en": "#503, 1073 Hyohaeng-ro, Hwaseong-si, Gyeonggi-do (Jinan-dong, Geosung Plaza)",
+        "address_kr": "경기도 화성시 효행로 1073, 503호 (진안동, 거성프라자)",
+        "phone": "031-898-7060",
+        "coordinates": {
+            "x": 127.0439547928294,
+            "y": 37.2154071399289
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 16:00",
+            "Holiday": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy where happiness opens",
+        "pharmacy_name_kr": "행복이열리는약국",
+        "address_en": "#115, 973, Seobubuk-ro, Asan-si, Chungcheongnam-do (Baemi-dong, Seojin Apartment Shopping Center)",
+        "address_kr": "충청남도 아산시 서부북로 973, 115호 (배미동, 서진아파트상가)",
+        "phone": "041-548-4163",
+        "coordinates": {
+            "x": 126.9669427614806,
+            "y": 36.789341742941474
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy where happiness opens",
+        "pharmacy_name_kr": "행복이열리는약국",
+        "address_en": "1st floor, 299-2 Dokseokdang-ro, Seongdong-gu, Seoul (Geumho-dong 3-ga)",
+        "address_kr": "서울특별시 성동구 독서당로 299-2, 1층 (금호동3가)",
+        "phone": "02-2253-6060",
+        "coordinates": {
+            "x": 127.022451128356,
+            "y": 37.5483589593448
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy where happiness opens",
+        "pharmacy_name_kr": "행복이열리는약국",
+        "address_en": "1st floor, 89 Sujeong-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do (Taepyeong-dong)",
+        "address_kr": "경기도 성남시 수정구 수정로 89, 1층 (태평동)",
+        "phone": "031-757-5701",
+        "coordinates": {
+            "x": "127.130158333333327",
+            "y": 37.440672222222226
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happiness Open Pharmacy",
+        "pharmacy_name_kr": "행복이열린약국",
+        "address_en": "630-1 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do (Geumam-dong)",
+        "address_kr": "전북특별자치도 전주시 덕진구 백제대로 630-1 (금암동)",
+        "phone": "063-276-8576",
+        "coordinates": {
+            "x": 127.1383425170965,
+            "y": 35.84204778560694
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Pharmacy that gives happiness",
+        "pharmacy_name_kr": "행복주는약국",
+        "address_en": "67, Jungang-ro, Suncheon-si, Jeollanam-do, (Jeojeon-dong)",
+        "address_kr": "전라남도 순천시 중앙로 67, (저전동)",
+        "phone": "061-746-8282",
+        "coordinates": {
+            "x": 127.48347517077201,
+            "y": 34.95163041759298
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Plus Pharmacy",
+        "pharmacy_name_kr": "행복플러스약국",
+        "address_en": "Room 301, C.H Libero II, 131 Hyeonam-ro, Suji-gu, Yongin-si, Gyeonggi-do (Jukjeon-dong)",
+        "address_kr": "경기도 용인시 수지구 현암로 131, C.H리베로II 301호 (죽전동)",
+        "phone": "031-896-3959",
+        "coordinates": {
+            "x": 127.12354730401302,
+            "y": 37.33195277186459
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 13:00",
+            "Wed": "09:00 - 13:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 13:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
     }
 ]
