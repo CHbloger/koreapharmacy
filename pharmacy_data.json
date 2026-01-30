@@ -483591,5 +483591,2119 @@
             "Sun": "09:00 - 19:00",
             "Holiday": "09:00 - 19:00"
         }
+    },
+    {
+        "pharmacy_name_en": "warm pharmacy",
+        "pharmacy_name_kr": "따뜻한약국",
+        "address_en": "#113, Woongshin Art, 47 Jeongbalsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Janghang-dong)",
+        "address_kr": "경기도 고양시 일산동구 정발산로 47, 웅신아트 113호 (장항동)",
+        "phone": "031-904-0642",
+        "coordinates": {
+            "x": 126.7688604948,
+            "y": 37.6590393305
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 22:30",
+            "Tue": "10:00 - 22:30",
+            "Wed": "10:00 - 22:30",
+            "Thu": "10:00 - 22:30",
+            "Fri": "10:00 - 22:00",
+            "Sat": "10:00 - 22:30",
+            "Sun": "10:00 - 22:30",
+            "Holiday": "10:00 - 22:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Comfortable pharmacy",
+        "pharmacy_name_kr": "마음편한약국",
+        "address_en": "6, Namak 4-ro 34beon-gil, Samhyang-eup, Muan-gun, Jeollanam-do (Edgar Chaeum mixed-use apartment)",
+        "address_kr": "전라남도 무안군 삼향읍 남악4로34번길 6  (에드가채움 주상복합 아파트)",
+        "phone": "061-285-0507",
+        "coordinates": {
+            "x": 126.466429583606,
+            "y": 34.8074518726895
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 13:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Malgun Pharmacy",
+        "pharmacy_name_kr": "맑은약국",
+        "address_en": "458 Suyang-ro, Geoje-si, Gyeongsangnam-do (Suwol-dong)",
+        "address_kr": "경상남도 거제시 수양로 458 (수월동)",
+        "phone": "055-633-8862",
+        "coordinates": {
+            "x": 128.64154751363813,
+            "y": 34.892908041793284
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Miso Pharmacy",
+        "pharmacy_name_kr": "미소약국",
+        "address_en": "106 Muhaksong-ro, Geumjeong-gu, Busan (Bugok-dong)",
+        "address_kr": "부산광역시 금정구 무학송로 106 (부곡동)",
+        "phone": "051-946-0077",
+        "coordinates": {
+            "x": 129.093644780533,
+            "y": 35.2405910730612
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 19:00",
+            "Holiday": "08:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Bodhi Herbal Medicine Pharmacy",
+        "pharmacy_name_kr": "보리수한약국",
+        "address_en": "#102, 1st floor, 35, Munhwa-ro 145beon-gil, Namdong-gu, Incheon (Guwol-dong)",
+        "address_kr": "인천광역시 남동구 문화로145번길 35, 1층 일부(102)호 (구월동)",
+        "phone": "032-218-3138",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 20:00",
+            "Tue": "10:00 - 20:00",
+            "Wed": "10:00 - 20:00",
+            "Thu": "10:00 - 20:00",
+            "Sat": "10:00 - 17:00",
+            "Sun": "10:00 - 17:00",
+            "Holiday": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "covenant pharmacy",
+        "pharmacy_name_kr": "성약국",
+        "address_en": "272 Gonghang-ro, Jung-gu, Incheon, 3rd floor, Concourse Building, Incheon Airport (Unseo-dong)",
+        "address_kr": "인천광역시 중구 공항로 272, 인천공항 탑승동 3층 (운서동)",
+        "phone": "050-71405-6380",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "06:00 - 22:00",
+            "Tue": "06:00 - 22:00",
+            "Wed": "06:00 - 22:00",
+            "Thu": "06:00 - 22:00",
+            "Fri": "06:00 - 22:00",
+            "Sat": "06:00 - 22:00",
+            "Sun": "06:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Seyeon Pharmacy",
+        "pharmacy_name_kr": "세연약국",
+        "address_en": "#102, 1st floor, 698 Jeonggwan-ro, Jeonggwan-eup, Gijang-gun, Busan",
+        "address_kr": "부산광역시 기장군 정관읍 정관로 698, 1층 102호",
+        "phone": "051-728-5888",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 13:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "World Pharmacy",
+        "pharmacy_name_kr": "월드약국",
+        "address_en": "248 Geojecheon-ro, Yeonje-gu, Busan (Yeonsan-dong)",
+        "address_kr": "부산광역시 연제구 거제천로 248 (연산동)",
+        "phone": "051-867-6493",
+        "coordinates": {
+            "x": "129.084061111111112",
+            "y": "35.191894444444443"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "10:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanna Pharmacy",
+        "pharmacy_name_kr": "한나약국",
+        "address_en": "11, Bunseong-ro 727beon-gil, Gimhae-si, Gyeongsangnam-do (Jinae-dong)",
+        "address_kr": "경상남도 김해시 분성로727번길 11(지내동)",
+        "phone": "055-331-6519",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hugoksu Pharmacy",
+        "pharmacy_name_kr": "후곡수약국",
+        "address_en": "547 Ilsan-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do, #102, Ilsin 1 Union Shopping Center (Ilsandong)",
+        "address_kr": "경기도 고양시 일산서구 일산로 547, 일신1조합상가 102호 (일산동)",
+        "phone": "031-918-0957",
+        "coordinates": {
+            "x": 126.771540271088,
+            "y": 37.6549065288016
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Humun Sodam Pharmacy",
+        "pharmacy_name_kr": "후문소담약국",
+        "address_en": "22, Sudo-ro, Bucheon-si, Gyeonggi-do (Yakdae-dong)",
+        "address_kr": "경기도 부천시 수도로 22 (약대동)",
+        "phone": "032-682-7575",
+        "coordinates": {
+            "x": 126.76909451474465,
+            "y": 37.512583873009234
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "Room 101, 1st floor, 21 Seokhyeon-ro, Gyeongju-si, Gyeongsangbuk-do (Seokjang-dong)",
+        "address_kr": "경상북도 경주시 석현로 21, 1층 101호 (석장동)",
+        "phone": "054-777-1533",
+        "coordinates": {
+            "x": 129.193391919174,
+            "y": 35.8590437919123
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "807-9, Hoguk-ro, Buk-gu, Daegu (Hakjeong-dong)",
+        "address_kr": "대구광역시 북구 호국로 807-9(학정동)",
+        "phone": "053-311-8079",
+        "coordinates": {
+            "x": 128.565873391396,
+            "y": 35.9567605896278
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "22-3, Majo-ro, Seongdong-gu, Seoul, (Haengdang-dong)",
+        "address_kr": "서울특별시 성동구 마조로 22-3, (행당동)",
+        "phone": "02-2299-7800",
+        "coordinates": {
+            "x": 127.041414136941,
+            "y": 37.5598226320419
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "13, Donggureung-ro 6beon-gil, Guri-si, Gyeonggi-do (Gyomun-dong, Humun Pharmacy)",
+        "address_kr": "경기도 구리시 동구릉로6번길 13 (교문동, 후문약국)",
+        "phone": "031-563-9800",
+        "coordinates": {
+            "x": 127.1318195513,
+            "y": 37.601557887
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "36, Gudeok-ro 185beon-gil, Seo-gu, Busan (Ami-dong 2-ga)",
+        "address_kr": "부산광역시 서구 구덕로185번길 36 (아미동2가)",
+        "phone": "051-231-2600",
+        "coordinates": {
+            "x": "129.017813888888895",
+            "y": "35.101430555555552"
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "58 Dobong-ro 109-gil, Dobong-gu, Seoul, (Ssangmun-dong)",
+        "address_kr": "서울특별시 도봉구 도봉로109길 58, (쌍문동)",
+        "phone": "02-995-8588",
+        "coordinates": {
+            "x": 127.030236734193,
+            "y": 37.6471800024959
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "222 Gamasan-ro, Guro-gu, Seoul (Guro-dong)",
+        "address_kr": "서울특별시 구로구 가마산로 222 (구로동)",
+        "phone": "02-851-2811",
+        "coordinates": {
+            "x": 126.88578839021,
+            "y": 37.4934958067022
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Backmoon Pharmacy",
+        "pharmacy_name_kr": "후문약국",
+        "address_en": "64, Gongneung-ro 59na-gil, Nowon-gu, Seoul (Hagye-dong)",
+        "address_kr": "서울특별시 노원구 공릉로59나길 64 (하계동)",
+        "phone": "02-971-0241",
+        "coordinates": {
+            "x": 127.069683496473,
+            "y": 37.6358986511018
+        },
+        "operating_hours": {
+            "Mon": "07:50 - 18:30",
+            "Tue": "07:50 - 18:30",
+            "Wed": "07:50 - 18:30",
+            "Thu": "07:50 - 18:30",
+            "Fri": "07:50 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Back door Hanil Pharmacy",
+        "pharmacy_name_kr": "후문한일약국",
+        "address_en": "72 Nohae-ro 40-gil, Dobong-gu, Seoul (Ssangmun-dong, Ssangmun Hanyang Apartment)",
+        "address_kr": "서울특별시 도봉구 노해로40길 72 (쌍문동, 쌍문한양아파트)",
+        "phone": "02-999-9101",
+        "coordinates": {
+            "x": 127.030083812739,
+            "y": 37.646742794246
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 12:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health and Welfare Pharmacy",
+        "pharmacy_name_kr": "후생당약국",
+        "address_en": "62 Gimcheon-ro, Gimcheon-si, Gyeongsangbuk-do (Pyeonghwa-dong)",
+        "address_kr": "경상북도 김천시 김천로 62 (평화동)",
+        "phone": "054-434-3775",
+        "coordinates": {
+            "x": 128.10989124117225,
+            "y": 36.12598273380665
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health Pharmacy",
+        "pharmacy_name_kr": "후생약국",
+        "address_en": "15 Macheon-ro 45-gil, Songpa-gu, Seoul (Macheon-dong)",
+        "address_kr": "서울특별시 송파구 마천로45길 15 (마천동)",
+        "phone": "02-400-0614",
+        "coordinates": {
+            "x": 127.150043068724,
+            "y": 37.4973942103357
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:30",
+            "Tue": "09:00 - 21:30",
+            "Wed": "09:00 - 21:30",
+            "Thu": "09:00 - 21:30",
+            "Fri": "09:00 - 21:30",
+            "Sat": "09:00 - 21:30",
+            "Sun": "09:30 - 21:30",
+            "Holiday": "09:00 - 21:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health Pharmacy",
+        "pharmacy_name_kr": "후생약국",
+        "address_en": "26, Dongil-ro 227-gil, Nowon-gu, Seoul",
+        "address_kr": "서울특별시 노원구 동일로227길 26",
+        "phone": "02-934-4861",
+        "coordinates": {
+            "x": 127.054677638301,
+            "y": 37.6701880464645
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health Pharmacy",
+        "pharmacy_name_kr": "후생약국",
+        "address_en": "34, Eupsangseo-ro 5beon-gil, Hoengseong-eup, Hoengseong-gun, Gangwon-do",
+        "address_kr": "강원특별자치도 횡성군 횡성읍 읍상서로5번길 34",
+        "phone": "033-343-2652",
+        "coordinates": {
+            "x": 127.98661366441482,
+            "y": 37.4898531070406
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 19:00",
+            "Sun": "09:00 - 19:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Health Pharmacy",
+        "pharmacy_name_kr": "후생약국",
+        "address_en": "78 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul",
+        "address_kr": "서울특별시 영등포구 국제금융로 78",
+        "phone": "02-783-1144",
+        "coordinates": {
+            "x": 126.931298156696,
+            "y": 37.5208724804701
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Huam Sarangsaem Pharmacy",
+        "pharmacy_name_kr": "후암사랑샘약국",
+        "address_en": "537 Yanggok-ro, Yangchon-eup, Gimpo-si, Gyeonggi-do (Yangchon-eup)",
+        "address_kr": "경기도 김포시 양촌읍 양곡로 537 (양촌읍)",
+        "phone": "031-982-4767",
+        "coordinates": {
+            "x": 126.62376019063251,
+            "y": 37.65487445631456
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 09:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hupo Baekdusan Pharmacy",
+        "pharmacy_name_kr": "후포백두산약국",
+        "address_en": "128 Huposamyul-ro, Hupo-myeon, Uljin-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 울진군 후포면 후포삼율로 128 ",
+        "phone": "054-788-5006",
+        "coordinates": {
+            "x": 129.44308185150453,
+            "y": 36.68135034155287
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 15:00",
+            "Sun": "08:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hupo Hope Pharmacy",
+        "pharmacy_name_kr": "후포소망약국",
+        "address_en": "20 Uljindaege-ro, Hupo-myeon, Uljin-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 울진군 후포면 울진대게로 20",
+        "phone": "054-787-7807",
+        "coordinates": {
+            "x": 129.44324726164086,
+            "y": 36.67735088325984
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hupo Pharmacy",
+        "pharmacy_name_kr": "후포약국",
+        "address_en": "Hupo Pharmacy, 130 Huposamyul-ro, Hupo-myeon, Uljin-gun, Gyeongsangbuk-do",
+        "address_kr": "경상북도 울진군 후포면 후포삼율로 130, 후포약국",
+        "phone": "054-787-2577",
+        "coordinates": {
+            "x": 129.443087078048,
+            "y": 36.6814766296963
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 20:00",
+            "Sun": "08:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hunmin Pharmacy",
+        "pharmacy_name_kr": "훈민약국",
+        "address_en": "#105, 48, Forest Village-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Pungdong, Shinseong Plaza)",
+        "address_kr": "경기도 고양시 일산동구 숲속마을로 48, 105호 (풍동, 신성프라자)",
+        "phone": "031-901-1235",
+        "coordinates": {
+            "x": 126.79794535942506,
+            "y": 37.66745851798154
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Huns Pharmacy",
+        "pharmacy_name_kr": "훈스약국",
+        "address_en": "408 Yeonsu-ro, Suyeong-gu, Busan, Basement 1, 1st floor (Gwangan-dong)",
+        "address_kr": "부산광역시 수영구 연수로 408, 지하1,1층 (광안동)",
+        "phone": "051-754-4997",
+        "coordinates": {
+            "x": 129.104440638,
+            "y": 35.1751897312
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Pharmacy",
+        "pharmacy_name_kr": "훈약국",
+        "address_en": "1st floor, Lotte Premium Outlet Gimhae branch, 469 Jangyu-ro, Gimhae-si, Gyeongsangnam-do (Sinmun-dong)",
+        "address_kr": "경상남도 김해시 장유로 469, 롯데 프리미엄 아울렛 김해점 1층 (신문동)",
+        "phone": "055-000-0000",
+        "coordinates": {
+            "x": 128.829596369018,
+            "y": 35.1850621204763
+        },
+        "operating_hours": {
+            "Mon": "10:30 - 20:00",
+            "Tue": "10:30 - 20:00",
+            "Wed": "10:30 - 20:00",
+            "Thu": "10:30 - 20:00",
+            "Fri": "10:30 - 21:00",
+            "Sat": "10:30 - 21:00",
+            "Sun": "10:30 - 21:00",
+            "Holiday": "10:30 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Pharmacy",
+        "pharmacy_name_kr": "훈약국",
+        "address_en": "1st floor, Daedong Clinic Building, 2010 Cheongnam-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do (Bunpyeong-dong)",
+        "address_kr": "충청북도 청주시 서원구 청남로 2010, 대동크리닉빌딩 1층 (분평동)",
+        "phone": "043-283-1026",
+        "coordinates": {
+            "x": 127.485419191824,
+            "y": 36.6116885446998
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "12:00 - 18:00",
+            "Holiday": "12:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Pharmacy",
+        "pharmacy_name_kr": "훈약국",
+        "address_en": "Room 1024, 1st floor, Paragon Square, Misa Station, 100-1 Misagangbyeondong-ro, Hanam-si, Gyeonggi-do (Mangwol-dong)",
+        "address_kr": "경기도 하남시 미사강변동로 100-1, 미사역 파라곤 스퀘어 1층 1024호 (망월동)",
+        "phone": "070-7622-0719",
+        "coordinates": {
+            "x": 127.193600096193,
+            "y": 37.5639612578823
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Pharmacy",
+        "pharmacy_name_kr": "훈약국",
+        "address_en": "95 Pyeongtaek-ro, Pyeongtaek-si, Gyeonggi-do (Tongbok-dong)",
+        "address_kr": "경기도 평택시 평택로 95(통복동)",
+        "phone": "031-653-5676",
+        "coordinates": {
+            "x": 127.083254547262,
+            "y": 36.9948182717302
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Pharmacy",
+        "pharmacy_name_kr": "훈약국",
+        "address_en": "#112, Seven Square, 61 Yanghak-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do (Deukryang-dong)",
+        "address_kr": "경상북도 포항시 북구 양학로 61, 세븐스퀘어 112호 (득량동)",
+        "phone": "054-284-0188",
+        "coordinates": {
+            "x": 129.347504594711,
+            "y": 36.0284949375739
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Hoon Pharmacy",
+        "pharmacy_name_kr": "훈훈약국",
+        "address_en": "#103~104, Centum Building, 20 Geumo 13-gil, Dong-myeon, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 동면 금오13길 20, 센텀빌딩 103~104호",
+        "phone": "055-385-0427",
+        "coordinates": {
+            "x": 129.0257155139978,
+            "y": 35.31712736594355
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00",
+            "Sun": "09:00 - 14:00",
+            "Holiday": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hoon Hoon Pharmacy",
+        "pharmacy_name_kr": "훈훈약국",
+        "address_en": "#104,105, Sanyang Tower, 230 Myeongjigukje 8-ro, Gangseo-gu, Busan (Myeongji-dong)",
+        "address_kr": "부산광역시 강서구 명지국제8로 230, 산양타워 104,105호 (명지동)",
+        "phone": "051-207-0427",
+        "coordinates": {
+            "x": 128.9178877245911,
+            "y": 35.09791661086561
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Warm Oriental Pharmacy",
+        "pharmacy_name_kr": "훈훈한약국",
+        "address_en": "287 Geumseong-ro, Gyeongju-si, Gyeongsangbuk-do (Seonggeon-dong, Irum Plaza)",
+        "address_kr": "경상북도 경주시 금성로 287 (성건동, 이룸프라자)",
+        "phone": "054-777-5718",
+        "coordinates": {
+            "x": 129.2066109308,
+            "y": 35.8430812833
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 15:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼미리약국",
+        "address_en": "138 Daejeong-ro, Seongsan-gu, Changwon-si, Gyeongsangnam-do (Daebang-dong, Daebangdaedong Apartment)",
+        "address_kr": "경상남도 창원시 성산구 대정로 138 (대방동, 대방대동아파트)",
+        "phone": "055-284-8310",
+        "coordinates": {
+            "x": 128.70762135383123,
+            "y": 35.21174512484588
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼미리약국",
+        "address_en": "139, Gocheok-ro, Guro-gu, Seoul (Gocheok-dong)",
+        "address_kr": "서울특별시 구로구 고척로 139, (고척동)",
+        "phone": "02-2683-3785",
+        "coordinates": {
+            "x": 126.849279825906,
+            "y": 37.5027700975246
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼미리약국",
+        "address_en": "30-16, Dokjak-ro 3beon-gil, Namdong-gu, Incheon",
+        "address_kr": "인천광역시 남동구 독점로3번길 30-16",
+        "phone": "032-462-0045",
+        "coordinates": {
+            "x": 126.70917555980664,
+            "y": 37.450851312414024
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼미리약국",
+        "address_en": "68 Jung-daero, Songpa-gu, Seoul (Munjeong-dong, Family Charmant #106)",
+        "address_kr": "서울특별시 송파구 중대로 68 (문정동, 훼미리샤르망 106호)",
+        "phone": "02-400-2112",
+        "coordinates": {
+            "x": 127.116437188825,
+            "y": 37.4915653895479
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼미리약국",
+        "address_en": "152 Mabuk-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Mabuk-dong)",
+        "address_kr": "경기도 용인시 기흥구 마북로 152  (마북동)",
+        "phone": "031-286-2824",
+        "coordinates": {
+            "x": 127.12348323082375,
+            "y": 37.30347680123424
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 18:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼미리약국",
+        "address_en": "Part of Main Plaza #407-1 and #407-2, 1051 Hyohaeng-ro, Hwaseong-si, Gyeonggi-do (Jinan-dong)",
+        "address_kr": "경기도 화성시 효행로 1051, 메인프라자 407-1호 및 407-2호 일부 (진안동)",
+        "phone": "031-221-0340",
+        "coordinates": {
+            "x": 127.04188581526803,
+            "y": 37.21448159147519
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Family Pharmacy",
+        "pharmacy_name_kr": "훼밀리약국",
+        "address_en": "#102, 39 Migeum-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Gumi-dong, Royal Plaza)",
+        "address_kr": "경기도 성남시 분당구 미금로 39, 102호 (구미동, 로얄프라자)",
+        "phone": "031-717-4906",
+        "coordinates": {
+            "x": "127.11602225387818",
+            "y": 37.336857635009224
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hwimyeong Pharmacy",
+        "pharmacy_name_kr": "휘명약국",
+        "address_en": "Room 101, 1st floor, 23, Sanho-daero 27-gil, Gumi-si, Gyeongsangbuk-do (Okgye-dong)",
+        "address_kr": "경상북도 구미시 산호대로27길 23, 1층 101호 (옥계동)",
+        "phone": "054-715-2100",
+        "coordinates": {
+            "x": 128.417049961205,
+            "y": 36.1388988445587
+        },
+        "operating_hours": {
+            "Mon": "14:00 - 24:00",
+            "Tue": "14:00 - 24:00",
+            "Wed": "14:00 - 24:00",
+            "Thu": "14:00 - 24:00",
+            "Fri": "14:00 - 24:00",
+            "Sat": "14:00 - 24:00",
+            "Sun": "14:00 - 24:00",
+            "Holiday": "14:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Humansia Pharmacy",
+        "pharmacy_name_kr": "휴먼시아약국",
+        "address_en": "Golden Plaza, 64, Anggogae-ro 847beon-gil, Namdong-gu, Incheon (Nonhyeon-dong)",
+        "address_kr": "인천광역시 남동구 앵고개로847번길 64, 골든프라자 (논현동)",
+        "phone": "032-425-2060",
+        "coordinates": {
+            "x": 126.7249799085,
+            "y": 37.3987402772
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 19:00",
+            "Tue": "08:40 - 19:00",
+            "Wed": "08:40 - 19:00",
+            "Thu": "08:40 - 19:00",
+            "Fri": "08:40 - 19:00",
+            "Sat": "08:45 - 14:00",
+            "Sun": "08:45 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Home Pharmacy",
+        "pharmacy_name_kr": "휴베이스 가정약국",
+        "address_en": "1st floor, 25 Gilju-ro 494beon-gil, Bupyeong-gu, Incheon (Cheongcheon-dong)",
+        "address_kr": "인천광역시 부평구 길주로494번길 25, 1층 일부호 (청천동)",
+        "phone": "032-362-1017",
+        "coordinates": {
+            "x": 126.717103104916,
+            "y": 37.5064747992958
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 18:00",
+            "Tue": "10:00 - 18:00",
+            "Wed": "10:00 - 18:00",
+            "Thu": "10:00 - 18:00",
+            "Fri": "10:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Gwangan Sea Pharmacy",
+        "pharmacy_name_kr": "휴베이스 광안바다약국",
+        "address_en": "1st floor, 551 Suyeong-ro, Suyeong-gu, Busan (Gwangan-dong)",
+        "address_kr": "부산광역시 수영구 수영로 551, 1층 (광안동)",
+        "phone": "051-753-7522",
+        "coordinates": {
+            "x": 129.1122523403,
+            "y": 35.155062569
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase International Pharmacy",
+        "pharmacy_name_kr": "휴베이스 국제약국",
+        "address_en": "71 Sinnae-ro, Jungnang-gu, Seoul (Sinnae-dong)",
+        "address_kr": "서울특별시 중랑구 신내로 71 (신내동)",
+        "phone": "02-3423-0828",
+        "coordinates": {
+            "x": 127.095110195174,
+            "y": 37.60554852465
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Pharmacy",
+        "pharmacy_name_kr": "휴베이스 범약국",
+        "address_en": "#104, Hwaseong Plaza, 40 Hamilyedang 1-ro, Jinjeop-eup, Namyangju-si, Gyeonggi-do",
+        "address_kr": "경기도 남양주시 진접읍 해밀예당1로 40, 화성프라자 104호",
+        "phone": "031-528-7031",
+        "coordinates": {
+            "x": 127.186905679814,
+            "y": 37.7122987492447
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Olive Pharmacy",
+        "pharmacy_name_kr": "휴베이스 올리브약국",
+        "address_en": "Gut Hospital Building, 578 Woni-daero, Seongsan-gu, Changwon-si, Gyeongsangnam-do (Jungang-dong)",
+        "address_kr": "경상남도 창원시 성산구 원이대로 578, 구트병원빌딩 (중앙동)",
+        "phone": "0552761041",
+        "coordinates": {
+            "x": 128.65182303831114,
+            "y": 35.242877261840455
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Choi Pharmacy",
+        "pharmacy_name_kr": "휴베이스 최약국",
+        "address_en": "1st floor, 6, Samhak-ro 16beon-gil, Mokpo-si, Jeollanam-do (Sangrak-dong 2-ga)",
+        "address_kr": "전라남도 목포시 삼학로16번길 6, 1층 (상락동2가)",
+        "phone": "061-272-0058",
+        "coordinates": {
+            "x": 126.38717265409998,
+            "y": 34.79002063589999
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Castle Pharmacy",
+        "pharmacy_name_kr": "휴베이스 캐슬약국",
+        "address_en": "#125, Shopping Mall, 133 Godeok-ro, Gangdong-gu, Seoul (Amsa-dong)",
+        "address_kr": "서울특별시 강동구 고덕로 133 상가 125호  (암사동)",
+        "phone": "02-442-9980",
+        "coordinates": {
+            "x": 127.140347239304,
+            "y": 37.5552528493133
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 20:00",
+            "Tue": "08:40 - 20:00",
+            "Wed": "08:40 - 20:00",
+            "Thu": "08:40 - 20:00",
+            "Fri": "08:40 - 20:00",
+            "Sat": "08:40 - 20:00",
+            "Sun": "09:00 - 12:00",
+            "Holiday": "09:30 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Doun Pharmacy",
+        "pharmacy_name_kr": "휴베이스 튼튼약국",
+        "address_en": "Room 104, 1st floor, Good Doctors Building, 24-22 Geumbit-ro, Paju-si, Gyeonggi-do (Geumchon-dong)",
+        "address_kr": "경기도 파주시 금빛로 24-22, 굿닥터스빌딩 1층 104호 (금촌동)",
+        "phone": "031-944-0142",
+        "coordinates": {
+            "x": 126.767910265155,
+            "y": 37.7516520643314
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 17:00",
+            "Holiday": "12:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Blue Pharmacy",
+        "pharmacy_name_kr": "휴베이스 푸른약국",
+        "address_en": "42 Mangma-ro, Yeosu-si, Jeollanam-do (Hak-dong)",
+        "address_kr": "전라남도 여수시 망마로 42 (학동)",
+        "phone": "061-684-6118",
+        "coordinates": {
+            "x": 127.66730643119365,
+            "y": 34.759154366634924
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:40",
+            "Tue": "09:00 - 18:40",
+            "Wed": "09:00 - 18:40",
+            "Thu": "09:00 - 18:40",
+            "Fri": "09:00 - 18:40",
+            "Sat": "09:00 - 13:20"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Hanbit Pharmacy",
+        "pharmacy_name_kr": "휴베이스 한빛약국",
+        "address_en": "Room 102, 1st floor, 52 Jeongbohwa-gil, Naju-si, Jeollanam-do (Bitgaram-dong)",
+        "address_kr": "전라남도 나주시 정보화길 52, 1층 102호 (빛가람동)",
+        "phone": "061-332-9930",
+        "coordinates": {
+            "x": 126.799694463404,
+            "y": 35.0238561355022
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "08:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Health Pharmacy",
+        "pharmacy_name_kr": "휴베이스건강약국",
+        "address_en": "1st floor, 232 Hakgam-daero, Sasang-gu, Busan (Gamjeon-dong, Sasang Wideville)",
+        "address_kr": "부산광역시 사상구 학감대로 232, 1층 (감전동, 사상와이드빌)",
+        "phone": "051-982-5688",
+        "coordinates": {
+            "x": 128.990256505202,
+            "y": 35.1515821222881
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Gyodae 365 Pharmacy",
+        "pharmacy_name_kr": "휴베이스교대365약국",
+        "address_en": "1st floor, 316 TOWER, 10, Seochojungang-ro 24-gil, Seocho-gu, Seoul (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 서초중앙로24길 10, 316 TOWER 1층 (서초동)",
+        "phone": "02-599-8683",
+        "coordinates": {
+            "x": 127.014858535596,
+            "y": 37.4944415356967
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 20:00",
+            "Tue": "08:00 - 20:00",
+            "Wed": "08:00 - 20:00",
+            "Thu": "08:00 - 20:00",
+            "Fri": "08:00 - 20:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 18:00",
+            "Holiday": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Guseong Pharmacy",
+        "pharmacy_name_kr": "휴베이스구성약국",
+        "address_en": "2398 Yonggu-daero, Giheung-gu, Yongin-si, Gyeonggi-do, #208 Yeonwon Village Byeoksan Apartment Shopping Mall (Mabuk-dong)",
+        "address_kr": "경기도 용인시 기흥구 용구대로 2398, 연원마을벽산아파트 상가 208호 (마북동)",
+        "phone": "031-285-9369",
+        "coordinates": {
+            "x": 127.107284192734,
+            "y": 37.3003041075341
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Dana Pharmacy",
+        "pharmacy_name_kr": "휴베이스다나약국",
+        "address_en": "#210, 81 Gomisul-ro, Dongdaemun-gu, Seoul (Dapsimni-dong)",
+        "address_kr": "서울특별시 동대문구 고미술로 81, 210호 (답십리동)",
+        "phone": "02-412-1003",
+        "coordinates": {
+            "x": 127.055721897581,
+            "y": 37.5656002424883
+        },
+        "operating_hours": {
+            "Mon": "08:50 - 20:10",
+            "Tue": "08:50 - 19:30",
+            "Wed": "08:50 - 19:30",
+            "Thu": "08:50 - 20:10",
+            "Fri": "08:50 - 19:30",
+            "Sat": "08:50 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Dajeong Pharmacy",
+        "pharmacy_name_kr": "휴베이스다정약국",
+        "address_en": "1944 Nambusunhwan-ro, Gwanak-gu, Seoul, 1st floor (Bongcheon-dong)",
+        "address_kr": "서울특별시 관악구 남부순환로 1944, 1층 (봉천동)",
+        "phone": "02-878-0222",
+        "coordinates": {
+            "x": 126.964798740309,
+            "y": 37.4763144345225
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "10:00 - 22:00",
+            "Holiday": "10:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase University Pharmacy",
+        "pharmacy_name_kr": "휴베이스대학약국",
+        "address_en": "#101, 1603, Nambusunhwan-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 남부순환로 1603, 101호 (신림동)",
+        "phone": "02-888-7744",
+        "coordinates": {
+            "x": 126.928803713296,
+            "y": 37.4844379432327
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "09:30 - 16:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Dongbang Pharmacy",
+        "pharmacy_name_kr": "휴베이스동방약국",
+        "address_en": "1st floor, 111 Dongpyeong-ro, Busanjin-gu, Busan (Buam-dong)",
+        "address_kr": "부산광역시 부산진구 동평로 111, 1층 (부암동)",
+        "phone": "051-803-4827",
+        "coordinates": {
+            "x": 129.0414790165,
+            "y": 35.1661277952
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Donga Pharmacy",
+        "pharmacy_name_kr": "휴베이스동아약국",
+        "address_en": "Room 106, 1st floor, 576 Bongcheon-ro, Gwanak-gu, Seoul (Bongcheon-dong, Donga Town Apartment)",
+        "address_kr": "서울특별시 관악구 봉천로 576, 1층 106호 (봉천동, 동아타운아파트)",
+        "phone": "02-6949-5732",
+        "coordinates": {
+            "x": 126.961320975076,
+            "y": 37.4769738774324
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Dream Pharmacy",
+        "pharmacy_name_kr": "휴베이스드림약국",
+        "address_en": "#103, 235 Unjung-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Pangyo-dong, Narae Medi Plus)",
+        "address_kr": "경기도 성남시 분당구 운중로 235, 103호 (판교동, 나래메디플러스)",
+        "phone": "070-8227-7582",
+        "coordinates": {
+            "x": 127.08935683293333,
+            "y": 37.38993322151637
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Lighthouse Pharmacy",
+        "pharmacy_name_kr": "휴베이스등대약국",
+        "address_en": "#101, 33, Gungpoan 1-gil, Gunsan-si, Jeollabuk-do (Jochon-dong)",
+        "address_kr": "전북특별자치도 군산시 궁포안1길 33, 101호 (조촌동)",
+        "phone": "063-443-3335",
+        "coordinates": {
+            "x": 126.744084284551,
+            "y": 35.9761995162555
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubeyrian Pharmacy",
+        "pharmacy_name_kr": "휴베이스리안약국",
+        "address_en": "130 Samsan-ro, Nam-gu, Ulsan, 1st floor (Dal-dong)",
+        "address_kr": "울산광역시 남구 삼산로 130, 1층 (달동)",
+        "phone": "052-713-5001",
+        "coordinates": {
+            "x": 129.321760955443,
+            "y": 35.5356145745364
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00",
+            "Holiday": "09:00 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Mom Pharmacy",
+        "pharmacy_name_kr": "휴베이스맘약국",
+        "address_en": "36 Yonghwang-ro 11-gil, Gyeongju-si, Gyeongsangbuk-do (Yonggang-dong)",
+        "address_kr": "경상북도 경주시 용황로11길 36 (용강동)",
+        "phone": "054-771-5551",
+        "coordinates": {
+            "x": 129.231104623895,
+            "y": 35.8853216220008
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Myungin Pharmacy",
+        "pharmacy_name_kr": "휴베이스명인약국",
+        "address_en": "1st floor, Ilsan Legal Building, 212 Jangbaek-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do (Janghang-dong)",
+        "address_kr": "경기도 고양시 일산동구 장백로 212, 일산법조빌딩 1층 일부호 (장항동)",
+        "phone": "031-904-4123",
+        "coordinates": {
+            "x": 126.7920828853,
+            "y": 37.6448506466
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Smile Pharmacy",
+        "pharmacy_name_kr": "휴베이스미소약국",
+        "address_en": "#102, 1st floor, 117 Seonyuseo-ro, Yeongdeungpo-gu, Seoul (Yangpyeong-dong 3-ga)",
+        "address_kr": "서울특별시 영등포구 선유서로 117, 1층 102호 (양평동3가)",
+        "phone": "02-2677-0360",
+        "coordinates": {
+            "x": 126.886112724011,
+            "y": 37.5261628364547
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:50",
+            "Tue": "09:00 - 20:50",
+            "Wed": "09:00 - 20:50",
+            "Thu": "09:00 - 20:50",
+            "Fri": "09:00 - 20:50",
+            "Sat": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Banseok Bom Pharmacy",
+        "pharmacy_name_kr": "휴베이스반석봄약국",
+        "address_en": "#103, 28 Banseok-ro, Yuseong-gu, Daejeon (Banseok-dong)",
+        "address_kr": "대전광역시 유성구 반석로 28, 103호 (반석동)",
+        "phone": "042-826-2133",
+        "coordinates": {
+            "x": 127.311375690374,
+            "y": 36.3915899442756
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:30",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:30",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Best Pharmacy",
+        "pharmacy_name_kr": "휴베이스베스트약국",
+        "address_en": "1st floor, 57 Galma-ro, Buk-gu, Gwangju (Duam-dong)",
+        "address_kr": "광주광역시 북구 갈마로 57, 1층 (두암동)",
+        "phone": "062-514-0616",
+        "coordinates": {
+            "x": "126.936755555555550",
+            "y": 35.162013888888886
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Bokjeong Pharmacy",
+        "pharmacy_name_kr": "휴베이스복정약국",
+        "address_en": "#104, 86, Bokjeong-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do (Bokjeong-dong)",
+        "address_kr": "경기도 성남시 수정구 복정로 86, 104호 (복정동)",
+        "phone": "031-759-5398",
+        "coordinates": {
+            "x": "127.12697365588057",
+            "y": 37.46060703158743
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Holiday": "11:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Bom Pharmacy",
+        "pharmacy_name_kr": "휴베이스봄약국",
+        "address_en": "1st floor, Time Building, 9 Seocho-daero 73-gil, Seocho-gu, Seoul (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 서초대로73길 9, 타임빌딩 1층 (서초동)",
+        "phone": "02-595-4008",
+        "coordinates": {
+            "x": 127.025227802646,
+            "y": 37.4983082485546
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 21:00",
+            "Tue": "10:00 - 21:00",
+            "Wed": "10:00 - 21:00",
+            "Thu": "10:00 - 21:00",
+            "Fri": "10:00 - 21:00",
+            "Sat": "10:00 - 19:00",
+            "Sun": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Bom Pharmacy",
+        "pharmacy_name_kr": "휴베이스봄약국",
+        "address_en": "Rooms 101 and 102, Sangji Shopping Center Building, 172 Naejeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Sunae-dong)",
+        "address_kr": "경기도 성남시 분당구 내정로 172, 상지상가빌딩 101,102호 (수내동)",
+        "phone": "031-711-0995",
+        "coordinates": {
+            "x": 127.119960387877,
+            "y": 37.3736518597654
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "10:00 - 18:00",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Bom Pharmacy",
+        "pharmacy_name_kr": "휴베이스봄약국",
+        "address_en": "#102, 163 Seongan-ro, Gangdong-gu, Seoul (Cheonho-dong)",
+        "address_kr": "서울특별시 강동구 성안로 163, 102호 (천호동)",
+        "phone": "02-2138-0516",
+        "coordinates": {
+            "x": 127.13527207045,
+            "y": 37.5377591322053
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "08:30 - 21:00",
+            "Sun": "13:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Bom Pharmacy",
+        "pharmacy_name_kr": "휴베이스봄약국",
+        "address_en": "#111, Deogyu Park, 428 Gyeongsu-daero, Dongan-gu, Anyang-si, Gyeonggi-do (Hogye-dong)",
+        "address_kr": "경기도 안양시 동안구 경수대로 428, 덕유파크 111호 (호계동)",
+        "phone": "031-429-5949",
+        "coordinates": {
+            "x": 126.962526814593,
+            "y": 37.3622634561028
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Vitamin Pharmacy",
+        "pharmacy_name_kr": "휴베이스비타민약국",
+        "address_en": "1st floor, Daeyeon Building, 120 Gwangmyeong-ro, Jungwon-gu, Seongnam-si, Gyeonggi-do (Seongnam-dong)",
+        "address_kr": "경기도 성남시 중원구 광명로 120, 대연빌딩 1층 (성남동)",
+        "phone": "031-752-7520",
+        "coordinates": {
+            "x": 127.141810187233,
+            "y": 37.4363401076088
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Vitamin Pharmacy",
+        "pharmacy_name_kr": "휴베이스비타민약국",
+        "address_en": "51 Garogongwon-ro 76-gil, Gangseo-gu, Seoul (Hwagok-dong)",
+        "address_kr": "서울특별시 강서구 가로공원로76길 51 (화곡동)",
+        "phone": "02-2607-6007",
+        "coordinates": {
+            "x": 126.837978157379,
+            "y": 37.5348879429263
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Sarang Pharmacy",
+        "pharmacy_name_kr": "휴베이스사랑약국",
+        "address_en": "Room 101, 1st floor, 145 Gwongwang-ro, Gwonseon-gu, Suwon-si, Gyeonggi-do (Gwonseon-dong, EOS Officetel)",
+        "address_kr": "경기도 수원시 권선구 권광로 145, 1층 101호 (권선동, 이오스 오피스텔)",
+        "phone": "031-238-0991",
+        "coordinates": {
+            "x": 127.031058284533,
+            "y": 37.260779052337
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 21:00",
+            "Tue": "09:30 - 21:00",
+            "Wed": "09:30 - 21:00",
+            "Thu": "09:30 - 21:00",
+            "Fri": "09:30 - 21:00",
+            "Sat": "09:30 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Seoul Pharmacy",
+        "pharmacy_name_kr": "휴베이스서울약국",
+        "address_en": "36-11, Donggeum 1-gil, Sacheon-si, Gyeongsangnam-do (Donggeum-dong)",
+        "address_kr": "경상남도 사천시 동금1길 36-11(동금동)",
+        "phone": "055-835-0305",
+        "coordinates": {
+            "x": 128.080561391063,
+            "y": 34.934152562231
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Seocheonbaek Pharmaceutical Pharmacy",
+        "pharmacy_name_kr": "휴베이스서천백제약국",
+        "address_en": "11-6, Chungjeol-ro 49beon-gil, Seocheon-eup, Seocheon-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 서천군 서천읍 충절로49번길 11-6",
+        "phone": "041-453-7088",
+        "coordinates": {
+            "x": 126.688378417576,
+            "y": 36.0758322027828
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:00",
+            "Tue": "08:00 - 18:00",
+            "Wed": "08:00 - 18:00",
+            "Thu": "08:00 - 18:00",
+            "Fri": "08:00 - 18:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Central Pharmacy",
+        "pharmacy_name_kr": "휴베이스센트럴약국",
+        "address_en": "35 Yeonnam-ro, Michuhol-gu, Incheon Metropolitan City, Incheon General Terminal, Lotte Department Store Basement 1 (Gwangyo-dong)",
+        "address_kr": "인천광역시 미추홀구 연남로 35, 인천종합터미널,롯데백화점 지하1층 (관교동)",
+        "phone": "032-242-2095",
+        "coordinates": {
+            "x": 126.701518656221,
+            "y": 37.4425062298688
+        },
+        "operating_hours": {
+            "Mon": "10:30 - 20:00",
+            "Tue": "10:30 - 20:00",
+            "Wed": "10:30 - 20:00",
+            "Thu": "10:30 - 20:00",
+            "Fri": "10:30 - 20:00",
+            "Sat": "10:30 - 20:00",
+            "Sun": "10:30 - 20:00",
+            "Holiday": "10:30 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Central Pharmacy",
+        "pharmacy_name_kr": "휴베이스센트럴약국",
+        "address_en": "1st floor, 47-3, Moraenae-gil, Wonju-si, Gangwon-do (Step-dong)",
+        "address_kr": "강원특별자치도 원주시 모래내길 47-3, 1층 (단계동)",
+        "phone": "033-733-3773",
+        "coordinates": {
+            "x": 127.933963427757,
+            "y": 37.3525111403974
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 15:30",
+            "Holiday": "09:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Sugang Pharmacy",
+        "pharmacy_name_kr": "휴베이스수강약국",
+        "address_en": "1st floor, 343 Digital-ro, Yeongdeungpo-gu, Seoul (Daerim-dong)",
+        "address_kr": "서울특별시 영등포구 디지털로 343, 1층 (대림동)",
+        "phone": "02-832-5525",
+        "coordinates": {
+            "x": 126.898911464968,
+            "y": 37.4887560332513
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00",
+            "Sun": "09:00 - 13:00",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Alpha Pharmacy",
+        "pharmacy_name_kr": "휴베이스알파약국",
+        "address_en": "#9, 2nd floor, 131 Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do (Baekhyeon-dong)",
+        "address_kr": "경기도 성남시 분당구 분당내곡로 131, 2층 9호 (백현동)",
+        "phone": "031-601-7560",
+        "coordinates": {
+            "x": 127.112113596734,
+            "y": 37.3954648629951
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Eco Pharmacy",
+        "pharmacy_name_kr": "휴베이스에코약국",
+        "address_en": "#105, 30, Sebyeong-ro, Deokjin-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Songcheon-dong 2-ga)",
+        "address_kr": "전북특별자치도 전주시 덕진구 세병로 30, 105호 (송천동2가)",
+        "phone": "063-271-2769",
+        "coordinates": {
+            "x": 127.128002838,
+            "y": 35.873600466
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Excellent Pharmacy",
+        "pharmacy_name_kr": "휴베이스우수약국",
+        "address_en": "#127, #172, 1st floor, 760 Tongil-ro, Deogyang-gu, Goyang-si, Gyeonggi-do (Gwansan-dong, The First Prime)",
+        "address_kr": "경기도 고양시 덕양구 통일로 760, 1층 127호,172호 (관산동, 더퍼스트프라임)",
+        "phone": "031-968-8696",
+        "coordinates": {
+            "x": 126.8660823448,
+            "y": 37.6878625222
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Smiling Pharmacy",
+        "pharmacy_name_kr": "휴베이스웃는약국",
+        "address_en": "1st floor, 220 Bongeunsa-ro, Gangnam-gu, Seoul (Yeoksam-dong)",
+        "address_kr": "서울특별시 강남구 봉은사로 220, 1층 (역삼동)",
+        "phone": "02-558-4907",
+        "coordinates": {
+            "x": 127.036254512177,
+            "y": 37.5077508913398
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase One Pharmacy",
+        "pharmacy_name_kr": "휴베이스원약국",
+        "address_en": "#137, 1st floor, 291 Banpo-daero, Seocho-gu, Seoul (Banpo-dong)",
+        "address_kr": "서울특별시 서초구 반포대로 291, 1층 137호 (반포동)",
+        "phone": "02-3482-4799",
+        "coordinates": {
+            "x": 126.999480997797,
+            "y": 37.5049020694443
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Wolgye Woori Pharmacy",
+        "pharmacy_name_kr": "휴베이스월계우리약국",
+        "address_en": "Room 104, 1st floor, 334 Wolgye-ro, Nowon-gu, Seoul (Wolgye-dong, Grand Officetel)",
+        "address_kr": "서울특별시 노원구 월계로 334, 1층 104호 (월계동, 그랑디오피스텔)",
+        "phone": "02-6951-3479",
+        "coordinates": {
+            "x": 127.057612466252,
+            "y": 37.6290173070666
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubay Yoon Pharmacy",
+        "pharmacy_name_kr": "휴베이스윤약국",
+        "address_en": "#101,102, Geumjeong Plaza, 18 Dongtanjiseong-ro, Hwaseong-si, Gyeonggi-do (Bansong-dong)",
+        "address_kr": "경기도 화성시 동탄지성로 18, 금정프라자 101,102호 (반송동)",
+        "phone": "03180779975",
+        "coordinates": {
+            "x": 127.07261311080993,
+            "y": 37.205253769376306
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 23:00",
+            "Tue": "08:30 - 23:00",
+            "Wed": "08:30 - 23:00",
+            "Thu": "08:30 - 23:00",
+            "Fri": "08:30 - 23:00",
+            "Sat": "08:30 - 22:00",
+            "Sun": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Pharmacy",
+        "pharmacy_name_kr": "휴베이스은약국",
+        "address_en": "1st floor, Haeseong Building, 30 Simgok-ro 100beon-gil, Seo-gu, Incheon (Simgok-dong)",
+        "address_kr": "인천광역시 서구 심곡로100번길 30, 해성빌딩 1층 (심곡동)",
+        "phone": "032-565-0177",
+        "coordinates": {
+            "x": 126.684078898785,
+            "y": 37.541721601863
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 17:30",
+            "Tue": "08:30 - 17:30",
+            "Wed": "08:30 - 17:30",
+            "Thu": "08:30 - 17:30",
+            "Fri": "08:30 - 17:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Ian Pharmacy",
+        "pharmacy_name_kr": "휴베이스이안약국",
+        "address_en": "Room 5, 1st floor, Building 6, Banpo Shopping Town, 205 Sinbanpo-ro, Seocho-gu, Seoul (Jamwon-dong)",
+        "address_kr": "서울특별시 서초구 신반포로 205, 반포쇼핑타운 6동 1층 5호 (잠원동)",
+        "phone": "02-599-9533",
+        "coordinates": {
+            "x": 127.006460397501,
+            "y": 37.5070244820045
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "09:30 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Jeonggyeoun Pharmacy",
+        "pharmacy_name_kr": "휴베이스정겨운약국",
+        "address_en": "85, Magnolia-ro 153beon-gil, Gwangsan-gu, Gwangju (Unnam-dong)",
+        "address_kr": "광주광역시 광산구 목련로153번길 85 (운남동)",
+        "phone": "062-962-6422",
+        "coordinates": {
+            "x": 126.814437031274,
+            "y": 35.1758186793927
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 12:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Jeongseong Pharmacy",
+        "pharmacy_name_kr": "휴베이스정성약국",
+        "address_en": "Room 101, Building 102, 233 Doksan-ro, Geumcheon-gu, Seoul (Doksan-dong, Seorae Town)",
+        "address_kr": "서울특별시 금천구 독산로 233, 102동 101호 (독산동, 서래타운)",
+        "phone": "02-6264-0715",
+        "coordinates": {
+            "x": 126.901610938454,
+            "y": 37.467473503341
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Jeong Pharmacy",
+        "pharmacy_name_kr": "휴베이스정약국",
+        "address_en": "#109, 74 Haebit 1-ro, Ilgwang-eup, Gijang-gun, Busan",
+        "address_kr": "부산광역시 기장군 일광읍 해빛1로 74, 109호",
+        "phone": "051-724-2141",
+        "coordinates": {
+            "x": 129.22280563086733,
+            "y": 35.260322271696204
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Jinwol Pharmacy",
+        "pharmacy_name_kr": "휴베이스진월약국",
+        "address_en": "1st floor, 675 Seomun-daero, Nam-gu, Gwangju (Jinwol-dong)",
+        "address_kr": "광주광역시 남구 서문대로 675, 1층 (진월동)",
+        "phone": "062-651-6422",
+        "coordinates": {
+            "x": 126.898686955448,
+            "y": 35.1195701330331
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase First Pharmacy",
+        "pharmacy_name_kr": "휴베이스퍼스트약국",
+        "address_en": "#108, 80, Ieum 5-ro, Seo-gu, Incheon (Wondang-dong)",
+        "address_kr": "인천광역시 서구 이음5로 80, 108호 (원당동)",
+        "phone": "032-566-7677",
+        "coordinates": {
+            "x": 126.716329786182,
+            "y": 37.5952623549236
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 20:00",
+            "Tue": "08:30 - 20:00",
+            "Wed": "08:30 - 20:00",
+            "Thu": "08:30 - 20:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase High Pharmacy",
+        "pharmacy_name_kr": "휴베이스하이약국",
+        "address_en": "Metro Hotel 1st floor, 14 Myeongdong 9ga-gil, Jung-gu, Seoul (Euljiro 2-ga)",
+        "address_kr": "서울특별시 중구 명동9가길 14, 메트로호텔 1층 (을지로2가)",
+        "phone": "070-7798-8275",
+        "coordinates": {
+            "x": 126.983730468109,
+            "y": 37.5651356441528
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 23:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 23:00",
+            "Sat": "09:00 - 23:00",
+            "Sun": "11:00 - 23:00",
+            "Holiday": "12:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Happy Pharmacy",
+        "pharmacy_name_kr": "휴베이스행복약국",
+        "address_en": "#107, Gwacheon Terrace One, 6 Gwacheon-daero 2-gil, Gwacheon-si, Gyeonggi-do (Galhyeon-dong)",
+        "address_kr": "경기도 과천시 과천대로2길 6, 과천 테라스 원 107호 (갈현동)",
+        "phone": "02-3418-6339",
+        "coordinates": {
+            "x": 126.979850858071,
+            "y": 37.4071768608774
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Haengsin Pharmacy",
+        "pharmacy_name_kr": "휴베이스행신약국",
+        "address_en": "#104, Lotus Place, 8 Chungjang-ro, Deogyang-gu, Goyang-si, Gyeonggi-do (Haengsin-dong)",
+        "address_kr": "경기도 고양시 덕양구 충장로 8, 로터스플레이스 104호 (행신동)",
+        "phone": "031-994-6399",
+        "coordinates": {
+            "x": 126.83448935889,
+            "y": 37.6135312141777
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Pharmacy Department",
+        "pharmacy_name_kr": "휴베이스효약국",
+        "address_en": "Room 116, 1st floor, Changshin Best, 7 Godeokgukje-daero, Pyeongtaek-si, Gyeonggi-do (Godeok-dong)",
+        "address_kr": "경기도 평택시 고덕국제대로 7, 창신베스트 1층 116호 (고덕동)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 127.048217905855,
+            "y": 37.0388846146469
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hubase Hyocheon Pharmacy",
+        "pharmacy_name_kr": "휴베이스효천약국",
+        "address_en": "1st floor, 164 Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk Special Self-Governing Province (Hyoja-dong 2-ga)",
+        "address_kr": "전북특별자치도 전주시 완산구 천잠로 164, 1층 (효자동2가)",
+        "phone": "063-225-1728",
+        "coordinates": {
+            "x": 127.09930071137411,
+            "y": 35.80241744517034
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:30",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:30",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 20:00",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "drugstore",
+        "pharmacy_name_kr": "휴약국",
+        "address_en": "#113, 4665 Moak-ro, Wansan-gu, Jeonju-si, Jeonbuk-do (Pyeonghwa-dong 2-ga)",
+        "address_kr": "전북특별자치도 전주시 완산구 모악로 4665, 113호 (평화동2가)",
+        "phone": "063-246-7500",
+        "coordinates": {
+            "x": 127.12926063708541,
+            "y": 35.78616982074311
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "drugstore",
+        "pharmacy_name_kr": "휴약국",
+        "address_en": "19 Majang-ro 242beon-gil, Bupyeong-gu, Incheon",
+        "address_kr": "인천광역시 부평구 마장로242번길 19",
+        "phone": "032-515-3698",
+        "coordinates": {
+            "x": 126.70386906766669,
+            "y": 37.49971908794686
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Houghton Pharmacy",
+        "pharmacy_name_kr": "휴튼약국",
+        "address_en": "#105, 88 Bukmun-daero, Buk-gu, Gwangju (Unam-dong, Namyang Hutton 2nd)",
+        "address_kr": "광주광역시 북구 북문대로 88, 105호 (운암동, 남양휴튼 2차)",
+        "phone": "062-523-0077",
+        "coordinates": {
+            "x": 126.87742605921039,
+            "y": 35.17849866886114
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
     }
 ]
