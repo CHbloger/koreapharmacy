@@ -489703,5 +489703,491 @@
             "Thu": "09:00 - 21:00",
             "Fri": "09:00 - 21:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Gayang 2nd floor pharmacy",
+        "pharmacy_name_kr": "가양2층약국",
+        "address_en": "Room 208, Building B, Gangseo Hangang Xi Tower, 401 Yangcheon-ro, Gangseo-gu, Seoul (Gayang-dong)",
+        "address_kr": "서울특별시 강서구 양천로 401, 강서한강자이타워 B동 208호 일부호 (가양동)",
+        "phone": "02-0000-0000",
+        "coordinates": {
+            "x": 126.847638315393,
+            "y": 37.5657034766638
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Sun": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gangnam Jeil Pharmacy",
+        "pharmacy_name_kr": "강남제일약국",
+        "address_en": "139 Teheran-ro, Gangnam-gu, Seoul (Yeoksam-dong)",
+        "address_kr": "서울 강남구 테헤란로 139   (역삼동)",
+        "phone": "02-555-7790",
+        "coordinates": {
+            "x": 127.034343239289,
+            "y": 37.5004008797362
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "10:00 - 16:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gangdong Aram Pharmacy",
+        "pharmacy_name_kr": "강동아람약국",
+        "address_en": "1st floor, 1124 Cheonho-daero, Gangdong-gu, Seoul (Seongnae-dong)",
+        "address_kr": "서울특별시 강동구 천호대로 1124, 1층 (성내동)",
+        "phone": "02-473-4959",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "13:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gangseo Health Pharmacy",
+        "pharmacy_name_kr": "강서보건약국",
+        "address_en": "1st floor, 123-28 Yangcheon-ro 30-gil, Gangseo-gu, Seoul (Magok-dong)",
+        "address_kr": "서울특별시 강서구 양천로30길 123-28, 1층 (마곡동)",
+        "phone": "02-2088-7501",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:30",
+            "Tue": "08:30 - 18:30",
+            "Wed": "08:30 - 18:30",
+            "Thu": "08:30 - 18:30",
+            "Fri": "08:30 - 18:30",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Godeok Star Pharmacy",
+        "pharmacy_name_kr": "고덕스타약국",
+        "address_en": "#122, 399 Godeok-ro, Gangdong-gu, Seoul (Godeok-dong, Godeok Central Prugio)",
+        "address_kr": "서울특별시 강동구 고덕로 399, 122호 (고덕동, 고덕센트럴푸르지오)",
+        "phone": "070-8080-4310",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Godeok Tunton Pharmacy",
+        "pharmacy_name_kr": "고덕튼튼약국",
+        "address_en": "1st floor, 658 Gucheonmyeon-ro, Gangdong-gu, Seoul (Sangil-dong)",
+        "address_kr": "서울특별시 강동구 구천면로 658, 1층 (상일동)",
+        "phone": "02-428-1333",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 19:00",
+            "Tue": "09:30 - 19:00",
+            "Wed": "09:30 - 19:00",
+            "Thu": "09:30 - 19:00",
+            "Fri": "09:30 - 19:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Snow Love Onnuri Pharmacy",
+        "pharmacy_name_kr": "눈사랑온누리약국",
+        "address_en": "Part 1, 1st floor, 41 Pungseong-ro 37-gil, Gangdong-gu, Seoul (Seongnae-dong)",
+        "address_kr": "서울특별시 강동구 풍성로37길 41, 1층 일부호 (성내동)",
+        "phone": "02-6396-7390",
+        "coordinates": {
+            "x": 127.126313892782,
+            "y": 37.5337186980892
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Daechi Lavender Pharmacy",
+        "pharmacy_name_kr": "대치라벤더약국",
+        "address_en": "Room 601, 6th floor, Jaekyung Building, 2947 Nambusunhwan-ro, Gangnam-gu, Seoul (Daechi-dong)",
+        "address_kr": "서울특별시 강남구 남부순환로 2947, 재경빌딩 6층 601호 (대치동)",
+        "phone": "02-501-7582",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "14:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dream Pharmacy",
+        "pharmacy_name_kr": "드림약국",
+        "address_en": "#103, 786, Olympic-ro, Gangdong-gu, Seoul (Amsa-dong)",
+        "address_kr": "서울특별시 강동구 올림픽로 786, 103호 (암사동)",
+        "phone": "02-6953-0708",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Life Pharmacy",
+        "pharmacy_name_kr": "라이프약국",
+        "address_en": "1st floor, 190 Sinchon-ro, Mapo-gu, Seoul (Yeomni-dong)",
+        "address_kr": "서울특별시 마포구 신촌로 190, 1층 (염리동)",
+        "phone": "02-706-0893",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Marion Nuri Pharmacy",
+        "pharmacy_name_kr": "마리온누리약국",
+        "address_en": "#3038,3039,3040, 3rd floor, 1360 Yangjae-daero, Gangdong-gu, Seoul (Dunchon-dong)",
+        "address_kr": "서울특별시 강동구 양재대로 1360, 3층 3038,3039,3040호 (둔촌동)",
+        "phone": "02-6953-2930",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Mapo-gu Office Station Pharmacy",
+        "pharmacy_name_kr": "마포구청역약국",
+        "address_en": "Room 620-102, Basement 1, Mapo-gu Office Station, Basement 190, World Cup-ro, Mapo-gu, Seoul (Seongsan-dong)",
+        "address_kr": "서울특별시 마포구 월드컵로 지하190, 마포구청역 지하1층 620-102호 (성산동)",
+        "phone": "0507-1391-2252",
+        "coordinates": {
+            "x": 126.903356973848,
+            "y": 37.5634263131969
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 23:00",
+            "Tue": "08:00 - 23:00",
+            "Wed": "08:00 - 23:00",
+            "Thu": "08:00 - 23:00",
+            "Fri": "08:00 - 23:00",
+            "Sat": "12:00 - 23:00",
+            "Sun": "12:00 - 23:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Myeongdong Berry New Pharmacy",
+        "pharmacy_name_kr": "명동베리뉴약국",
+        "address_en": "18 Myeongdong 8-gil, Jung-gu, Seoul, 1st floor and 1 other location (Myeongdong 2-ga)",
+        "address_kr": "서울특별시 중구 명동8길 18, 1층 외 1개소 (명동2가)",
+        "phone": "0507-1413-3481",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 23:30",
+            "Tue": "10:00 - 23:30",
+            "Wed": "10:00 - 23:30",
+            "Thu": "10:00 - 23:30",
+            "Fri": "10:00 - 23:30",
+            "Sat": "10:00 - 23:30",
+            "Sun": "10:00 - 23:30",
+            "Holiday": "10:00 - 23:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Myeongdong First Pharmacy",
+        "pharmacy_name_kr": "명동퍼스트약국",
+        "address_en": "14 Myeongdong-gil, Jung-gu, Seoul, Noon Square 1st floor (Myeongdong 2-ga)",
+        "address_kr": "서울특별시 중구 명동길 14, Noon Square 1층 (명동2가)",
+        "phone": "02-3789-7277",
+        "coordinates": {
+            "x": 126.98288772495,
+            "y": 37.5634116488196
+        },
+        "operating_hours": {
+            "Mon": "11:00 - 22:00",
+            "Tue": "11:00 - 22:00",
+            "Wed": "11:00 - 22:00",
+            "Thu": "11:00 - 22:00",
+            "Fri": "11:00 - 22:00",
+            "Sat": "11:00 - 22:00",
+            "Sun": "11:00 - 22:00",
+            "Holiday": "11:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Myeongdong Hana Pharmacy",
+        "pharmacy_name_kr": "명동하나약국",
+        "address_en": "1st floor, 32 Myeongdong 8-gil, Jung-gu, Seoul (Myeongdong 2-ga)",
+        "address_kr": "서울특별시 중구 명동8길 32, 1층 (명동2가)",
+        "phone": "0507-1300-7079",
+        "coordinates": {
+            "x": 126.984685555669,
+            "y": 37.5623362860876
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 24:00",
+            "Tue": "09:00 - 24:00",
+            "Wed": "09:00 - 24:00",
+            "Thu": "09:00 - 24:00",
+            "Fri": "09:00 - 24:00",
+            "Sat": "09:00 - 24:00",
+            "Sun": "09:00 - 24:00",
+            "Holiday": "09:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Vitamin Pharmacy",
+        "pharmacy_name_kr": "비타민약국",
+        "address_en": "#106,107, Legal Tower, 63 Neungnadong-gil, Wonju-si, Gangwon-do (Musil-dong)",
+        "address_kr": "강원특별자치도 원주시 능라동길 63, 법조타워 106,107호 (무실동)",
+        "phone": "033-813-2617",
+        "coordinates": {
+            "x": 127.930999001974,
+            "y": 37.33376905667
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sera Pharmacy",
+        "pharmacy_name_kr": "세라약국",
+        "address_en": "#101, 3, Jeongjo-ro 801beon-gil, Paldal-gu, Suwon-si, Gyeonggi-do (Paldal-ro 2-ga, Samkwang Building)",
+        "address_kr": "경기도 수원시 팔달구 정조로801번길 3, 101호 (팔달로2가, 삼광빌딩)",
+        "phone": "0312432262",
+        "coordinates": {
+            "x": 127.016356574149,
+            "y": 37.2794795026159
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Salt Pharmacy",
+        "pharmacy_name_kr": "솔트약국",
+        "address_en": "660 Yangcheon-ro, Gangseo-gu, Seoul, Ground floor L02 (Yeomchang-dong)",
+        "address_kr": "서울특별시 강서구 양천로 660, 지층 L02호 (염창동)",
+        "phone": "02-3661-8880",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sujin Pharmacy",
+        "pharmacy_name_kr": "수진약국",
+        "address_en": "150 Samsung-ro, Gangnam-gu, Seoul",
+        "address_kr": "서울특별시 강남구 삼성로 150",
+        "phone": "02-554-4691",
+        "coordinates": {
+            "x": 127.06658250560062,
+            "y": 37.49475203417799
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "OK Pharmacy",
+        "pharmacy_name_kr": "오케이약국",
+        "address_en": "#3018, 3rd floor, 1360 Yangjae-daero, Gangdong-gu, Seoul (Dunchon-dong)",
+        "address_kr": "서울특별시 강동구 양재대로 1360, 3층 3018호 일부호 (둔촌동)",
+        "phone": "02-484-0722",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:40",
+            "Tue": "09:00 - 19:40",
+            "Wed": "09:00 - 19:40",
+            "Thu": "09:00 - 19:40",
+            "Fri": "09:00 - 19:40",
+            "Sat": "09:00 - 15:40",
+            "Sun": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeongdaun Pharmacy",
+        "pharmacy_name_kr": "정다운약국",
+        "address_en": "15, Suyeongseong-ro 27beon-gil, Suyeong-gu, Busan, 1st floor (Suyeong-dong)",
+        "address_kr": "부산광역시 수영구 수영성로27번길 15, 1층 (수영동)",
+        "phone": "051-758-7767",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Cheonho Tunton Pharmacy",
+        "pharmacy_name_kr": "천호튼튼약국",
+        "address_en": "#232, Building 1, 60 Olympic-ro 78-gil, Gangdong-gu, Seoul (Cheonho-dong, Gangdong Millennial Jungheung S-Class)",
+        "address_kr": "서울특별시 강동구 올림픽로78길 60, 1동 232호 (천호동, 강동 밀레니얼 중흥S-클래스)",
+        "phone": "02-6482-0303",
+        "coordinates": {
+            "x": 127.128499316444,
+            "y": 37.5409734434557
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Chungmuro ​​Eight Pharmacy",
+        "pharmacy_name_kr": "충무로 에이트약국",
+        "address_en": "1st floor, 28-1, Myeongdong 8na-gil, Jung-gu, Seoul (Chungmuro ​​1-ga)",
+        "address_kr": "서울특별시 중구 명동8나길 28-1, 1층 (충무로1가)",
+        "phone": "0507-1432-6557",
+        "coordinates": {
+            "x": 126.98340146241,
+            "y": 37.5614209702434
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 23:00",
+            "Tue": "10:00 - 23:00",
+            "Wed": "10:00 - 23:00",
+            "Thu": "10:00 - 23:00",
+            "Fri": "10:00 - 23:00",
+            "Sat": "10:00 - 23:00",
+            "Sun": "10:00 - 23:00",
+            "Holiday": "10:00 - 23:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Foreon Ewha Pharmacy",
+        "pharmacy_name_kr": "포레온이화약국",
+        "address_en": "#1005, 1st floor, 1360 Yangjae-daero, Gangdong-gu, Seoul (Dunchon-dong)",
+        "address_kr": "서울특별시 강동구 양재대로 1360, 1층 1005호 (둔촌동)",
+        "phone": "02-473-1701",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hadden Pharmacy",
+        "pharmacy_name_kr": "해든약국",
+        "address_en": "Room 102, 1st floor, A-dong, 1499 Yangjae-daero, Gangdong-gu, Seoul (Gil-dong)",
+        "address_kr": "서울특별시 강동구 양재대로 1499, 에이동 1층 102호 (길동)",
+        "phone": "02-470-9088",
+        "coordinates": {
+            "x": 127.140318738444,
+            "y": 37.5395668653995
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
     }
 ]
