@@ -490649,5 +490649,151 @@
             "Sat": "08:00 - 16:00",
             "Sun": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "3rd floor Malgeun Pharmacy",
+        "pharmacy_name_kr": "3층맑은약국",
+        "address_en": "132 Dasanjungang-ro, Namyangju-si, Gyeonggi-do, Room 318, 3rd floor, Desian, Dasan Station (Dasan-dong)",
+        "address_kr": "경기도 남양주시 다산중앙로 132, 다산역 데시앙 3층 318호 일부호 (다산동)",
+        "phone": "031-555-1365",
+        "coordinates": {
+            "x": 127.15331636875,
+            "y": 37.6255542396617
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Always Reference Pharmacy",
+        "pharmacy_name_kr": "늘참조은약국",
+        "address_en": "#105, 32 Tapsil-ro, Giheung-gu, Yongin-si, Gyeonggi-do (Gongse-dong)",
+        "address_kr": "경기도 용인시 기흥구 탑실로 32, 105호 (공세동)",
+        "phone": "031-286-1090",
+        "coordinates": {
+            "x": 127.1097277336,
+            "y": 37.2389676551
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Evergreen Pharmacy",
+        "pharmacy_name_kr": "늘푸른약국",
+        "address_en": "2, Yeongtong-ro 80beon-gil, Byeongjeom-gu, Hwaseong-si, Gyeonggi-do (Banwol-dong)",
+        "address_kr": "경기도 화성시 병점구 영통로80번길 2 (반월동)",
+        "phone": "031-206-7136",
+        "coordinates": {
+            "x": 127.06078073366865,
+            "y": 37.23673656189629
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 16:30",
+            "Holiday": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dotori Pharmacy",
+        "pharmacy_name_kr": "도토리약국",
+        "address_en": "#101, 1044, Gyeonggi-daero, Byeongjeom-gu, Hwaseong-si, Gyeonggi-do (Jinan-dong)",
+        "address_kr": "경기도 화성시 병점구 경기대로 1044, 101호 (진안동)",
+        "phone": "031-232-8238",
+        "coordinates": {
+            "x": 126.926347683453,
+            "y": 37.1256838482529
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:50",
+            "Tue": "09:00 - 18:50",
+            "Wed": "09:00 - 18:50",
+            "Thu": "09:00 - 18:50",
+            "Fri": "09:00 - 18:50",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "DS R Pharmacy",
+        "pharmacy_name_kr": "디에스알약국",
+        "address_en": "1 Samsung Electronics-ro, Byeongjeom-gu, Hwaseong-si, Gyeonggi-do, Parts Research Building, Basement 1 (Banwol-dong)",
+        "address_kr": "경기도 화성시 병점구 삼성전자로 1, 부품연구동 지하1층 (반월동)",
+        "phone": "031-8096-0138",
+        "coordinates": {
+            "x": 127.0702390239,
+            "y": 37.2252801232
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 17:00",
+            "Tue": "08:00 - 17:00",
+            "Wed": "08:00 - 17:00",
+            "Thu": "08:00 - 17:00",
+            "Fri": "08:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Seomyeon Jjang Pharmacy",
+        "pharmacy_name_kr": "서면짱약국",
+        "address_en": "Room 109, 1st floor, Judy Taehwa, 694 Jungang-daero, Busanjin-gu, Busan (Bujeon-dong)",
+        "address_kr": "부산광역시 부산진구 중앙대로 694, 쥬디스태화 1층 109호 (부전동)",
+        "phone": "051-939-0906",
+        "coordinates": {
+            "x": 129.059622391915,
+            "y": 35.1547273493547
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 23:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 23:00",
+            "Sat": "09:00 - 23:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yangsan Hanaro Pharmacy",
+        "pharmacy_name_kr": "양산하나로약국",
+        "address_en": "B13, 14, 15, B1, La Fiesta, 177 Jeungsanyeok-ro, Mulgeum-eup, Yangsan-si, Gyeongsangnam-do",
+        "address_kr": "경상남도 양산시 물금읍 증산역로 177, 라피에스타 지하1층 B13,14,15호",
+        "phone": "050-71375-9124",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {}
+    },
+    {
+        "pharmacy_name_en": "Ho Pharmacy",
+        "pharmacy_name_kr": "호약국",
+        "address_en": "Room 104, 1st floor, 38 Hanaun-ro, Gunsan-si, Jeollabuk-do (Naun-dong, Naun Plaza)",
+        "address_kr": "전북특별자치도 군산시 하나운로 38, 1층 104호 (나운동, 나운프라자)",
+        "phone": "063-466-4773",
+        "coordinates": {
+            "x": 126.7007809877,
+            "y": 35.9621909526
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "08:30 - 17:00",
+            "Sun": "13:30 - 18:00",
+            "Holiday": "13:00 - 18:00"
+        }
     }
 ]
