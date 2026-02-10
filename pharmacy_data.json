@@ -491046,5 +491046,82 @@
             "Sun": "10:00 - 21:00",
             "Holiday": "10:00 - 21:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Geumsan Jongno Pharmacy",
+        "pharmacy_name_kr": "금산종로약국",
+        "address_en": "Chilbo’s House, 184 Bidan-ro, Geumsan-eup, Geumsan-gun, Chungcheongnam-do",
+        "address_kr": "충청남도 금산군 금산읍 비단로 184, 칠보네집",
+        "phone": "050-71408-0890",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 22:00",
+            "Tue": "08:00 - 22:00",
+            "Wed": "08:00 - 22:00",
+            "Thu": "08:00 - 22:00",
+            "Fri": "08:00 - 22:00",
+            "Sat": "08:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Dino Pharmacy",
+        "pharmacy_name_kr": "디노약국",
+        "address_en": "73-8, Buldang 23-ro, Seobuk-gu, Cheonan-si, Chungcheongnam-do, Hanseong Phil House Radnice #116 (Buldang-dong)",
+        "address_kr": "충청남도 천안시 서북구 불당23로 73-8, 한성필하우스 라드니체 116호 (불당동)",
+        "phone": "041-900-0202",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 18:30",
+            "Tue": "08:00 - 18:30",
+            "Wed": "08:00 - 18:30",
+            "Thu": "08:00 - 18:30",
+            "Fri": "08:00 - 18:30",
+            "Sat": "08:00 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Shinbang Jongro Pharmacy",
+        "pharmacy_name_kr": "신방종로약국",
+        "address_en": "1st floor, Sinbang-dong Saemal Building, 245 Seobu-daero, Dongnam-gu, Cheonan-si, Chungcheongnam-do (Sinbang-dong)",
+        "address_kr": "충청남도 천안시 동남구 서부대로 245, 신방동새말빌딩 1층 (신방동)",
+        "phone": "041-533-0825",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "natural pharmacy",
+        "pharmacy_name_kr": "자연약국",
+        "address_en": "Room 102, 1st floor, 23 Bupyeong-daero, Bupyeong-gu, Incheon (Bupyeong-dong)",
+        "address_kr": "인천광역시 부평구 부평대로 23, 1층 102호 (부평동)",
+        "phone": "032-501-7545",
+        "coordinates": {
+            "x": 126.72220472553386,
+            "y": 37.49679417718594
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:20",
+            "Tue": "09:00 - 20:20",
+            "Wed": "09:00 - 20:20",
+            "Thu": "09:00 - 20:20",
+            "Fri": "09:00 - 20:20",
+            "Sat": "09:00 - 16:00",
+            "Holiday": "09:50 - 17:50"
+        }
     }
 ]
