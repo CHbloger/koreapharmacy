@@ -491123,5 +491123,82 @@
             "Sat": "09:00 - 16:00",
             "Holiday": "09:50 - 17:50"
         }
+    },
+    {
+        "pharmacy_name_en": "Kang Il-soo Pharmacy",
+        "pharmacy_name_kr": "강일수약국",
+        "address_en": "#103, Gyeongseo Plaza, 54 Arisu-ro 93na-gil, Gangdong-gu, Seoul (Gangil-dong)",
+        "address_kr": "서울특별시 강동구 아리수로93나길 54, 경서프라자 103호 (강일동)",
+        "phone": "02-428-4070",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gireum Himchan Pharmacy",
+        "pharmacy_name_kr": "길음힘찬약국",
+        "address_en": "Room 243, Building 102, 11 Gireum-ro, Seongbuk-gu, Seoul (Gileum-dong, Gireum Station Lotte Castle Twin Gold Apartment)",
+        "address_kr": "서울특별시 성북구 길음로 11, 102동 243호 (길음동, 길음역롯데캐슬트윈골드아파트)",
+        "phone": "02-910-7582",
+        "coordinates": {
+            "x": 127.023437392228,
+            "y": 37.603785604914
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Bareun Pharmacy",
+        "pharmacy_name_kr": "바른약국",
+        "address_en": "#103,104, 277 Chungmudaero, Seo-gu, Busan (Chungmu-dong 1-ga, Chungmu Eco Palace 2nd)",
+        "address_kr": "부산광역시 서구 충무대로 277, 103,104호 (충무동1가, 충무 에코펠리스2차)",
+        "phone": "051-711-5300",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:00",
+            "Tue": "09:00 - 17:00",
+            "Wed": "09:00 - 17:00",
+            "Thu": "09:00 - 17:00",
+            "Fri": "09:00 - 17:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Seokwon Pharmacy",
+        "pharmacy_name_kr": "석원약국",
+        "address_en": "94 Gangdong-daero 53-gil, Gangdong-gu, Seoul (Seongnae-dong)",
+        "address_kr": "서울특별시 강동구 강동대로53길 94 (성내동)",
+        "phone": "02-484-6658",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "13:00 - 22:00",
+            "Tue": "13:00 - 22:00",
+            "Wed": "13:00 - 22:00",
+            "Thu": "13:00 - 22:00",
+            "Fri": "13:00 - 22:00",
+            "Sat": "13:00 - 22:00",
+            "Sun": "13:00 - 22:00",
+            "Holiday": "13:00 - 22:00"
+        }
     }
 ]
