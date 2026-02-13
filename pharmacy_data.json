@@ -491488,5 +491488,83 @@
             "Sun": "10:00 - 19:00",
             "Holiday": "12:00 - 18:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Gangnam Square Pharmacy",
+        "pharmacy_name_kr": "강남스퀘어약국",
+        "address_en": "1st floor, Is Tower, 101 Teheran-ro, Gangnam-gu, Seoul (Yeoksam-dong)",
+        "address_kr": "서울특별시 강남구 테헤란로 101, 이즈타워 1층 (역삼동)",
+        "phone": "070-7954-3197",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00",
+            "Sun": "09:00 - 21:00",
+            "Holiday": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gaebongji Yedang Pharmacy",
+        "pharmacy_name_kr": "개봉지예당약국",
+        "address_en": "#101, 1st floor, 121 Gocheok-ro, Guro-gu, Seoul (Gaebong-dong)",
+        "address_kr": "서울특별시 구로구 고척로 121, 1층 101호 (개봉동)",
+        "phone": "02-2681-0292",
+        "coordinates": {
+            "x": 126.84779803328,
+            "y": 37.5022321898051
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 14:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Samsung Ilshin Pharmacy",
+        "pharmacy_name_kr": "삼성일신약국",
+        "address_en": "421 Teheran-ro, Gangnam-gu, Seoul (Samseong-dong)",
+        "address_kr": "서울특별시 강남구 테헤란로 421  (삼성동)",
+        "phone": "02-538-1018",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "08:30 - 21:00",
+            "Sat": "09:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jeil Pharmacy",
+        "pharmacy_name_kr": "제일약국",
+        "address_en": "429 Godeok-ro, Gangdong-gu, Seoul, Basement 1 (Gangil-dong)",
+        "address_kr": "서울특별시 강동구 고덕로 429, 지하1층 (강일동)",
+        "phone": "02-6081-1004",
+        "coordinates": {
+            "x": 127.173495116432,
+            "y": 37.5574860634693
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
     }
 ]
