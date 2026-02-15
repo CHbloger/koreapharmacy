@@ -491566,5 +491566,45 @@
             "Fri": "09:00 - 20:00",
             "Sat": "09:00 - 14:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Rumi Pharmacy",
+        "pharmacy_name_kr": "루미약국",
+        "address_en": "Room 118, 1st floor, Seohyeon Plaza, 16 Seohyeonnam-ro, Heungdeok-gu, Cheongju-si, Chungcheongbuk-do (Gagyeong-dong)",
+        "address_kr": "충청북도 청주시 흥덕구 서현남로 16, 서현플라자 1층 118호 (가경동)",
+        "phone": "043-714-3780",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Megatown Pharmacy",
+        "pharmacy_name_kr": "메가타운약국",
+        "address_en": "276-1, 2sunhwan-ro, Cheongwon-gu, Cheongju-si, Chungcheongbuk-do (Jujung-dong)",
+        "address_kr": "충청북도 청주시 청원구 2순환로 276-1 (주중동)",
+        "phone": "070-7537-1786",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:50 - 20:10",
+            "Tue": "09:50 - 20:10",
+            "Wed": "09:50 - 20:10",
+            "Thu": "09:50 - 20:10",
+            "Fri": "09:50 - 20:10",
+            "Sat": "09:50 - 20:10",
+            "Sun": "09:50 - 20:10",
+            "Holiday": "09:50 - 20:10"
+        }
     }
 ]
