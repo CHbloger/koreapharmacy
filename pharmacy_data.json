@@ -491606,5 +491606,26 @@
             "Sun": "09:50 - 20:10",
             "Holiday": "09:50 - 20:10"
         }
+    },
+    {
+        "pharmacy_name_en": "Maegok 365 Pharmacy",
+        "pharmacy_name_kr": "매곡365약국",
+        "address_en": "768, 3.1 Manse-ro, Paltan-myeon, Manse-gu, Hwaseong-si, Gyeonggi-do",
+        "address_kr": "경기도 화성시 만세구 팔탄면 3.1만세로 768",
+        "phone": "031-366-5601",
+        "coordinates": {
+            "x": 126.881583833537,
+            "y": 37.1128885249818
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 19:30",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 19:00",
+            "Holiday": "09:00 - 18:00"
+        }
     }
 ]
