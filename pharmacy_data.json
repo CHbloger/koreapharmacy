@@ -491627,5 +491627,86 @@
             "Sun": "09:00 - 19:00",
             "Holiday": "09:00 - 18:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Mega Plus Pharmacy",
+        "pharmacy_name_kr": "메가플러스약국",
+        "address_en": "1st floor, 450 Yonga-ro, Gwangsan-gu, Gwangju (Heukseok-dong)",
+        "address_kr": "광주광역시 광산구 용아로 450, 1층 (흑석동)",
+        "phone": "062-961-9777",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "10:00 - 19:00",
+            "Tue": "10:00 - 19:00",
+            "Wed": "10:00 - 19:00",
+            "Thu": "10:00 - 19:00",
+            "Fri": "10:00 - 19:00",
+            "Sat": "10:00 - 20:00",
+            "Sun": "10:00 - 20:00",
+            "Holiday": "10:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Saesamju Pharmacy",
+        "pharmacy_name_kr": "새삼주약국",
+        "address_en": "#105, Building 106, 29 Bonghwang-gil, Jinryang-eup, Gyeongsan-si, Gyeongsangbuk-do",
+        "address_kr": "경상북도 경산시 진량읍 봉황길 29, 106동 105호",
+        "phone": "053-856-7163",
+        "coordinates": {
+            "x": 128.82140109051852,
+            "y": 35.88498284074392
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 20:00",
+            "Sun": "09:00 - 20:00",
+            "Holiday": "11:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yuil Pharmacy",
+        "pharmacy_name_kr": "유일약국",
+        "address_en": "#101, 126, Beonyeong 1-ro, Gongju-si, Chungcheongnam-do (Singwan-dong)",
+        "address_kr": "충청남도 공주시 번영1로 126, 101호 (신관동)",
+        "phone": "041-856-8570",
+        "coordinates": {
+            "x": 127.14232685460402,
+            "y": 36.47420276017858
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 19:30",
+            "Sat": "08:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hana Onnuri Pharmacy",
+        "pharmacy_name_kr": "하나온누리약국",
+        "address_en": "Room 102, 1st floor, 267 Yaeun-ro, Gumi-si, Gyeongsangbuk-do (Bonggok-dong)",
+        "address_kr": "경상북도 구미시 야은로 267, 1층 102호 (봉곡동)",
+        "phone": "054-456-2019",
+        "coordinates": {
+            "x": 128.31253309858,
+            "y": 36.13978372192443
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "09:00 - 13:00"
+        }
     }
 ]
