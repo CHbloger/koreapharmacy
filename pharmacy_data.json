@@ -491708,5 +491708,143 @@
             "Sat": "09:00 - 15:00",
             "Holiday": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Dusil Pharmacy",
+        "pharmacy_name_kr": "두실약국",
+        "address_en": "1943, Jungang-daero, Geumjeong-gu, Busan, 1st floor (Guseo-dong)",
+        "address_kr": "부산광역시 금정구 중앙대로 1943, 1층 (구서동)",
+        "phone": "051-582-1090",
+        "coordinates": {
+            "x": 129.09104612844308,
+            "y": 35.257866059555774
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Lake 365 Pharmacy",
+        "pharmacy_name_kr": "레이크365약국",
+        "address_en": "Room 101, 1st floor, 234-15 Doandong-ro, Seo-gu, Daejeon (Doan-dong)",
+        "address_kr": "대전광역시 서구 도안동로 234-15, 1층, 101호 (도안동)",
+        "phone": "042-000-0000",
+        "coordinates": {
+            "x": 127.34977968579,
+            "y": 36.3258384908791
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 19:00",
+            "Sun": "09:00 - 19:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sanseong Number One Pharmacy",
+        "pharmacy_name_kr": "산성넘버원약국",
+        "address_en": "1st floor, Geumjeong Building, 50 Bomunsan-ro, Jung-gu, Daejeon (Sanseong-dong)",
+        "address_kr": "대전광역시 중구 보문산로 50, 금정빌딩 1층 (산성동)",
+        "phone": "042-587-0077",
+        "coordinates": {
+            "x": 127.385947935665,
+            "y": 36.3043900272944
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "movie pharmacy",
+        "pharmacy_name_kr": "영화약국",
+        "address_en": "25 Deokam-ro 265beon-gil, Daedeok-gu, Daejeon (Deokam-dong)",
+        "address_kr": "대전광역시 대덕구 덕암로265번길 25 (덕암동)",
+        "phone": "042-931-7570",
+        "coordinates": {
+            "x": 127.42442228923397,
+            "y": 36.44440766756954
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Holiday": "08:40 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "frontline pharmacy",
+        "pharmacy_name_kr": "일선약국",
+        "address_en": "1st floor, 565 Geumgang-ro, Geumjeong-gu, Busan (Guseo-dong)",
+        "address_kr": "부산광역시 금정구 금강로 565, 1층 (구서동)",
+        "phone": "051-513-0574",
+        "coordinates": {
+            "x": 129.08757602911433,
+            "y": 35.25788286621621
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:20",
+            "Tue": "08:30 - 19:20",
+            "Wed": "08:30 - 19:20",
+            "Thu": "08:30 - 19:20",
+            "Fri": "08:30 - 19:20",
+            "Sat": "08:30 - 18:30",
+            "Sun": "15:00 - 18:30",
+            "Holiday": "15:00 - 19:20"
+        }
+    },
+    {
+        "pharmacy_name_en": "Chambit Pharmacy",
+        "pharmacy_name_kr": "참빛약국",
+        "address_en": "#114, 53, Hyeokhyuk-ro, Wonju-si, Gangwon-do (Bangok-dong)",
+        "address_kr": "강원특별자치도 원주시 혁신로 53, 114호 (반곡동)",
+        "phone": "033-735-2772",
+        "coordinates": {
+            "x": 127.97998161064699,
+            "y": 37.323496270044586
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hanbit Pharmacy",
+        "pharmacy_name_kr": "한빛약국",
+        "address_en": "449 Daejeon Cheonseo-ro, Jung-gu, Daejeon (Eunhaeng-dong)",
+        "address_kr": "대전광역시 중구 대전천서로 449 (은행동)",
+        "phone": "042-226-6425",
+        "coordinates": {
+            "x": 127.429229508869,
+            "y": 36.3289343999528
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "14:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
     }
 ]
