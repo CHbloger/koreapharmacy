@@ -491846,5 +491846,45 @@
             "Fri": "09:00 - 18:00",
             "Sat": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Orange Pharmacy",
+        "pharmacy_name_kr": "오렌지약국",
+        "address_en": "#105-3 Buk, 1st floor, Bucheon Station Shopping Mall, 1 Bucheon-ro, Sosa-gu, Bucheon-si, Gyeonggi-do (Simgokbon-dong)",
+        "address_kr": "경기도 부천시 소사구 부천로 1, 부천역사 쇼핑몰 1층 북105-3호 (심곡본동)",
+        "phone": "032-612-5186",
+        "coordinates": {
+            "x": 126.78294944813109,
+            "y": 37.48412078485495
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 22:00",
+            "Tue": "09:00 - 22:00",
+            "Wed": "09:00 - 22:00",
+            "Thu": "09:00 - 22:00",
+            "Fri": "09:00 - 22:00",
+            "Sat": "09:00 - 22:00",
+            "Sun": "09:00 - 22:00",
+            "Holiday": "09:00 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Happy Pharmacy",
+        "pharmacy_name_kr": "행복약국",
+        "address_en": "17, Hyohaeng-ro 763beon-gil, Byeongjeom-gu, Hwaseong-si, Gyeonggi-do (Anyeong-dong, Hwaseong Samsung Orthopedic Clinic)",
+        "address_kr": "경기도 화성시 병점구 효행로763번길 17 (안녕동, 화성삼성정형외과의원)",
+        "phone": "031-222-2697",
+        "coordinates": {
+            "x": 127.0137204691,
+            "y": 37.2047129736
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
     }
 ]
