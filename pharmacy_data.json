@@ -491886,5 +491886,26 @@
             "Fri": "09:00 - 19:00",
             "Sat": "09:00 - 14:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Miyu Pharmacy",
+        "pharmacy_name_kr": "미유약국",
+        "address_en": "1st floor, 26 Gunam-ro, Haeundae-gu, Busan (Udon)",
+        "address_kr": "부산광역시 해운대구 구남로 26, 1층 (우동)",
+        "phone": "050-71320-3489",
+        "coordinates": {
+            "x": 129.160218651187,
+            "y": 35.161610165407
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 23:00",
+            "Tue": "09:00 - 23:00",
+            "Wed": "09:00 - 23:00",
+            "Thu": "09:00 - 23:00",
+            "Fri": "09:00 - 23:00",
+            "Sat": "09:00 - 23:00",
+            "Sun": "09:00 - 23:00",
+            "Holiday": "09:00 - 23:00"
+        }
     }
 ]
