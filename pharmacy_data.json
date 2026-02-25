@@ -491907,5 +491907,43 @@
             "Sun": "09:00 - 23:00",
             "Holiday": "09:00 - 23:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Sujijeong Pharmacy",
+        "pharmacy_name_kr": "수지정약국",
+        "address_en": "#101,102, Hyundai Green Plaza, 149 Pungdeokcheon-ro, Suji-gu, Yongin-si, Gyeonggi-do (Pungdeokcheon-dong)",
+        "address_kr": "경기도 용인시 수지구 풍덕천로 149, 현대그린프라자 101,102호 (풍덕천동)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": 127.097591889566,
+            "y": 37.3246194318424
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Blue Forest Onnuri Pharmacy",
+        "pharmacy_name_kr": "파란숲온누리약국",
+        "address_en": "Room 618, 6th floor, Yojin Tower, 57 Hwasin-ro 260beon-gil, Deokyang-gu, Goyang-si, Gyeonggi-do (Hwajeong-dong)",
+        "address_kr": "경기도 고양시 덕양구 화신로260번길 57, 요진타워 6층 618호 (화정동)",
+        "phone": "031-970-5688",
+        "coordinates": {
+            "x": 126.832745886023,
+            "y": 37.6336223707871
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
     }
 ]
