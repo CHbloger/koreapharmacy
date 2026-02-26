@@ -491945,5 +491945,63 @@
             "Fri": "09:00 - 18:00",
             "Sat": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Optima 21st Century Pharmacy",
+        "pharmacy_name_kr": "옵티마 21세기약국",
+        "address_en": "1st floor, 357 Sillim-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 신림로 357, 1층 (신림동)",
+        "phone": "02-888-2272",
+        "coordinates": {
+            "x": 126.92905950374876,
+            "y": 37.487390520438304
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 13:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Eunha Onnuri Pharmacy",
+        "pharmacy_name_kr": "은하온누리약국",
+        "address_en": "1st floor, 326-5 Gaya-daero, Sasang-gu, Busan (Jurye-dong)",
+        "address_kr": "부산광역시 사상구 가야대로 326-5, 1층 (주례동)",
+        "phone": "051-327-7200",
+        "coordinates": {
+            "x": 129.0085748768983,
+            "y": 35.150459638580095
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Bright Pharmacy",
+        "pharmacy_name_kr": "해맑은약국",
+        "address_en": "1st floor, 184 Eungam-ro, Eunpyeong-gu, Seoul (Eungam-dong)",
+        "address_kr": "서울특별시 은평구 응암로 184, 1층 (응암동)",
+        "phone": "02-306-7555",
+        "coordinates": {
+            "x": 126.917146281605,
+            "y": 37.5887248206543
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 15:00",
+            "Sun": "10:00 - 19:00"
+        }
     }
 ]
