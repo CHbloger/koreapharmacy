@@ -492479,5 +492479,141 @@
             "Fri": "09:00 - 18:00",
             "Sat": "09:00 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Gangdong Pharmacy",
+        "pharmacy_name_kr": "강동약국",
+        "address_en": "1st floor, 34-1 Amsa-gil, Gangdong-gu, Seoul (Amsa-dong)",
+        "address_kr": "서울특별시 강동구 암사길 34-1, 1층 (암사동)",
+        "phone": "02-427-1279",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gwangju Pharmacy",
+        "pharmacy_name_kr": "광주약국",
+        "address_en": "45 Toegye-ro, Jung-gu, Seoul (Namchang-dong)",
+        "address_kr": "서울특별시 중구 퇴계로 45 (남창동)",
+        "phone": "02-756-3609",
+        "coordinates": {
+            "x": 126.97763326497937,
+            "y": 37.55829157679171
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 21:00",
+            "Tue": "08:00 - 21:00",
+            "Wed": "08:00 - 21:00",
+            "Thu": "08:00 - 21:00",
+            "Fri": "08:00 - 21:00",
+            "Sat": "08:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Evergreen Pharmacy",
+        "pharmacy_name_kr": "늘푸른 약국",
+        "address_en": "83 Taejong-ro, Yeongdo-gu, Busan (Daegyo-dong 2-ga)",
+        "address_kr": "부산광역시 영도구 태종로 83 (대교동2가)",
+        "phone": "051-412-8200",
+        "coordinates": {
+            "x": 129.0401605001615,
+            "y": 35.09219314638105
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Medipharm Good Morning Pharmacy",
+        "pharmacy_name_kr": "메디팜 굿모닝약국",
+        "address_en": "361 Worldcupbuk-ro, Mapo-gu, Seoul",
+        "address_kr": "서울특별시 마포구 월드컵북로 361",
+        "phone": "02-305-0350",
+        "coordinates": {
+            "x": 126.891403860718,
+            "y": 37.577109695587
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:00",
+            "Tue": "09:30 - 20:00",
+            "Wed": "09:30 - 20:00",
+            "Thu": "09:30 - 20:00",
+            "Fri": "09:30 - 20:00",
+            "Sat": "09:30 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Seoul Pharmacy",
+        "pharmacy_name_kr": "서울약국",
+        "address_en": "54, Singeum 1-gil, Gongju-si, Chungcheongnam-do (Singwan-dong)",
+        "address_kr": "충청남도 공주시 신금1길 54 (신관동)",
+        "phone": "041-881-8333",
+        "coordinates": {
+            "x": 127.14597125197281,
+            "y": 36.476966510757705
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 21:00",
+            "Tue": "08:30 - 21:00",
+            "Wed": "08:30 - 21:00",
+            "Thu": "08:30 - 21:00",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00",
+            "Holiday": "10:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Yeongju Pharmacy",
+        "pharmacy_name_kr": "영주약국",
+        "address_en": "219 Daeyeong-ro, Jung-gu, Busan (Yeongju-dong)",
+        "address_kr": "부산광역시 중구 대영로 219 (영주동)",
+        "phone": "051-464-0075",
+        "coordinates": {
+            "x": 129.03477208438537,
+            "y": 35.11238694791703
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 24:00",
+            "Tue": "09:00 - 24:00",
+            "Wed": "09:00 - 24:00",
+            "Thu": "09:00 - 24:00",
+            "Fri": "09:00 - 24:00",
+            "Sat": "09:00 - 24:00",
+            "Sun": "21:00 - 24:00",
+            "Holiday": "09:00 - 24:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Joy Pharmacy",
+        "pharmacy_name_kr": "조이약국",
+        "address_en": "#101, 1 Nohyeong 9-gil, Jeju-si, Jeju-do (Nohyeong-dong)",
+        "address_kr": "제주특별자치도 제주시 노형9길 1, 101호 (노형동)",
+        "phone": "0647443623",
+        "coordinates": {
+            "x": 126.477700981105,
+            "y": 33.4840994576187
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 13:00"
+        }
     }
 ]
