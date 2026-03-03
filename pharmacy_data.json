@@ -492615,5 +492615,61 @@
             "Fri": "08:30 - 18:00",
             "Sat": "08:30 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Dasan Jeil Pharmacy",
+        "pharmacy_name_kr": "다산제일약국",
+        "address_en": "Room 2265, 2nd floor, Building 1, Hillstate Depositor, 490 Gyeongchun-ro, Namyangju-si, Gyeonggi-do (Dasan-dong)",
+        "address_kr": "경기도 남양주시 경춘로 490, 힐스테이트지금디포레 제1동 2층 2265호 (다산동)",
+        "phone": "031-563-2640",
+        "coordinates": {
+            "x": 127.16525599562763,
+            "y": 37.609703078049385
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 19:00",
+            "Tue": "08:00 - 19:00",
+            "Wed": "08:00 - 19:00",
+            "Thu": "08:00 - 19:00",
+            "Fri": "08:00 - 19:00",
+            "Sat": "08:00 - 20:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Byeokje Hanaro Pharmacy",
+        "pharmacy_name_kr": "벽제하나로약국",
+        "address_en": "797 Tongil-ro, Deokyang-gu, Goyang-si, Gyeonggi-do (Gwansan-dong)",
+        "address_kr": "경기도 고양시 덕양구 통일로 797 (관산동)",
+        "phone": "031-969-8908",
+        "coordinates": {
+            "x": "126.861975000000001",
+            "y": "37.688555555555553"
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:30",
+            "Tue": "09:00 - 18:30",
+            "Wed": "09:00 - 18:30",
+            "Thu": "09:00 - 18:30",
+            "Fri": "09:00 - 18:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Jooyeop Maeil Pharmacy",
+        "pharmacy_name_kr": "주엽매일약국",
+        "address_en": "B103~111, B117, B1, Sambu Renaissance Gadong, Juyeop Station, 1425 Jungang-ro, Ilsanseo-gu, Goyang-si, Gyeonggi-do (Juyeop-dong)",
+        "address_kr": "경기도 고양시 일산서구 중앙로 1425, 주엽역 삼부르네상스 가동 지하1층 B103~111,B117호 (주엽동)",
+        "phone": "031-000-0000",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00"
+        }
     }
 ]
