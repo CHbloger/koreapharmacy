@@ -492671,5 +492671,62 @@
             "Thu": "09:00 - 21:00",
             "Fri": "09:00 - 21:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Goeun Pharmacy",
+        "pharmacy_name_kr": "고은약국",
+        "address_en": "259 Yeongsin-ro, Yeongdeungpo-gu, Seoul",
+        "address_kr": "서울특별시 영등포구 영신로 259",
+        "phone": "02-2678-8084",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 17:30",
+            "Tue": "09:00 - 17:30",
+            "Wed": "09:00 - 17:30",
+            "Thu": "09:00 - 17:30",
+            "Fri": "09:00 - 17:30",
+            "Sat": "09:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Kookmin Onnuri Pharmacy",
+        "pharmacy_name_kr": "국민온누리약국",
+        "address_en": "42-2, Jeongneung-ro 10-gil, Seongbuk-gu, Seoul (Jeongneung-dong)",
+        "address_kr": "서울특별시 성북구 정릉로10길 42-2 (정릉동)",
+        "phone": "02-914-5782",
+        "coordinates": {
+            "x": 126.99954132526113,
+            "y": 37.60805556007958
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Celmed Salvation Pharmacy",
+        "pharmacy_name_kr": "셀메드 구원약국",
+        "address_en": "16 Opaesan-ro, Seongbuk-gu, Seoul (Hawolgok-dong)",
+        "address_kr": "서울특별시 성북구 오패산로 16 (하월곡동)",
+        "phone": "02-913-1139",
+        "coordinates": {
+            "x": 127.03760914286558,
+            "y": 37.60371580704045
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:30",
+            "Tue": "09:00 - 19:30",
+            "Wed": "09:00 - 19:30",
+            "Thu": "09:00 - 19:30",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
     }
 ]
