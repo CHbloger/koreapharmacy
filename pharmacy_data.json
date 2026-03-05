@@ -492728,5 +492728,81 @@
             "Fri": "09:00 - 20:00",
             "Sat": "09:00 - 15:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Gildong Central Pharmacy",
+        "pharmacy_name_kr": "길동중앙약국",
+        "address_en": "1st floor, 49, Cheonho-daero 187-gil, Gangdong-gu, Seoul (Gil-dong)",
+        "address_kr": "서울특별시 강동구 천호대로187길 49, 1층 (길동)",
+        "phone": "02-484-7747",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:30 - 20:00",
+            "Tue": "09:30 - 20:00",
+            "Wed": "09:30 - 20:00",
+            "Thu": "09:30 - 20:00",
+            "Fri": "09:30 - 20:00",
+            "Sat": "09:30 - 19:00",
+            "Sun": "12:00 - 18:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Buldang Central Pharmacy",
+        "pharmacy_name_kr": "불당센트럴약국",
+        "address_en": "#100, #109, #110, Beonyeong-ro, Seobuk-gu, Cheonan-si, Chungcheongnam-do (Buldang-dong)",
+        "address_kr": "충청남도 천안시 서북구 번영로 100, 109호,110호 (불당동)",
+        "phone": "041-903-2027",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:40 - 18:40",
+            "Tue": "08:40 - 18:40",
+            "Thu": "08:40 - 18:40",
+            "Fri": "08:40 - 18:40",
+            "Sat": "08:40 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Ire Pharmacy",
+        "pharmacy_name_kr": "이레약국",
+        "address_en": "Room 111-1, 1st floor, Building 208, 551 Ogeum-ro, Songpa-gu, Seoul (Geoyeo-dong, e-Pyeonhansesang Songpa Park Central)",
+        "address_kr": "서울특별시 송파구 오금로 551, 208동 1층 111-1호 (거여동, e편한세상 송파 파크센트럴)",
+        "phone": "02-406-8583",
+        "coordinates": {
+            "x": 127.15042111058833,
+            "y": 37.494686296903126
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 15:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Blue Pharmacy",
+        "pharmacy_name_kr": "푸른약국",
+        "address_en": "76 Jugye-ro, Muju-eup, Muju-gun, Jeonbuk Special Self-Governing Province",
+        "address_kr": "전북특별자치도 무주군 무주읍 주계로 76",
+        "phone": "063-322-9672",
+        "coordinates": {
+            "x": 127.65829159278668,
+            "y": 36.0060757482684
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "09:00 - 12:30"
+        }
     }
 ]
