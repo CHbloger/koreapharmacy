@@ -492804,5 +492804,100 @@
             "Fri": "08:30 - 19:00",
             "Sat": "09:00 - 12:30"
         }
+    },
+    {
+        "pharmacy_name_en": "Namgang Pharmacy",
+        "pharmacy_name_kr": "남강약국",
+        "address_en": "1st floor, 107-1 Nangok-ro, Gwanak-gu, Seoul (Sillim-dong)",
+        "address_kr": "서울특별시 관악구 난곡로 107-1, 1층 (신림동)",
+        "phone": "02-866-7069",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Deoksu Pharmacy",
+        "pharmacy_name_kr": "덕수약국",
+        "address_en": "1st floor, 33 Jungnangyeok-ro, Jungnang-gu, Seoul (Junghwa-dong)",
+        "address_kr": "서울특별시 중랑구 중랑역로 33, 1층 (중화동)",
+        "phone": "02-2209-4996",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 18:00",
+            "Tue": "08:30 - 18:00",
+            "Wed": "08:30 - 18:00",
+            "Thu": "08:30 - 18:00",
+            "Fri": "08:30 - 18:00",
+            "Sat": "08:30 - 12:30"
+        }
+    },
+    {
+        "pharmacy_name_en": "Deokin Pharmacy",
+        "pharmacy_name_kr": "덕인약국",
+        "address_en": "287 Gucheonmyeon-ro, Gangdong-gu, Seoul, (Cheonho-dong)",
+        "address_kr": "서울특별시 강동구 구천면로 287, (천호동)",
+        "phone": "02-471-2772",
+        "coordinates": {
+            "x": "",
+            "y": ""
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 18:00",
+            "Tue": "09:00 - 18:00",
+            "Wed": "09:00 - 18:00",
+            "Thu": "09:00 - 18:00",
+            "Fri": "09:00 - 18:00",
+            "Sat": "09:00 - 14:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Farmmate Medical Pharmacy",
+        "pharmacy_name_kr": "팜메이트 메디칼약국",
+        "address_en": "#110, Gyeongwon Plaza, 75 Gonghang-daero 41-gil, Gangseo-gu, Seoul (Deungchon-dong)",
+        "address_kr": "서울특별시 강서구 공항대로41길 75, 경원프라자 110호 (등촌동)",
+        "phone": "02-2668-6068",
+        "coordinates": {
+            "x": 126.846360147398,
+            "y": 37.5611486390411
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 19:00",
+            "Tue": "08:30 - 19:00",
+            "Wed": "08:30 - 19:00",
+            "Thu": "08:30 - 19:00",
+            "Fri": "08:30 - 19:00",
+            "Sat": "08:30 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Hi Pharmacy",
+        "pharmacy_name_kr": "하이약국",
+        "address_en": "Hansung Building, 39 Saimdang-ro, Seocho-gu, Seoul (Seocho-dong)",
+        "address_kr": "서울특별시 서초구 사임당로 39, 한성빌딩 (서초동)",
+        "phone": "070-4117-8275",
+        "coordinates": {
+            "x": 127.014095010132,
+            "y": 37.4884189352008
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "09:00 - 16:00"
+        }
     }
 ]
