@@ -492899,5 +492899,26 @@
             "Fri": "09:00 - 20:00",
             "Sat": "09:00 - 16:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Culture Pharmacy",
+        "pharmacy_name_kr": "문화약국",
+        "address_en": "110 Cheomdanjungang-ro, Gwangsan-gu, Gwangju (Wolgye-dong)",
+        "address_kr": "광주광역시 광산구 첨단중앙로 110 (월계동)",
+        "phone": "062-973-5223",
+        "coordinates": {
+            "x": 126.842700396252,
+            "y": 35.2161261796227
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:30",
+            "Tue": "09:00 - 20:30",
+            "Wed": "09:00 - 20:30",
+            "Thu": "09:00 - 20:30",
+            "Fri": "09:00 - 20:30",
+            "Sat": "09:00 - 17:00",
+            "Sun": "09:00 - 17:00",
+            "Holiday": "09:00 - 17:00"
+        }
     }
 ]
