@@ -492970,5 +492970,45 @@
             "Thu": "10:30 - 17:00",
             "Fri": "10:30 - 17:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Bukgajwa Onnuri Pharmacy",
+        "pharmacy_name_kr": "북가좌온누리약국",
+        "address_en": "241 Geungang-ro, Seodaemun-gu, Seoul",
+        "address_kr": "서울특별시 서대문구 증가로 241 ",
+        "phone": "02-303-9155",
+        "coordinates": {
+            "x": 126.91278527644911,
+            "y": 37.58258384602914
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 21:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "After the rain, forest pharmacy, public late-night pharmacy",
+        "pharmacy_name_kr": "비온뒤숲속약국 공공심야약국",
+        "address_en": "111 Worldcup-ro, Mapo-gu, Seoul, (Mangwon-dong)",
+        "address_kr": "서울특별시 마포구 월드컵로 111, (망원동)",
+        "phone": "02-332-3250",
+        "coordinates": {
+            "x": 126.9078734861674,
+            "y": 37.55821720850769
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 25:00",
+            "Tue": "09:00 - 25:00",
+            "Wed": "09:00 - 25:00",
+            "Thu": "09:00 - 25:00",
+            "Fri": "09:00 - 25:00",
+            "Sat": "09:00 - 25:00",
+            "Sun": "09:00 - 25:00",
+            "Holiday": "09:00 - 25:00"
+        }
     }
 ]
