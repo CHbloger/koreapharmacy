@@ -493591,5 +493591,106 @@
             "Fri": "08:30 - 18:30",
             "Sat": "08:30 - 13:00"
         }
+    },
+    {
+        "pharmacy_name_en": "Medipharm Miso Pharmacy",
+        "pharmacy_name_kr": "메디팜미소약국",
+        "address_en": "1st floor, 26 Hyoryeong-ro 2-gil, Seocho-gu, Seoul (Bangbae-dong)",
+        "address_kr": "서울특별시 서초구 효령로2길 26, 1층 (방배동)",
+        "phone": "02-515-7533",
+        "coordinates": {
+            "x": 126.987649813579,
+            "y": 37.4760105268394
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 20:00",
+            "Tue": "09:00 - 20:00",
+            "Wed": "09:00 - 20:00",
+            "Thu": "09:00 - 20:00",
+            "Fri": "09:00 - 20:00",
+            "Sat": "08:00 - 13:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Gospel Pharmacy",
+        "pharmacy_name_kr": "복음약국",
+        "address_en": "121 Madelo 1ga-gil, Nowon-gu, Seoul (Wolgye-dong)",
+        "address_kr": "서울특별시 노원구 마들로1가길 121   (월계동)",
+        "phone": "02-949-0682",
+        "coordinates": {
+            "x": 127.067084588448,
+            "y": 37.6187253727752
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 19:00",
+            "Tue": "09:00 - 19:00",
+            "Wed": "09:00 - 19:00",
+            "Thu": "09:00 - 19:00",
+            "Fri": "09:00 - 19:00",
+            "Sat": "09:00 - 14:00",
+            "Holiday": "09:00 - 19:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Sangsan Pharmacy",
+        "pharmacy_name_kr": "상산약국",
+        "address_en": "1st floor, 435 Toegye-ro, Jung-gu, Seoul (Hwanghak-dong)",
+        "address_kr": "서울특별시 중구 퇴계로 435, 1층 (황학동)",
+        "phone": "02-2252-3354",
+        "coordinates": {
+            "x": 127.020115510847,
+            "y": 37.565841702752
+        },
+        "operating_hours": {
+            "Mon": "08:30 - 22:00",
+            "Tue": "08:30 - 22:00",
+            "Wed": "08:30 - 22:00",
+            "Thu": "08:30 - 22:00",
+            "Fri": "08:30 - 22:00",
+            "Sat": "08:30 - 22:00",
+            "Sun": "08:30 - 22:00",
+            "Holiday": "08:30 - 22:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Saegujeong Plaza Pharmacy",
+        "pharmacy_name_kr": "새구정프라자약국",
+        "address_en": "447 Beomil-ro, Gujeong-myeon, Gangneung-si, Gangwon-do",
+        "address_kr": "강원특별자치도 강릉시 구정면 범일로 447",
+        "phone": "033-642-3474",
+        "coordinates": {
+            "x": 128.878865866194,
+            "y": 37.72791101911313
+        },
+        "operating_hours": {
+            "Mon": "08:00 - 23:00",
+            "Tue": "08:00 - 23:00",
+            "Wed": "08:00 - 23:00",
+            "Thu": "08:00 - 23:00",
+            "Fri": "08:00 - 23:00",
+            "Sat": "08:00 - 23:00",
+            "Sun": "08:00 - 23:00",
+            "Holiday": "08:00 - 23:00"
+        }
+    },
+    {
+        "pharmacy_name_en": "Shinjeong Pharmacy by my side",
+        "pharmacy_name_kr": "신정내곁에약국",
+        "address_en": "1st floor, 273 Jungang-ro, Yangcheon-gu, Seoul (Sinjeong-dong)",
+        "address_kr": "서울특별시 양천구 중앙로 273, 1층 (신정동)",
+        "phone": "070-4227-0045",
+        "coordinates": {
+            "x": 126.852351022787,
+            "y": 37.5206724116706
+        },
+        "operating_hours": {
+            "Mon": "09:00 - 21:00",
+            "Tue": "09:00 - 21:00",
+            "Wed": "09:00 - 21:00",
+            "Thu": "09:00 - 21:00",
+            "Fri": "09:00 - 21:00",
+            "Sat": "09:00 - 18:00",
+            "Sun": "09:00 - 18:00"
+        }
     }
 ]
